@@ -1,0 +1,332 @@
+{
+  "generated_at": "2026-04-29T21:34:06.553846+00:00",
+  "count": 1,
+  "articles": [
+    {
+      "article_id": 23,
+      "path": "2026/04/28/23_burnaby-council_burnaby-city-council-meeting-2026-04-28.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=2d97efcf-ac16-41b8-9702-b4c8ab249af9&lang=English",
+      "article_title": "Burnaby City Council Meeting — 2026-04-28",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "article_published_at": "2026-04-28T00:00:00",
+      "created_at": "2026-04-29T21:33:55.288418",
+      "has_attachments": true,
+      "industries": "Agriculture, Construction & Development, Finance & Insurance, Food Service, Grocery & Food Retail, Healthcare, Hotel & Accommodation, Labour & Employment, Landlord & Property Mgmt, Professional Services, Recreation, Retail, Technology, Tenant, Transportation & Logistics",
+      "locations": "British Columbia, Burnaby, New Westminster, Vancouver",
+      "briefs": [
+        {
+          "id": 1,
+          "title": "Council to Consider: PST Expansion on Professional Services Referred to Staff",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "5.1"
+        },
+        {
+          "id": 2,
+          "title": "Proposed: Burnaby to Replace 60-Year-Old Zoning Bylaw with New 2026 Rules",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Zoning Bylaw 2026 proposed effective date — new rules take effect",
+              "date": "2026-07-01"
+            },
+            {
+              "label": "Burnaby Zoning Bylaw 1965 PPA transition deadline — apply for building permit by this date",
+              "date": "2027-07-01"
+            },
+            {
+              "label": "In-progress rezoning bylaws inconsistent with Burnaby 2050 OCP — adoption deadline",
+              "date": "2026-12-09"
+            }
+          ],
+          "is_proposal": true,
+          "item_number": "7.1"
+        },
+        {
+          "id": 3,
+          "title": "Council to vote on transferring $2M to Burnaby Housing Authority for Year 2 operations",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council vote — BHA Year 2 funding approval public meeting",
+              "date": "2026-04-28"
+            }
+          ],
+          "is_proposal": true,
+          "item_number": "7.2"
+        },
+        {
+          "id": 4,
+          "title": "Proposed: Burnaby Council to vote on 2026 property tax rates for all property classes",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council vote — 2026 property tax rates bylaw first, second, and third reading",
+              "date": "2026-04-28"
+            },
+            {
+              "label": "Burnaby property tax rates bylaw — statutory deadline for Council approval",
+              "date": "2026-05-15"
+            },
+            {
+              "label": "Hastings BIA tax remittance — 30% first payment due to BIA",
+              "date": "2026-05-31"
+            },
+            {
+              "label": "MVRD regional tax remittance deadline — City to Metro Vancouver",
+              "date": "2026-08-01"
+            },
+            {
+              "label": "Hastings BIA tax remittance — 70% final payment due to BIA",
+              "date": "2026-07-15"
+            }
+          ],
+          "is_proposal": true,
+          "item_number": "7.3"
+        },
+        {
+          "id": 5,
+          "title": "Council to vote on appointing a new Approving Officer for Burnaby subdivisions",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Approving Officer appointment — Council vote date",
+              "date": "2026-04-28"
+            }
+          ],
+          "is_proposal": true,
+          "item_number": "7.4"
+        },
+        {
+          "id": 6,
+          "title": "Council to vote on approving over-height retaining walls at 8012 11th Avenue, Burnaby",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby DVP #26-01 retaining wall variance — Council vote date",
+              "date": "2026-04-28"
+            }
+          ],
+          "is_proposal": true,
+          "item_number": "7.5"
+        },
+        {
+          "id": 7,
+          "title": "Council to vote on $4 million insurance contract renewals for Burnaby city assets",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby 2026 city insurance programs renewal takes effect",
+              "date": "2026-05-01"
+            }
+          ],
+          "is_proposal": true,
+          "item_number": "7.6"
+        },
+        {
+          "id": 8,
+          "title": "Council to vote on: $4,000 for two Heritage Commission members to attend Squamish conference",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "7.7"
+        },
+        {
+          "id": 9,
+          "title": "Council to vote on $1M+ contract for Burnaby's core networking software licenses",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby networking software contract award — council vote",
+              "date": "2026-04-28"
+            }
+          ],
+          "is_proposal": true,
+          "item_number": "7.8"
+        },
+        {
+          "id": 10,
+          "title": "Council to vote on $1.96M furniture contract for five new Burnaby civic facilities",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council meeting — civic furniture contract award vote",
+              "date": "2026-04-28"
+            }
+          ],
+          "is_proposal": true,
+          "item_number": "7.9"
+        },
+        {
+          "id": 11,
+          "title": "Council to vote on $47,000 contract increase for Burnaby's external audit services",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council vote on KPMG audit contract change — public meeting",
+              "date": "2026-04-28"
+            },
+            {
+              "label": "Burnaby external audit contract with KPMG expires",
+              "date": "2026-09-13"
+            }
+          ],
+          "is_proposal": true,
+          "item_number": "7.10"
+        },
+        {
+          "id": 12,
+          "title": "Council to vote on $384,893 contract increase for Burnaby Lake Recreation Complex ground testing",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council vote — Burnaby Lake Recreation Complex geotechnical contract change",
+              "date": "2026-04-28"
+            }
+          ],
+          "is_proposal": true,
+          "item_number": "7.11"
+        },
+        {
+          "id": 13,
+          "title": "Council to vote on $215,000 in Spring 2026 community grants for Burnaby nonprofits",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Spring 2026 Community Grant applications — Council vote",
+              "date": "2026-04-28"
+            }
+          ],
+          "is_proposal": true,
+          "item_number": "8.1"
+        },
+        {
+          "id": 14,
+          "title": "Proposed: Burnaby to update recreation fees and launch Hotel Burnaby pricing",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Hospitality (Hotel Burnaby) fee schedule takes effect",
+              "date": "2026-06-01"
+            },
+            {
+              "label": "Burnaby Recreation and Culture fee schedule (Schedule F3) takes effect",
+              "date": "2026-09-01"
+            }
+          ],
+          "is_proposal": true,
+          "item_number": "8.2"
+        },
+        {
+          "id": 15,
+          "title": "Proposed: Burnaby Tenant Protection Bylaw 2026 up for Council approval",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Tenant Protection Bylaw 2026 proposed take-effect date",
+              "date": "2026-07-01"
+            },
+            {
+              "label": "Burnaby Council vote on Tenant Protection Bylaw — public meeting",
+              "date": "2026-04-28"
+            }
+          ],
+          "is_proposal": true,
+          "item_number": "8.3"
+        },
+        {
+          "id": 16,
+          "title": "Council to vote on Southeast Bikeway Upgrade: new bike lanes, signals, and traffic changes",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council vote — Southeast Bikeway Upgrade proposed improvements",
+              "date": "2026-04-28"
+            }
+          ],
+          "is_proposal": true,
+          "item_number": "8.4"
+        },
+        {
+          "id": 17,
+          "title": "Council to vote on safer intersection design for Burnaby Town Centres",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Town Centre Design Standards amendment — Council vote",
+              "date": "2026-04-28"
+            }
+          ],
+          "is_proposal": true,
+          "item_number": "8.5"
+        },
+        {
+          "id": 18,
+          "title": "Council to Consider: Brentwood Park Cannot Be Exempted from Provincial Multi-Unit Housing Rules",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council meeting — Brentwood Park SSMUH exemption report considered",
+              "date": "2026-04-28"
+            }
+          ],
+          "is_proposal": true,
+          "item_number": "9.1"
+        },
+        {
+          "id": 19,
+          "title": "Council to Receive: Burnaby Building Permit Activity Report for March 2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "9.2"
+        },
+        {
+          "id": 20,
+          "title": "Council to Consider Heritage Documentation for Forest Lawn Chapel Before Demolition",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council meeting — heritage documentation report received for information",
+              "date": "2026-04-28"
+            }
+          ],
+          "is_proposal": true,
+          "item_number": "9.3"
+        },
+        {
+          "id": 21,
+          "title": "Council to Consider Burnaby's 2025 Solid Waste and Recycling Annual Report",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "9.4"
+        },
+        {
+          "id": 22,
+          "title": "Council to Consider: Burnaby's Update on Plant-Based Food Options at City Facilities",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "9.5"
+        },
+        {
+          "id": 23,
+          "title": "Council to Consider Safety Upgrades at Metrotown Parkade Intersection on Central Boulevard",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Central Boulevard intersection construction completion target — Burnaby",
+              "date": "2026-08-31"
+            }
+          ],
+          "is_proposal": true,
+          "item_number": "9.6"
+        }
+      ]
+    }
+  ]
+}
