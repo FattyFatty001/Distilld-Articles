@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-29T04:00:39.960210+00:00",
+  "generated_at": "2026-04-29T04:19:46.810664+00:00",
   "sources": {
     "burnaby_council": {
-      "generated_at": "2026-04-29T04:00:39.960210+00:00",
-      "count": 4,
+      "generated_at": "2026-04-29T04:19:46.810664+00:00",
+      "count": 10,
       "locations": "British Columbia, Burnaby, Canada, Coquitlam, Langley, New Westminster, Surrey, Vancouver, Victoria",
       "index_path": "Index/bc/index_source_burnaby_council.json"
     }
