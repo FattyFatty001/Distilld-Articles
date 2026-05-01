@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-01T15:53:38.509871+00:00",
+  "generated_at": "2026-05-01T15:53:40.864387+00:00",
   "sources": {
     "burnaby_council": {
-      "generated_at": "2026-05-01T15:53:38.509871+00:00",
-      "count": 3,
+      "generated_at": "2026-05-01T15:53:40.864387+00:00",
+      "count": 2,
       "locations": "British Columbia, Burnaby, New Westminster, Vancouver",
       "index_path": "Index/bc/index_source_burnaby_council.json"
     }
