@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T19:52:17.251114+00:00",
+  "generated_at": "2026-05-01T20:57:04.984940+00:00",
   "count": 4,
   "articles": [
     {
@@ -330,18 +330,18 @@
       ]
     },
     {
-      "article_id": 45,
-      "path": "2026/04/14/45_burnaby-council_burnaby-city-council-meeting-2026-04-14.json",
+      "article_id": 85,
+      "path": "2026/04/14/85_burnaby-council_burnaby-city-council-meeting-2026-04-14.json",
       "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
       "article_title": "Burnaby City Council Meeting — 2026-04-14",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
       "government_level": "Municipal",
       "article_published_at": "2026-04-14T00:00:00",
-      "created_at": "2026-05-01T19:47:24.325068",
+      "created_at": "2026-05-01T20:52:33.070747",
       "has_attachments": true,
       "industries": "Construction & Development, Finance & Insurance, Food Service, Landlord & Property Mgmt, Natural Resources, Professional Services, Retail, Technology, Tenant, Transportation & Logistics",
-      "locations": "British Columbia, Burnaby",
+      "locations": "British Columbia, Burnaby, Canada",
       "briefs": [
         {
           "id": 24,
@@ -350,6 +350,14 @@
           "key_dates": [],
           "is_proposal": true,
           "item_number": "5.1"
+        },
+        {
+          "id": 81,
+          "title": "Burnaby Council to urge federal action on chlorine rail transport safety risks",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "5.2"
         },
         {
           "id": 25,
@@ -379,6 +387,23 @@
           "key_dates": [],
           "is_proposal": true,
           "item_number": "7.2"
+        },
+        {
+          "id": 82,
+          "title": "Council to vote on annual housekeeping matters for Burnaby Housing Authority Corporation",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council meeting — BHA corporate maintenance vote",
+              "date": "2026-04-14"
+            },
+            {
+              "label": "BHA annual reference date set — Burnaby Housing Authority Corporation",
+              "date": "2026-12-12"
+            }
+          ],
+          "is_proposal": false,
+          "item_number": "7.3"
         },
         {
           "id": 28,
@@ -498,6 +523,14 @@
           "item_number": "7.11"
         },
         {
+          "id": 83,
+          "title": "Council to vote on $450,000 contract extension with Rogers for city cellular services",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "7.12"
+        },
+        {
           "id": 37,
           "title": "Council to vote on $450,000 contract extension with Rogers for city cell services",
           "source_label": "Burnaby Council",
@@ -566,6 +599,19 @@
           "item_number": "7.16"
         },
         {
+          "id": 84,
+          "title": "Council to vote on hiring external reviewer to assess Burnaby's financial practices",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby external financial review — Council vote date",
+              "date": "2026-04-14"
+            }
+          ],
+          "is_proposal": false,
+          "item_number": "8.1"
+        },
+        {
           "id": 42,
           "title": "Council to vote on hiring an external reviewer to assess Burnaby's city finances",
           "source_label": "Burnaby Council",
@@ -605,6 +651,19 @@
           "item_number": "9.1"
         },
         {
+          "id": 85,
+          "title": "Council to Consider: Developer Forfeits $1.36M Instead of Building Public Pier",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council meeting — amenity pier security report received for information",
+              "date": "2026-04-14"
+            }
+          ],
+          "is_proposal": false,
+          "item_number": "9.2"
+        },
+        {
           "id": 45,
           "title": "Council to Consider: Developer Forfeits $1.36M Instead of Building Fraser River Pier",
           "source_label": "Burnaby Council",
@@ -615,19 +674,27 @@
       ]
     },
     {
-      "article_id": 62,
-      "path": "2026/03/24/62_burnaby-council_burnaby-city-council-meeting-2026-03-24.json",
+      "article_id": 93,
+      "path": "2026/03/24/93_burnaby-council_burnaby-city-council-meeting-2026-03-24.json",
       "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=4840015a-e501-4bb8-bd3a-63209c0245b6&lang=English",
       "article_title": "Burnaby City Council Meeting — 2026-03-24",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
       "government_level": "Municipal",
       "article_published_at": "2026-03-24T00:00:00",
-      "created_at": "2026-05-01T19:49:34.374722",
+      "created_at": "2026-05-01T20:54:33.997173",
       "has_attachments": true,
       "industries": "Construction & Development, Finance & Insurance, Food Service, Healthcare, Hotel & Accommodation, Labour & Employment, Landlord & Property Mgmt, Liquor, Natural Resources, Professional Services, Retail, Technology, Tenant, Transportation & Logistics",
       "locations": "British Columbia, Burnaby",
       "briefs": [
+        {
+          "id": 86,
+          "title": "Council to Consider: Liquor Licence for Solo Karaoke and Several Burnaby Bylaw Updates",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "5.1"
+        },
         {
           "id": 46,
           "title": "Council to Consider: Liquor Licence, Parking, Bylaws & More — Burnaby March 2026",
@@ -703,6 +770,19 @@
           "item_number": "7.2"
         },
         {
+          "id": 87,
+          "title": "Council to vote on $4.2M contract for Burnaby water meter rollout",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council vote — water metering contract award",
+              "date": "2026-03-24"
+            }
+          ],
+          "is_proposal": false,
+          "item_number": "7.3"
+        },
+        {
           "id": 50,
           "title": "Council to vote on $4.2M contract for Burnaby water metering technology",
           "source_label": "Burnaby Council",
@@ -716,6 +796,19 @@
           "item_number": "7.3"
         },
         {
+          "id": 88,
+          "title": "Council to vote on $2.6M modular four-plex housing pilot at 8315 14th Avenue",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby modular four-plex contract award — council vote",
+              "date": "2026-03-24"
+            }
+          ],
+          "is_proposal": false,
+          "item_number": "7.4"
+        },
+        {
           "id": 51,
           "title": "Council to vote on $2.6M modular four-plex housing pilot at 8315 14th Avenue, Burnaby",
           "source_label": "Burnaby Council",
@@ -727,6 +820,23 @@
           ],
           "is_proposal": true,
           "item_number": "7.4"
+        },
+        {
+          "id": 89,
+          "title": "Council to vote on awarding 19 hired equipment service contracts worth $29.8M",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby hired equipment service contracts proposed start date",
+              "date": "2026-04-01"
+            },
+            {
+              "label": "Burnaby Council meeting — hired equipment contracts vote",
+              "date": "2026-03-24"
+            }
+          ],
+          "is_proposal": false,
+          "item_number": "7.5"
         },
         {
           "id": 52,
@@ -750,6 +860,23 @@
           "item_number": "7.5"
         },
         {
+          "id": 90,
+          "title": "Council to vote on: Renewing Burnaby's asphalt paving contract with Blackrete Paving Ltd.",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby asphalt paving contract renewal period begins",
+              "date": "2026-04-01"
+            },
+            {
+              "label": "Burnaby asphalt paving contract renewal period ends",
+              "date": "2027-03-31"
+            }
+          ],
+          "is_proposal": false,
+          "item_number": "7.6"
+        },
+        {
           "id": 53,
           "title": "Council to vote on $1.155M asphalt paving contract renewal with Blackrete Paving",
           "source_label": "Burnaby Council",
@@ -765,6 +892,19 @@
           ],
           "is_proposal": true,
           "item_number": "7.6"
+        },
+        {
+          "id": 91,
+          "title": "Proposed: Four High-Rise Towers with 1,574 Units Up for Approval at Carrigan Court",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council vote — Carrigan Court rezoning application public meeting",
+              "date": "2026-03-24"
+            }
+          ],
+          "is_proposal": false,
+          "item_number": "8.1"
         },
         {
           "id": 54,
@@ -840,12 +980,53 @@
           "item_number": "9.1"
         },
         {
+          "id": 92,
+          "title": "Council to Consider Burnaby's 2025 Investment Results and 2026 Forecast",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "9.2"
+        },
+        {
           "id": 60,
           "title": "Council to Consider: Burnaby's 2025 Investment Results and 2026 Forecast",
           "source_label": "Burnaby Council",
           "key_dates": [],
           "is_proposal": true,
           "item_number": "9.2"
+        },
+        {
+          "id": 93,
+          "title": "Council to Consider Status Update on Seven Major Burnaby Civic Construction Projects",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Mintara Restaurant expansion — project handover to Parks, Recreation & Culture",
+              "date": "2026-09-30"
+            },
+            {
+              "label": "James Cowan Theatre renewal — project handover anticipated",
+              "date": "2027-03-31"
+            },
+            {
+              "label": "Community Safety Building (RCMP) — construction completion anticipated",
+              "date": "2027-12-31"
+            },
+            {
+              "label": "Burnaby Lake Recreation Centre — project handover anticipated",
+              "date": "2028-03-31"
+            },
+            {
+              "label": "Cameron Community Centre and Library — project handover anticipated",
+              "date": "2028-06-30"
+            },
+            {
+              "label": "Brentwood Community Centre — construction completion anticipated",
+              "date": "2030-03-31"
+            }
+          ],
+          "is_proposal": false,
+          "item_number": "9.3"
         },
         {
           "id": 61,
@@ -896,19 +1077,40 @@
       ]
     },
     {
-      "article_id": 80,
-      "path": "2026/03/10/80_burnaby-council_burnaby-city-council-meeting-2026-03-10.json",
+      "article_id": 103,
+      "path": "2026/03/10/103_burnaby-council_burnaby-city-council-meeting-2026-03-10.json",
       "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ee729e93-afb8-42a0-9b58-20aa0b20be09&lang=English",
       "article_title": "Burnaby City Council Meeting — 2026-03-10",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
       "government_level": "Municipal",
       "article_published_at": "2026-03-10T00:00:00",
-      "created_at": "2026-05-01T19:51:51.711867",
+      "created_at": "2026-05-01T20:56:47.719844",
       "has_attachments": true,
       "industries": "Agriculture, Construction & Development, Finance & Insurance, Food Service, Healthcare, Hotel & Accommodation, Labour & Employment, Landlord & Property Mgmt, Liquor, Natural Resources, Professional Services, Retail, Technology, Tenant, Transportation & Logistics",
-      "locations": "Burnaby, Langley, New Westminster, Surrey",
+      "locations": "Burnaby, Delta, Langley, New Westminster, Surrey",
       "briefs": [
+        {
+          "id": 94,
+          "title": "Proposed: Burnaby to overhaul its Zoning Bylaw with new rules taking effect July 1, 2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby new Zoning Bylaw introduction to Council — expected",
+              "date": "2026-04-01"
+            },
+            {
+              "label": "Burnaby new Zoning Bylaw adoption vote — expected",
+              "date": "2026-06-01"
+            },
+            {
+              "label": "Burnaby new Zoning Bylaw takes effect",
+              "date": "2026-07-01"
+            }
+          ],
+          "is_proposal": false,
+          "item_number": "5.1"
+        },
         {
           "id": 63,
           "title": "Proposed: Burnaby to Replace Entire Zoning Bylaw, Taking Effect July 1, 2026",
@@ -977,6 +1179,27 @@
           "item_number": "7.1"
         },
         {
+          "id": 95,
+          "title": "Council to vote on sending concerns about proposed Metro Vancouver regional growth changes",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Metro 2050 amendment options comment period closes — Metro Vancouver",
+              "date": "2026-03-20"
+            },
+            {
+              "label": "Metro Vancouver Board considers initiating Metro 2050 amendment process",
+              "date": "2026-04-24"
+            },
+            {
+              "label": "Metro Vancouver Board final reading on Metro 2050 amendment bylaw",
+              "date": "2026-07-24"
+            }
+          ],
+          "is_proposal": false,
+          "item_number": "7.2"
+        },
+        {
           "id": 66,
           "title": "Council to vote on sending concerns about proposed Metro 2050 regional growth changes",
           "source_label": "Burnaby Council",
@@ -998,6 +1221,19 @@
           "item_number": "7.2"
         },
         {
+          "id": 96,
+          "title": "Council to vote on granting BC Hydro land access at Burnaby's new Community Safety Building",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council vote — BC Hydro right-of-way at 4111 Norland Avenue",
+              "date": "2026-03-10"
+            }
+          ],
+          "is_proposal": false,
+          "item_number": "7.3"
+        },
+        {
           "id": 67,
           "title": "Council to vote on granting BC Hydro access to City land at 4111 Norland Avenue",
           "source_label": "Burnaby Council",
@@ -1011,12 +1247,38 @@
           "item_number": "7.3"
         },
         {
+          "id": 97,
+          "title": "Council to vote on applying for up to $200,000 in provincial development approvals grant funding",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council meeting — UBCM development approvals grant application vote",
+              "date": "2026-03-10"
+            }
+          ],
+          "is_proposal": false,
+          "item_number": "7.4"
+        },
+        {
           "id": 68,
           "title": "Council to Consider Applying for Up to $200,000 in Provincial Development Approvals Grant",
           "source_label": "Burnaby Council",
           "key_dates": [],
           "is_proposal": true,
           "item_number": "7.4"
+        },
+        {
+          "id": 98,
+          "title": "Council to vote on: Renewing Burnaby's IT ticketing software licence with ServiceNow for $580,985",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby ServiceNow IT licence contract start date — if approved",
+              "date": "2026-03-16"
+            }
+          ],
+          "is_proposal": false,
+          "item_number": "7.5"
         },
         {
           "id": 69,
@@ -1083,6 +1345,19 @@
           "item_number": "8.3"
         },
         {
+          "id": 99,
+          "title": "Council to Consider New Public Parking Lots Near Burnaby Heights — Sent Back to Staff",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council vote — proposed Pender Street parking lots referred to staff",
+              "date": "2026-03-10"
+            }
+          ],
+          "is_proposal": false,
+          "item_number": "8.4"
+        },
+        {
           "id": 73,
           "title": "Council to Consider New Public Parking Lots Near Burnaby Heights on Pender Street",
           "source_label": "Burnaby Council",
@@ -1096,12 +1371,28 @@
           "item_number": "8.4"
         },
         {
+          "id": 100,
+          "title": "Council to consider status update on $20.1M Burnaby Mountain Safety Reserve Program",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "9.1"
+        },
+        {
           "id": 74,
           "title": "Council to consider status update on Burnaby Mountain Safety Reserve funded by Trans Mountain",
           "source_label": "Burnaby Council",
           "key_dates": [],
           "is_proposal": true,
           "item_number": "9.1"
+        },
+        {
+          "id": 101,
+          "title": "Council to Consider: Status Update on Burnaby's Gaming Reserve Fund for 2025",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "9.2"
         },
         {
           "id": 75,
@@ -1170,12 +1461,28 @@
           "item_number": "9.4"
         },
         {
+          "id": 102,
+          "title": "Council to consider status update on Burnaby-New Westminster Youth Exploitation Task Force",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "9.5"
+        },
+        {
           "id": 78,
           "title": "Council to Consider Status Update on Youth Sexual Exploitation Task Force",
           "source_label": "Burnaby Council",
           "key_dates": [],
           "is_proposal": true,
           "item_number": "9.5"
+        },
+        {
+          "id": 103,
+          "title": "Council to consider: Burnaby Fire Department status update for December 2025",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "9.6"
         },
         {
           "id": 79,
