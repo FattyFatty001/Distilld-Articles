@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T22:37:54.246517+00:00",
+  "generated_at": "2026-05-01T22:56:16.832363+00:00",
   "count": 4,
   "articles": [
     {
@@ -330,15 +330,15 @@
       ]
     },
     {
-      "article_id": 109,
-      "path": "2026/04/14/109_burnaby-council_burnaby-city-council-meeting-2026-04-14.json",
+      "article_id": 131,
+      "path": "2026/04/14/131_burnaby-council_burnaby-city-council-meeting-2026-04-14.json",
       "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
       "article_title": "Burnaby City Council Meeting — 2026-04-14",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
       "government_level": "Municipal",
       "article_published_at": "2026-04-14T00:00:00",
-      "created_at": "2026-05-01T22:33:22.077987",
+      "created_at": "2026-05-01T22:52:01.062709",
       "has_attachments": true,
       "industries": "Construction & Development, Finance & Insurance, Food Service, Landlord & Property Mgmt, Natural Resources, Professional Services, Retail, Technology, Tenant, Transportation & Logistics",
       "locations": "British Columbia, Burnaby, Canada",
@@ -414,6 +414,19 @@
           "item_number": "7.2"
         },
         {
+          "id": 121,
+          "title": "Council to vote on Burnaby Housing Authority board appointments and annual corporate housekeeping for 2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Housing Authority annual reference date — BHA 2026 AGM equivalent",
+              "date": "2026-12-12"
+            }
+          ],
+          "is_proposal": false,
+          "item_number": "7.3"
+        },
+        {
           "id": 82,
           "title": "Council to vote on annual housekeeping matters for Burnaby Housing Authority Corporation",
           "source_label": "Burnaby Council",
@@ -444,6 +457,19 @@
           "item_number": "7.3"
         },
         {
+          "id": 122,
+          "title": "Council to Consider: Burnaby Housing Authority 2025 Financials and $2M Operating Funding",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council meeting — BHA 2025 financials and 2026 funding approval vote",
+              "date": "2026-04-14"
+            }
+          ],
+          "is_proposal": false,
+          "item_number": "7.4"
+        },
+        {
           "id": 29,
           "title": "Council to Consider Burnaby Housing Authority's 2025 Financials and 2026 Budget",
           "source_label": "Burnaby Council",
@@ -470,6 +496,19 @@
           "item_number": "7.5"
         },
         {
+          "id": 123,
+          "title": "Council to Consider Submitting Burnaby's 6-Month Provincial Housing Target Progress Report",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Housing Target Order — Year 1b progress report due to Province",
+              "date": "2026-08-31"
+            }
+          ],
+          "is_proposal": false,
+          "item_number": "7.6"
+        },
+        {
           "id": 105,
           "title": "Council to vote on submitting Burnaby's provincial housing target progress report",
           "source_label": "Burnaby Council",
@@ -494,6 +533,19 @@
           ],
           "is_proposal": true,
           "item_number": "7.6"
+        },
+        {
+          "id": 124,
+          "title": "Council to Consider: Burnaby Rejoins Building Benchmark BC Energy Tracking Program for Year 7",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council vote — Building Benchmark BC Year 7 participation approval",
+              "date": "2026-04-14"
+            }
+          ],
+          "is_proposal": false,
+          "item_number": "7.7"
         },
         {
           "id": 32,
@@ -548,6 +600,19 @@
           "item_number": "7.9"
         },
         {
+          "id": 125,
+          "title": "Council to vote on $2.4M contract for Jerry Rogers Creek culvert replacement in Burnaby",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council vote — Jerry Rogers Creek culvert contract award",
+              "date": "2026-04-14"
+            }
+          ],
+          "is_proposal": false,
+          "item_number": "7.10"
+        },
+        {
           "id": 35,
           "title": "Council to vote on $2.4M contract for Jerry Rogers Creek culvert replacement",
           "source_label": "Burnaby Council",
@@ -590,6 +655,19 @@
           "item_number": "7.12"
         },
         {
+          "id": 126,
+          "title": "Council to vote on $579,600 contract extension for Burnaby city building HVAC maintenance",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council meeting — HVAC contract extension vote",
+              "date": "2026-04-14"
+            }
+          ],
+          "is_proposal": false,
+          "item_number": "7.13"
+        },
+        {
           "id": 38,
           "title": "Council to vote on $579,600 contract extension for Burnaby City building HVAC services",
           "source_label": "Burnaby Council",
@@ -601,6 +679,19 @@
           ],
           "is_proposal": true,
           "item_number": "7.13"
+        },
+        {
+          "id": 127,
+          "title": "Council to vote on $394,942 Cisco WebEx Contact Center license renewal",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Cisco WebEx Contact Center contract renewal start date",
+              "date": "2026-05-05"
+            }
+          ],
+          "is_proposal": false,
+          "item_number": "7.14"
         },
         {
           "id": 39,
@@ -618,6 +709,23 @@
           ],
           "is_proposal": true,
           "item_number": "7.14"
+        },
+        {
+          "id": 128,
+          "title": "Council to vote on: $1.67M fire protection services contract renewal with A.W Fireguard",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby fire protection services contract renewal — proposed start date",
+              "date": "2026-07-01"
+            },
+            {
+              "label": "Burnaby fire protection services contract renewal — proposed end date",
+              "date": "2029-06-30"
+            }
+          ],
+          "is_proposal": false,
+          "item_number": "7.15"
         },
         {
           "id": 40,
@@ -648,6 +756,19 @@
           ],
           "is_proposal": true,
           "item_number": "7.16"
+        },
+        {
+          "id": 129,
+          "title": "Council to vote on hiring an outside expert to review Burnaby's financial practices",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council vote — external financial review approval",
+              "date": "2026-04-14"
+            }
+          ],
+          "is_proposal": false,
+          "item_number": "8.1"
         },
         {
           "id": 107,
@@ -715,6 +836,19 @@
           "item_number": "8.2"
         },
         {
+          "id": 130,
+          "title": "Council to Consider: Update on Mayor's Task Force on Burnaby Economic Growth",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Mayor's Task Force final recommendations presented to Burnaby Council",
+              "date": "2026-06-23"
+            }
+          ],
+          "is_proposal": false,
+          "item_number": "9.1"
+        },
+        {
           "id": 109,
           "title": "Council to consider update on Mayor's Task Force on Burnaby Economic Growth",
           "source_label": "Burnaby Council",
@@ -760,23 +894,56 @@
           "key_dates": [],
           "is_proposal": true,
           "item_number": "9.2"
+        },
+        {
+          "id": 131,
+          "title": "Proposed: Burnaby North Road BIA Renewal — Five-Year Funding Bylaw Up for Approval",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby North Road BIA Bylaw — five-year term takes effect",
+              "date": "2026-04-01"
+            },
+            {
+              "label": "Burnaby North Road BIA — annual budget submission deadline (Association)",
+              "date": "2026-05-01"
+            },
+            {
+              "label": "Burnaby North Road BIA — annual grant payment deadline (City to Association)",
+              "date": "2026-07-15"
+            },
+            {
+              "label": "Burnaby North Road BIA Bylaw — five-year term ends",
+              "date": "2031-03-31"
+            }
+          ],
+          "is_proposal": false,
+          "item_number": "11.1.1"
         }
       ]
     },
     {
-      "article_id": 114,
-      "path": "2026/03/24/114_burnaby-council_burnaby-city-council-meeting-2026-03-24.json",
+      "article_id": 135,
+      "path": "2026/03/24/135_burnaby-council_burnaby-city-council-meeting-2026-03-24.json",
       "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=4840015a-e501-4bb8-bd3a-63209c0245b6&lang=English",
       "article_title": "Burnaby City Council Meeting — 2026-03-24",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
       "government_level": "Municipal",
       "article_published_at": "2026-03-24T00:00:00",
-      "created_at": "2026-05-01T22:35:38.507751",
+      "created_at": "2026-05-01T22:53:27.623674",
       "has_attachments": true,
       "industries": "Construction & Development, Finance & Insurance, Food Service, Healthcare, Hotel & Accommodation, Labour & Employment, Landlord & Property Mgmt, Liquor, Natural Resources, Professional Services, Retail, Technology, Tenant, Transportation & Logistics",
       "locations": "British Columbia, Burnaby",
       "briefs": [
+        {
+          "id": 132,
+          "title": "Council to Consider: Solo Karaoke Liquor Licence, Parking Bylaw Changes & More",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "5.1"
+        },
         {
           "id": 110,
           "title": "Council to Consider: Solo Karaoke Liquor Licence, Parking Changes & Bylaw Updates",
@@ -827,6 +994,14 @@
           "item_number": "5.1"
         },
         {
+          "id": 133,
+          "title": "Council to Consider: Approval of Burnaby's 2026 Sewer Parcel Tax Roll",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "5.2"
+        },
+        {
           "id": 47,
           "title": "Council to vote on: Approving Burnaby's 2026 Sewer Parcel Tax Roll",
           "source_label": "Burnaby Council",
@@ -858,6 +1033,14 @@
           ],
           "is_proposal": true,
           "item_number": "7.1"
+        },
+        {
+          "id": 134,
+          "title": "Council to vote on paying Burnaby's 2026 UBCM membership dues of $36,250",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "7.2"
         },
         {
           "id": 49,
@@ -1070,6 +1253,19 @@
           "item_number": "8.3"
         },
         {
+          "id": 135,
+          "title": "Proposed: Five-Storey Self-Storage Facility Rezoning at 2757 Norland Avenue, Burnaby",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "REZ #25-21 Burnaby rezoning — final adoption deadline or application cancelled",
+              "date": "2026-12-09"
+            }
+          ],
+          "is_proposal": false,
+          "item_number": "8.4"
+        },
+        {
           "id": 57,
           "title": "Proposed: Five-Storey Self-Storage Facility at 2757 Norland Avenue Up for Approval",
           "source_label": "Burnaby Council",
@@ -1227,15 +1423,15 @@
       ]
     },
     {
-      "article_id": 120,
-      "path": "2026/03/10/120_burnaby-council_burnaby-city-council-meeting-2026-03-10.json",
+      "article_id": 137,
+      "path": "2026/03/10/137_burnaby-council_burnaby-city-council-meeting-2026-03-10.json",
       "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ee729e93-afb8-42a0-9b58-20aa0b20be09&lang=English",
       "article_title": "Burnaby City Council Meeting — 2026-03-10",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
       "government_level": "Municipal",
       "article_published_at": "2026-03-10T00:00:00",
-      "created_at": "2026-05-01T22:37:28.786282",
+      "created_at": "2026-05-01T22:54:46.399961",
       "has_attachments": true,
       "industries": "Agriculture, Construction & Development, Finance & Insurance, Food Service, Healthcare, Hotel & Accommodation, Labour & Employment, Landlord & Property Mgmt, Liquor, Natural Resources, Professional Services, Retail, Technology, Tenant, Transportation & Logistics",
       "locations": "Burnaby, Delta, Langley, New Westminster, Surrey",
@@ -1281,6 +1477,14 @@
           ],
           "is_proposal": true,
           "item_number": "5.1"
+        },
+        {
+          "id": 136,
+          "title": "Council to vote on bear spray sales rules, BIA renewal, and parking fee increases",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "5.2"
         },
         {
           "id": 115,
@@ -1416,6 +1620,14 @@
           ],
           "is_proposal": true,
           "item_number": "7.3"
+        },
+        {
+          "id": 137,
+          "title": "Council to Consider: Burnaby Applying for Up to $200,000 to Speed Up Development Approvals",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "7.4"
         },
         {
           "id": 97,
