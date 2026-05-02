@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-05-02T23:07:40.759363+00:00",
+  "sources": {
+    "burnaby_council": {
+      "generated_at": "2026-05-02T23:07:40.759363+00:00",
+      "count": 4,
+      "locations": "British Columbia, Burnaby, Delta, Langley, New Westminster, Surrey",
+      "index_path": "Index/bc/index_source_burnaby_council.json"
+    }
+  }
+}
