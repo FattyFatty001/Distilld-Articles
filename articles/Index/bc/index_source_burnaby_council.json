@@ -1,0 +1,792 @@
+{
+  "generated_at": "2026-05-02T23:07:40.759363+00:00",
+  "count": 4,
+  "articles": [
+    {
+      "article_id": 23,
+      "path": "2026/04/28/23_burnaby-council_burnaby-city-council-meeting-2026-04-28.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=2d97efcf-ac16-41b8-9702-b4c8ab249af9&lang=English",
+      "article_title": "Burnaby City Council Meeting — 2026-04-28",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "article_published_at": "2026-04-28T00:00:00",
+      "created_at": "2026-05-02T23:05:11.465170",
+      "has_attachments": true,
+      "industries": "Agriculture, Construction & Development, Finance & Insurance, Food Service, Grocery & Food Retail, Hotel & Accommodation, Landlord & Property Mgmt, Professional Services, Retail, Technology, Tenant, Transportation & Logistics",
+      "locations": "British Columbia, Burnaby",
+      "briefs": [
+        {
+          "id": 1,
+          "title": "Council to consider E-Bike, electric kick scooter pilot programs: Bylaw changes.",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "5.1"
+        },
+        {
+          "id": 2,
+          "title": "Council to vote on: Replacing Burnaby's Zoning Bylaw",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Zoning Bylaw 2026 takes effect — new zoning rules",
+              "date": "2026-07-01"
+            },
+            {
+              "label": "Deadline to apply for building permit under Zoning Bylaw 1965",
+              "date": "2027-07-01"
+            },
+            {
+              "label": "Deadline to adopt rezoning application under Burnaby 2050 OCP",
+              "date": "2026-12-09"
+            }
+          ],
+          "is_proposal": true,
+          "item_number": "7.1"
+        },
+        {
+          "id": 3,
+          "title": "Council to consider: $2 million for Burnaby Housing Authority",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "7.2"
+        },
+        {
+          "id": 4,
+          "title": "Burnaby Council to vote on 2026 property tax rates",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "7.3"
+        },
+        {
+          "id": 5,
+          "title": "Council to vote on: Appointing an Approving Officer for subdivisions",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "7.4"
+        },
+        {
+          "id": 6,
+          "title": "Burnaby Council to consider retaining wall height variance on 11th Avenue",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "7.5"
+        },
+        {
+          "id": 7,
+          "title": "Burnaby Council to Vote on Renewing City Insurance Contracts",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "7.6"
+        },
+        {
+          "id": 8,
+          "title": "Council to consider funding for Heritage BC Conference attendance",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "7.7"
+        },
+        {
+          "id": 9,
+          "title": "Burnaby Council to Vote on Networking Software Licenses",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "7.8"
+        },
+        {
+          "id": 10,
+          "title": "Council to Vote on: New Furniture for Burnaby Community Facilities",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "7.9"
+        },
+        {
+          "id": 11,
+          "title": "Burnaby Council to Vote on $47,000 Contract Change for External Audit Services",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "7.10"
+        },
+        {
+          "id": 12,
+          "title": "Council to consider: Extra geotechnical work for Burnaby Lake Recreation Complex.",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "7.11"
+        },
+        {
+          "id": 13,
+          "title": "Burnaby Council to Vote on Spring 2026 Community Grants",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "8.1"
+        },
+        {
+          "id": 14,
+          "title": "Proposed: Burnaby hospitality and recreation fees bylaw amendments",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Hospitality fees bylaw changes take effect",
+              "date": "2026-06-01"
+            },
+            {
+              "label": "Burnaby Recreation and Culture fees bylaw changes take effect",
+              "date": "2026-09-01"
+            }
+          ],
+          "is_proposal": true,
+          "item_number": "8.2"
+        },
+        {
+          "id": 15,
+          "title": "Proposed: Burnaby Tenant Protection Bylaw for Redevelopment Projects",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Tenant Protection Bylaw 2026 effective date",
+              "date": "2026-07-01"
+            }
+          ],
+          "is_proposal": true,
+          "item_number": "8.3"
+        },
+        {
+          "id": 16,
+          "title": "Burnaby Council to vote on Southeast Bikeway upgrades",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "8.4"
+        },
+        {
+          "id": 17,
+          "title": "Proposed: Burnaby to Amend Town Centre Design Standards for Safer Intersections",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "8.5"
+        },
+        {
+          "id": 18,
+          "title": "Council to Consider: Building Bylaw Changes Affecting Restrictive Covenants",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "9.1"
+        },
+        {
+          "id": 19,
+          "title": "Burnaby Council to receive building permit activity report for March 2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "9.2"
+        },
+        {
+          "id": 20,
+          "title": "Burnaby Council to consider heritage report for Royal Oak Avenue property",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "9.3"
+        },
+        {
+          "id": 21,
+          "title": "Burnaby Council to review 2025 Solid Waste and Recycling report",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "9.4"
+        },
+        {
+          "id": 22,
+          "title": "Council to consider: More plant-based food options in Burnaby facilities",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "9.5"
+        },
+        {
+          "id": 23,
+          "title": "Burnaby Council to consider safety upgrades at Central Blvd & parkade access.",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "9.6"
+        }
+      ]
+    },
+    {
+      "article_id": 43,
+      "path": "2026/04/14/43_burnaby-council_burnaby-city-council-meeting-2026-04-14-minutes.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "Burnaby City Council Meeting — 2026-04-14 — Minutes",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "article_published_at": "2026-04-14T00:00:00",
+      "created_at": "2026-05-02T23:05:53.960107",
+      "has_attachments": true,
+      "industries": "Construction & Development, Food Service, Landlord & Property Mgmt, Professional Services, Retail, Technology, Tenant, Transportation & Logistics",
+      "locations": "British Columbia, Burnaby",
+      "briefs": [
+        {
+          "id": 24,
+          "title": "Burnaby Appointed Dennis Back as Chief Election Officer for 2026 Election.",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby General Local Election to be held",
+              "date": "2026-10-17"
+            }
+          ],
+          "is_proposal": false,
+          "item_number": "7.1"
+        },
+        {
+          "id": 25,
+          "title": "Burnaby did not renew North Road Business Improvement Area (BIA) Bylaw.",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "7.2"
+        },
+        {
+          "id": 26,
+          "title": "Burnaby to transact Burnaby Housing Authority business via resolution for 2026.",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Housing Authority annual reference date",
+              "date": "2026-12-12"
+            }
+          ],
+          "is_proposal": false,
+          "item_number": "7.3"
+        },
+        {
+          "id": 27,
+          "title": "Burnaby OKs Housing Authority's $1.96M budget, receives financial report.",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "7.4"
+        },
+        {
+          "id": 28,
+          "title": "Burnaby Approved E-Bike Share, E-Scooter Bylaw Amendments",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "7.5"
+        },
+        {
+          "id": 29,
+          "title": "Burnaby to send Housing Target Progress Report to BC Ministry of Housing.",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "7.6"
+        },
+        {
+          "id": 30,
+          "title": "Burnaby to continue Building Benchmark BC program for building energy use.",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "7.7"
+        },
+        {
+          "id": 31,
+          "title": "Burnaby Approved FortisBC Right-of-Way for Burnaby Mountain Natural Gas",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "7.8"
+        },
+        {
+          "id": 32,
+          "title": "Burnaby Approves Modular Four-Plex Housing Project on 14th Avenue",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "7.9"
+        },
+        {
+          "id": 33,
+          "title": "Burnaby Approves Jerry Rogers Creek Culvert Replacement Contract",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "7.10"
+        },
+        {
+          "id": 34,
+          "title": "Burnaby Approved Greenway Culvert Replacement Contract",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "7.11"
+        },
+        {
+          "id": 35,
+          "title": "Burnaby Approves $450,000 for Cellular Services Contract Change",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "7.12"
+        },
+        {
+          "id": 36,
+          "title": "Burnaby Approves $579,600 for HVAC Maintenance Contract Change",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "7.13"
+        },
+        {
+          "id": 37,
+          "title": "Burnaby approved Cisco WebEx Customer Service Centre contract renewal.",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "7.14"
+        },
+        {
+          "id": 38,
+          "title": "Burnaby Approves Fire Protection Contract Renewal with A.W Fireguard",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "7.15"
+        },
+        {
+          "id": 39,
+          "title": "Burnaby to Review City Finances to Protect Businesses, Limit Tax Hikes.",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "8.1"
+        },
+        {
+          "id": 40,
+          "title": "Burnaby Approved 20-Storey Apartment Development at 5035 Beresford Street",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "8.2"
+        },
+        {
+          "id": 41,
+          "title": "Burnaby receives update on Economic Growth and Resilience Task Force.",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Task Force to present recommendations to Council",
+              "date": "2026-06-23"
+            }
+          ],
+          "is_proposal": false,
+          "item_number": "9.1"
+        },
+        {
+          "id": 42,
+          "title": "Burnaby to Use Developer Security for Future Amenity Pier or Foreshore Project",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "9.2"
+        },
+        {
+          "id": 43,
+          "title": "Burnaby Council approved five-year renewal of Burnaby North Road BIA, starting April 1, 2026.",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby North Road BIA local service tax takes effect",
+              "date": "2026-04-01"
+            },
+            {
+              "label": "Burnaby North Road BIA local service tax ends",
+              "date": "2031-03-31"
+            }
+          ],
+          "is_proposal": false,
+          "item_number": "11.1.1"
+        }
+      ]
+    },
+    {
+      "article_id": 59,
+      "path": "2026/03/24/59_burnaby-council_burnaby-city-council-meeting-2026-03-24-minutes.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=4840015a-e501-4bb8-bd3a-63209c0245b6&lang=English",
+      "article_title": "Burnaby City Council Meeting — 2026-03-24 — Minutes",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "article_published_at": "2026-03-24T00:00:00",
+      "created_at": "2026-05-02T23:06:30.543415",
+      "has_attachments": true,
+      "industries": "Construction & Development, Finance & Insurance, Food Service, Healthcare, Hotel & Accommodation, Labour & Employment, Landlord & Property Mgmt, Liquor, Retail, Tenant",
+      "locations": "British Columbia, Burnaby",
+      "briefs": [
+        {
+          "id": 44,
+          "title": "Burnaby supports Solo Karaoke liquor licence at Kingsway location.",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "5.1"
+        },
+        {
+          "id": 45,
+          "title": "Burnaby Confirms 2026 Sewer Parcel Tax Roll.",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "5.2"
+        },
+        {
+          "id": 46,
+          "title": "Burnaby Approves Housing Authority's 2026-2030 Strategic Plan",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "7.1"
+        },
+        {
+          "id": 47,
+          "title": "Burnaby Approved UBCM Membership Dues Payment for 2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "7.2"
+        },
+        {
+          "id": 48,
+          "title": "Burnaby to Buy Water Metering Tech for City-Wide Universal Metering",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "7.3"
+        },
+        {
+          "id": 49,
+          "title": "Burnaby Approves Modular Four-Plex Housing Unit Development on 14th Avenue",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "7.4"
+        },
+        {
+          "id": 50,
+          "title": "Burnaby Approved $1.15 Million Asphalt Paving Contract Renewal with Blackrete",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "7.6"
+        },
+        {
+          "id": 51,
+          "title": "Burnaby to work with developer on Carrigan Court mixed-use project.",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "8.1"
+        },
+        {
+          "id": 52,
+          "title": "Burnaby Approved Rezoning for Amended Mixed-Use Development on Grand Promenade",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "8.2"
+        },
+        {
+          "id": 53,
+          "title": "Burnaby Council OKs Rezoning for 12-Storey Mixed-Use Building on Kingsway",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "8.3"
+        },
+        {
+          "id": 54,
+          "title": "Burnaby Approved Self-Storage Facility Rezoning at 2757 Norland Ave",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "8.4"
+        },
+        {
+          "id": 55,
+          "title": "Burnaby Council Endorsed Poverty Reduction Strategy",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "8.5"
+        },
+        {
+          "id": 56,
+          "title": "Burnaby received building permit activity reports for January and February 2026.",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "9.1"
+        },
+        {
+          "id": 57,
+          "title": "Burnaby Receives 2025 Investment Report, Forecasts $71 Million Income for 2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "9.2"
+        },
+        {
+          "id": 58,
+          "title": "Burnaby to expand Mintara Restaurant patio, renew James Cowan Theatre.",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Mintara Restaurant patio expansion handover to PRC",
+              "date": "2026-07-01"
+            },
+            {
+              "label": "James Cowan Theatre renewal handover to PRC",
+              "date": "2027-01-01"
+            },
+            {
+              "label": "Burnaby Lake Recreation Centre handover to PRC",
+              "date": "2028-01-01"
+            },
+            {
+              "label": "Community Safety Building project completion",
+              "date": "2027-12-31"
+            },
+            {
+              "label": "Cameron Community Centre and Library handover to PRC",
+              "date": "2028-04-01"
+            },
+            {
+              "label": "Brentwood Community Centre construction to start",
+              "date": "2027-07-01"
+            },
+            {
+              "label": "Brentwood Community Centre construction to be completed",
+              "date": "2030-01-01"
+            }
+          ],
+          "is_proposal": false,
+          "item_number": "9.3"
+        },
+        {
+          "id": 59,
+          "title": "Burnaby to Implement 2050 Official Community Plan Action Plan",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "9.4"
+        }
+      ]
+    },
+    {
+      "article_id": 76,
+      "path": "2026/03/10/76_burnaby-council_burnaby-city-council-meeting-2026-03-10-minutes.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ee729e93-afb8-42a0-9b58-20aa0b20be09&lang=English",
+      "article_title": "Burnaby City Council Meeting — 2026-03-10 — Minutes",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "article_published_at": "2026-03-10T00:00:00",
+      "created_at": "2026-05-02T23:07:06.799476",
+      "has_attachments": true,
+      "industries": "Construction & Development, Food Service, Healthcare, Hotel & Accommodation, Labour & Employment, Landlord & Property Mgmt, Liquor, Professional Services, Retail, Technology, Tenant",
+      "locations": "British Columbia, Burnaby, Delta, Langley, New Westminster, Surrey",
+      "briefs": [
+        {
+          "id": 60,
+          "title": "Burnaby approves updated Zoning Bylaw, effective July 1, 2026.",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby updated Zoning Bylaw takes effect",
+              "date": "2026-07-01"
+            }
+          ],
+          "is_proposal": false,
+          "item_number": "5.1"
+        },
+        {
+          "id": 61,
+          "title": "Burnaby to Regulate Bear Spray Sales with Business Licence Bylaw Changes.",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "5.2"
+        },
+        {
+          "id": 62,
+          "title": "Burnaby approved Solo Karaoke liquor licence at 6462 Kingsway after investigation.",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "7.1"
+        },
+        {
+          "id": 63,
+          "title": "Burnaby Council OKs Sending Concerns About Metro 2050 Changes",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "7.2"
+        },
+        {
+          "id": 64,
+          "title": "Burnaby Approved BC Hydro Statutory Right-of-Way at 4111 Norland Ave",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "7.3"
+        },
+        {
+          "id": 65,
+          "title": "Burnaby to Apply for UBCM Grant to Improve Development Approvals",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "7.4"
+        },
+        {
+          "id": 66,
+          "title": "Burnaby approved $580,985 for ServiceNow IT ticketing software licenses until March 2029.",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "7.5"
+        },
+        {
+          "id": 67,
+          "title": "Burnaby Approved Changes to Community Grant Policy and Application Process",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "8.1"
+        },
+        {
+          "id": 68,
+          "title": "Burnaby Approves Parks, Recreation, and Culture Plan for Future Investment",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "8.2"
+        },
+        {
+          "id": 69,
+          "title": "Burnaby to study new parking lots in Burnaby Heights, using reserve funds.",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "8.4"
+        },
+        {
+          "id": 70,
+          "title": "Burnaby receives $20.1M from Trans Mountain for safety reserve program.",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "9.1"
+        },
+        {
+          "id": 71,
+          "title": "Burnaby to use gaming revenue for approved projects.",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "9.2"
+        },
+        {
+          "id": 72,
+          "title": "Burnaby Receives Update on Civic Projects: Restaurant Expansion, Theatre Renewal, Recreation Centre, and More.",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Mintara Restaurant expansion handover to PRC",
+              "date": "2026-07-01"
+            },
+            {
+              "label": "James Cowan Theatre handover to PRC",
+              "date": "2027-01-01"
+            },
+            {
+              "label": "Burnaby Lake Recreation Centre handover to PRC",
+              "date": "2028-01-01"
+            },
+            {
+              "label": "Community Safety Building project completion",
+              "date": "2027-12-31"
+            },
+            {
+              "label": "Cameron Community Centre and Library handover to PRC",
+              "date": "2028-04-01"
+            },
+            {
+              "label": "Brentwood Community Centre construction start",
+              "date": "2027-07-01"
+            },
+            {
+              "label": "Brentwood Community Centre construction completed",
+              "date": "2030-01-01"
+            }
+          ],
+          "is_proposal": false,
+          "item_number": "9.3"
+        },
+        {
+          "id": 73,
+          "title": "Burnaby to Expand Recreation with New Facilities; Staffing Plan Approved",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "9.4"
+        },
+        {
+          "id": 74,
+          "title": "Burnaby received report on Burnaby-New Westminster Task Force on Sexually Exploited and At-Risk Youth.",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "9.5"
+        },
+        {
+          "id": 75,
+          "title": "Burnaby Council received Fire Department status update to December 2025.",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "9.6"
+        },
+        {
+          "id": 76,
+          "title": "Burnaby Council received RCMP policing operations and performance report.",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false,
+          "item_number": "9.7"
+        }
+      ]
+    }
+  ]
+}
