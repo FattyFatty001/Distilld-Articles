@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-05-03T16:44:35.846743+00:00",
+  "sources": {
+    "burnaby_council": {
+      "generated_at": "2026-05-03T16:44:35.846743+00:00",
+      "count": 1,
+      "locations": "Alberta, British Columbia, Burnaby, Canada, Coquitlam, Manitoba, New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, Prince Edward Island, Quebec, Saskatchewan",
+      "index_path": "Index/bc/index_source_burnaby_council.json"
+    }
+  }
+}
