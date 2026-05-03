@@ -1,0 +1,208 @@
+{
+  "generated_at": "2026-05-03T16:48:34.123080+00:00",
+  "count": 1,
+  "articles": [
+    {
+      "article_id": 1,
+      "path": "2026/04/28/1_burnaby-council_burnaby-city-council-agenda-2026-04-28.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=2d97efcf-ac16-41b8-9702-b4c8ab249af9&Agenda=Agenda&lang=English",
+      "article_title": "Burnaby City Council Agenda — 2026-04-28",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "article_published_at": "2026-04-28T00:00:00",
+      "created_at": "2026-05-03T16:48:22.446969",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": true,
+      "industries": "Construction & Development, Finance & Insurance, Food Service, Grocery & Food Retail, Hotel & Accommodation, Landlord & Property Mgmt, Professional Services, Retail, Technology, Tenant, Transportation & Logistics",
+      "locations": "British Columbia, Burnaby, Canada",
+      "briefs": [
+        {
+          "id": 1,
+          "title": "Burnaby to Replace Zoning Bylaw",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "7.1"
+        },
+        {
+          "id": 2,
+          "title": "Burnaby Housing Authority Seeks Funding for Operations",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "7.2"
+        },
+        {
+          "id": 3,
+          "title": "2026 Property Tax Rates Approved by Council",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "7.3"
+        },
+        {
+          "id": 4,
+          "title": "Approving Officer Appointment Requires Council Approval",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "7.4"
+        },
+        {
+          "id": 5,
+          "title": "8012 11th Avenue Retaining Wall Variance Approved",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "7.5"
+        },
+        {
+          "id": 6,
+          "title": "Insurance Contract Renewals Approved for 2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "7.6"
+        },
+        {
+          "id": 7,
+          "title": "Networking Software Licenses Contract Awarded",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "7.8"
+        },
+        {
+          "id": 8,
+          "title": "New Civic Facility Contract Awarded for Furnishings and Equipment",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "7.9"
+        },
+        {
+          "id": 9,
+          "title": "External Audit Contract Change Approved",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "7.10"
+        },
+        {
+          "id": 10,
+          "title": "Burnaby Lake Geotechnical Contract Change Approved",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "7.11"
+        },
+        {
+          "id": 11,
+          "title": "Spring 2026 Community Grant Applications Approved",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "8.1"
+        },
+        {
+          "id": 12,
+          "title": "Burnaby Fees and Charges Bylaw: Mid-Year Fee Changes in 2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "8.2"
+        },
+        {
+          "id": 13,
+          "title": "Tenant Protection Framework and Bylaw: Council Endorsement Sought",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "8.3"
+        },
+        {
+          "id": 14,
+          "title": "Southeast Bikeway Upgrade Project Approved",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "8.4"
+        },
+        {
+          "id": 15,
+          "title": "Burnaby to Change Road Design Standards for Protected Intersections",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "8.5"
+        },
+        {
+          "id": 16,
+          "title": "Burnaby Considers Changes to Property Restrictions in Brentwood Park",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "9.1"
+        },
+        {
+          "id": 17,
+          "title": "Burnaby rezoning amended for Grand Promenade, Austin Road",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "11.1.1"
+        },
+        {
+          "id": 18,
+          "title": "Kingsway Development Approved: 12-Storey Mixed-Use Building",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "11.1.2"
+        },
+        {
+          "id": 19,
+          "title": "Burnaby Approves Zoning Change for New Self-Storage Building on Norland Avenue",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "11.1.3"
+        },
+        {
+          "id": 20,
+          "title": "E-Bike, E-Scooter Pilot Program: Street and Traffic Bylaw Changes",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "11.2.1"
+        },
+        {
+          "id": 21,
+          "title": "Parks Bylaw Amended: E-Bikes and Scooters Pilot Program",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "11.2.2"
+        },
+        {
+          "id": 22,
+          "title": "E-Bike Program: Bylaw Changes Affecting E-Scooter Enforcement",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "11.2.3"
+        },
+        {
+          "id": 23,
+          "title": "Burnaby Sets 2026 Property Tax Rates",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true,
+          "item_number": "11.2.4"
+        }
+      ]
+    }
+  ]
+}
