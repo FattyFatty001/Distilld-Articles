@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T01:28:15.793663+00:00",
-  "count": 7,
+  "generated_at": "2026-05-04T02:03:44.810541+00:00",
+  "count": 9,
   "articles": [
     {
       "article_id": 1,
@@ -1065,6 +1065,486 @@
         {
           "id": 109,
           "title": "Council to Consider Liquor Licence for Solo Karaoke on Kingsway",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        }
+      ]
+    },
+    {
+      "article_id": 9,
+      "path": "2026/02/24/9_burnaby-council_burnaby-city-council-minutes-2026-02-24.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/FileStream.ashx?DocumentId=88701",
+      "article_title": "Burnaby City Council Minutes — 2026-02-24",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "article_published_at": "2026-02-24T00:00:00",
+      "created_at": "2026-05-04T02:03:12.285209",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "industries": "Construction & Development, Food Service, Landlord & Property Mgmt, Professional Services, Retail, Technology, Transportation & Logistics",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 231,
+          "title": "Council approved Good Neighbour Plan requirement for Gilmore shelter",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 230,
+          "title": "Council received petition against drug-permitted shelter at Gilmore Diversion",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 229,
+          "title": "Council approved rezoning for 10th Avenue properties",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 228,
+          "title": "Council approved Burnaby Procedure Bylaw amendment on first, second, and third reading",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 227,
+          "title": "Burnaby council approved fee and charge bylaw amendments",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 226,
+          "title": "Burnaby council approved bylaw notice enforcement rule changes",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 225,
+          "title": "Council approved Burnaby Business Licence Bylaw amendment",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 224,
+          "title": "Council approved Burnaby North Road BIA bylaw for 2026",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 223,
+          "title": "Council approved first two readings for Buller Avenue rezoning",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 222,
+          "title": "Council gave first and second readings to Burnaby zoning text amendment Bylaw No. 14792",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 221,
+          "title": "Council referred Burnaby Football Club request to staff for field strategy",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 220,
+          "title": "Council approved active transportation education initiatives for 2026",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 219,
+          "title": "Council approved rezoning for 49-storey tower at Springer Avenue",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 218,
+          "title": "Council approved rezoning for Blake Village master plan update",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 217,
+          "title": "Council approved rezoning for 20-storey mixed-use building at 5058 Imperial Street",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 216,
+          "title": "Burnaby Council approved energy-based user fees for public EV charging stations",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 215,
+          "title": "Council approved on-street parking fee rate increase in Burnaby",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 214,
+          "title": "Council approved heritage alteration permit for W.J. Mathers House",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 213,
+          "title": "Council approved $670,000 contract renewal for security officer services",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 212,
+          "title": "Council approved $162,400 contract renewal for portable rental toilets",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 211,
+          "title": "Council approved up to 84 special outdoor events for 2026 at three parks",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 210,
+          "title": "Council approved Option B for the Landmark Burnaby Sign",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 209,
+          "title": "Council suspended $63K FCM dues until Burnaby gets caucus seat",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 208,
+          "title": "Council approved renewal of fleet vehicle parking permit at 7000 Lougheed Highway",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 207,
+          "title": "Council referred antennae variance request back to staff for review",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 206,
+          "title": "Council referred antennae variance permit back to staff for review",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 205,
+          "title": "Council approved a statutory right-of-way for Burnaby Lake Recreation Centre utilities",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 204,
+          "title": "Council approved hazard study for Lower Westridge, new building permits paused",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 203,
+          "title": "Council approved new rules for selling bear spray in Burnaby",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 202,
+          "title": "Council approved Burnaby North Road BIA renewal for 2026–2031",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 201,
+          "title": "Council approved plumbing permit fee changes in Burnaby",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 200,
+          "title": "Council approved discharge of outdated restrictive covenants on private properties",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 8,
+      "path": "2026/02/24/8_burnaby-council_burnaby-city-council-agenda-2026-02-24.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=cd40c096-9a94-40cb-a370-d12d73fe2268&Agenda=Agenda&lang=English",
+      "article_title": "Burnaby City Council Agenda — 2026-02-24",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "article_published_at": "2026-02-24T00:00:00",
+      "created_at": "2026-05-04T02:00:22.031048",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "industries": "Construction & Development, Food Service, Hotel & Accommodation, Landlord & Property Mgmt, Professional Services, Retail, Technology, Tenant, Transportation & Logistics",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 199,
+          "title": "Proposed: Council to address shelter operations at 3020 Gilmore Diversion",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 198,
+          "title": "Proposed: Drug-permitted shelter at 3020 Gilmore faces petition",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 197,
+          "title": "Proposed: 204 rental units at 8265-8303 10th Ave up for council vote",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 196,
+          "title": "Proposed: Burnaby council to vote on advisory body rule changes",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 195,
+          "title": "Proposed: Burnaby to vote on increasing plumbing fees",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 194,
+          "title": "Proposed: Burnaby bylaw change to enforce bear spray rules",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 193,
+          "title": "Proposed: Burnaby bylaw to regulate bear spray sales",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 192,
+          "title": "Proposed: Burnaby North Road Business Improvement Area Bylaw 2026",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 191,
+          "title": "Proposed: 8-storey rental building at 7305 & 7317 Buller Ave",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 190,
+          "title": "Proposed: Burnaby to create five new zoning districts under 2050 plan",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 189,
+          "title": "Council to review 2024-2025 transportation projects and 2026 plans",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 188,
+          "title": "Proposed: Burnaby Planning Committee sets work plan for 2026",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 187,
+          "title": "Proposed: Council to review Burnaby Rent Bank statistics 2021–2025",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 186,
+          "title": "Proposed: Council to refer Stoney Creek watershed concerns to staff",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 185,
+          "title": "Proposed: Burnaby to complete Social Infrastructure Needs Assessment",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 184,
+          "title": "Proposed: Burnaby Football Club request sent to staff for review",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 183,
+          "title": "Proposed: Burnaby Vacancy Management Program 2026 governance framework",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 182,
+          "title": "Proposed: Council to refer Stoney Creek construction impacts to staff",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 181,
+          "title": "Council to consider update on Zero Emissions Building Retrofit Strategy",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 180,
+          "title": "Proposed: Burnaby climate action work plan for 2025-2026",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 179,
+          "title": "Proposed: Burnaby to consider 2026 environmental stewardship events",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 178,
+          "title": "Proposed: Burnaby active transportation education initiatives for 2026",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 177,
+          "title": "Proposed: Mixed-use rezoning at 2209/2225 Springer Ave, Burnaby",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 176,
+          "title": "Proposed: Forward rezoning for Blake Village at 6800 Lougheed",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 175,
+          "title": "Proposed: Mixed-use rezoning at 5058 Imperial Street, Burnaby",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 174,
+          "title": "Proposed: New energy-based fees for Burnaby's EV charging stations",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 173,
+          "title": "Proposed: Burnaby on-street parking fee rate increase",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 172,
+          "title": "Proposed: Heritage Alteration Permit for chimneys at 6490 Deer Lake Avenue",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 171,
+          "title": "Council to vote on renewing security officer services contract",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 170,
+          "title": "Proposed: Burnaby Council to vote on portable toilet contract renewal",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 169,
+          "title": "Proposed: Burnaby to authorize special outdoor events for 2026",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 168,
+          "title": "Council to consider update on proposed Landmark Burnaby Sign",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 167,
+          "title": "Proposed: Burnaby to pay 2026-2027 FCM membership dues",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 166,
+          "title": "Proposed: Renewal of temporary parking permit at 7000 Lougheed Hwy",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 165,
+          "title": "Proposed: Council to vote on antenna variances at 9001 University Cres",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 164,
+          "title": "Council to vote on antennae height and coverage variances at 8888 University Drive",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 163,
+          "title": "Proposed: Grant right-of-way at 3860 Sperling Avenue for utility works",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 162,
+          "title": "Proposed: Burnaby to consider new hazard rules for Lower Westridge",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 161,
+          "title": "Proposed: Burnaby to regulate bear spray sales through bylaw changes",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 160,
+          "title": "Proposed: Renew Burnaby North Road BIA for 2026-2031",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 159,
+          "title": "Proposed: Burnaby to vote on plumbing permit fee changes",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 158,
+          "title": "Proposed: Burnaby to discharge outdated restrictive covenants on private properties",
           "source_label": "Burnaby Council",
           "is_proposal": true
         }
