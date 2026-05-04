@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T02:03:44.810541+00:00",
-  "count": 9,
+  "generated_at": "2026-05-04T02:26:53.841221+00:00",
+  "count": 11,
   "articles": [
     {
       "article_id": 1,
@@ -1545,6 +1545,294 @@
         {
           "id": 158,
           "title": "Proposed: Burnaby to discharge outdated restrictive covenants on private properties",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        }
+      ]
+    },
+    {
+      "article_id": 11,
+      "path": "2026/02/10/11_burnaby-council_burnaby-city-council-minutes-2026-02-10.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/FileStream.ashx?DocumentId=88518",
+      "article_title": "Burnaby City Council Minutes — 2026-02-10",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "article_published_at": "2026-02-10T00:00:00",
+      "created_at": "2026-05-04T02:26:34.926296",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "industries": "Construction & Development, Food Service, Healthcare, Landlord & Property Mgmt, Professional Services, Retail, Transportation & Logistics",
+      "locations": "British Columbia, Burnaby, Surrey, Vancouver",
+      "briefs": [
+        {
+          "id": 273,
+          "title": "Council approved donation campaign for tree canopy at Central Park and Halifax Park",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 272,
+          "title": "Council tables motion opposing complex care housing at 5389 Imperial Street",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 271,
+          "title": "Council referred Metro 2050 amendment options to staff for report",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 270,
+          "title": "Council received petition against supportive housing at 5389 Imperial Street",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 269,
+          "title": "Burnaby Council adopted the Five-Year Financial Plan Bylaw for 2026",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 268,
+          "title": "Council approved up to $10,000 for PRCC members to attend BCRPA symposium",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 267,
+          "title": "Council approved $380,000 road marking paint contract with Cloverdale Paint Inc",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 266,
+          "title": "Council approved $267,000 fence rental contract renewal with Super Save Fence Rentals",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 265,
+          "title": "Council approved $7.3M one-year renewal of E-COMM police dispatch contract",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 264,
+          "title": "Council approved $240,000 contract change for Astech hazardous material surveys",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 263,
+          "title": "Council approved $193,000 contract change for Comfort Keepers housekeeping services",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 262,
+          "title": "Council approved $700,000 contract change for Campfire Archaeology consulting services",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 261,
+          "title": "Council approved $174,384 contract change for three Toyota Tacoma pickup trucks",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 260,
+          "title": "Burnaby Council approved $20M fuel supply contract with 4Refuel Canada LP",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 259,
+          "title": "Council approved $648,206 contract to Rollins Machinery for refuse truck",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 258,
+          "title": "Council approved $621,838 contract to Rollins Machinery for two refuse trucks",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 257,
+          "title": "Council referred Lochdale School Park playground report back to staff",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 256,
+          "title": "Council authorized amendments to Burnaby Procedure Bylaw 2024",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 255,
+          "title": "Council approved removing restaurant-only restriction on Fraser Reach Court property",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 254,
+          "title": "Council approved five new non-residential zoning districts for Burnaby 2050",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 10,
+      "path": "2026/02/10/10_burnaby-council_burnaby-city-council-agenda-2026-02-10.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=bff6d1c1-636c-43bc-aa86-7495390251e6&Agenda=Agenda&lang=English",
+      "article_title": "Burnaby City Council Agenda — 2026-02-10",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "article_published_at": "2026-02-10T00:00:00",
+      "created_at": "2026-05-04T02:24:52.629005",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "industries": "Construction & Development, Food Service, Healthcare, Hotel & Accommodation, Landlord & Property Mgmt, Professional Services, Retail, Transportation & Logistics",
+      "locations": "British Columbia, Burnaby",
+      "briefs": [
+        {
+          "id": 253,
+          "title": "Proposed: BC Housing complex care facility at 5389 Imperial Street",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 252,
+          "title": "Council to consider supplementary petition on supportive housing at 5389 Imperial Street",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 251,
+          "title": "Council to vote on final adoption of Burnaby's 2026–2030 Financial Plan",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 250,
+          "title": "Council to receive update on WebReg improvements for Burnaby permits",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 249,
+          "title": "Proposed: Burnaby 2026 park development projects and timeline",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 248,
+          "title": "Proposed: Burnaby Parks, Recreation and Culture Plan Phase 3 update",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 247,
+          "title": "Proposed: Burnaby Council to receive December 2025 building permit report",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 246,
+          "title": "Proposed: Council to approve PRCC members' attendance at BCRPA Symposium",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 245,
+          "title": "Proposed: Burnaby council to vote on road marking paint contract renewal",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 244,
+          "title": "Council to vote on fence rental contract renewal",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 243,
+          "title": "Proposed: Burnaby Council to vote on one-year E-COMM police dispatch contract renewal",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 242,
+          "title": "Proposed: Contract change for hazardous material surveys at city sites",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 241,
+          "title": "Proposed: Contract change for Housekeeping Services Better at Home Program",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 240,
+          "title": "Proposed: Council to approve contract change for archaeological consulting services",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 239,
+          "title": "Council to vote on contract change for three Toyota Tacoma trucks",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 238,
+          "title": "Proposed: Burnaby Council to vote on fuel supply contract award",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 237,
+          "title": "Proposed: Council to vote on contract for new garbage truck",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 236,
+          "title": "Proposed: Burnaby to award contract for two split-body refuse trucks",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 235,
+          "title": "Council to decide on Lochdale School Park playground replacement",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 234,
+          "title": "Proposed: Burnaby to update council meeting rules (Procedure Bylaw)",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 233,
+          "title": "Proposed: Remove restaurant-only rule at 8340 Fraser Reach Court",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 232,
+          "title": "Proposed: Five new non-residential zoning districts for Burnaby",
           "source_label": "Burnaby Council",
           "is_proposal": true
         }
