@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T22:50:19.190349+00:00",
-  "count": 3,
+  "generated_at": "2026-05-04T01:28:15.793663+00:00",
+  "count": 7,
   "articles": [
     {
       "article_id": 1,
@@ -459,6 +459,612 @@
         {
           "id": 28,
           "title": "Council to Consider Appointment of Chief Election Officer for 2026 Election",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        }
+      ]
+    },
+    {
+      "article_id": 5,
+      "path": "2026/03/24/5_burnaby-council_burnaby-city-council-minutes-2026-03-24.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/FileStream.ashx?DocumentId=89207",
+      "article_title": "Burnaby City Council Minutes — 2026-03-24",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "article_published_at": "2026-03-24T00:00:00",
+      "created_at": "2026-05-04T01:25:47.177639",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "industries": "Construction & Development, Food Service, Hotel & Accommodation, Landlord & Property Mgmt, Retail, Tenant, Transportation & Logistics",
+      "locations": "British Columbia, Burnaby",
+      "briefs": [
+        {
+          "id": 108,
+          "title": "Burnaby Approved Joanne Morgan as 2025 Outstanding Citizen of the Year.",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 107,
+          "title": "Burnaby Council Adopts Amendment Bylaw No. 14807 Regarding Notice Enforcement",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 106,
+          "title": "Burnaby Adopted Amendment Bylaw No. 2, 2026, to Fees and Charges Bylaw",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 105,
+          "title": "Burnaby Council Adopts Amendment to Parking Meter and EV Charging Bylaw",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 104,
+          "title": "Burnaby Council OKs First, Second Reading for Zoning Bylaw Amendment at 5058 Imperial St.",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 103,
+          "title": "Burnaby Council Approves Zoning Bylaw Amendment for 2209 & 2225 Springer Avenue.",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 102,
+          "title": "Burnaby Council OKs Zoning Bylaw Amendment for 6800 Lougheed Hwy",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 101,
+          "title": "Burnaby Council endorses Poverty Reduction Strategy; implementation plan to follow.",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 100,
+          "title": "Burnaby Council OKs rezoning for Norland Avenue self-storage facility.",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 99,
+          "title": "Burnaby Council OKs Rezoning Bylaw for Kingsway Mixed-Use Development",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 98,
+          "title": "Burnaby advances rezoning for Grand Promenade to add hotel, restaurant uses.",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 97,
+          "title": "Burnaby to Consider High-Density Mixed-Use Development on Carrigan Court.",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 96,
+          "title": "Burnaby approved contract renewal for asphalt paving services with Blackrete Paving.",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 95,
+          "title": "Burnaby Approved Contracts for Hired Equipment Services with 19 Contractors.",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 94,
+          "title": "Burnaby refers modular housing four-plex development at 8315 14th Avenue back to staff.",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 93,
+          "title": "Burnaby approves $4.2 million contract for new water metering technology.",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 92,
+          "title": "Burnaby Approved UBCM Membership Dues Payment for 2026",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 91,
+          "title": "Burnaby Approves Housing Authority's 2026-2030 Strategic Plan.",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 4,
+      "path": "2026/03/24/4_burnaby-council_burnaby-city-council-agenda-2026-03-24.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=4840015a-e501-4bb8-bd3a-63209c0245b6&Agenda=Agenda&lang=English",
+      "article_title": "Burnaby City Council Agenda — 2026-03-24",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "article_published_at": "2026-03-24T00:00:00",
+      "created_at": "2026-05-04T01:25:01.046021",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "industries": "Construction & Development, Finance & Insurance, Labour & Employment, Landlord & Property Mgmt, Professional Services, Retail, Tenant, Transportation & Logistics",
+      "locations": "British Columbia, Burnaby",
+      "briefs": [
+        {
+          "id": 90,
+          "title": "Proposed: Rezoning Opposition at 5058 Imperial Street",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 89,
+          "title": "Council to vote on: Electric Vehicle Charging Meter Bylaw Amendment in Burnaby",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 88,
+          "title": "Council to Vote: Fees for Public EV Charging Network",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 87,
+          "title": "Council to consider: Changes to Burnaby parking and EV charging rules",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 86,
+          "title": "Council to Consider: Zoning Bylaw Amendment for High-Rise on Springer Ave",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 85,
+          "title": "Council to Consider: Zoning Bylaw Amendment for 6800 Lougheed Hwy",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 84,
+          "title": "Proposed: Zoning Bylaw Amendment for 20-Storey Mixed-Use Building on Imperial Street",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 83,
+          "title": "Council to Consider: Burnaby 2050 Official Community Plan Implementation",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 82,
+          "title": "Burnaby Council to Receive Update on Civic Projects in March 2026",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 81,
+          "title": "Council to Consider: 2025 City Investment Report and 2026 Forecast",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 80,
+          "title": "Council to Consider: Building Permit Activity Reports for January and February 2026",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 79,
+          "title": "Council to Consider: Burnaby Poverty Reduction Strategy Endorsement",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 78,
+          "title": "Council to Consider Rezoning for Five-Storey Self-Storage on Norland Avenue",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 77,
+          "title": "Proposed: Twelve-Storey Mixed-Use Development at 6535 Kingsway Up for Approval",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 76,
+          "title": "Council to Consider: Amended Mixed-Use Development at 3900 Grand Promenade",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 75,
+          "title": "Council to Consider: Amended High-Density Development at Carrigan Court",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 74,
+          "title": "Council to Vote: Asphalt Paving Contract Renewal",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 73,
+          "title": "Council to Vote: Hired Equipment Services Contracts (19 Awards)",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 72,
+          "title": "Council to Consider Contract for Modular Housing Four-Plex Development",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 71,
+          "title": "Council to Consider Water Metering Technology Contract Award",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 70,
+          "title": "Council to Vote on UBCM Membership Dues Payment for 2026",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 69,
+          "title": "Council to Consider: Burnaby Housing Authority's 2026-2030 Strategic Plan",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        }
+      ]
+    },
+    {
+      "article_id": 7,
+      "path": "2026/03/10/7_burnaby-council_burnaby-city-council-minutes-2026-03-10.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/FileStream.ashx?DocumentId=88960",
+      "article_title": "Burnaby City Council Minutes — 2026-03-10",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "article_published_at": "2026-03-10T00:00:00",
+      "created_at": "2026-05-04T01:27:35.903893",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "industries": "Agriculture, Cannabis, Construction & Development, Finance & Insurance, Food Service, Grocery & Food Retail, Healthcare, Hotel & Accommodation, Labour & Employment, Landlord & Property Mgmt, Liquor, Natural Resources, Professional Services, Retail, Spa & Wellness, Technology, Tenant, Transportation & Logistics",
+      "locations": "British Columbia, Burnaby, Vancouver",
+      "briefs": [
+        {
+          "id": 157,
+          "title": "Burnaby to Apply Tenant Eligibility Criteria for New Rezoning Applications",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 156,
+          "title": "Burnaby Council Adopts Amendment to Procedure Bylaw 14801 for 2024",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 155,
+          "title": "Burnaby Amends Consolidated Fees and Charges Bylaw 14800; Bylaw No. 1, 2026 Passed",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 154,
+          "title": "Burnaby amended its Bylaw Notice Enforcement Bylaw.",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 153,
+          "title": "Burnaby Amended Business Licence Bylaw No. 14798 for 2026",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 152,
+          "title": "Burnaby Council Adopts Zoning Bylaw Amendment for 5889 Barker Avenue",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 151,
+          "title": "Burnaby Approved Zoning Bylaw Amendment REZ #25-05 for Still Creek Ave",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 150,
+          "title": "Burnaby Approved Zoning Bylaw Amendment for 7135 Walker Ave. and 7244 Arcola St.",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 149,
+          "title": "Burnaby adopted Zoning Bylaw 14792, amending zoning rules within the city.",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 148,
+          "title": "Burnaby Amended Bylaw Notice Enforcement Bylaw",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 147,
+          "title": "Burnaby amended fees and charges bylaw.",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 146,
+          "title": "Burnaby Amends Parking and EV Charging Bylaw: What Businesses Need to Know",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 145,
+          "title": "Burnaby to review off-street parking payment plan; new parking space feasibility study.",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 144,
+          "title": "Burnaby supports Tourism Burnaby's bid for 2028 Urban Forest Conference.",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 143,
+          "title": "Burnaby Approves Parks, Recreation, and Culture Plan; Public Engagement OK'd",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 142,
+          "title": "Burnaby Adopts Amendments to Community Grant Policy and Application Process.",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 141,
+          "title": "Burnaby Approves ServiceNow Contract for IT Ticketing Software Licenses",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 140,
+          "title": "Burnaby to apply for UBCM grant for development approvals program.",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 139,
+          "title": "Burnaby Approved BC Hydro Right-of-Way at 4111 Norland Avenue",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 138,
+          "title": "Burnaby forwards Metro 2050 amendment letter, adding food security and affordability.",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 137,
+          "title": "Burnaby Council Supports Liquor License for Solo Karaoke on Kingsway",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 6,
+      "path": "2026/03/10/6_burnaby-council_burnaby-city-council-agenda-2026-03-10.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ee729e93-afb8-42a0-9b58-20aa0b20be09&Agenda=Agenda&lang=English",
+      "article_title": "Burnaby City Council Agenda — 2026-03-10",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "article_published_at": "2026-03-10T00:00:00",
+      "created_at": "2026-05-04T01:26:49.425783",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "industries": "Construction & Development, Food Service, Hotel & Accommodation, Landlord & Property Mgmt, Liquor, Professional Services, Retail, Technology, Tenant, Transportation & Logistics",
+      "locations": "British Columbia, Burnaby, Canada, Delta, Langley, New Westminster, Surrey, Vancouver",
+      "briefs": [
+        {
+          "id": 136,
+          "title": "Council to Vote: Tenant Assistance for New Burnaby Developments",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 135,
+          "title": "Council to Consider Changes to Burnaby Advisory Body Rules",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 134,
+          "title": "Council to Consider Changes to Burnaby Plumbing Fees",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 133,
+          "title": "Council to Consider: Burnaby Bylaw on Bear Spray Sales",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 132,
+          "title": "Council to Consider: Changes to Burnaby Business Licence Bylaw on Bear Spray",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 131,
+          "title": "Proposed: Rezoning Amendment for 5889 Barker Ave — Additional Rental Housing",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 130,
+          "title": "Council to Consider: Rezoning for Still Creek Ave Self-Storage Facility",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 129,
+          "title": "Proposed: Rezoning for 50-Storey Rental Tower at Walker Ave. & Arcola St.",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 128,
+          "title": "Council to Consider: New Zoning Districts in Burnaby",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 127,
+          "title": "Council to consider: Changes to Burnaby bylaw for EV charging enforcement.",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 126,
+          "title": "Council to Vote: Fees for Public EV Charging Network in Burnaby",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 125,
+          "title": "Council to Consider Changes to Burnaby's Parking and EV Charging Bylaw",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 124,
+          "title": "Council to Consider RCMP Performance Report for August–November 2025",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 123,
+          "title": "Burnaby Council to Consider Fire Department Status Update",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 122,
+          "title": "Burnaby Council to receive update on Sexually Exploited Youth Task Force",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 121,
+          "title": "Council to consider: Project Plan for New Burnaby Recreation Facilities",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 120,
+          "title": "Burnaby Council to Receive Update on Civic Projects in February 2026",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 119,
+          "title": "Council to Consider Gaming Reserve Status Update as of December 31, 2025",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 118,
+          "title": "Council to consider: Burnaby Mountain Safety Reserve Program status update",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 117,
+          "title": "Council to Consider New Parking Spaces, Payment System in Burnaby",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 116,
+          "title": "Council to Consider: Tourism Burnaby Support for Urban Forest Conference",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 115,
+          "title": "Council to consider: Draft Parks, Recreation and Culture Plan for Burnaby",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 114,
+          "title": "Council to Consider: Changes to Burnaby's Community Grant Policy and Application",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 113,
+          "title": "Council to Vote on IT Ticketing Software Licences",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 112,
+          "title": "Council to Consider: Applying for UBCM Grant for Development Approvals",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 111,
+          "title": "Council to Vote: BC Hydro Statutory Right-of-Way on Norland Avenue",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 110,
+          "title": "Council to Consider Metro 2050 Amendments: Concerns from Other Mayors",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 109,
+          "title": "Council to Consider Liquor Licence for Solo Karaoke on Kingsway",
           "source_label": "Burnaby Council",
           "is_proposal": true
         }
