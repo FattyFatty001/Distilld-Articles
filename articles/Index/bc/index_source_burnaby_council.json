@@ -1,0 +1,416 @@
+{
+  "generated_at": "2026-05-08T20:37:34.059522+00:00",
+  "count": 2,
+  "articles": [
+    {
+      "article_id": 32,
+      "path": "2026/05/12/32_burnaby-council_burnaby-city-council2026-05-12.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=8f8b7575-acb8-4b2f-a5b1-b2e81160aaba&lang=English",
+      "article_title": "Burnaby City Council2026-05-12",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "article_published_at": "2026-05-12T00:00:00",
+      "created_at": "2026-05-08T20:35:06.602483",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 32,
+      "minutes_brief_count": 0,
+      "industries": "Construction & Development, Food Service, Hotel & Accommodation, Landlord & Property Mgmt, Professional Services, Retail, Technology, Tenant, Transportation & Logistics",
+      "locations": "Burnaby, Surrey, Vancouver",
+      "briefs": [
+        {
+          "id": 32,
+          "title": "Proposed: Burnaby council to vote on abandoning rezoning for 3900 Grand Promenade",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 31,
+          "title": "Proposed: Burnaby Rates Bylaw 2026 sets property tax rates",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 30,
+          "title": "Proposed: Burnaby bylaw amendment to enforce e-bike and scooter pilot",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 29,
+          "title": "Proposed: Burnaby parks e-bike and e-scooter pilot bylaw amendment",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 28,
+          "title": "Proposed: Burnaby e-bike and e-scooter pilot bylaw amendment",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 27,
+          "title": "Proposed: Burnaby to update fees and charges mid-year 2026",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 26,
+          "title": "Proposed: Burnaby bylaw amendment to strengthen tenant protection enforcement",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 25,
+          "title": "Proposed: Burnaby Tenant Protection Bylaw 2026 for redevelopment impacts",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 24,
+          "title": "Proposed: Burnaby to amend definitions of 'affordable housing' in ACC and DCC waiver bylaw",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 23,
+          "title": "Proposed: Burnaby to update penalty rules for zoning violations",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 22,
+          "title": "Proposed: Burnaby Zoning Bylaw 2026 to replace 1965 rules",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 21,
+          "title": "Council to consider RCMP policing update and performance report",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 20,
+          "title": "Council to receive update on Burnaby Fire Department operations to February 2026",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 19,
+          "title": "Proposed: Burnaby Community Safety and Well-Being Plan update for 2026",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 18,
+          "title": "Proposed: Burnaby council to review Langara College study on inclusion in public recreation",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 17,
+          "title": "Council to consider status update on IT initiatives for early 2026",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 16,
+          "title": "Council to consider status update on major engineering projects (Dec 2025–Apr 2026)",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 15,
+          "title": "Council to review status update on Burnaby civic projects",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 14,
+          "title": "Proposed: Non-market housing project at 3961 and 3983 Norland Avenue",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 13,
+          "title": "Council to consider supporting Vancouver Roques Rugby's bid for Bingham Cup 2028",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 12,
+          "title": "Proposed: Burnaby Mountain Trail Management Plan update and direction",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 11,
+          "title": "Proposed: Council to vote on list of consultant budget cuts for 2026",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 10,
+          "title": "Proposed: Burnaby to review street width standards for new developments",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 9,
+          "title": "Council to consider comment letters on Metro 2050 land-use amendments for Maple Ridge and Surrey",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 8,
+          "title": "Proposed: Contract change for Burnaby's Sidewalk Expansion Program",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 7,
+          "title": "Proposed: Burnaby council to vote on sidewalk contract for five streets",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 6,
+          "title": "Council to vote on contract for Victory St. road upgrades from Patterson to Jubilee",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 5,
+          "title": "Proposed: Burnaby Council to vote on aeration and overseeding contract",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 4,
+          "title": "Council to vote on contract for mobile devices and data plans",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 3,
+          "title": "Proposed: Burnaby to apply for UBCM award on development approvals",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 2,
+          "title": "Burnaby to replace Development Procedures Bylaw, update fees — effective July 1, 2026",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 1,
+          "title": "Proposed: Burnaby 2025 Annual Municipal Report presented to Council",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        }
+      ]
+    },
+    {
+      "article_id": 61,
+      "path": "2026/04/28/61_burnaby-council_burnaby-city-council2026-04-28.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=2d97efcf-ac16-41b8-9702-b4c8ab249af9&lang=English",
+      "article_title": "Burnaby City Council2026-04-28",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "article_published_at": "2026-04-28T00:00:00",
+      "created_at": "2026-05-08T20:37:05.671278",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 29,
+      "minutes_brief_count": 0,
+      "industries": "Agriculture, Construction & Development, Finance & Insurance, Food Service, Grocery & Food Retail, Hotel & Accommodation, Landlord & Property Mgmt, Professional Services, Retail, Technology, Tenant, Transportation & Logistics",
+      "locations": "British Columbia, Burnaby",
+      "briefs": [
+        {
+          "id": 61,
+          "title": "Proposed: Burnaby 2026 property tax rates bylaw",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 60,
+          "title": "Proposed: Burnaby bylaw amendment for e-bike and e-scooter pilot enforcement",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 59,
+          "title": "Proposed: Burnaby e-bike and e-scooter pilot in parks",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 58,
+          "title": "Proposed: Burnaby e-bike and e-scooter pilot bylaw amendment",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 57,
+          "title": "Proposed: Five-storey self-storage building at 2757 Norland Avenue",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 56,
+          "title": "Proposed: 12-storey mixed-use development at 6535 Kingsway",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 55,
+          "title": "Proposed: Rezone 3900 Grand Promenade for hotel, restaurant, and 362 more homes",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 54,
+          "title": "Proposed: Safety improvements at Central Boulevard and Metropolis parkade intersection",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 53,
+          "title": "Council to consider update on food sustainability measures in Burnaby",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 52,
+          "title": "Proposed: Burnaby solid waste and recycling 2025 performance report",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 51,
+          "title": "Proposed: Heritage designation for 3789 Royal Oak Avenue in Burnaby",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 50,
+          "title": "Council to receive building permit activity report for March 2026",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 49,
+          "title": "Burnaby staff recommend against exempting Brentwood Park from SSMUH rules",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 48,
+          "title": "Proposed: Burnaby to update design standards for safer intersections",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 47,
+          "title": "Proposed: Council to vote on Southeast Bikeway Upgrade improvements",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 46,
+          "title": "Proposed: Burnaby Tenant Protection Bylaw up for council vote",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 45,
+          "title": "Proposed: Mid-year 2026 fee changes to Burnaby Fees and Charges Bylaw",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 44,
+          "title": "Council to vote on Spring 2026 community grant recipients",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 43,
+          "title": "Proposed: Contract change for geotechnical work at Burnaby Lake Recreation Complex",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 42,
+          "title": "Council to vote on contract change for external audit services",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 41,
+          "title": "Council to vote on contract for new civic facility furniture",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 40,
+          "title": "Council to vote on contract award for networking software licenses",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 39,
+          "title": "Proposed: Council to approve Heritage Commission members attending 2026 BC conference",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 38,
+          "title": "Proposed: Burnaby to award insurance contracts for property and liability programs",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 37,
+          "title": "Proposed: Burnaby council to vote on retaining wall height variance at 8012 11th Ave",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 36,
+          "title": "Proposed: Burnaby Council to appoint an Approving Officer",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 35,
+          "title": "Proposed: Burnaby 2026 property tax rates for municipal, regional, and BIA",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 34,
+          "title": "Proposed: Burnaby Housing Authority Year 2 operating funding request",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 33,
+          "title": "Proposed: Burnaby to replace 1965 zoning bylaw with 2026 version",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        }
+      ]
+    }
+  ]
+}
