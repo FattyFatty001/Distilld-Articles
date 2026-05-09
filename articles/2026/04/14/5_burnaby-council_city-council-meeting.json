@@ -1,0 +1,1159 @@
+{
+  "article_id": 5,
+  "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+  "article_title": "City Council Meeting",
+  "source": "burnaby_council",
+  "source_label": "Burnaby Council",
+  "government_level": "Municipal",
+  "meeting_type": "regular-council",
+  "article_published_at": "2026-04-14T00:00:00",
+  "has_attachments": false,
+  "has_pdf": false,
+  "has_html": false,
+  "has_agenda": true,
+  "has_minutes": true,
+  "agenda_brief_count": 21,
+  "minutes_brief_count": 22,
+  "pdf_urls": "{\"_doc\": [{\"url\": \"https://pub-burnaby.escribemeetings.com/FileStream.ashx?DocumentId=89198\", \"title\": \"Revised Agenda (PDF)\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/FileStream.ashx?DocumentId=89538\", \"title\": \"Minutes\"}], \"_inline\": [{\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89155\", \"title\": \"2026.03.24 Council Minutes DRAFT.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89189\", \"title\": \"2026.04.01 Special Council Minutes DRAFT.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89148\", \"title\": \"DELEGATION 427 - New Westminster and District Labour Council_Redacted 2026-04-14\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89149\", \"title\": \"Attachment 1 - Burnaby Municipal DoM Letter (NWDLC) 2026-04-14.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89151\", \"title\": \"CEO Appointment 2026-04-14.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89190\", \"title\": \"Certificate of Sufficiency North Road BIA Renewal 2026-04-14 FINAL (sufficient)_\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89191\", \"title\": \"Attachment 1 - Certificate of Sufficiency (North Road BIA) 2026-04-14 .pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89165\", \"title\": \"BHA - Shareholder's Corporate Maintenance Matters for 2026 2026-04-14.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89166\", \"title\": \"BHA - 2026 Financial Statements 2026-04-14.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89167\", \"title\": \"Attachment 1 - BHA - 2025 Audited Financial Statements 2026-04-14 .pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89168\", \"title\": \"Attachment 2 - BHA - 2026 Operating Budget 2026-04-14 .pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89163\", \"title\": \"Prop. Bylaw Amendments for E-Bike Share and Prov. Electric Kick Scooter Pilot Pr\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89164\", \"title\": \"Attachment 1 - Proposed Bylaw Amendments (E-Bike Share and Electric Kick Scooter\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89169\", \"title\": \"Provincial Housing Target Order 6-Month Interim Progress Report - 2026-04-14.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89170\", \"title\": \"Attachment 1 - Provincial Housing Target Order 2026-04-14.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89171\", \"title\": \"Attachment 2 - Housing Target Progress Report Form 2026-04-14.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89186\", \"title\": \"Building Benchmark BC (BBBC) 2026-04-14.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89187\", \"title\": \"Attachment 1 - Building Benchmark BC Annual Report 2024 (Year 5) 2026-04-14 .pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89153\", \"title\": \"7950 Pandora St. and 1200 Gaglardi Way - Burnaby Mountain Fortis SRW 2026-04-14 \"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89154\", \"title\": \"Attachment 1 - Sketch 1 to 4 (7950 Pandora St. and 1200 Gaglardi Way) 2026-04-14\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89188\", \"title\": \"CA - Development Modular Housing Four-Plex Unit Final 2026-04-14.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89177\", \"title\": \"CA - CB-8039 Jerry Rogers Creek Culvert Replacement 2026-04-14.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89180\", \"title\": \"CA - (CB-3264) Central Valley Greenway Culvert Replacement 2026-04-14.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89181\", \"title\": \"CC - Telephony - Cellular Voice and Data Services 2026-04-14.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89182\", \"title\": \"Attachment 1 - Contract History (Telephony) 2026-04-14 .pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89183\", \"title\": \"Attachment 2 - Council Report dated September 25, 2023 (Telephony) 2026-04-14 .p\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89174\", \"title\": \"CC - HVAC System Maint. and Repair Services 2026-04-14.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89175\", \"title\": \"Attachment 1 - Contract History (HVAC System) 2026-04-14 .pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89176\", \"title\": \"Attachment 2 - Previous Council Report dated May 27, 2025 (HVAC System) 2026-04-\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89184\", \"title\": \"CR - Cisco WebEx Contact Center License Subscriptions 2026-04-14.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89185\", \"title\": \"Attachment 1 - Contract History (Cisco) 2026-04-14 .pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89172\", \"title\": \"CR \\u2013 Fire Protection Systems and Equipment Installation Mtnce and Repair Service\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89173\", \"title\": \"Attachment 1 - Contract History (Fire Services) 2026-04-14 .pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89192\", \"title\": \"Burnaby Lake Overpass Official Opening Plaque 2026-04-14.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89193\", \"title\": \"Attachment 1 - Burnaby Lake Overpass Plaque 2026-04-14.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89156\", \"title\": \"FMC - External Review of City Financial Practices 2026-04-14.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89157\", \"title\": \"PDC- REZ 25-11 5053 Beresford Street 2026-04-14.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89158\", \"title\": \"Attachment 1 - REZ 25- 11 - Part 1 of 3 - Sketch 1 and 2 2026-04-14.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89159\", \"title\": \"Attachment 1 - REZ 25-11 - Part 2 of 3 - Shadow Study, Site Plan and Subdivision\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89160\", \"title\": \"Attachment 1 - REZ 25-11 - Part 3 of 3 - Front Elevation, West and East Elevatio\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89161\", \"title\": \"Attachment 2 - REZ 25-11 - Development Statistics 2026-04-14.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89162\", \"title\": \"Attachment 3 - REZ 25-11 - Rezoning Prerequisites 2026-04-14.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89152\", \"title\": \"Update on Mayor's Task Force on Burnaby Economic Growth and Resilience 2026-04-1\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89178\", \"title\": \"Amenity Pier Covenant  Developer Election to Forfeit Security 2026-04-14.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89179\", \"title\": \"Attachment 1 - Sketch 1 and 2 (Amenity Pier Covenant) 2026-04-14.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89150\", \"title\": \"14797 Burnaby BIA (Burnaby North Road) Bylaw 2026 (FA).pdf\"}]}",
+  "body": "",
+  "agenda_briefs": [
+    {
+      "id": 64,
+      "title": "Dennis Back appointed Chief Election Officer for 2026 Burnaby election",
+      "summary": "Burnaby City Council is set to vote on appointing Dennis Back as Chief Election Officer for the 2026 general local election, scheduled for Saturday, October 17, 2026. The appointment is needed because the previous appointee, Samantha Pellizzari, is on leave and not expected to return before the election. Alix Nay and Josh Comia remain as Deputy Chief Election Officers.",
+      "action_required": null,
+      "key_dates": [
+        {
+          "label": "2026 Burnaby general local election date",
+          "date": "2026-10-17"
+        }
+      ],
+      "industries": "",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "7.1",
+      "source_body": "7.1\nAPPOINTMENT OF CHIEF ELECTION OFFICER\n1.\nCEO Appointment 2026-04-14.pdf\nPurpose: To recommend the appointment of the Chief Election Officer for the 2026 City of Burnaby General Local Election.",
+      "attachments": [
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89151",
+          "title": "CEO Appointment 2026-04-14.pdf"
+        }
+      ],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Agenda",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:01:14.236145"
+    },
+    {
+      "id": 65,
+      "title": "North Road BIA renewal blocked — petition sufficient",
+      "summary": "Council will consider a staff report certifying that petitions against the proposed North Road Business Improvement Area (BIA) renewal bylaw (Bylaw #14797) are sufficient. The petition period ran February 25 to March 30, 2026. Of 121 property owners notified, 66 submitted Notices of Opposition covering 65 folio numbers — meeting the 50% parcel and 50% assessed value thresholds required to block adoption. Staff recommend Council not proceed with the renewal bylaw.",
+      "action_required": "Watch for Council's decision on April 14, 2026 — if Council follows the staff recommendation, the BIA levy will not continue beyond March 31, 2026.",
+      "key_dates": [
+        {
+          "label": "Council vote on North Road BIA renewal — April 14, 2026",
+          "date": "2026-04-14"
+        }
+      ],
+      "industries": "Retail, Food Service, Professional Services, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "7.2",
+      "source_body": "7.2\nCERTIFICATE OF SUFFICIENCY: 2026 BURNABY NORTH ROAD BIA RENEWAL\n1.\nCertificate of Sufficiency North Road BIA Renewal 2026-04-14 FINAL (sufficient)_.pdf\n2.\nAttachment 1 - Certificate of Sufficiency (North Road BIA) 2026-04-14 .pdf\nPurpose: To provide results for the petitions submitted against the proposed North Road Business Improvement Area (BIA) renewal bylaw for a 5-year period.\nsee Bylaw #14797",
+      "attachments": [
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89190",
+          "title": "Certificate of Sufficiency North Road BIA Renewal 2026-04-14 FINAL (sufficient)_"
+        },
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89191",
+          "title": "Attachment 1 - Certificate of Sufficiency (North Road BIA) 2026-04-14 .pdf"
+        }
+      ],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Agenda",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:01:14.238798"
+    },
+    {
+      "id": 66,
+      "title": "Burnaby Housing Authority 2026 corporate maintenance: KPMG auditor, Dec 12 reference date",
+      "summary": "Council will vote on approving routine annual shareholder matters for the Burnaby Housing Authority Corporation (BHA) for 2026, including selecting December 12, 2026 as the annual reference date, appointing KPMG as auditor until the next AGM, receiving the BHA's 2025 financial statements, and appointing directors for two- and three-year terms. These are administrative decisions required to maintain the corporation's legal standing.",
+      "action_required": null,
+      "key_dates": [
+        {
+          "label": "BHA annual reference date selected",
+          "date": "2026-12-12"
+        }
+      ],
+      "industries": "Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "7.3",
+      "source_body": "7.3\nBHA - SHAREHOLDER'S CORPORATE MAINTENANCE MATTERS FOR 2026\n1.\nBHA - Shareholder's Corporate Maintenance Matters for 2026 2026-04-14.pdf\nPurpose: To obtain Council approval with respect to certain annual shareholder’s corporate maintenance matters for 2026 on behalf of the Burnaby Housing Authority Corporation (BHA).",
+      "attachments": [
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89165",
+          "title": "BHA - Shareholder's Corporate Maintenance Matters for 2026 2026-04-14.pdf"
+        }
+      ],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Agenda",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:01:14.239519"
+    },
+    {
+      "id": 67,
+      "title": "Burnaby Housing Authority 2025 audited financials and 2026 budget up for council vote",
+      "summary": "Burnaby City Council will consider the Burnaby Housing Authority's (BHA) 2025 audited financial statements and 2026 operating budget. The BHA reported a clean audit opinion from KPMG, an accumulated surplus of $7.52 million, and cash holdings of $31.75 million as of December 31, 2025. Council's receipt of these documents satisfies conditions for releasing $2.00 million in 2026 operating funding under Partnering Agreement No. 1.",
+      "action_required": null,
+      "key_dates": [
+        {
+          "label": "Council meeting to consider BHA financials and budget",
+          "date": "2026-04-14"
+        }
+      ],
+      "industries": "Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "7.4",
+      "source_body": "7.4\nBHA - 2025 FINANCIAL STATEMENTS AND 2026 OPERATING BUDGET\n1.\nBHA - 2026 Financial Statements 2026-04-14.pdf\n2.\nAttachment 1 - BHA - 2025 Audited Financial Statements 2026-04-14 .pdf\n3.\nAttachment 2 - BHA - 2026 Operating Budget 2026-04-14 .pdf\nPurpose: To present the Burnaby Housing Authority’s (BHA) 2025 Annual Financial Statements and 2026 Annual Operating Budget.",
+      "attachments": [
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89166",
+          "title": "BHA - 2026 Financial Statements 2026-04-14.pdf"
+        },
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89167",
+          "title": "Attachment 1 - BHA - 2025 Audited Financial Statements 2026-04-14 .pdf"
+        },
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89168",
+          "title": "Attachment 2 - BHA - 2026 Operating Budget 2026-04-14 .pdf"
+        }
+      ],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Agenda",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:01:14.240035"
+    },
+    {
+      "id": 68,
+      "title": "Burnaby e-bike share and e-scooter pilot bylaw amendments proposed",
+      "summary": "Council will consider amendments to the Burnaby Street and Traffic Bylaw, Parks Regulation Bylaw, and Bylaw Notice Enforcement Bylaw to allow an e-bike share pilot program and address the provincial electric kick scooter pilot program. Key rules include: shared e-bikes and e-scooters may only park in designated Shared Micromobility Parking Zones; no person may ride a cycle, motor assisted cycle, or electric kick scooter on a sidewalk unless permitted by a traffic control device; electric kick scooters are banned on major road networks and arterial roads except in protected cycle lanes or multi-use pathways; and no person may ride while wearing headphones over both ears. Violations are moving vehicle offences enforced by the RCMP under the Motor Vehicle Act.",
+      "action_required": "Watch for the council meeting date and public hearing notice — this could affect how you operate a bike or scooter rental business in Burnaby.",
+      "key_dates": [],
+      "industries": "Transportation & Logistics, Retail",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "7.5",
+      "source_body": "7.5\nPROPOSED BYLAW AMENDMENTS TO ADDRESS E-BIKE SHARE PILOT PROGRAM AND PROVINCIAL ELECTRIC KICK SCOOTER PILOT PROGRAM\n1.\nProp. Bylaw Amendments for E-Bike Share and Prov. Electric Kick Scooter Pilot Programs - 2026-04-14 .pdf\n2.\nAttachment 1 - Proposed Bylaw Amendments (E-Bike Share and Electric Kick Scooter) 2026-04-14.pdf\nPurpose:\nTo propose amendments to the Burnaby Street and Traffic Bylaw and the Burnaby Parks Regulation Bylaw to implement the E-Bike Share Pilot Program and address the provincial Electric Kick Scooter Pilot Program within the City.",
+      "attachments": [
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89163",
+          "title": "Prop. Bylaw Amendments for E-Bike Share and Prov. Electric Kick Scooter Pilot Pr"
+        },
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89164",
+          "title": "Attachment 1 - Proposed Bylaw Amendments (E-Bike Share and Electric Kick Scooter"
+        }
+      ],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Agenda",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:01:14.240568"
+    },
+    {
+      "id": 69,
+      "title": "Burnaby must submit housing target progress report to BC by April 14, 2026",
+      "summary": "Council will consider authorizing submission of Burnaby's Housing Target Progress Report to the BC Ministry of Housing and Municipal Affairs, as required by the Housing Supply Act. The report covers the first six-month reporting period (Sept 1, 2025 – Feb 28, 2026) and shows 910 net new housing units completed, against a Year 1 target of 1,536. The report must be received by Council resolution within 45 days of the reporting period end (by April 14, 2026) and submitted to the Province as soon as practicable after that.",
+      "action_required": "No action required from business owners; this is a municipal compliance report.",
+      "key_dates": [
+        {
+          "label": "Burnaby housing target progress report Council resolution deadline",
+          "date": "2026-04-14"
+        }
+      ],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby, British Columbia",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "7.6",
+      "source_body": "7.6\nPROVINCIAL HOUSING TARGET ORDER 6-MONTH INTERIM PROGRESS REPORT\n1.\nProvincial Housing Target Order 6-Month Interim Progress Report - 2026-04-14.pdf\n2.\nAttachment 1 - Provincial Housing Target Order 2026-04-14.pdf\n3.\nAttachment 2 - Housing Target Progress Report Form 2026-04-14.pdf\nPurpose:\nTo present the Housing Target Order and obtain Council authorization to forward Burnaby’s Housing Target Progress Report Form to the BC Ministry of Housing and Municipal Affairs, as required by the\nHousing Supply Act\nand Housing Supply Regulation.",
+      "attachments": [
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89169",
+          "title": "Provincial Housing Target Order 6-Month Interim Progress Report - 2026-04-14.pdf"
+        },
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89170",
+          "title": "Attachment 1 - Provincial Housing Target Order 2026-04-14.pdf"
+        },
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89171",
+          "title": "Attachment 2 - Housing Target Progress Report Form 2026-04-14.pdf"
+        }
+      ],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Agenda",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:01:14.241117"
+    },
+    {
+      "id": 70,
+      "title": "Burnaby to join Building Benchmark BC Year 7 energy program",
+      "summary": "Council will consider authorizing the City of Burnaby to participate in Year 7 of the Building Benchmark BC (BBBC) program, a voluntary provincial program that tracks and reports energy use in large buildings. If approved, the city would share building energy data with the province to help identify ways to save energy and reduce emissions. The decision is not final — council will vote on this proposal at an upcoming meeting.",
+      "action_required": "No action needed from you now. Watch for council's decision — if approved, building owners may need to prepare energy data for future reporting.",
+      "key_dates": [],
+      "industries": "Landlord & Property Mgmt, Construction & Development",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "7.7",
+      "source_body": "7.7\nBUILDING BENCHMARK BC\n1.\nBuilding Benchmark BC (BBBC) 2026-04-14.pdf\n2.\nAttachment 1 - Building Benchmark BC Annual Report 2024 (Year 5) 2026-04-14 .pdf\nPurpose:\nTo update Council on Building Benchmark BC and seek authorization to participate in Year 7.",
+      "attachments": [
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89186",
+          "title": "Building Benchmark BC (BBBC) 2026-04-14.pdf"
+        },
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89187",
+          "title": "Attachment 1 - Building Benchmark BC Annual Report 2024 (Year 5) 2026-04-14 .pdf"
+        }
+      ],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Agenda",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:01:14.241629"
+    },
+    {
+      "id": 71,
+      "title": "Proposed: Grant FortisBC right-of-way for gas works on Burnaby Mountain",
+      "summary": "Council will consider granting a statutory right-of-way (a legal permission to use a specific piece of land) to FortisBC Energy Inc. over parts of 7950 Pandora Street and 1200 Gaglardi Way on Burnaby Mountain. If approved, this would allow FortisBC to install, operate, and maintain natural gas pipes and equipment on that land. This is a proposed decision — it has not been approved yet.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Natural Resources, Construction & Development",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "7.8",
+      "source_body": "7.8\n7950 PANDORA ST AND 1200 GAGLARDI WAY - BURNABY MOUNTAIN - STATUTORY RIGHT-OF-WAY FOR FORTIS BC\n1.\n7950 Pandora St. and 1200 Gaglardi Way - Burnaby Mountain Fortis SRW 2026-04-14 .pdf\n2.\nAttachment 1 - Sketch 1 to 4 (7950 Pandora St. and 1200 Gaglardi Way) 2026-04-14.pdf\nPurpose: To seek Council approval to grant Statutory Right-of-Way in favour of FortisBC Energy Inc. (FortisBC) over a portion of 7950 Pandora Street and 1200 Gaglardi Way to permit the installation, operations and maintenance of natural gas works.",
+      "attachments": [
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89153",
+          "title": "7950 Pandora St. and 1200 Gaglardi Way - Burnaby Mountain Fortis SRW 2026-04-14 "
+        },
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89154",
+          "title": "Attachment 1 - Sketch 1 to 4 (7950 Pandora St. and 1200 Gaglardi Way) 2026-04-14"
+        }
+      ],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Agenda",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:01:14.242192"
+    },
+    {
+      "id": 72,
+      "title": "Council to vote on $1.35M modular four-plex pilot at 8315 14th Avenue",
+      "summary": "Burnaby City Council is set to vote on awarding a $1,354,463 contract to Echelon Creative Inc. to build a modular four-plex housing unit as a pilot project at 8315 14th Avenue. The three-storey building will include four residential units (one accessible), approximately 5,319 sq ft of gross floor area, and private outdoor space for each unit. External funding includes $150,000 from Fortis BC and $200,000 from the National Research Council. Project delivery is estimated at 6–8 months, with an expected useful life of 50–60 years (up to 80+ years with maintenance). The City will retain ownership and lease the units as part of its residential rental portfolio.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "7.9",
+      "source_body": "7.9\nCA - DEVELOPMENT OF MODULAR HOUSING FOUR-PLEX AT 8315 14TH AVENUE\n1.\nCA - Development Modular Housing Four-Plex Unit Final 2026-04-14.pdf\nPurpose:\nTo obtain Council approval for a Contract Award (CA) for the development of a modular four-plex housing unit as a pilot project\n.",
+      "attachments": [
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89188",
+          "title": "CA - Development Modular Housing Four-Plex Unit Final 2026-04-14.pdf"
+        }
+      ],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Agenda",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:01:14.242707"
+    },
+    {
+      "id": 73,
+      "title": "Council to vote on $2.4M Jerry Rogers Creek culvert replacement contract",
+      "summary": "Burnaby City Council will vote on awarding a $2,404,076 contract to HANNA Infrastructure Ltd. for the Jerry Rogers Creek Culvert Replacement Project. The project includes installing 45 lineal meters of 1.8m x 1.8m box culvert, 40 lineal meters of DI watermain, concrete storm pipe tie-ins, catch basins, and replacement of a Metro Vancouver sanitary main. The culvert is designed to meet 100-year climate change flows.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "7.10",
+      "source_body": "7.10\nCA - (CB-8039) JERRY ROGERS CREEK CULVERT REPLACEMENT\n1.\nCA - CB-8039 Jerry Rogers Creek Culvert Replacement 2026-04-14.pdf\nPurpose: To obtain Council approval for a Contract Award (CA) for the Jerry Rogers Creek Culvert Replacement Project.",
+      "attachments": [
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89177",
+          "title": "CA - CB-8039 Jerry Rogers Creek Culvert Replacement 2026-04-14.pdf"
+        }
+      ],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Agenda",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:01:14.243254"
+    },
+    {
+      "id": 74,
+      "title": "Council to vote on $1.36M Central Valley Greenway culvert and paving contract",
+      "summary": "Burnaby City Council will vote on awarding a $1,360,391 contract to Drake Excavating (2016) Ltd. to replace 16 culverts along the Central Valley Greenway trail between Sperling Avenue and Douglas Road, including major culvert replacements at Beecher Creek and Crab Apple Creek, plus final paving of the trail. The Beaver Creek culvert on Deer Lake was added to the project. Funding comes from the 2026-2030 Financial Plan, with the roads component funded by TransLink.",
+      "action_required": null,
+      "key_dates": [
+        {
+          "label": "Council vote on Central Valley Greenway contract award",
+          "date": "2026-04-14"
+        }
+      ],
+      "industries": "Construction & Development",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "7.11",
+      "source_body": "7.11\nCA - (CB-3264) CENTRAL VALLEY GREENWAY CULVERT REPLACEMENT AND PAVING WORKS\n1.\nCA - (CB-3264) Central Valley Greenway Culvert Replacement 2026-04-14.pdf\nPurpose: To obtain Council approval for a Contract Award (CA) for the Central Valley Greenway Culvert Replacement and Paving Project.",
+      "attachments": [
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89180",
+          "title": "CA - (CB-3264) Central Valley Greenway Culvert Replacement 2026-04-14.pdf"
+        }
+      ],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Agenda",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:01:14.243782"
+    },
+    {
+      "id": 75,
+      "title": "Council to vote on $450,000 contract change for cellular voice and data services",
+      "summary": "Burnaby City Council is set to vote on approving a $450,000 contract change (including taxes) to Rogers Communications Canada Inc. for cellular voice and data services. The change covers a month-to-month extension for up to 9 months while the city transitions to a new provider selected through RFP #18-02-20. The total estimated contract value including this change is $3,495,900. Final payment will be based on actual services delivered and hourly rates.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Technology",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "7.12",
+      "source_body": "7.12\nCC - TELEPHONY - CELLULAR VOICE AND DATA SERVICES\n1.\nCC - Telephony - Cellular Voice and Data Services 2026-04-14.pdf\n2.\nAttachment 1 - Contract History (Telephony) 2026-04-14 .pdf\n3.\nAttachment 2 - Council Report dated September 25, 2023 (Telephony) 2026-04-14 .pdf\nPurpose:\nTo obtain Council approval for a Contract Change (CC) for Telephony - Cellular Voice and Data Services.",
+      "attachments": [
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89181",
+          "title": "CC - Telephony - Cellular Voice and Data Services 2026-04-14.pdf"
+        },
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89182",
+          "title": "Attachment 1 - Contract History (Telephony) 2026-04-14 .pdf"
+        },
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89183",
+          "title": "Attachment 2 - Council Report dated September 25, 2023 (Telephony) 2026-04-14 .p"
+        }
+      ],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Agenda",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:01:14.244265"
+    },
+    {
+      "id": 76,
+      "title": "Council to vote on $579,600 contract change for HVAC maintenance at city buildings",
+      "summary": "Burnaby City Council will vote on a contract change of $579,600 (including tax) to Just Mechanical Ltd. for HVAC maintenance and repair services at various city-owned buildings. The change extends the existing contract through June 30, 2026, while the City goes back to market for competitive pricing. The total estimated contract value including this change is $5,412,750.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "7.13",
+      "source_body": "7.13\nCC - HVAC SYSTEM MAINTENANCE & REPAIR SERVICES\n1.\nCC - HVAC System Maint. and Repair Services 2026-04-14.pdf\n2.\nAttachment 1 - Contract History (HVAC System) 2026-04-14 .pdf\n3.\nAttachment 2 - Previous Council Report dated May 27, 2025 (HVAC System) 2026-04-14 .pdf\nPurpose: To obtain Council approval for a contract change (CC) for HVAC system maintenance & repair services at various City-owned buildings.",
+      "attachments": [
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89174",
+          "title": "CC - HVAC System Maint. and Repair Services 2026-04-14.pdf"
+        },
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89175",
+          "title": "Attachment 1 - Contract History (HVAC System) 2026-04-14 .pdf"
+        },
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89176",
+          "title": "Attachment 2 - Previous Council Report dated May 27, 2025 (HVAC System) 2026-04-"
+        }
+      ],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Agenda",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:01:14.244778"
+    },
+    {
+      "id": 77,
+      "title": "Council to vote on $394,942 Cisco WebEx contact centre licence renewal",
+      "summary": "Burnaby City Council is set to vote on a proposed three-year contract renewal with Long View Systems Corporation for the Cisco WebEx Contact Center licence subscription, valued at $394,942 including taxes. If approved, the renewal would run from May 5, 2026 to May 4, 2029, and is needed to maintain the city's customer service centre and IT phone support.",
+      "action_required": null,
+      "key_dates": [
+        {
+          "label": "Council vote on Cisco WebEx licence renewal",
+          "date": "2026-04-14"
+        },
+        {
+          "label": "Cisco WebEx licence renewal takes effect",
+          "date": "2026-05-05"
+        }
+      ],
+      "industries": "Technology",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "7.14",
+      "source_body": "7.14\nCR - CISCO WEBEX CONTACT CENTER LICENSE SUBSCRIPTION\n1.\nCR - Cisco WebEx Contact Center License Subscriptions 2026-04-14.pdf\n2.\nAttachment 1 - Contract History (Cisco) 2026-04-14 .pdf\nPurpose: To obtain Council approval for a Contract Renewal (CR) for Cisco WebEx Contact Center License Subscription.",
+      "attachments": [
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89184",
+          "title": "CR - Cisco WebEx Contact Center License Subscriptions 2026-04-14.pdf"
+        },
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89185",
+          "title": "Attachment 1 - Contract History (Cisco) 2026-04-14 .pdf"
+        }
+      ],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Agenda",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:01:14.245289"
+    },
+    {
+      "id": 78,
+      "title": "Burnaby council to vote on $1.67M fire protection contract renewal to A.W Fireguard",
+      "summary": "Council will vote on renewing a three-year contract with A.W Fireguard Supplies (1991) Ltd. for fire protection system installation, maintenance, and repair at city buildings. The renewal is valued at $1,666,061 including tax, covering July 1, 2026 to June 30, 2029. The original two-year contract was $650,075; a prior change added $7,350 for additional sites including Fire Halls #4 and #8, Rosemary Brown Recreation Centre, Norland Daycare, and Laurel Street Warehouse.",
+      "action_required": null,
+      "key_dates": [
+        {
+          "label": "Council vote on fire protection contract renewal — Burnaby",
+          "date": "2026-04-14"
+        },
+        {
+          "label": "Contract renewal takes effect — Burnaby fire protection services",
+          "date": "2026-07-01"
+        }
+      ],
+      "industries": "Construction & Development, Professional Services",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "7.15",
+      "source_body": "7.15\nCR - FIRE PROTECTION SYSTEMS AND EQUIPMENT INSTALLATION MAINTENANCE AND REPAIR SERVICES\n1.\nCR – Fire Protection Systems and Equipment Installation Mtnce and Repair Services 2026-04-14 .pdf\n2.\nAttachment 1 - Contract History (Fire Services) 2026-04-14 .pdf\nPurpose: To obtain Council approval for a Contract Renewal (CR) for Fire Protection Systems and Equipment Installation Maintenance and Repair Services.",
+      "attachments": [
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89172",
+          "title": "CR – Fire Protection Systems and Equipment Installation Mtnce and Repair Service"
+        },
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89173",
+          "title": "Attachment 1 - Contract History (Fire Services) 2026-04-14 .pdf"
+        }
+      ],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Agenda",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:01:14.245774"
+    },
+    {
+      "id": 79,
+      "title": "Burnaby Lake Overpass plaque wording approved for April 26 opening",
+      "summary": "Council is set to vote on the exact wording and design for a commemorative plaque that will be installed when the new Burnaby Lake Overpass officially opens on April 26, 2026. The plaque will mark the opening of the overpass and list the mayor, councillors, chief administrative officer, owner's engineer (McElhanney), contractor (Jacob Bros Construction Inc.), and project partners (TransLink, Government of Canada, Province of BC). This is a routine approval of the plaque's text and layout, not a decision on the overpass itself.",
+      "action_required": null,
+      "key_dates": [
+        {
+          "label": "Burnaby Lake Overpass grand opening and plaque unveiling",
+          "date": "2026-04-26"
+        }
+      ],
+      "industries": "Construction & Development",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "7.16",
+      "source_body": "7.16\nBURNABY LAKE OVERPASS OFFICIAL OPENING PLAQUE\n1.\nBurnaby Lake Overpass Official Opening Plaque 2026-04-14.pdf\n2.\nAttachment 1 - Burnaby Lake Overpass Plaque 2026-04-14.pdf\nPurpose: To obtain Council approval for the wording and content for the commemorative plaque to be installed as part of the opening of Burnaby Lake Overpass.",
+      "attachments": [
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89192",
+          "title": "Burnaby Lake Overpass Official Opening Plaque 2026-04-14.pdf"
+        },
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89193",
+          "title": "Attachment 1 - Burnaby Lake Overpass Plaque 2026-04-14.pdf"
+        }
+      ],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Agenda",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:01:14.246287"
+    },
+    {
+      "id": 80,
+      "title": "Burnaby to hire external reviewer of city financial practices",
+      "summary": "Council will vote on engaging a qualified external reviewer to assess the City's financial planning, operating practices, and capital investment priority setting. The review aims to safeguard assets and mitigate risks of significant tax increases and rising service costs, driven by a sharp decline in density bonus revenues and higher procurement costs.",
+      "action_required": "Watch for the council decision — if approved, this could affect future business taxes and service fees in Burnaby.",
+      "key_dates": [],
+      "industries": "Professional Services",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "8.1",
+      "source_body": "8.1\nFMC - EXTERNAL REVIEW OF CITY FINANCIAL PRACTICES\n1.\nFMC - External Review of City Financial Practices 2026-04-14.pdf\nPurpose: To seek Council approval to engage an external reviewer to help safeguard the City's assets and financial standing, and to mitigate the risk of significant tax increases and rising service costs for businesses and residents.",
+      "attachments": [
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89156",
+          "title": "FMC - External Review of City Financial Practices 2026-04-14.pdf"
+        }
+      ],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Agenda",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:01:14.247213"
+    },
+    {
+      "id": 81,
+      "title": "Proposed: 20-storey, 215-unit rental rezoning at 5035 Beresford Street",
+      "summary": "Burnaby Council is set to vote on whether to forward a rezoning application (REZ #25-11) for a proposed 20-storey apartment building at 5035 Beresford Street to First and Second Reading. The project would rezone the site from M4 Special Industrial to CD Comprehensive Development, allowing 215 market rental units (32 studio, 98 one-bedroom, 65 two-bedroom, 20 three-bedroom) with 574.74 m² outdoor and 646.16 m² indoor amenity space, 38 vehicle parking spaces (100% EV ready), 441 secured bicycle spaces, and 1 loading space. The rezoning prerequisites include a Housing Agreement for non-market rental units, a 1.9 m road dedication along Beresford Street, and 3.0 m x 3.0 m corner cuts at Dunblane Avenue intersections.",
+      "action_required": "Watch for the public hearing date — this is your chance to have a say on the proposed rezoning.",
+      "key_dates": [
+        {
+          "label": "Council vote to forward rezoning to First and Second Reading",
+          "date": "2026-04-14"
+        }
+      ],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "8.2",
+      "source_body": "8.2\nPDC - REZ #25-11 - 5035 BERESFORD STREET - PROPOSED 20-STOREY APARTMENT DEVELOPMENT (ROYAL OAK COMMUNITY PLAN)\n1.\nPDC- REZ 25-11 5053 Beresford Street 2026-04-14.pdf\n2.\nAttachment 1 - REZ 25- 11 - Part 1 of 3 - Sketch 1 and 2 2026-04-14.pdf\n3.\nAttachment 1 - REZ 25-11 - Part 2 of 3 - Shadow Study, Site Plan and Subdivision Plan 2026-04-14.pdf\n4.\nAttachment 1 - REZ 25-11 - Part 3 of 3 - Front Elevation, West and East Elevations 2026-04-14.pdf\n5.\nAttachment 2 - REZ 25-11 - Development Statistics 2026-04-14.pdf\n6.\nAttachment 3 - REZ 25-11 - Rezoning Prerequisites 2026-04-14.pdf\nPurpose: To seek Council authorization to forward REZ #25-11 to First and Second Reading at a future Council meeting.",
+      "attachments": [
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89157",
+          "title": "PDC- REZ 25-11 5053 Beresford Street 2026-04-14.pdf"
+        },
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89158",
+          "title": "Attachment 1 - REZ 25- 11 - Part 1 of 3 - Sketch 1 and 2 2026-04-14.pdf"
+        },
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89159",
+          "title": "Attachment 1 - REZ 25-11 - Part 2 of 3 - Shadow Study, Site Plan and Subdivision"
+        },
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89160",
+          "title": "Attachment 1 - REZ 25-11 - Part 3 of 3 - Front Elevation, West and East Elevatio"
+        },
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89161",
+          "title": "Attachment 2 - REZ 25-11 - Development Statistics 2026-04-14.pdf"
+        },
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89162",
+          "title": "Attachment 3 - REZ 25-11 - Rezoning Prerequisites 2026-04-14.pdf"
+        }
+      ],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Agenda",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:01:14.248060"
+    },
+    {
+      "id": 82,
+      "title": "Mayor's Task Force on Burnaby Economic Growth — final recommendations due June 23, 2026",
+      "summary": "Burnaby City Council received an interim update on the Mayor's Task Force on Burnaby Economic Growth and Resilience. The Task Force has identified strategic priorities and is validating them through surveys and 10 stakeholder interviews conducted March 13–April 2, 2026. Three additional workshops will run April 16 to end of May 2026, with formal recommendations to Council on June 23, 2026. No decisions or new rules are being voted on yet.",
+      "action_required": null,
+      "key_dates": [
+        {
+          "label": "Task Force reconvenes for final workshops — Burnaby",
+          "date": "2026-04-16"
+        },
+        {
+          "label": "Final recommendations presented to Council — Burnaby",
+          "date": "2026-06-23"
+        }
+      ],
+      "industries": "Professional Services, Retail, Food Service",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "9.1",
+      "source_body": "9.1\nUPDATE ON MAYOR'S TASK FORCE ON BURNABY ECONOMIC GROWTH AND RESILIENCE\n1.\nUpdate on Mayor's Task Force on Burnaby Economic Growth and Resilience 2026-04-14.pdf\nPurpose:\nTo update members of Council on the progress of the Mayor’s Task Force on Burnaby Economic Growth and Resilience.",
+      "attachments": [
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89152",
+          "title": "Update on Mayor's Task Force on Burnaby Economic Growth and Resilience 2026-04-1"
+        }
+      ],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Agenda",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:01:14.248888"
+    },
+    {
+      "id": 83,
+      "title": "Developer forfeits $1,363,500 security for public pier at 8351 Fraser Reach Court",
+      "summary": "Council received a report that Oxford Properties forfeited a $1,363,500 security deposit instead of building a public amenity pier at 8351 Fraser Reach Court, part of the Riverbend Business Park rezoning. The City will hold the funds for future use on the pier or an alternative public amenity along the Fraser Foreshore or elsewhere in Burnaby. The covenant will be discharged from title once the forfeited security is received.",
+      "action_required": "Watch for Council's decision on how the forfeited $1,363,500 will be used — this could affect future public amenities in the area.",
+      "key_dates": [],
+      "industries": "Construction & Development",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "9.2",
+      "source_body": "9.2\nAMENITY PIER COVENANT - DEVELOPER ELECTION TO FORFEIT SECURITY\n1.\nAmenity Pier Covenant  Developer Election to Forfeit Security 2026-04-14.pdf\n2.\nAttachment 1 - Sketch 1 and 2 (Amenity Pier Covenant) 2026-04-14.pdf\nPurpose: To provide Council with information regarding the owner’s election under a Section 219 Covenant registered on title at 8351 Fraser Reach Court to forfeit the posted security and not proceed with construction of the public amenity pier contemplated under the Riverbend Business Park rezoning approvals, and the City’s holding of the forfeited security pending future Council direction.",
+      "attachments": [
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89178",
+          "title": "Amenity Pier Covenant  Developer Election to Forfeit Security 2026-04-14.pdf"
+        },
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89179",
+          "title": "Attachment 1 - Sketch 1 and 2 (Amenity Pier Covenant) 2026-04-14.pdf"
+        }
+      ],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Agenda",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:01:14.249675"
+    },
+    {
+      "id": 84,
+      "title": "Burnaby North Road BIA bylaw: 5-year levy up to $1.75M, vote pending",
+      "summary": "Council is set to vote on Bylaw No. 14797, which would create a Business Improvement Area (BIA) along Burnaby North Road for a 5-year term (April 1, 2026 – March 31, 2031). If approved, owners of properties classified as Class 5 (light industry) or Class 6 (business/other) within the BIA would pay a local service tax based on assessed value to fund up to $1,755,147.81 in grants to the Burnaby North Road Business Association. The bylaw has not been approved yet — this is still a proposal under consideration.",
+      "action_required": "If you own a business or property in the proposed Burnaby North Road BIA area, watch for the council decision — this could mean new fees and obligations for you.",
+      "key_dates": [
+        {
+          "label": "Burnaby North Road BIA bylaw first reading",
+          "date": "2026-02-24"
+        }
+      ],
+      "industries": "Retail, Landlord & Property Mgmt, Professional Services",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "11.1.1",
+      "source_body": "11.1.1\n#14797 - Burnaby Business Improvement Area (Burnaby North Road) Bylaw 2026\n1.\n14797 Burnaby BIA (Burnaby North Road) Bylaw 2026 (FA).pdf\nPurpose: to designate the area of the Burnaby North Road Business Improvement Association\n(Item 7.3., Administrative Report, Council February 24, 2026)\nsee Item 7.2.\nNOTE: sufficient petitions against the proposed BIA have been received",
+      "attachments": [
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89150",
+          "title": "14797 Burnaby BIA (Burnaby North Road) Bylaw 2026 (FA).pdf"
+        }
+      ],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Agenda",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:01:14.250623"
+    }
+  ],
+  "minutes_briefs": [
+    {
+      "id": 85,
+      "title": "Council appointed Dennis Back as Chief Election Officer for 2026 election",
+      "summary": "Burnaby City Council has unanimously approved the appointment of Dennis Back as the Chief Election Officer for the 2026 City of Burnaby General Local Election. This means Mr. Back will be responsible for overseeing the planning and running of the next municipal election, ensuring it is conducted fairly and according to the rules. The appointment was made on the recommendation of the General Manager of Corporate Services.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "7.1",
+      "source_body": "7.1 APPOINTMENT OF CHIEF ELECTION OFFICER\n\nThe General Manager Corporate Services submitted a report recommending the appointment of the Chief Election Officer for the 2026 City of Burnaby General Local Election.\nMOVED AND SECONDED\nResolution No. 2026 - 165\nTHAT Dennis Back be appointed Chief Election Officer for the 2026 City of Burnaby General Local Election.\nCARRIED UNANIMOUSLY",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Minutes",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:03:28.939566"
+    },
+    {
+      "id": 86,
+      "title": "Council approved Certificate of Sufficiency for North Road BIA renewal",
+      "summary": "Burnaby City Council has received and approved the Certificate of Sufficiency for the North Road Business Improvement Area (BIA) renewal. This means the petitions submitted against the proposed BIA renewal bylaw were reviewed, and the renewal process can move forward for a 5-year period. A BIA is a local business association that collects a levy from businesses in the area to fund improvements and marketing. The decision was carried unanimously.",
+      "action_required": "No immediate action required — the BIA renewal process is proceeding. Watch for future notices about the new bylaw's effective date.",
+      "key_dates": [],
+      "industries": "Retail, Professional Services, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "7.2",
+      "source_body": "7.2 CERTIFICATE OF SUFFICIENCY: 2026 BURNABY NORTH ROAD BIA RENEWAL\nThe General Manager Corporate Services submitted a report providing results for the petitions submitted against the proposed North Road Business Improvement Area (BIA) renewal bylaw for a 5-year period.\nMOVED AND SECONDED\nResolution No. 2026 - 166\nTHAT the report titled “Certificate of Sufficiency: North Road BIA Renewal” dated April 14, 2026 be received for information;\nTHAT the Certificate of Sufficiency dated April 14, 2026, certified by the Corporate Officer and included as Attachment 1 to this report, be received; and\nTHAT a copy of this report be sent to the President of the Burnaby North Road Business Improvement Association.\nCARRIED UNANIMOUSLY",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Minutes",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:03:28.941824"
+    },
+    {
+      "id": 87,
+      "title": "Council approved annual corporate maintenance for Burnaby Housing Authority",
+      "summary": "Burnaby City Council approved the 2026 annual corporate maintenance matters for the Burnaby Housing Authority Corporation (BHA), which is a city-owned housing corporation. Council authorized the annual general meeting to be handled through a unanimous shareholders resolution, set December 12, 2026 as the annual reference date, appointed KPMG as the auditor until the next annual meeting, received the BHA's financial statements for the period ending December 31, 2025, and appointed directors as identified in the report. The Shareholder Representative was directed to sign any necessary resolutions to carry out these decisions.",
+      "action_required": null,
+      "key_dates": [
+        {
+          "label": "BHA annual reference date set",
+          "date": "2026-12-12"
+        }
+      ],
+      "industries": "Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "7.3",
+      "source_body": "7.3 BHA - SHAREHOLDER'S CORPORATE MAINTENANCE MATTERS FOR 2026\nThe General Manager Planning and Development and the Deputy Chief Administrative Officer/Chief Financial Officer submitted a report seeking Council approval with respect to certain annual shareholder’s corporate maintenance matters for 2026 on behalf of the Burnaby Housing Authority Corporation (BHA).\nMOVED AND SECONDED\nResolution No. 2026 - 167\nTHAT the City, as outlined in the report titled “BHA – Shareholder’s Corporate Maintenance Matters for 2026”, dated April 14, 2026, as sole shareholder of the Burnaby Housing Authority Corporation (BHA): and;\n• authorize the business of the annual general meeting of the BHA for the 2026 year to be transacted through an unanimous shareholders resolution;\n• select December 12, 2026 as the annual reference date for the BHA;\n• appoint KPMG as auditor of the BHA until the next annual general meeting of the BHA, and the directors of the BHA be authorized to determine the remuneration payable to the auditor, and to give the auditor notice of appointment as required by the Business Corporations Act (British Columbia);\n• receive the BHA’s financial statements for the period ending December 31, 2025; and\n• appoint the individuals identified in section 3.3 as directors of the BHA in accordance with the terms set out in section.\nTHAT the Shareholder Representative be directed to execute such shareholders resolutions as necessary to give effect to the foregoing resolutions.\nCARRIED UNANIMOUSLY",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Minutes",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:03:28.942442"
+    },
+    {
+      "id": 88,
+      "title": "Council received Burnaby Housing Authority's 2025 financial statements and 2026 budget",
+      "summary": "Burnaby City Council unanimously received the Burnaby Housing Authority's (BHA) 2025 Annual Financial Statements and 2026 Annual Operating Budget for information. This means council has reviewed and accepted the reports as presented, but no further action or approval was required. The financial statements cover the period from June 14, 2024 to December 31, 2025, and include audited consolidated financials. The 2026 operating budget was also received for council's information.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Landlord & Property Mgmt, Tenant",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "7.4",
+      "source_body": "7.4 BHA - 2025 FINANCIAL STATEMENTS AND 2026 OPERATING BUDGET\nThe Deputy Chief Administrative Officer/Chief Financial Officer submitted a report presenting the Burnaby Housing Authority’s (BHA) 2025 Annual Financial Statements and 2026 Annual Operating Budget.\n*Councillor Dhaliwal left at 5:29 pm returned at 5:32 pm\nMOVED AND SECONDED\nResolution No. 2026 - 168\nTHAT the report titled “BHA – 2025 Financial Statements and 2026 Operating Budget”, dated for April 14, 2026, be received for information;\nTHAT the Burnaby Housing Authority Corporation’s (BHA) 2025 Annual Financial Statements, which includes the audited Consolidated Financial Statements, for the period from June 14, 2024 to December 31, 2025 be received; and\nTHAT the BHA’s 2026 Annual Operating Budget be received.\nCARRIED UNANIMOUSLY",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Minutes",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:03:28.942946"
+    },
+    {
+      "id": 89,
+      "title": "Council approved bylaw amendments for e-bike share and e-scooter pilots",
+      "summary": "Burnaby City Council unanimously approved amendments to the Burnaby Street and Traffic Bylaw, the Parks Regulation Bylaw, and the Bylaw Notice Enforcement Bylaw. These changes allow the city to run an E-Bike Share Pilot Program and to manage the provincial Electric Kick Scooter Pilot Program within Burnaby. The bylaw amendments were passed as described in a report dated April 14, 2026.",
+      "action_required": "Check if your business operates in areas where e-bikes or e-scooters will be used, and review the updated bylaws for any new rules on parking, riding, or enforcement.",
+      "key_dates": [],
+      "industries": "Transportation & Logistics, Retail",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "7.5",
+      "source_body": "7.5 PROPOSED BYLAW AMENDMENTS TO ADDRESS E-BIKE SHARE PILOT PROGRAM AND PROVINCIAL ELECTRIC KICK SCOOTER PILOT PROGRAM\nThe General Manager Engineering submitted a report proposing amendments to the Burnaby Street and Traffic Bylaw and the Burnaby Parks Regulation Bylaw to implement the E-Bike Share Pilot Program and address the provincial Electric Kick Scooter Pilot Program within the City.\nMOVED AND SECONDED\nResolution No. 2026 - 169\nTHAT the City Solicitor be authorized to bring forward amendments to the following bylaws to implement the E-Bike Share Pilot Program and address the provincial Electric Kick Scooter Pilot Program:\n• Burnaby Street and Traffic Bylaw 1961;\n• Burnaby Parks Regulation Bylaw 1979; and\n• Burnaby Bylaw Notice Enforcement Bylaw 2009,\n\nas described in the report titled “Proposed Bylaw Amendments to Address E-Bike Share Pilot Program and Provincial Electric Kick Scooter Pilot Program”, dated April 14, 2026.\nCARRIED UNANIMOUSLY",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Minutes",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:03:28.943428"
+    },
+    {
+      "id": 90,
+      "title": "Council approved submitting Burnaby's housing progress report to BC",
+      "summary": "Burnaby City Council has approved the submission of a 6-month interim progress report to the BC Ministry of Housing and Municipal Affairs, as required by the provincial Housing Supply Act. The report shows how Burnaby is meeting its housing targets set by the province. Council voted unanimously to receive the report and authorize the General Manager of Planning and Development to send the completed progress report form to the province. This is a routine reporting step under the Housing Supply Act, which requires municipalities to regularly update the province on their progress toward meeting housing targets.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "7.6",
+      "source_body": "7.6 PROVINCIAL HOUSING TARGET ORDER 6-MONTH INTERIM PROGRESS REPORT\nThe General Manager Planning and Development submitted a report presenting the Housing Target Order and obtain Council authorization to forward Burnaby’s Housing Target Progress Report Form to the BC Ministry of Housing and Municipal Affairs, as required by the Housing Supply Act and Housing Supply Regulation.\nMOVED AND SECONDED\nResolution No. 2026 - 170\nTHAT the report titled “Provincial Housing Target Order 6-Month Interim Progress Report”, dated April 14, 2026, be received for information; and\nTHAT the General Manager Planning and Development be authorized to submit the Housing Target Progress Report Form, as found in Attachment 2, to the BC Ministry of Housing and Municipal Affairs.\nCARRIED UNANIMOUSLY",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Minutes",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:03:28.943887"
+    },
+    {
+      "id": 91,
+      "title": "Council approved Burnaby's participation in Building Benchmark BC Year 7",
+      "summary": "Burnaby City Council has authorized the city to participate in Year 7 of the Building Benchmark BC program. This program tracks energy and water use in large buildings to help owners improve efficiency and reduce emissions. No additional funding is needed beyond the existing 2026 budget. The decision was made unanimously at the April 14, 2026 council meeting.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Landlord & Property Mgmt, Construction & Development",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "7.7",
+      "source_body": "7.7 BUILDING BENCHMARK BC\nThe General Manager Planning and Development submitted a report providing Council with an update on Building Benchmark BC and seeking authorization to participate in Year 7.  \nMOVED AND SECONDED\nResolution No. 2026 - 171\nTHAT staff be authorized to participate in Building Benchmark BC Year 7, as described in the report titled “Building Benchmark BC”, dated April 14, 2026, with no additional funding required beyond the existing 2026 budget.\nCARRIED UNANIMOUSLY",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Minutes",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:03:28.944345"
+    },
+    {
+      "id": 92,
+      "title": "Council approved FortisBC gas works right-of-way on Burnaby Mountain",
+      "summary": "Burnaby City Council unanimously approved granting a Statutory Right-of-Way to FortisBC Energy Inc. over portions of 7950 Pandora Street and 1200 Gaglardi Way. A Statutory Right-of-Way is a legal permission that lets a utility company use a specific part of someone else's land for its equipment. This approval allows FortisBC to install, operate, and maintain natural gas infrastructure needed to service the Burnaby Mountain Conservation Area.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Natural Resources, Construction & Development",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "7.8",
+      "source_body": "7.8 7950 PANDORA ST AND 1200 GAGLARDI WAY - BURNABY MOUNTAIN - STATUTORY RIGHT-OF-WAY FOR FORTIS BC\nThe General Manager Lands and Facilities submitted a report seeking Council approval to grant Statutory Right-of-Way in favour of FortisBC Energy Inc. (FortisBC) over a portion of 7950 Pandora Street and 1200 Gaglardi Way to permit the installation, operations and maintenance of natural gas works.\nMOVED AND SECONDED\nResolution No. 2026 - 172\nTHAT the granting and execution of Statutory Right-of-Way over a portion of 7950 Pandora St. and 1200 Gaglardi Way in favour of FortisBC Energy Inc. for the installation, operations, and maintenance of infrastructure required to service Burnaby Mountain Conservation Area, as outlined in the report titled “7950 Pandora St & 1200 Gaglardi Way – Burnaby Mountain – Statutory Right-of-Way for FortisBC”, dated April 14, 2026, be approved.\nCARRIED UNANIMOUSLY",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Minutes",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:03:28.944847"
+    },
+    {
+      "id": 93,
+      "title": "Council approved $1.35M contract for modular housing four-plex at 8315 14th Avenue",
+      "summary": "Burnaby City Council approved a contract award to Echelon Creative Inc. for $1,354,463 (including taxes) to build a modular four-plex housing unit as a pilot project at 8315 14th Avenue. The project is a completed decision — council voted in favour, with Councillor Dhaliwal opposed. Final payment will be based on actual quantities of goods delivered and unit prices quoted. This is a construction and development project for affordable housing.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "7.9",
+      "source_body": "7.9 CA - DEVELOPMENT OF MODULAR HOUSING FOUR-PLEX AT 8315 14TH AVENUE\nThe Deputy General Manager Finance submitted a report seeking Council approval for a Contract Award (CA) for the development of a modular four-plex housing unit as a pilot project.\nMOVED AND SECONDED\nResolution No. 2026 - 173\nTHAT a contract award to Echelon Creative Inc. for an estimated cost of $1,354,463 including taxes, as outlined in the report titled “CA – Development of Modular Housing Four-Plex Unit at 8315 – 14th Avenue”, dated April 14, 2026, be approved; and\nTHAT final payment will be based on actual quantities of goods delivered and unit prices quoted.\nCARRIED\n(Opposed: Councillor Dhaliwal)",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Minutes",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:03:28.945337"
+    },
+    {
+      "id": 94,
+      "title": "Council approved $2.4M contract to HANNA Infrastructure for Jerry Rogers Creek culvert replacement",
+      "summary": "Burnaby City Council unanimously approved a $2,404,076 contract award to HANNA Infrastructure Ltd. for the Jerry Rogers Creek Culvert Replacement Project. The contract covers the estimated cost including taxes, and final payment will be based on actual quantities of work completed and the unit prices that were tendered. This decision is final and the project will proceed.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "7.10",
+      "source_body": "7.10 CA - (CB-8039) JERRY ROGERS CREEK CULVERT REPLACEMENT\n\nThe Deputy General Manager Finance submitted a report seeking Council approval for a Contract Award (CA) for the Jerry Rogers Creek Culvert Replacement Project.\nMOVED AND SECONDED\nResolution No. 2026 - 174\nTHAT a contract award to HANNA Infrastructure Ltd., for an estimated cost of $2,404,076 including taxes, as outlined in the report titled “CA – (CB-8039) Jerry Rogers Creek Culvert Replacement” dated April 14, 2026 be approved; and\nTHAT final payment will be based on the actual quantities of services delivered and unit prices as tendered.\nCARRIED UNANIMOUSLY",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Minutes",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:03:28.945819"
+    },
+    {
+      "id": 95,
+      "title": "Council approved $1.36M contract to Drake Excavating for Greenway culvert work",
+      "summary": "Burnaby City Council approved a $1,360,391 contract award to Drake Excavating (2016) Ltd. for the Central Valley Greenway Culvert Replacement and Paving Project. The contract covers replacing a culvert and repaving the pathway. Final payment will be based on actual work done and unit prices from the tender. This decision is final and work will proceed.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "7.11",
+      "source_body": "7.11 CA - (CB-3264) CENTRAL VALLEY GREENWAY CULVERT REPLACEMENT AND PAVING WORKS\nThe Deputy General Manager Finance submitted a report seeking Council approval for a Contract Award (CA) for the Central Valley Greenway Culvert Replacement and Paving Project\nMOVED AND SECONDED\nResolution No. 2026 - 175\nTHAT a contract award to Drake Excavating (2016) Ltd., for an estimated cost of $1,360,391 including taxes, as outlined in the report titled “CA – (CB-3264) Central Valley Greenway Culvert Replacement and Paving Works”, dated April 14, 2026 be approved; and\nTHAT final payment will be based on the actual quantities of services delivered and unit prices as tendered.\nCARRIED UNANIMOUSLY",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Minutes",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:03:28.946294"
+    },
+    {
+      "id": 96,
+      "title": "Council approved $450K contract change to Rogers for cellular services",
+      "summary": "Burnaby City Council unanimously approved a contract change to Rogers Communications Canada Inc. for cellular voice and data services. The change is estimated to cost $450,000 including taxes. Final payment will be based on the actual amount of services used and the hourly rates that were submitted. This decision is final and was passed at the council meeting.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Technology, Professional Services",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "7.12",
+      "source_body": "7.12 CC - TELEPHONY - CELLULAR VOICE AND DATA SERVICES\nThe Deputy General Manager Finance submitted a report seeking Council approval for a Contract Change (CC) for Telephony - Cellular Voice and Data Services.\nStaff undertook to provide additional information on the contract costs\nMOVED AND SECONDED\nResolution No. 2026 - 176\nTHAT a contract change to Rogers Communications Canada Inc. for an estimated cost of $450,000 including taxes, as outlined in the report titled “CC - Telephony - Cellular Voice and Data Services”, dated April 14, 2026 be approved; and\nTHAT final payment will be based on actual quantity of services delivered and hourly rates as submitted.\nCARRIED UNANIMOUSLY",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Minutes",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:03:28.946753"
+    },
+    {
+      "id": 97,
+      "title": "Council approved $579,600 contract change for HVAC maintenance with Just Mechanical",
+      "summary": "Burnaby City Council approved a contract change for HVAC system maintenance and repair services at various city-owned buildings. The change, awarded to Just Mechanical Ltd., has an estimated total cost of $579,600 including taxes. Final payment will be based on the actual quantity of services delivered and the hourly rate submitted. This decision is final and was carried unanimously.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development, Professional Services",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "7.13",
+      "source_body": "7.13 CC - HVAC SYSTEM MAINTENANCE & REPAIR SERVICES\nThe Deputy General Manager Finance submitted a report seeking Council approval for a contract change (CC) for HVAC system maintenance & repair services at various City-owned buildings.\nMOVED AND SECONDED\nResolution No. 2026 - 177\nTHAT a contract change to Just Mechanical Ltd. for an estimated total cost of $579,600 including taxes, as outlined in the report titled “CC – HVAC System Maintenance & Repair Services”, dated April 14, 2026, be approved; and\nTHAT final payment will be based on the actual quantity of services delivered and hourly rate submitted.\nCARRIED UNANIMOUSLY",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Minutes",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:03:28.947419"
+    },
+    {
+      "id": 98,
+      "title": "Council approved three-year Cisco WebEx license renewal for $394,942",
+      "summary": "Burnaby City Council approved a three-year contract renewal with Long View Systems Corporation for Cisco WebEx Contact Center license subscriptions. The estimated total cost is $394,942 including taxes. Final payment will be based on the actual number of licenses used and the agreed unit prices. This decision was made unanimously at the April 14, 2026 council meeting.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Technology",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "7.14",
+      "source_body": "7.14 CR - CISCO WEBEX CONTACT CENTER LICENSE SUBSCRIPTION\nThe Deputy General Manager Finance submitted a report seeking Council approval for a Contract Renewal (CR) for Cisco WebEx Contact Center License Subscription.\nMOVED AND SECONDED\nResolution No. 2026 - 178\nTHAT a three-year contract renewal to Long View Systems Corporation for an estimated amount of $394,942 including taxes, as outlined in the report titled “CR - Cisco WebEx Contact Center License Subscription”, dated April 14, 2026, be approved; and\nTHAT final payment will be based on the actual quantity of goods and services delivered and unit prices proposed.\nCARRIED UNANIMOUSLY",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Minutes",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:03:28.947910"
+    },
+    {
+      "id": 99,
+      "title": "Council approved $1.67M fire protection contract renewal with A.W Fireguard",
+      "summary": "Burnaby City Council unanimously approved a contract renewal with A.W Fireguard Supplies (1991) Ltd. for fire protection systems and equipment installation, maintenance, and repair services. The contract has an estimated total cost of $1,666,061 including taxes. Final payment will be based on the actual quantity of services delivered and the hourly rate submitted. This decision was made at the April 14, 2026 council meeting and is now in effect.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development, Professional Services",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "7.15",
+      "source_body": "7.15 CR - FIRE PROTECTION SYSTEMS AND EQUIPMENT INSTALLATION MAINTENANCE AND REPAIR SERVICES\nThe Deputy General Manager Finance submitted a report seeking Council approval for a Contract Renewal (CR) for Fire Protection Systems and Equipment Installation Maintenance and Repair Services.\n*Councillor Wang left at 6:38 pm and returned at 6:41 pm\nMOVED AND SECONDED\nResolution No. 2026 - 179\nTHAT a contract renewal to A.W Fireguard Supplies (1991) Ltd. for an estimated total cost of $1,666,061 including taxes, as outlined in the report titled “CR – Fire Protection Systems and Equipment Installation Maintenance and Repair Services”, dated April 14, 2026, be approved; and\nTHAT final payment will be based on the actual quantity of services delivered and hourly rate submitted.\nCARRIED UNANIMOUSLY",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Minutes",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:03:28.948481"
+    },
+    {
+      "id": 100,
+      "title": "Council approved wording for Burnaby Lake Overpass plaque",
+      "summary": "Burnaby City Council unanimously approved the wording and content for a commemorative plaque to be installed at the Burnaby Lake Overpass. The plaque will mark the official opening of the overpass. The approved language is outlined in section 3.1 of a report dated April 14, 2026.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "7.16",
+      "source_body": "7.16 BURNABY LAKE OVERPASS OFFICIAL OPENING PLAQUE\nThe General Manager Corporate Services submitted a report seeking Council approval for the wording and content for the commemorative plaque to be installed as part of the opening of Burnaby Lake Overpass.\nMOVED AND SECONDED\n\nResolution No. 2026 - 180\nTHAT the language for the plaque to be installed at Burnaby Lake Overpass outlined in section 3.1 in the report titled “Burnaby Lake Overpass Official Opening Plaque,” dated April 14, 2026, be approved.\nCARRIED UNANIMOUSLY",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Minutes",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:03:28.948967"
+    },
+    {
+      "id": 101,
+      "title": "Council approved external review of Burnaby's financial practices",
+      "summary": "Burnaby City Council has approved hiring an outside expert to review the city's financial planning, operating practices, and how it sets priorities for capital investments. The goal is to protect the city's assets, avoid big tax hikes, and keep service costs from rising for businesses and residents. The external reviewer will work with the Financial Management Committee and report directly to Council.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Professional Services",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "8.1",
+      "source_body": "8.1 FMC - EXTERNAL REVIEW OF CITY FINANCIAL PRACTICES\nThe Financial Management Committee (FMC) submitted a report seeking Council approval to engage an external reviewer to help safeguard the City's assets and financial standing, and to mitigate the risk of significant tax increases and rising service costs for businesses and residents.\nMOVED AND SECONDED\nResolution No. 2026 - 181\nTHAT engaging a qualified external reviewer to assess the City’s financial planning, operating practices, and capital investment priority setting, as discussed at the Financial Management Committee meeting held on March 17, 2026, be approved; and\nTHAT the reviewer liaise with the Financial Management Committee and deliver findings and recommendations directly to Council.\nCARRIED UNANIMOUSLY",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Minutes",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:03:28.949433"
+    },
+    {
+      "id": 102,
+      "title": "Council approved rezoning for 20-storey apartment at 5035 Beresford Street",
+      "summary": "Burnaby City Council voted unanimously to advance a rezoning bylaw for a 20-storey apartment building at 5035 Beresford Street. The project will include 215 residential units above underground parking. Council also authorized a Housing Agreement (a legal contract that sets rules for the development, such as affordability requirements) and set conditions that must be met before the bylaw gets final approval.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "8.2",
+      "source_body": "8.2 PDC - REZ #25-11 - 5035 BERESFORD STREET - PROPOSED 20-STOREY APARTMENT DEVELOPMENT (ROYAL OAK COMMUNITY PLAN)\nThe Planning and Development Committee (PDC) submitted a report seeking Council authorization to forward REZ #25-11 to First and Second Reading at a future Council meeting. The purpose of the proposed zoning bylaw amendment is to permit the construction of a 20-storey multiple-family apartment development comprised of 215 residential units above underground parking.  \nMOVED AND SECONDED\nResolution No. 2026 - 182\nTHAT a Rezoning Bylaw for REZ #25-11 be prepared and advanced to First and Second Reading at a future Council meeting;\nTHAT a Housing Agreement, if required, be authorized according to the terms outlined in Section 3.4 of the report titled “REZ #25-11 - 5035 Beresford Street – Proposed 20-Storey Apartment Development (Royal Oak Community Plan)”, dated March 31, 2026, of the Planning and Development Committee meeting, and the City Solicitor be authorized to bring forward a Housing Agreement Bylaw; and\nTHAT the items listed in Attachment 3 to the report be established as prerequisites to consideration of Final Adoption of the Rezoning Bylaw for REZ #25-11.\nCARRIED UNANIMOUSLY",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Minutes",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:03:28.949933"
+    },
+    {
+      "id": 103,
+      "title": "Council abandoned Burnaby North Road BIA bylaw after petitions",
+      "summary": "Burnaby City Council voted unanimously to abandon the proposed Burnaby Business Improvement Area (Burnaby North Road) Bylaw 2026. The decision came after the city received enough valid petitions from property owners in the area to meet the legal threshold required to stop the bylaw. A Business Improvement Area (BIA) is a special zone where local businesses pay an extra levy to fund improvements and marketing for the area. Because the petitions were sufficient, the bylaw will not move forward.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Retail, Landlord & Property Mgmt, Professional Services",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "11.1.1",
+      "source_body": "11.1.1 #14797 - Burnaby Business Improvement Area (Burnaby North Road) Bylaw 2026\nReminder regarding the petition related - 7.2 the petitioner has met the legislative threshold - bylaw will be abandoned  \nMOVED AND SECONDED\nResolution No. 2026 - 185\nTHAT due to sufficient petitions received by the City against Burnaby Business Improvement Area (Burnaby North Road) Bylaw 2026, Bylaw No. 14797 be now abandoned.\nCARRIED UNANIMOUSLY",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Minutes",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:03:28.950401"
+    },
+    {
+      "id": 104,
+      "title": "Burnaby council refers CFIB request on PST expansion to staff for review",
+      "summary": "Council voted unanimously to refer a request from the Canadian Federation of Independent Business (CFIB) to city staff for further review. The CFIB had urged council to oppose the Provincial Sales Tax (PST) expansion on professional services. Staff will now study the issue and report back to council with their findings. No decision has been made yet on whether Burnaby will take a formal position against the PST expansion.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Professional Services",
+      "locations": "Burnaby, British Columbia",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "12.1",
+      "source_body": "12.1 Item 3.1 Council Correspondence and Public Submission Package Dated April 14, 2026\nCouncillor Lee referred to Item 3.1 of the Council Correspondence and Public Notice Submission Package from the Canadian Federation of Independent Business urging Council to oppose the Provincial Sales Tax expansion on professional services.\n\nArising from discussion, the following motion was brought forward:\nMOVED AND SECONDED\nResolution No. 2025 - 186\nTHAT item 3.1 of the Council Correspondence and Public Submission Package dated April 14, 2026, from the Canadian Federation of Independent Business urging Council to oppose the Provincial Sales Tax Expansion on professional service, be REFERRED to staff for further review and report back to Council.\nCARRIED UNANIMOUSLY",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Minutes",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:03:28.950895"
+    },
+    {
+      "id": 106,
+      "title": "Burnaby Council approved 2025 Annual Municipal Report and opened it for public comment",
+      "summary": "Burnaby City Council unanimously approved the 2025 Annual Municipal Report, which includes the city's audited financial statements for the year ending December 31, 2025. Council also voted to release the full report and a highlights document for public review and commentary starting April 15, 2026. This is a completed decision — the report is now final and available for residents and business owners to read and provide feedback.",
+      "action_required": "Review the 2025 Annual Municipal Report and Highlights on the city's website starting April 15, 2026, and submit any comments before the public comment period closes.",
+      "key_dates": [
+        {
+          "label": "Public comment period opens for 2025 Annual Municipal Report",
+          "date": "2026-04-15"
+        }
+      ],
+      "industries": "Professional Services, Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "14.1",
+      "source_body": "Resolution No. C2026 - 036\nTHAT the report titled “2025 Annual Municipal Report and 2025 Annual Municipal Report Highlights”, dated for April 7, 2026, of the Audit Committee meeting, be received for information;\nTHAT the 2025 Annual Municipal Report (Attachment 1), which includes the audited Consolidated Financial Statements, for the year ended December 31, 2025, be approved; and\nTHAT the 2025 Annual Municipal Report and 2025 Annual Municipal Report Highlights documents be made available to the public for commentary starting on April 15, 2026.\nCARRIED UNANIMOUSLY",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Minutes",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:03:28.951854"
+    },
+    {
+      "id": 105,
+      "title": "Council approved bursary awards for eight Burnaby secondary students",
+      "summary": "Burnaby City Council approved bursary awards for eight secondary school students from various Burnaby high schools. Council also authorized staff to contact the recipients and their school principals, and announced the awards will be presented at the April 14, 2026 Open Council meeting. The decision was carried unanimously.",
+      "action_required": null,
+      "key_dates": [
+        {
+          "label": "Bursary award recipients announced at Open Council meeting",
+          "date": "2026-04-14"
+        }
+      ],
+      "industries": "",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "14.1",
+      "source_body": "14.1 Resolution No. C2026 - 033\nTHAT a bursary award be granted to the following secondary school students:\n• Julianne Marie San Mateo - École Alpha\n• Vienna Dias - Burnaby Central\n• Ronia Rameshi - Burnaby Mountain\n• Erin Curley - Burnaby North\n• Yolanda Wu - Burnaby South\n• Malak Albadry - Byrne Creek\n• Hayden Young Crawford - École Cariboo Hill\n• Yunshu (Isabella) Liao – Moscrop\n\nTHAT staff be authorized to contact recipients and secondary school principals to advise them of the award; and\nTHAT the award recipients be announced at the April 14, 2026 Open Council meeting.\nCARRIED UNANIMOUSLY",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ab851c08-5fc0-417d-8cd9-96165d9cccce&lang=English",
+      "article_title": "City Council Meeting Minutes",
+      "article_published_at": "2026-04-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-09T23:03:28.951359"
+    }
+  ]
+}
