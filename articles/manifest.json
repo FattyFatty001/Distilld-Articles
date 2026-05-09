@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-05-09T16:44:22.812376+00:00",
+  "generated_at": "2026-05-09T17:24:43.306923+00:00",
   "sources": {
-    "vancouver_council": {
-      "generated_at": "2026-05-09T16:44:22.812376+00:00",
-      "count": 1,
-      "locations": "British Columbia, Canada, Ontario, Vancouver",
-      "index_path": "Index/bc/index_source_vancouver_council.json"
-    },
-    "burnaby_council": {
-      "generated_at": "2026-05-09T16:44:22.812376+00:00",
-      "count": 1,
-      "locations": "British Columbia, Burnaby, New Westminster",
-      "index_path": "Index/bc/index_source_burnaby_council.json"
-    },
-    "bc_gazette_part2": {
-      "generated_at": "2026-05-09T16:44:22.812376+00:00",
-      "count": 1,
-      "locations": "British Columbia",
-      "index_path": "Index/bc/index_source_bc_gazette_part2.json"
-    },
     "liquor_bulletins": {
-      "generated_at": "2026-05-09T16:44:22.812376+00:00",
+      "generated_at": "2026-05-09T17:24:43.306923+00:00",
       "count": 1,
-      "locations": "British Columbia",
+      "locations": "",
       "index_path": "Index/bc/index_source_liquor_bulletins.json"
     },
-    "burnaby_bylaws": {
-      "generated_at": "2026-05-09T16:44:22.812376+00:00",
+    "bc_gazette_part2": {
+      "generated_at": "2026-05-09T17:24:43.306923+00:00",
       "count": 1,
-      "locations": "Burnaby",
+      "locations": "",
+      "index_path": "Index/bc/index_source_bc_gazette_part2.json"
+    },
+    "burnaby_council": {
+      "generated_at": "2026-05-09T17:24:43.306923+00:00",
+      "count": 3,
+      "locations": "",
+      "index_path": "Index/bc/index_source_burnaby_council.json"
+    },
+    "vancouver_council": {
+      "generated_at": "2026-05-09T17:24:43.306923+00:00",
+      "count": 1,
+      "locations": "",
+      "index_path": "Index/bc/index_source_vancouver_council.json"
+    },
+    "burnaby_bylaws": {
+      "generated_at": "2026-05-09T17:24:43.306923+00:00",
+      "count": 1,
+      "locations": "",
       "index_path": "Index/bc/index_source_burnaby_bylaws.json"
     }
   }
