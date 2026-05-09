@@ -1,0 +1,196 @@
+{
+  "generated_at": "2026-05-09T16:44:22.812376+00:00",
+  "count": 1,
+  "articles": [
+    {
+      "article_id": 32,
+      "path": "2026/04/14/32_vancouver-council_vancouver-city-council-meeting.json",
+      "article_url": "https://council.vancouver.ca/20260414/documents/regu20260414min.pdf",
+      "article_title": "Vancouver City Council Meeting",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "government_level": "Municipal",
+      "article_published_at": "2026-04-14T00:00:00",
+      "created_at": "2026-04-28T02:20:25.438597",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 28,
+      "industries": "Construction & Development, Food Service, Healthcare, Hotel & Accommodation, Landlord & Property Mgmt, Liquor, Natural Resources, Professional Services, Retail, Tenant, Transportation & Logistics",
+      "locations": "British Columbia, Canada, Ontario, Vancouver",
+      "briefs": [
+        {
+          "id": 53,
+          "title": "Vancouver property owners on East Hastings may face new parking project charges in 2025",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 54,
+          "title": "Vancouver property owners near Trounce Alley and Blood Alley to be charged 2025 maintenance costs",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 52,
+          "title": "Housing Agreement locked in for 320–360 West 2nd Avenue under Vancouver By-law 14668",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 51,
+          "title": "Housing Agreement amended for three Vancouver properties on Prior Street, Malkin Avenue, and Station Street",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 49,
+          "title": "1710–1730 East Pender Street rezoned to CD-1 for mixed-use development",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 50,
+          "title": "Zoning rules updated for 1700–1750 West 75th Avenue in Vancouver",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 46,
+          "title": "888–896 Cambie Street 29-storey mixed-use rezoning heads to Public Hearing",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 47,
+          "title": "East 12th Avenue site rezoned to CD-1, opening door to new development",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 48,
+          "title": "6486 Chester Street rezoned to CD-1, opening door to new development",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 43,
+          "title": "Vancouver developers face new fees and zoning rules under proposed Amenity Cost Charge By-law",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 44,
+          "title": "Vancouver creates C-2A zoning district to speed up rental housing and small hotel approvals",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 45,
+          "title": "16-storey hotel approved in principle at 888 West 8th Avenue, Vancouver",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 40,
+          "title": "82 rental units approved: West 10th Avenue site rezoned to six-storey mixed-use building",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 41,
+          "title": "310 East 14th Avenue rezoned for 20-storey rental building with 20% below-market units",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 42,
+          "title": "West 13th Avenue rezoned to higher-density residential — development rules now changed",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 38,
+          "title": "5590 Victoria Drive rezoned: affordable rental units converted to market-rate rental",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 39,
+          "title": "4088 Granville Street rezoned for 31 rental units — density more than doubled",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 35,
+          "title": "Public plaza alcohol consumption now permitted under amended City Land Regulation By-law through 2028",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 36,
+          "title": "Vancouver applies for $200,000 to speed up housing development approvals",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 37,
+          "title": "Housing rezoning conditions updated for multiple developments through new Housing Agreement By-laws",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 34,
+          "title": "Vancouver Heritage Foundation receives $152,375 grant under new 2026–2028 operating agreement",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 32,
+          "title": "Property Tax Exemptions Report Reviewed by Council — No Changes Made",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 33,
+          "title": "Vancouver adopts Coastal Flood Management Policy to guide flood risk planning and infrastructure",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 30,
+          "title": "City approves $2.39B budget with $1.22B property tax levy for 2026",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 31,
+          "title": "2026 property tax split locks in 42.5% share for non-residential businesses",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 29,
+          "title": "Vancouver approves $89,000 in sport event grants for 19 community organizations, Spring 2026",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 28,
+          "title": "Vancouver Council approves $9.4M+ in cultural grants across four funding streams",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 27,
+          "title": "Vancouver Council urges senior governments to fund housing, shelters, and income supports",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        }
+      ]
+    }
+  ]
+}
