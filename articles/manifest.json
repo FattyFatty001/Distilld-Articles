@@ -1,11 +1,4 @@
 {
-  "generated_at": "2026-05-09T00:38:34.478616+00:00",
-  "sources": {
-    "burnaby_council": {
-      "generated_at": "2026-05-09T00:38:34.478616+00:00",
-      "count": 3,
-      "locations": "British Columbia, Burnaby, Surrey, Vancouver",
-      "index_path": "Index/bc/index_source_burnaby_council.json"
-    }
-  }
+  "generated_at": "2026-05-09T16:43:45.260929+00:00",
+  "sources": {}
 }
