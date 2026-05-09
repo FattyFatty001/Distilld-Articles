@@ -1,0 +1,76 @@
+{
+  "article_id": 7,
+  "article_url": "https://www2.gov.bc.ca/gov/content/employment-business/business/liquor-regulation-licensing/about-lcrb/bulletins/bulletin-26-01-liquor-licence-renewal-fee-update",
+  "article_title": "Liquor Licence Renewal Fee Update",
+  "source": "liquor_bulletins",
+  "source_label": "Liquor Bulletins",
+  "government_level": "Provincial",
+  "meeting_type": null,
+  "article_published_at": "2025-11-28T00:00:00",
+  "has_attachments": false,
+  "has_pdf": false,
+  "has_html": false,
+  "has_agenda": false,
+  "has_minutes": true,
+  "agenda_brief_count": 0,
+  "minutes_brief_count": 2,
+  "pdf_urls": null,
+  "body": "",
+  "agenda_briefs": [],
+  "minutes_briefs": [
+    {
+      "id": 162,
+      "title": "Liquor licence renewal fees are changing — what you need to know",
+      "summary": "The government has updated the fees for renewing a liquor licence. This means the cost to renew your licence each year may go up or down, depending on your licence type and the size of your business. The new fee structure takes effect on the next renewal date after the change is announced.",
+      "action_required": "Check your renewal notice for the new fee amount before you pay.",
+      "key_dates": [
+        {
+          "label": "Liquor licence renewal fee change takes effect",
+          "date": "2025-04-01"
+        }
+      ],
+      "industries": "Liquor, Food Service, Retail",
+      "locations": "British Columbia",
+      "government_level": "Provincial",
+      "is_proposal": false,
+      "item_number": null,
+      "source_body": null,
+      "attachments": [],
+      "article_url": "https://www2.gov.bc.ca/gov/content/employment-business/business/liquor-regulation-licensing/about-lcrb/bulletins/bulletin-26-01-liquor-licence-renewal-fee-update",
+      "article_title": "Liquor Licence Renewal Fee Update",
+      "article_published_at": "2025-11-28T00:00:00",
+      "source": "liquor_bulletins",
+      "source_label": "Liquor Bulletins",
+      "created_at": "2026-05-09T23:43:51.665556"
+    },
+    {
+      "id": 151,
+      "title": "Liquor licence renewal fees rising for first time since 2010 — BC",
+      "summary": "The BC Liquor and Cannabis Regulation Branch (LCRB) is increasing annual liquor licence renewal fees starting May 1, 2026. This is the first fee increase since 2010. Most hospitality businesses (like bars and restaurants) will see a modest increase — about $75 per year for those in the lowest fee tier. Manufacturer licence fees will go up based on production volume, with larger producers paying more. The LCRB says the extra money will fund faster licensing, clearer timelines, and better digital tools. A $5 fee increase is also coming for the Serving It Right and Special Event Server training programs.",
+      "action_required": "Check the new fee table in the LCRB bulletin to see your exact renewal fee increase.",
+      "key_dates": [
+        {
+          "label": "Liquor licence renewal fee increase takes effect — BC LCRB",
+          "date": "2026-05-01"
+        },
+        {
+          "label": "Serving It Right and Special Event Server fee increase takes effect — BC LCRB",
+          "date": "2026-05-01"
+        }
+      ],
+      "industries": "Liquor, Food Service, Hotel & Accommodation",
+      "locations": "British Columbia",
+      "government_level": "Provincial",
+      "is_proposal": false,
+      "item_number": null,
+      "source_body": "These changes apply to the following: To support timely, consistent, and modernized licensing services, the Liquor and Cannabis Regulation Branch (LCRB) is implementing a necessary update to annual liquor licence renewal fees. As of May 1, 2026, liquor licence renewal fees will increase – for the first time since 2010. Most renewal fees vary based on how much liquor a business purchases or produces each year. For most licensees, this change will result in a modest adjustment to their annual renewal fee. Nearly half of all hospitality (purchased-based) licensees fall within the lowest fee tier, where an increase would result in an annual change of approximately $75. Manufacturer licence renewal fees are based on production volume, meaning increases vary depending on production size, with larger producers seeing higher increases under the updated fee structure. A detailedfee tableis included at the end of this Bulletin. No other licensing fee categories are changing, and this update does not introduce annual indexing. In addition, effective May 1, 2026, a $5 increase is also being applied to theServing It Right and Special Event Server training programs. This change will help sustain program delivery through service providers and enable necessary program enhancements. The LCRB operates on a self-sustaining model, with renewal fees funding licensing, compliance, enforcement, policy development, and digital system modernization. As fees have not changed in over 15 years, this adjustment will help maintain timely, reliable, licensing services and support continued improvements to how we regulate and serve the industry. Over the coming year (fiscal year 2026/27), renewal fees will fund new service improvements that matter to licensees — including faster licensing processes, clearer timelines, and practical tools that make it easier to stay compliant and operate with confidence. Streamlined Licensing and Stronger Compliance Through Digital Innovation Transparent Service Standards and Clearer Licensing Timelines",
+      "attachments": [],
+      "article_url": "https://www2.gov.bc.ca/gov/content/employment-business/business/liquor-regulation-licensing/about-lcrb/bulletins/bulletin-26-01-liquor-licence-renewal-fee-update",
+      "article_title": "Liquor Licence Renewal Fee Update",
+      "article_published_at": "2025-11-28T00:00:00",
+      "source": "liquor_bulletins",
+      "source_label": "Liquor Bulletins",
+      "created_at": "2026-05-09T23:42:18.173937"
+    }
+  ]
+}
