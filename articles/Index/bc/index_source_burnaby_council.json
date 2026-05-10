@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T23:45:04.355083+00:00",
-  "count": 3,
+  "generated_at": "2026-05-10T05:34:00.894756+00:00",
+  "count": 4,
   "articles": [
     {
       "article_id": 3,
@@ -1014,6 +1014,41 @@
         {
           "id": 129,
           "title": "Council appointed Dennis Back as Chief Election Officer for 2026 election",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 8,
+      "path": "2025/11/24/8_burnaby-council_public-hearing-november-24-2025.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=e2b7edd3-9e6c-45f9-b461-85b0d1d3cc33&lang=English",
+      "article_title": "Public Hearing — November 24, 2025",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "meeting_type": "public-hearing",
+      "article_published_at": "2025-11-24T00:00:00",
+      "created_at": "2026-05-10T05:33:58.763241",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": true,
+      "has_minutes": true,
+      "agenda_brief_count": 1,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 163,
+          "title": "Proposed: Burnaby zoning changes for small-scale multi-unit housing in R1 District",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 164,
+          "title": "Council approved SSMUH zoning bylaw for Burnaby's R1 District",
           "source_label": "Burnaby Council",
           "is_proposal": false
         }
