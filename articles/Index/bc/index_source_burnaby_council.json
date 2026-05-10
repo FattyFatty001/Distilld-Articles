@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T17:48:27.374788+00:00",
-  "count": 4,
+  "generated_at": "2026-05-10T18:06:35.219188+00:00",
+  "count": 5,
   "articles": [
     {
       "article_id": 8,
@@ -911,6 +911,41 @@
         {
           "id": 281,
           "title": "Council approved Burnaby Housing Authority's 2026-2030 Strategic Plan",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 14,
+      "path": "2025/11/24/14_burnaby-council_public-hearing-november-24-2025.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=e2b7edd3-9e6c-45f9-b461-85b0d1d3cc33&lang=English",
+      "article_title": "Public Hearing — November 24, 2025",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "meeting_type": "public-hearing",
+      "article_published_at": "2025-11-24T00:00:00",
+      "created_at": "2026-05-10T18:06:33.450424",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": true,
+      "has_minutes": true,
+      "agenda_brief_count": 1,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 300,
+          "title": "Proposed: Burnaby to refine small-scale multi-unit housing rules in R1 zone",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 301,
+          "title": "Council approved SSMUH zoning bylaw amendments for Burnaby R1 District",
           "source_label": "Burnaby Council",
           "is_proposal": false
         }
