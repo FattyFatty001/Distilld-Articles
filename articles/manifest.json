@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-10T05:34:00.894756+00:00",
+  "generated_at": "2026-05-10T15:53:06.079109+00:00",
   "sources": {
     "burnaby_council": {
-      "generated_at": "2026-05-10T05:34:00.894756+00:00",
+      "generated_at": "2026-05-10T15:53:06.079109+00:00",
       "count": 4,
       "locations": "British Columbia, Burnaby, Surrey, Vancouver",
       "meeting_types": [
@@ -12,21 +12,21 @@
       "index_path": "Index/bc/index_source_burnaby_council.json"
     },
     "bc_gazette_part2": {
-      "generated_at": "2026-05-10T05:34:00.894756+00:00",
+      "generated_at": "2026-05-10T15:53:06.079109+00:00",
       "count": 1,
       "locations": "British Columbia",
       "meeting_types": null,
       "index_path": "Index/bc/index_source_bc_gazette_part2.json"
     },
     "liquor_bulletins": {
-      "generated_at": "2026-05-10T05:34:00.894756+00:00",
+      "generated_at": "2026-05-10T15:53:06.079109+00:00",
       "count": 1,
       "locations": "British Columbia",
       "meeting_types": null,
       "index_path": "Index/bc/index_source_liquor_bulletins.json"
     },
     "burnaby_bylaws": {
-      "generated_at": "2026-05-10T05:34:00.894756+00:00",
+      "generated_at": "2026-05-10T15:53:06.079109+00:00",
       "count": 1,
       "locations": "Burnaby",
       "meeting_types": null,
