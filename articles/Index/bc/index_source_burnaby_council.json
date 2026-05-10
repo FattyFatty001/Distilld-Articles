@@ -1,7 +1,161 @@
 {
-  "generated_at": "2026-05-10T18:06:35.219188+00:00",
-  "count": 5,
+  "generated_at": "2026-05-10T18:15:52.289152+00:00",
+  "count": 7,
   "articles": [
+    {
+      "article_id": 17,
+      "path": "2026/05/12/17_burnaby-council_council-correspondence-and-public-notice-submissio.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=14d15c9a-45f5-4b14-b024-9f0c5f3628ff&lang=English",
+      "article_title": "Council Correspondence and Public Notice Submissions — May 12, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "meeting_type": "correspondence",
+      "article_published_at": "2026-05-12T00:00:00",
+      "created_at": "2026-05-10T18:15:43.228550",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 17,
+      "minutes_brief_count": 0,
+      "industries": "Agriculture, Construction & Development, Food Service, Grocery & Food Retail, Healthcare, Hotel & Accommodation, Landlord & Property Mgmt, Liquor, Retail",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 319,
+          "title": "Proposed: Rezoning at 2209 and 2225 Springer Avenue, Burnaby",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 318,
+          "title": "Proposed: Rezoning at 6535 Kingsway in Burnaby",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 317,
+          "title": "Proposed: Rezoning for development at 3900 Grand Promenade, Burnaby",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 316,
+          "title": "Proposed: Liquor licence amendment for Steamworks Brewpub at 3845 William Street",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 315,
+          "title": "Proposed: Burnaby council to consider SSMUH policy revision",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 314,
+          "title": "Proposed: Burnaby water restrictions — council to vote on new rules",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 313,
+          "title": "Proposed: Burnaby policy shift on inclusionary housing rules",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 312,
+          "title": "Proposed: Four-plex zoning changes could affect Eglinton Street neighbourhood",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 311,
+          "title": "Proposed: Burnaby parking fee increase opposed by resident",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 310,
+          "title": "Proposed: Council to consider Minister's response on SSMUH in Lower Westridge",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 309,
+          "title": "Proposed student housing development on Rathburn Drive heads to Planning Committee",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 308,
+          "title": "Proposed: Student housing rezoning at Rathburn Drive, Burnaby",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 307,
+          "title": "Proposed: Burnaby to review policy for daycare applications",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 306,
+          "title": "Proposed: Burnaby council to consider automated cart recycling collection",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 305,
+          "title": "Proposed: Burnaby Hospital HVAC noise may exceed city bylaw limits",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 304,
+          "title": "Proposed: Burnaby development cost charges bylaw update",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 303,
+          "title": "Proposed: Burnaby council to review building permit issued under old R1 SSMUH rules",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        }
+      ]
+    },
+    {
+      "article_id": 16,
+      "path": "2026/05/12/16_burnaby-council_committee-of-the-whole-meeting-may-12-2026.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=70e29ca3-4f56-4cbc-be82-5f666ccb37e8&lang=English",
+      "article_title": "Committee of the Whole Meeting — May 12, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "meeting_type": "committee-whole",
+      "article_published_at": "2026-05-12T00:00:00",
+      "created_at": "2026-05-10T18:12:53.988929",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 1,
+      "minutes_brief_count": 0,
+      "industries": "Construction & Development",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 302,
+          "title": "Proposed: Burnaby capital project program review final report",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 8,
       "path": "2026/05/12/8_burnaby-council_city-council-meeting-may-12-2026.json",
