@@ -12,7 +12,7 @@
   "has_html": false,
   "has_agenda": true,
   "has_minutes": false,
-  "agenda_brief_count": 43,
+  "agenda_brief_count": 66,
   "minutes_brief_count": 0,
   "pdf_urls": "{\"_doc\": [{\"url\": \"https://pub-burnaby.escribemeetings.com/FileStream.ashx?DocumentId=89262\", \"title\": \"Agenda (PDF)\"}], \"_inline\": [{\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89303\", \"title\": \"2026.04.14 Council Minutes DRAFT.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89308\", \"title\": \"Burnaby Zoning Bylaw - Proposed Repeal and Replacement 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89309\", \"title\": \"Attachment 1 - Proposed Burnaby Zoning Bylaw 2026 2026-04-28_.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89310\", \"title\": \"Attachment 2 - Proposed Form and Character Development Permit Area Guidelines 20\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89311\", \"title\": \"Attachment 3 - Proposed Streamside Protection and Enhancement Development Permit\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89312\", \"title\": \"Attachment 4 - Proposed Tenant Protection Development Permit Area Guidelines 202\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89313\", \"title\": \"Attachment 5 - Proposed Zone Reassignment Reference Maps 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89314\", \"title\": \"Attachment 6 - Rental Replacement and Inclusionary Requirements Evaluation 2026-\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89315\", \"title\": \"Attachment 7 - Example Inclusionary and Rental Replacement at Occupancy and Seco\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89298\", \"title\": \"BHA 2026 Operating Funding 2026-04-28_.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89299\", \"title\": \"Attachment 1 - BHA Assistance Request for Year 2 Operating Funds 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89301\", \"title\": \"2026 Property Tax rates 2026-04-28__.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89302\", \"title\": \"Attachment 1 - Burnaby Rates Bylaw 2026_2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89283\", \"title\": \"Appointment of Approving Officer 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89288\", \"title\": \"DVP26-01 - 8012 11th Avenue 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89289\", \"title\": \"Attachment 1 - DVP 26-01 - Sketch1 and 2 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89290\", \"title\": \"Attachment 2 - DVP 26-01 - Permit 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89300\", \"title\": \"2026 Insurance Program - Contract Renewals - 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89280\", \"title\": \"2026 Heritage BC Conference 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89324\", \"title\": \"CA - Networking Software Licenses 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89325\", \"title\": \"CA - New Civic Facility Fit-Out 2026-04-28 ___.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89304\", \"title\": \"CC - External Audit Services 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89305\", \"title\": \"Attachment 1 - Contract History (External Audit Services) 2026-04-28 .pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89306\", \"title\": \"CC - BLRC Geotechnical Consulting Services 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89307\", \"title\": \"Attachment 1 - Contract History (BLRC Geotechnical Consulting Services) 2026-04-\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89291\", \"title\": \"ECC - Spring 2026 Community Grant Applications 2026.04.28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89292\", \"title\": \"Appendix A - Recreational Sports Grants 2026.04.28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89293\", \"title\": \"Appendix B - Operating Grants 2026.04.28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89294\", \"title\": \"Appendix C - Initiative Grants 2026.04.28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89295\", \"title\": \"Appendix D - Subsidized Use Grants 2026.04.28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89296\", \"title\": \"Appendix E - Food Security Grants 2026.04.28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89321\", \"title\": \"FMC - Burnaby Consolidated Fees and Charges Bylaw \\u2013 2026 Mid-Year Amendments 202\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89322\", \"title\": \"Attachment 1 - Amendments to Schedule F, Effective June 1, 2026 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89323\", \"title\": \"Attachment 2 - Amendments to Schedule F3, Effective Septembr 1, 2026 2026-04-28.\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89316\", \"title\": \"PDC - Proposed Tenant Protection Framework 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89317\", \"title\": \"Attachment 1 - Proposed Burnaby Tenant Protection Bylaw 2026 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89318\", \"title\": \"Attachment 2 - Key Terms and Changes between TAP and the proposed Burnaby TPB 20\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89319\", \"title\": \"Attachment 3 - Proposed Amendments to Burnaby Bylaw Notice Enforcement Bylaw 202\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89320\", \"title\": \"Attachment 4 - List of in-progress Rezoning Applications subject to TAP 2026-04-\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89266\", \"title\": \"TC - Southeast Bikeway Upgrade Project - Proposed Improvements - 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89267\", \"title\": \"Attachment 1 - Project Scope - Southeast Bikeway 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89268\", \"title\": \"Attachment 2 - Southeast Area Proposed Improvements (bikeway) 2026-04-28 .pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89269\", \"title\": \"Attachment 3 - Big Bend Area Proposed Cross-Sections (bikeway) 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89276\", \"title\": \"TC - Proposed Amendment to the Burnaby Town Centre Design Standards 2026-04-28.p\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89284\", \"title\": \"Brentwood Park SSMUH Motion - Restrictive Covenants and Statutory Building Schem\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89281\", \"title\": \"SU - Building Permit Activity Report No. 03 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89282\", \"title\": \"Attachment 1 - Building Permit Activity Report No. 03 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89271\", \"title\": \"CHC - As-found Report - 3789 Royal Oak Avenue 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89272\", \"title\": \"Attachment 1 - Sketch Map (3789 Royal Oak) 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89273\", \"title\": \"Attachment 2 - As-found report, Forest Lawn Funeral Home Chapel (3789 Royal Oak)\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89274\", \"title\": \"Attachment 3 - As-built drawings, Forest Lawn Funeral Home Chapel (3789 Royal Oa\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89275\", \"title\": \"Attachment 4 - Statement of Significance for Forest Lawn Memorial Pakr (3789 Roy\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89278\", \"title\": \"EC - Solid Waste and Recycling (SWR) 2025 Annual Report 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89279\", \"title\": \"Attachment 1 - Solid Waste and Recycling 2025 Annual Report 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89277\", \"title\": \"EC - SU Enhancing Food Sustainability in Burnaby 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89270\", \"title\": \"TC - Central Boulevard and Parkade Intersection Safety Improvements - 2026-04-28\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89263\", \"title\": \"14808 Amend No. 7, 2026 REZ 24-23 (Grand Promenade_Austin Rd_Gatineau PL).ACD 20\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89264\", \"title\": \"14809 Amendment No. 8, 2026 REZ 25-09 (6535 Kingsway).CD 2026.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89265\", \"title\": \"14810 Amendment No. 9, 2026 REZ 25-21 (2757 Norland Ave).CD 2026.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89285\", \"title\": \"14811.Burnaby Street and Traffic Bylaw 1961 Amendment Bylaw No. 1 2026 (E-Bike a\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89286\", \"title\": \"14812. Burnaby Parks Regulation Bylaw 1979, Amend Bylaw No. 1 2026 (E-Bike and E\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89287\", \"title\": \"14813 Bylaw Notice Enforcement Bylaw 2009, Amend Bylaw No. 3, 2026 BBY Parks Reg\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89297\", \"title\": \"14814.Burnaby Rates Bylaw 2026 v2.pdf\"}]}",
   "body": "",
@@ -36,6 +36,26 @@
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
       "created_at": "2026-05-09T23:36:37.247485"
+    },
+    {
+      "id": 193,
+      "title": "Proposed: $2M Year 2 operating funding for Burnaby Housing Authority",
+      "summary": "Council will consider approving $2 million in Year 2 operating funding for the Burnaby Housing Authority (BHA). This money would help the BHA run its housing programs and services for another year. The decision has not been made yet — council will vote on this request at an upcoming meeting.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Landlord & Property Mgmt, Construction & Development",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "7.2",
+      "source_body": "7.2\nBHA - ASSISTANCE REQUEST FOR YEAR 2 OPERATING FUNDING\n307\nPurpose: To seek Council approval of the Burnaby Housing Authority\nCorporation’s assistance request for Year 2 Operating Funding.",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=2d97efcf-ac16-41b8-9702-b4c8ab249af9&lang=English",
+      "article_title": "City Council Meeting Agenda — April 28, 2026",
+      "article_published_at": "2026-04-28T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-10T16:00:51.982788"
     },
     {
       "id": 49,
@@ -98,6 +118,26 @@
       "created_at": "2026-05-09T23:36:37.249233"
     },
     {
+      "id": 194,
+      "title": "Proposed: Council to appoint Mark Norton as Approving Officer for subdivisions",
+      "summary": "Burnaby City Council is set to vote on a proposal to appoint Mark Norton as the Approving Officer for subdivision applications. An Approving Officer is the person who reviews and approves or denies requests to split a piece of land into smaller lots (subdivisions). This decision would affect anyone planning to subdivide land in Burnaby, as the officer has authority over the approval process. The appointment has not yet been approved — Council will consider it at an upcoming meeting.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "7.4",
+      "source_body": "7.4\nAPPOINTMENT OF APPROVING OFFICER\n322\nPurpose: To seek Council approval to appoint an Approving Officer.",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=2d97efcf-ac16-41b8-9702-b4c8ab249af9&lang=English",
+      "article_title": "City Council Meeting Agenda — April 28, 2026",
+      "article_published_at": "2026-04-28T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-10T16:00:51.984263"
+    },
+    {
       "id": 78,
       "title": "Proposed: Burnaby Council to appoint an Approving Officer",
       "summary": "Council is set to vote on a proposal to appoint an Approving Officer. An Approving Officer is a person who has the legal authority to approve plans for new subdivisions (splitting land into smaller lots) and road closures. This is a routine administrative appointment, but it affects anyone who wants to subdivide land or close a road in Burnaby. The decision has not been made yet — Council will consider and vote on the appointment at an upcoming meeting.",
@@ -138,6 +178,26 @@
       "created_at": "2026-05-09T23:36:37.249801"
     },
     {
+      "id": 195,
+      "title": "Proposed: Retaining wall height variances at 8012 11th Avenue",
+      "summary": "Council is set to vote on a Development Variance Permit (DVP) for a property at 8012 11th Avenue. A DVP is a special permission that allows a property owner to build something that doesn't quite follow the usual rules. In this case, the owner wants to build retaining walls that are taller than what the current zoning bylaw normally allows. Council will decide whether to approve this variance at an upcoming meeting.",
+      "action_required": "If you own property near 8012 11th Avenue, watch for the council decision — it could affect your property's drainage or stability.",
+      "key_dates": [],
+      "industries": "Construction & Development",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "7.5",
+      "source_body": "7.5\nDVP #26-01 - 8012 11TH AVENUE - RETAINING WALLS HEIGHT\nVARIANCES\n324\nPurpose: To seek Council approval for Development Variance Permit\n(DVP) #26-01.",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=2d97efcf-ac16-41b8-9702-b4c8ab249af9&lang=English",
+      "article_title": "City Council Meeting Agenda — April 28, 2026",
+      "article_published_at": "2026-04-28T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-10T16:00:51.985386"
+    },
+    {
       "id": 52,
       "title": "Proposed: Burnaby council to vote on retaining wall height variance at 8012 11th Ave",
       "summary": "Council is set to vote on a Development Variance Permit (DVP) for a property at 8012 11th Avenue. A DVP is a special permission that lets a property owner break certain rules in the city's zoning bylaw. In this case, the owner wants to build retaining walls that are taller than what the current rules allow. The decision has not been made yet — council will discuss and vote on this proposal at an upcoming meeting.",
@@ -158,6 +218,26 @@
       "created_at": "2026-05-09T23:36:37.250273"
     },
     {
+      "id": 196,
+      "title": "Proposed: Burnaby to vote on $4M insurance renewal for 2026",
+      "summary": "Council is set to vote on approving $4,013,855 for the city's annual property and liability insurance renewals for 2026. This covers insurance that protects the city and its operations from financial losses due to property damage or lawsuits. If approved, the contracts will be awarded to insurance providers for the coming year.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Finance & Insurance",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "7.6",
+      "source_body": "7.6\n2026 INSURANCE PROGRAMS - CONTRACT RENEWALS\n337\nPurpose: To request approval to award insurance contracts for the\nannual property and liability insurance programs.",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=2d97efcf-ac16-41b8-9702-b4c8ab249af9&lang=English",
+      "article_title": "City Council Meeting Agenda — April 28, 2026",
+      "article_published_at": "2026-04-28T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-10T16:00:51.986357"
+    },
+    {
       "id": 53,
       "title": "Proposed: Burnaby to award insurance contracts for property and liability programs",
       "summary": "Council will consider approving the renewal of contracts for the city's annual property and liability insurance programs. This is a routine business decision to ensure the city has proper insurance coverage for its buildings, equipment, and operations. If approved, the contracts would take effect for the 2026 policy year. This does not directly change any rules or fees for local businesses.",
@@ -176,6 +256,35 @@
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
       "created_at": "2026-05-09T23:36:37.250734"
+    },
+    {
+      "id": 197,
+      "title": "Proposed: Council to approve $4,000 for Heritage Commission conference trip",
+      "summary": "Council will consider a proposal to spend up to $4,000 so members of Burnaby's Community Heritage Commission (CHC) can attend the 2026 Heritage BC Conference in Squamish, BC from May 4-6, 2026. This is not yet approved — the decision is up for a vote at an upcoming council meeting.",
+      "action_required": null,
+      "key_dates": [
+        {
+          "label": "Heritage BC Conference — proposed attendance dates",
+          "date": "2026-05-04"
+        },
+        {
+          "label": "Heritage BC Conference — proposed attendance ends",
+          "date": "2026-05-06"
+        }
+      ],
+      "industries": "Professional Services",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "7.7",
+      "source_body": "7.7\n2026 HERITAGE BC CONFERENCE\n342\nPurpose: To seek Council approval for members of the Community\nHeritage Commission (CHC) to attend the 2026 Annual Heritage BC\nConference in Squamish, BC from May 4-6, 2026.",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=2d97efcf-ac16-41b8-9702-b4c8ab249af9&lang=English",
+      "article_title": "City Council Meeting Agenda — April 28, 2026",
+      "article_published_at": "2026-04-28T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-10T16:00:51.987304"
     },
     {
       "id": 79,
@@ -227,6 +336,26 @@
       "created_at": "2026-05-09T23:36:37.251179"
     },
     {
+      "id": 198,
+      "title": "Proposed: Burnaby to award $1M+ contract for networking software licenses",
+      "summary": "Council is set to vote on awarding a $1,047,545 contract to Insight Canada for the supply and delivery of networking software licenses. This is a proposed contract award — it has not yet been approved. If approved, the city would purchase software licenses needed to run its computer network systems. The decision is on the agenda for an upcoming council meeting.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Technology",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "7.8",
+      "source_body": "7.8\nCA - NETWORKING SOFTWARE LICENSES\n344\nPurpose: To obtain Council approval for a Contract Award (CA) for the\nsupply and delivery of networking software licenses.",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=2d97efcf-ac16-41b8-9702-b4c8ab249af9&lang=English",
+      "article_title": "City Council Meeting Agenda — April 28, 2026",
+      "article_published_at": "2026-04-28T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-10T16:00:51.988478"
+    },
+    {
       "id": 55,
       "title": "Council to vote on contract award for networking software licenses",
       "summary": "Burnaby City Council is set to vote on a proposed contract award for the supply and delivery of networking software licenses. If approved, this would authorize the city to purchase the software needed to run its computer networks. This is a routine procurement decision that keeps city technology systems working.",
@@ -245,6 +374,26 @@
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
       "created_at": "2026-05-09T23:36:37.251630"
+    },
+    {
+      "id": 199,
+      "title": "Proposed: Council to vote on $1.96M contract for civic office furniture",
+      "summary": "Council is set to vote on awarding a $1,962,600 contract to Heritage Office Furnishings for the supply, delivery and installation of furniture for new civic facilities. This is part of the fit-out of new city offices and public spaces. The decision has not been made yet — it will be considered at an upcoming council meeting.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development, Retail",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "7.9",
+      "source_body": "7.9\nCA - NEW CIVIC FACILITY FIT-OUT, FURNISHINGS AND\nEQUIPMENT\n346\nPurpose: To obtain Council approval for a Contract Award (CA) for the\nsupply, delivery and installation of office and facility furniture.",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=2d97efcf-ac16-41b8-9702-b4c8ab249af9&lang=English",
+      "article_title": "City Council Meeting Agenda — April 28, 2026",
+      "article_published_at": "2026-04-28T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-10T16:00:51.989582"
     },
     {
       "id": 56,
@@ -267,6 +416,26 @@
       "created_at": "2026-05-09T23:36:37.252167"
     },
     {
+      "id": 200,
+      "title": "Proposed: Council to vote on $47,000 KPMG audit contract increase",
+      "summary": "Burnaby City Council is set to vote on a proposed contract change that would add $47,000 to the amount paid to KPMG for external audit services. An external audit is an independent check of the city's financial records to make sure they are accurate and follow the rules. This is not a final decision yet — Council will consider and vote on the proposal at an upcoming meeting.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Professional Services",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "7.10",
+      "source_body": "7.10\nCC - EXTERNAL AUDIT SERVICES\n349\nPurpose: To obtain Council approval for a Contract Change (CC) for\nExternal Audit Services.",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=2d97efcf-ac16-41b8-9702-b4c8ab249af9&lang=English",
+      "article_title": "City Council Meeting Agenda — April 28, 2026",
+      "article_published_at": "2026-04-28T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-10T16:00:51.990598"
+    },
+    {
       "id": 57,
       "title": "Council to vote on contract change for external audit services",
       "summary": "Burnaby City Council is set to vote on a proposed change to the city's contract for external audit services. This is not a final decision yet. If approved, the change would modify the existing agreement with the company that audits the city's financial records. The purpose is to ensure the city's finances are reviewed properly. The specific details of the contract change are on the council agenda for discussion and a vote.",
@@ -285,6 +454,26 @@
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
       "created_at": "2026-05-09T23:36:37.252639"
+    },
+    {
+      "id": 201,
+      "title": "Proposed: $384,893 contract change for Burnaby Lake geotechnical work",
+      "summary": "Council is set to vote on a proposed contract change (an amendment to an existing agreement) that would add $384,893 to the geotechnical consulting contract with WSP for the Burnaby Lake Recreation Complex project. Geotechnical services involve studying soil and ground conditions to ensure buildings are safe and stable. If approved, this would increase the total contract value. The decision has not been made yet — council will consider and vote on this at an upcoming meeting.",
+      "action_required": "No action needed from you — this is an internal city contract decision. Watch for the council vote result if you work on this project.",
+      "key_dates": [],
+      "industries": "Construction & Development, Professional Services",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "7.11",
+      "source_body": "7.11\nCC - BURNABY LAKE RECREATION COMPLEX GEOTECHNICAL\n352\n2\n\nCONSULTING SERVICES\nPurpose: To obtain Council approval for a Contract Change (CC) for\ngeotechnical consultant services for the Burnaby Lake Recreation\nComplex project.",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=2d97efcf-ac16-41b8-9702-b4c8ab249af9&lang=English",
+      "article_title": "City Council Meeting Agenda — April 28, 2026",
+      "article_published_at": "2026-04-28T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-10T16:00:51.991552"
     },
     {
       "id": 80,
@@ -327,6 +516,26 @@
       "created_at": "2026-05-09T23:36:37.253107"
     },
     {
+      "id": 202,
+      "title": "Proposed: Burnaby Council to vote on $215,782.83 in Spring 2026 community grants",
+      "summary": "Council is set to vote on approving $215,782.83 in community grants for the Spring 2026 intake. This is a proposed decision — the grants have not yet been approved. If passed, the money would go to local community groups and non-profits. Business owners who work with or rely on these groups should watch for the council decision.",
+      "action_required": "Watch for the council decision — if approved, these grants could affect local community programs your business partners with.",
+      "key_dates": [],
+      "industries": "Professional Services",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "8.1",
+      "source_body": "8.1\nECC - SPRING 2026 COMMUNITY GRANT APPLICATIONS\n356\nPurpose: To seek Council approval for the recommended grant recipients\nfor the Spring 2026 intake.",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=2d97efcf-ac16-41b8-9702-b4c8ab249af9&lang=English",
+      "article_title": "City Council Meeting Agenda — April 28, 2026",
+      "article_published_at": "2026-04-28T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-10T16:00:51.992306"
+    },
+    {
       "id": 59,
       "title": "Council to vote on Spring 2026 community grant recipients",
       "summary": "Burnaby City Council is set to vote on approving the recommended recipients for the Spring 2026 community grant intake. This decision will determine which local organizations and projects receive funding from the city. The grants are part of the city's regular program to support community groups, non-profits, and events that benefit Burnaby residents. If approved, the selected applicants will receive their grant money to carry out their proposed activities. The council meeting agenda lists this item for discussion and a final vote.",
@@ -347,6 +556,26 @@
       "created_at": "2026-05-09T23:36:37.253568"
     },
     {
+      "id": 203,
+      "title": "Proposed: Mid-year 2026 fee changes for Burnaby Parks & Recreation",
+      "summary": "Burnaby City Council is set to vote on proposed mid-year 2026 fee amendments to certain fee schedules within the Burnaby Consolidated Fees and Charges Bylaw. These changes would affect fees for Parks and Recreation services. The proposal is not yet approved — it is up for discussion and a decision at an upcoming council meeting. If passed, the new fees would take effect later in 2026.",
+      "action_required": "Watch for the council meeting date and decision — these fee changes could affect your business or organization's costs for using Burnaby parks and recreation facilities.",
+      "key_dates": [],
+      "industries": "Professional Services",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "8.2",
+      "source_body": "8.2\nFMC - BURNABY CONSOLIDATED FEES AND CHARGES BYLAW -\n2026 MID-YEAR AMENDMENTS\n378\nPurpose: To propose mid-year 2026 fee amendments to certain fee\nschedules within the Burnaby Consolidated Fees and Charges Bylaw.",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=2d97efcf-ac16-41b8-9702-b4c8ab249af9&lang=English",
+      "article_title": "City Council Meeting Agenda — April 28, 2026",
+      "article_published_at": "2026-04-28T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-10T16:00:51.992967"
+    },
+    {
       "id": 60,
       "title": "Proposed: Mid-year 2026 fee changes to Burnaby Fees and Charges Bylaw",
       "summary": "Burnaby Council is set to vote on proposed mid-year 2026 fee amendments to the Burnaby Consolidated Fees and Charges Bylaw. If approved, these changes would update certain fee schedules for various city services and permits. The proposal is on the agenda for an upcoming council meeting — it has not been finalized yet. Business owners should watch for the council decision to see if their licence, permit, or service fees will change.",
@@ -365,6 +594,26 @@
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
       "created_at": "2026-05-09T23:36:37.254286"
+    },
+    {
+      "id": 204,
+      "title": "Proposed: Burnaby Tenant Protection Bylaw up for council vote",
+      "summary": "Burnaby City Council is set to vote on a proposed Tenant Protection Bylaw and framework. If approved, this new bylaw (a local law) would create rules to protect renters, such as limits on certain evictions and requirements for landlords. Council will consider endorsing the plan at an upcoming meeting. The decision has not been made yet.",
+      "action_required": "Watch for the council decision date — this bylaw could affect your rental property or tenancy.",
+      "key_dates": [],
+      "industries": "Landlord & Property Mgmt, Tenant",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "8.3",
+      "source_body": "8.3\nPDC - PROPOSED TENANT PROTECTION FRAMEWORK AND\nTENANT PROTECTION BYLAW AND ASSOCIATED BYLAW\nAMENDMENTS\n413\nPurpose: To seek Council endorsement of the proposed tenant\nprotection framework and Burnaby Tenant Protection Bylaw and\nassociated bylaw amendments.",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=2d97efcf-ac16-41b8-9702-b4c8ab249af9&lang=English",
+      "article_title": "City Council Meeting Agenda — April 28, 2026",
+      "article_published_at": "2026-04-28T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-10T16:00:51.993632"
     },
     {
       "id": 81,
@@ -447,6 +696,26 @@
       "created_at": "2026-05-09T23:36:37.255320"
     },
     {
+      "id": 205,
+      "title": "Proposed: Burnaby to vote on protected intersections for safer streets",
+      "summary": "Council is set to vote on a proposed amendment to the Burnaby Town Centre Design Standards. If approved, the new rules would require 'protected intersection geometry' — a safer design that uses curbs and barriers to separate pedestrians and cyclists from turning vehicles at intersections. The goal is to improve road safety and make it easier for people of all ages and abilities to walk and bike in the town centre. This is not yet law; council will decide at an upcoming meeting.",
+      "action_required": "Watch for the council decision — if approved, new design standards could affect future construction or renovation projects in Burnaby's town centre.",
+      "key_dates": [],
+      "industries": "Construction & Development",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "8.5",
+      "source_body": "8.5\nTC - PROPOSED AMENDMENT TO THE BURNABY TOWN CENTRE\nDESIGN STANDARDS TO INCORPORATE PROTECTED\nINTERSECTION GEOMETRY\n458\nPurpose: To seek Council endorsement to amend the Burnaby Town\nCentre Design Standards to incorporate protected intersection geometry,\nimprove road safety for pedestrians and cyclists and support all-ages-\nand-abilities mobility.",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=2d97efcf-ac16-41b8-9702-b4c8ab249af9&lang=English",
+      "article_title": "City Council Meeting Agenda — April 28, 2026",
+      "article_published_at": "2026-04-28T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-10T16:00:51.995119"
+    },
+    {
       "id": 83,
       "title": "Proposed: Burnaby to update design standards for safer intersections",
       "summary": "Council will consider a proposal to amend the Burnaby Town Centre Design Standards. The change would require new intersections to use 'protected intersection geometry' — a safer design that separates pedestrians and cyclists from turning vehicles using curbs and barriers. This is meant to make streets safer for people walking and biking, and to support travel options that work for all ages and abilities. The decision has not been made yet; Council will vote on whether to endorse the amendment at an upcoming meeting.",
@@ -485,6 +754,36 @@
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
       "created_at": "2026-05-09T23:36:37.255802"
+    },
+    {
+      "id": 206,
+      "title": "Proposed: Brentwood Park homes may be exempt from BC SSMUH rules via building bylaw",
+      "summary": "Council is set to vote on a proposal that would exempt certain properties in Brentwood Park from the Province's new Small-Scale Multi-Unit Housing (SSMUH) requirements. These properties have a 'restrictive covenant' — a legal promise on the land title limiting what can be built. The proposal would amend the Burnaby Building Bylaw city-wide to require compliance with restrictive covenants and statutory building schemes as part of building permit approval, affecting residential, commercial, and industrial properties. Staff do not recommend this approach due to added costs and process delays.",
+      "action_required": "Watch for the council vote on April 28, 2026 — this decision could affect whether you can build additional units on your Brentwood Park property.",
+      "key_dates": [
+        {
+          "label": "Council vote on Brentwood Park SSMUH exemption proposal",
+          "date": "2026-04-28"
+        }
+      ],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "9.1",
+      "source_body": "9.1\nBRENTWOOD PARK SSMUH MOTION - RESTRICTIVE COVENANTS\nAND STATUTORY BUILDING SCHEMES\n463\nPurpose: To respond to Council’s September 9, 2025, motion regarding\n3\n\nexempting Brentwood Park properties with Restrictive Covenants from\nProvincial SSMUH requirements.",
+      "attachments": [
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89284",
+          "title": "Brentwood Park SSMUH Motion - Restrictive Covenants and Statutory Building Schem"
+        }
+      ],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=2d97efcf-ac16-41b8-9702-b4c8ab249af9&lang=English",
+      "article_title": "City Council Meeting Agenda — April 28, 2026",
+      "article_published_at": "2026-04-28T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-10T16:00:51.996037"
     },
     {
       "id": 84,
@@ -582,6 +881,26 @@
       "created_at": "2026-05-09T23:36:37.256752"
     },
     {
+      "id": 207,
+      "title": "Proposed: Heritage status for 3789 Royal Oak Avenue under review",
+      "summary": "Council will consider a report that documents the current condition and historical significance of the property at 3789 Royal Oak Avenue. This 'as-found report' and 'Statement of Significance' are the first steps toward possibly designating the building as a heritage resource. If designated, future renovations or demolition would require special permits and approvals. The report is for information only at this stage — no decision has been made yet.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "9.3",
+      "source_body": "9.3\nCHC - AS-FOUND REPORT AND STATEMENT OF SIGNIFICANCE\nFOR HERITAGE RESOURCES AT 3789 ROYAL OAK AVENUE\n472\nPurpose: To provide Council an as-found report and Statement of\nSignificance for heritage resources located at 7389 Royal Oak Avenue\nfor information.",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=2d97efcf-ac16-41b8-9702-b4c8ab249af9&lang=English",
+      "article_title": "City Council Meeting Agenda — April 28, 2026",
+      "article_published_at": "2026-04-28T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-10T16:00:51.997306"
+    },
+    {
       "id": 66,
       "title": "Proposed: Heritage designation for 3789 Royal Oak Avenue in Burnaby",
       "summary": "Burnaby Council is set to consider an 'as-found report' and 'Statement of Significance' for the property at 3789 Royal Oak Avenue. A Statement of Significance is a formal document that explains why a building or site is historically important. This is the first step toward possibly designating the property as a municipal heritage resource. If designated, future changes to the building would need special approval. Council has not yet voted on this — it is being presented for information and discussion at this stage.",
@@ -602,6 +921,26 @@
       "created_at": "2026-05-09T23:36:37.257232"
     },
     {
+      "id": 208,
+      "title": "Council to receive 2025 Burnaby solid waste and recycling report",
+      "summary": "Burnaby City Council will consider receiving the 2025 Solid Waste and Recycling annual report. This report summarizes how the city's garbage, recycling, and organics collection system performed last year. It is an information item only — no new rules or fees are being proposed at this time. Council is set to vote on whether to accept the report as presented.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Retail, Food Service, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "9.4",
+      "source_body": "9.4\nEC - SOLID WASTE AND RECYCLING (SWR) 2025 ANNUAL REPORT\n630\nPurpose: To provide Council with a summary of the City of Burnaby solid\nwaste and recycling collection system performance.",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=2d97efcf-ac16-41b8-9702-b4c8ab249af9&lang=English",
+      "article_title": "City Council Meeting Agenda — April 28, 2026",
+      "article_published_at": "2026-04-28T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-10T16:00:51.998162"
+    },
+    {
       "id": 67,
       "title": "Proposed: Burnaby solid waste and recycling 2025 performance report",
       "summary": "Council will consider a summary of the City of Burnaby's solid waste and recycling collection system performance for 2025. This report covers how well the city's garbage, recycling, and organics pickup services are working. A proposed bylaw or policy change could follow based on this report, but no decision has been made yet. Business owners who generate waste or recycling should watch for any upcoming changes to collection rules or fees.",
@@ -620,6 +959,26 @@
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
       "created_at": "2026-05-09T23:36:37.257697"
+    },
+    {
+      "id": 209,
+      "title": "Council to receive update on food sustainability measures in Burnaby",
+      "summary": "Burnaby City Council is set to receive an operational update on food sustainability measures within the city. This is a report to Council, not a final decision. The update will cover current programs and actions the city is taking to improve food sustainability. No new bylaws or rules are being proposed at this time. The purpose is simply to inform Council about what is already happening.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Food Service, Grocery & Food Retail, Agriculture",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "9.5",
+      "source_body": "9.5\nEC - SU: ENHANCING FOOD SUSTAINABILITY IN BURNABY\n674\nPurpose: To provide Council with an operational update on food\nsustainability measures within the City of Burnaby.",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=2d97efcf-ac16-41b8-9702-b4c8ab249af9&lang=English",
+      "article_title": "City Council Meeting Agenda — April 28, 2026",
+      "article_published_at": "2026-04-28T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-10T16:00:51.998895"
     },
     {
       "id": 86,
@@ -662,6 +1021,26 @@
       "created_at": "2026-05-09T23:36:37.258142"
     },
     {
+      "id": 210,
+      "title": "Proposed: Safety improvements at Central Boulevard parkade intersection",
+      "summary": "Council will consider proposed safety improvements at the intersection of Central Boulevard and the Metropolis at Metrotown underground parkade access. The changes aim to make the intersection safer for drivers, pedestrians, and cyclists. This is a proposal only — no decision has been made yet.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development, Retail, Transportation & Logistics",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "9.6",
+      "source_body": "9.6\nTC - CENTRAL BOULEVARD AND PARKADE INERSECTION SAFETY\nIMPROVEMENTS\n678\nPurpose: To provide Council with an overview of the proposed safety\nimprovements at the intersection of Central Boulevard and Metropolis at\nMetrotown underground parkade access.",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=2d97efcf-ac16-41b8-9702-b4c8ab249af9&lang=English",
+      "article_title": "City Council Meeting Agenda — April 28, 2026",
+      "article_published_at": "2026-04-28T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-10T16:00:51.999575"
+    },
+    {
       "id": 87,
       "title": "Proposed: Safety improvements at Central Boulevard and Metropolis parkade intersection",
       "summary": "Council will consider proposed safety improvements at the intersection of Central Boulevard and the Metropolis at Metrotown underground parkade access. The proposal aims to make the intersection safer for drivers, pedestrians, and cyclists. A decision has not been made yet — this is up for discussion and a vote at an upcoming council meeting.",
@@ -700,6 +1079,26 @@
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
       "created_at": "2026-05-09T23:36:37.258604"
+    },
+    {
+      "id": 211,
+      "title": "Proposed: Rezoning at 3900 Grand Promenade to add hotel, restaurant, and 362 more homes",
+      "summary": "Council is set to vote on a proposed bylaw amendment that would change the approved development at 3900 Grand Promenade and nearby addresses. The developer wants to replace some planned office space with a hotel and restaurants, add 362 more market strata (privately owned) residential units, and make two towers taller — Tower 1B by seven storeys and Tower 1A by four storeys. The proposal also shifts the required affordable housing contribution for Phase 1 to a different site (the Carrigan site). This is a change from the previous rezoning approval (REZ #18-32) that was finalized in September 2024. The decision is not final — council will consider it at an upcoming meeting.",
+      "action_required": "Watch for the public hearing date — you may want to attend or submit comments on this rezoning proposal.",
+      "key_dates": [],
+      "industries": "Construction & Development, Hotel & Accommodation, Food Service",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "11.1.1",
+      "source_body": "11.1.1\n#14808 - Burnaby Zoning Bylaw 1965, Amendment Bylaw No.\n7, 2026 - REZ #24-23 (3900 Grand Promenade, 6950 Austin\nRd., 9858 & 9898 Gatineau Place)\n681\nPurpose: to amend the previous rezoning of the subject lands\npursuant to REZ #18-32 (Bylaw No. 14447), which received\n4\n\nFinal Adoption on September 23, 2024, and included two\nmarket strata residential buildings of 80 (Tower 1B) and 73\n(Tower 1A) storeys, respectively, inclusive of a 13-storey retail\nand office podium. As part of the subject amendment rezoning\napplication, the applicant is proposing to replace a portion of\nthe commercial office use with hotel and restaurant uses, and\nadd 362 additional market strata units from the development\nconcept approved under REZ #18-32, resulting in an additional\nseven storeys for Tower 1B and four storeys for Tower 1A. In\naddition, as part of the subject amendment rezoning\napplication, the applicant is proposing to provide the\ninclusionary requirement associated with Phase 1 only, to be\ntransferred to the Carrigan site, which is an amendment from\nthe previous rezoning approval.",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=2d97efcf-ac16-41b8-9702-b4c8ab249af9&lang=English",
+      "article_title": "City Council Meeting Agenda — April 28, 2026",
+      "article_published_at": "2026-04-28T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-10T16:00:52.000303"
     },
     {
       "id": 88,
@@ -802,6 +1201,26 @@
       "created_at": "2026-05-09T23:36:37.260094"
     },
     {
+      "id": 212,
+      "title": "Proposed: Burnaby e-bike and e-scooter rules up for council vote",
+      "summary": "Council is set to vote on proposed changes to Burnaby's Street and Traffic Bylaw that would update rules for e-bikes and electric kick scooters. The proposed bylaw, called 'Bylaw No. 1, 2026', would amend the existing 1964 Street and Traffic Bylaw to create a pilot program for these devices. If approved, this could change where and how e-bikes and e-scooters can be ridden on Burnaby streets and sidewalks. The decision has not been made yet — council will consider the proposal at an upcoming meeting.",
+      "action_required": "Watch for the council decision — new rules could affect how you operate your business if you use e-bikes or e-scooters for deliveries or services.",
+      "key_dates": [],
+      "industries": "Transportation & Logistics, Retail, Food Service",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "11.2.1",
+      "source_body": "11.2.1\n#14811 - Burnaby Street and Traffic Bylaw 1961, Amendment\nBylaw No. 1, 2026\n690\nPurpose: to amend Burnaby Street and Traffic Bylaw 1964 (e-\nbike and electric kick scooter pilot program)",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=2d97efcf-ac16-41b8-9702-b4c8ab249af9&lang=English",
+      "article_title": "City Council Meeting Agenda — April 28, 2026",
+      "article_published_at": "2026-04-28T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-10T16:00:52.001831"
+    },
+    {
       "id": 73,
       "title": "Proposed: Burnaby e-bike and e-scooter pilot bylaw amendment",
       "summary": "Council is set to vote on a proposed amendment to the Burnaby Street and Traffic Bylaw that would create a pilot program for e-bikes and electric kick scooters. If approved, this would change the rules for where and how these devices can be used on city streets. The decision has not been made yet — this is an upcoming proposal on the council agenda.",
@@ -822,6 +1241,26 @@
       "created_at": "2026-05-09T23:36:37.260554"
     },
     {
+      "id": 213,
+      "title": "Proposed: Burnaby Parks e-bike and e-scooter pilot program rules",
+      "summary": "Council is set to vote on proposed changes to the Burnaby Parks Regulation Bylaw that would allow e-bikes and electric kick scooters in city parks as part of a pilot program. The proposed bylaw amendment would create new rules for where and how these devices can be used in parks. This is not yet law — council will give first, second, and third readings to the amendment before it can take effect.",
+      "action_required": "Watch for the council decision and any public hearing dates — this pilot could affect how you use e-bikes or e-scooters in Burnaby parks.",
+      "key_dates": [],
+      "industries": "Retail, Transportation & Logistics",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "11.2.2",
+      "source_body": "11.2.2\n#14812 - Burnaby Parks Regulation Bylaw 1979, Amendment\nBylaw No. 1, 2026\n695\nPurpose: to amend the Burnaby Parks Regulation Bylaw 1979\n(e-bike and electric kick scooter pilot program)",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=2d97efcf-ac16-41b8-9702-b4c8ab249af9&lang=English",
+      "article_title": "City Council Meeting Agenda — April 28, 2026",
+      "article_published_at": "2026-04-28T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-10T16:00:52.002516"
+    },
+    {
       "id": 74,
       "title": "Proposed: Burnaby e-bike and e-scooter pilot in parks",
       "summary": "Council is set to vote on a proposed bylaw that would allow e-bikes and electric kick scooters in certain Burnaby parks as part of a pilot program. The amendment to the Parks Regulation Bylaw 1979 would create new rules for where and how these devices can be used. This is not yet law — it is up for approval at a future council meeting.",
@@ -840,6 +1279,26 @@
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
       "created_at": "2026-05-09T23:36:37.261031"
+    },
+    {
+      "id": 214,
+      "title": "Proposed: Burnaby bylaw amendments for e-bike and e-scooter enforcement",
+      "summary": "Council is set to vote on proposed changes to the Burnaby Bylaw Notice Enforcement Bylaw. These changes would update how the city enforces rules for e-bikes and electric kick scooters as part of a pilot program. If approved, the amendments would give the city new tools to issue tickets and enforce regulations for these vehicles. The decision has not been made yet — council will consider the proposal at an upcoming meeting.",
+      "action_required": "Watch for the council decision — if approved, new enforcement rules for e-bikes and e-scooters could affect your business operations or delivery services.",
+      "key_dates": [],
+      "industries": "Transportation & Logistics, Retail, Food Service",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "11.2.3",
+      "source_body": "11.2.3\n#14813 - Burnaby Bylaw Notice Enforcement Bylaw 2009,\nAmendment Bylaw No. 3, 2026 (e-bike and electric kick\nscooter programs)\n697\nPurpose: to amend the Burnaby Bylaw Notice Enforcement\nBylaw 2009 (e-bike and electric kick scooter pilot program)",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=2d97efcf-ac16-41b8-9702-b4c8ab249af9&lang=English",
+      "article_title": "City Council Meeting Agenda — April 28, 2026",
+      "article_published_at": "2026-04-28T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-10T16:00:52.003197"
     },
     {
       "id": 90,
@@ -880,6 +1339,31 @@
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
       "created_at": "2026-05-09T23:36:37.261504"
+    },
+    {
+      "id": 215,
+      "title": "Proposed: Burnaby 2026 property tax rates bylaw up for council vote",
+      "summary": "Council is set to vote on a proposed bylaw that would set the 2026 property tax rates for all taxable land and buildings in Burnaby. This bylaw is required under sections 197 and 216 of the Community Charter (the law that gives BC municipalities their powers). If approved, it will determine how much property tax you pay next year based on your property's assessed value.",
+      "action_required": "Watch for the council decision — this will directly affect your 2026 property tax bill.",
+      "key_dates": [
+        {
+          "label": "Burnaby 2026 Rates Bylaw council vote",
+          "date": "2025-12-08"
+        }
+      ],
+      "industries": "Landlord & Property Mgmt, Retail, Professional Services",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "11.2.4",
+      "source_body": "11.2.4\n#14814 - Burnaby Rates Bylaw 2026\n698\nPurpose: to establish tax rates upon all taxable land and\nimprovements pursuant to sections 197 and 216 of the\nCommunity Charter",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=2d97efcf-ac16-41b8-9702-b4c8ab249af9&lang=English",
+      "article_title": "City Council Meeting Agenda — April 28, 2026",
+      "article_published_at": "2026-04-28T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-10T16:00:52.004715"
     },
     {
       "id": 76,
