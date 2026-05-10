@@ -1,0 +1,47 @@
+{
+  "article_id": 16,
+  "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=70e29ca3-4f56-4cbc-be82-5f666ccb37e8&lang=English",
+  "article_title": "Committee of the Whole Meeting — May 12, 2026",
+  "source": "burnaby_council",
+  "source_label": "Burnaby Council",
+  "government_level": "Municipal",
+  "meeting_type": "committee-whole",
+  "article_published_at": "2026-05-12T00:00:00",
+  "has_attachments": false,
+  "has_pdf": false,
+  "has_html": false,
+  "has_agenda": true,
+  "has_minutes": false,
+  "agenda_brief_count": 1,
+  "minutes_brief_count": 0,
+  "pdf_urls": "{\"_doc\": [{\"url\": \"https://pub-burnaby.escribemeetings.com/FileStream.ashx?DocumentId=89601\", \"title\": \"Agenda (PDF)\"}], \"_inline\": [{\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89603\", \"title\": \"Building Burnaby Better - Final.pdf\"}]}",
+  "body": "",
+  "agenda_briefs": [
+    {
+      "id": 302,
+      "title": "Proposed: Burnaby capital project program review final report",
+      "summary": "Council will consider the Stewart Group's final report on Burnaby's capital project program. The report recommends a formal design-to-budget policy requiring all projects over $25 million to operate within firm affordability limits, with mandatory reviews triggered when estimates exceed 10% of the original budget. It also recommends a dedicated strategy to help Burnaby-based small and medium enterprises secure City contracts.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "3.1",
+      "source_body": "3.1\nVERBAL REPORT: BURNABY CAPITAL PROJECT PROGRAM REVIEW (THE STEWART GROUP)\n1.\nBuilding Burnaby Better - Final.pdf\nPurpose: To provide final report on capital project program review.",
+      "attachments": [
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89603",
+          "title": "Building Burnaby Better - Final.pdf"
+        }
+      ],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=70e29ca3-4f56-4cbc-be82-5f666ccb37e8&lang=English",
+      "article_title": "Committee of the Whole Meeting Agenda — May 12, 2026",
+      "article_published_at": "2026-05-12T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-10T18:12:53.988929"
+    }
+  ],
+  "minutes_briefs": []
+}
