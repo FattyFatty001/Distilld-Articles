@@ -1,0 +1,2694 @@
+{
+  "article_id": 22,
+  "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+  "article_title": "Revised Regular Council — May 05, 2026",
+  "source": "vancouver_council",
+  "source_label": "Vancouver Council",
+  "government_level": "Municipal",
+  "meeting_type": "regular-council",
+  "article_published_at": "2026-05-05T00:00:00",
+  "has_attachments": false,
+  "has_pdf": false,
+  "has_html": false,
+  "has_agenda": true,
+  "has_minutes": false,
+  "agenda_brief_count": 42,
+  "minutes_brief_count": 0,
+  "pdf_urls": "{\"_doc\": [{\"url\": \"https://council.vancouver.ca/20260401/documents/pspc20260401_minutes.pdf\", \"title\": \"Minutes\"}, {\"url\": \"https://council.vancouver.ca/20260407/documents/nom20260407min.pdf\", \"title\": \"Minutes\"}, {\"url\": \"https://council.vancouver.ca/20260414/documents/regu20260414min.pdf\", \"title\": \"Minutes\"}, {\"url\": \"https://council.vancouver.ca/20260414/documents/phea20260414min.pdf\", \"title\": \"Minutes\"}, {\"url\": \"https://council.vancouver.ca/20260421/documents/blhe20260421min.pdf\", \"title\": \"Minutes\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/comm1.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r1.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r1presentation.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r2.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r3.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r4.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r5.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r6.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r7.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r7draftbylaw.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/185-193-sw-marine-dr-7980-manitoba-st-ta/application-booklet.pdf#page=21\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r8.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r8draftbylaw.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/6012-cambie-st/application-booklet.pdf#page=25\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r9.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r9draftbylaw.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/5635-5655-cambie-st-and-511-w-41-ave/application-booklet-2.pdf#page=21\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r10.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r10draftbylaw.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/320-e-2-ave/application-booklet.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r10presentation.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r11.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r11draftbylaw.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/1290-hornby-st-and-889-drake-st/application-booklet.pdf#page=8\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r12.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r12draftbylaw.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/531-595-w-27-ave/application-booklet.pdf#page=86\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r12presentation.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r13.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r13draftbylaw.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/354-380-e-10-ave/application-booklet.pdf#page=35\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r14.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r14draftbylaw.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/1706-alberni-st/application-booklet.pdf#page=48\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r15_revised.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r15draftbylaw.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/888-w-8-ave/application-booklet.pdf#page=29\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/rr1.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/rr2.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/Bylaws1to19.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/a1.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/a2.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/a3.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/a4.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/a5.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/regu20260505ag.pdf\", \"title\": \"Agenda\"}], \"_inline\": [{\"url\": \"https://council.vancouver.ca/20260401/documents/pspc20260401_minutes.pdf\", \"title\": \"Council (Policy and Strategic Priorities) \\u2013 April 1, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260407/documents/nom20260407min.pdf\", \"title\": \"Nomination Subcommittee \\u2013 April 7, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260414/documents/regu20260414min.pdf\", \"title\": \"Council \\u2013 April 14, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260414/documents/phea20260414min.pdf\", \"title\": \"Public Hearing \\u2013 April 14, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260421/documents/blhe20260421min.pdf\", \"title\": \"Business Licence Hearing \\u2013 April 21, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/comm1.pdf\", \"title\": \"Memorandum\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1presentation.pdf\", \"title\": \"Staff Presentation\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7draftbylaw.pdf\", \"title\": \"Draft By-law\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8draftbylaw.pdf\", \"title\": \"Draft By-law\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9draftbylaw.pdf\", \"title\": \"Draft By-law\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10draftbylaw.pdf\", \"title\": \"Draft By-law\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/320-e-2-ave/application-booklet.pdf\", \"title\": \"Link to renderings\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10presentation.pdf\", \"title\": \"Staff Presentation\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11draftbylaw.pdf\", \"title\": \"Draft By-law\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12draftbylaw.pdf\", \"title\": \"Draft By-law\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12presentation.pdf\", \"title\": \"Staff Presentation\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13draftbylaw.pdf\", \"title\": \"Draft By-law\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14draftbylaw.pdf\", \"title\": \"Draft By-law\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15draftbylaw.pdf\", \"title\": \"Draft By-law\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/rr1.pdf\", \"title\": \"Referral Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/rr2.pdf\", \"title\": \"Referral Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/Bylaws1to19.pdf\", \"title\": \"By-laws 1 to 19\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a1.pdf\", \"title\": \"Resolution\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a2.pdf\", \"title\": \"Resolution\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a3.pdf\", \"title\": \"Resolution\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a4.pdf\", \"title\": \"Resolution\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a5.pdf\", \"title\": \"Resolution\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/regu20260505ag.pdf\", \"title\": \"Download the agenda\"}]}",
+  "body": "",
+  "agenda_briefs": [
+    {
+      "id": 329,
+      "title": "Proposed: Changes to Burnaby's 2026 Council meeting schedule",
+      "summary": "Burnaby City Council is set to vote on proposed changes to the schedule of regular council meetings for 2026. The proposal, outlined in a memorandum on the agenda, would adjust the dates and possibly the frequency of meetings next year. This is not yet approved — council will consider and decide on the new schedule at an upcoming meeting. Business owners who regularly attend or monitor council meetings should be aware that the dates may shift.",
+      "action_required": "Watch for the council decision on the 2026 meeting schedule — it could affect when you can attend or submit input.",
+      "key_dates": [],
+      "industries": "Professional Services",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "1",
+      "source_body": "COMMUNICATIONS\n1.\tChanges to the 2026 Council Meetings Schedule\nMemorandum",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/comm1.pdf",
+          "title": "Memorandum"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-11T16:46:24.870647"
+    },
+    {
+      "id": 330,
+      "title": "Proposed: Vancouver Commemoration Framework report up for council review",
+      "summary": "Council will consider a staff report on a proposed Commemoration Framework for the City of Vancouver. This framework would set new rules for how the city decides what to commemorate — for example, naming parks, streets, or buildings, or putting up statues and plaques. The goal is to make sure commemorations reflect the city's diverse history and values. The report is on the agenda for discussion, but no final decision has been made yet.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Professional Services, Construction & Development",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "2",
+      "source_body": "REPORTS\n1.\tCity of Vancouver Commemoration Framework\nReport\nStaff Presentation",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1presentation.pdf",
+          "title": "Staff Presentation"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10presentation.pdf",
+          "title": "Staff Presentation"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12presentation.pdf",
+          "title": "Staff Presentation"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf",
+          "title": "Report"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-11T16:46:24.872752"
+    },
+    {
+      "id": 331,
+      "title": "Proposed: Burnaby development property tax relief program for 2026",
+      "summary": "Burnaby Council is set to vote on a proposed bylaw that would create a Development Potential Relief Program for 2026 property taxation. This program would allow owners of land held for future development to apply for a reduction in their property taxes, based on the land's current use rather than its highest potential value. If approved, the bylaw would lower the tax burden on properties that are being held for development but are not yet generating income from that development. Council will consider this proposal at an upcoming meeting.",
+      "action_required": "Watch for the council decision date — if approved, you may need to apply for the tax relief before a deadline.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "3",
+      "source_body": "2.\t2026 Property Taxation: Development Potential Relief Program By-law, Tax Rating      By-laws, and Averaging Resolutions\nReport",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a1.pdf",
+          "title": "Resolution"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a2.pdf",
+          "title": "Resolution"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a3.pdf",
+          "title": "Resolution"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a4.pdf",
+          "title": "Resolution"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a5.pdf",
+          "title": "Resolution"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-11T16:46:24.873826"
+    },
+    {
+      "id": 332,
+      "title": "Proposed: Burnaby capital budget adjustments for May 2026",
+      "summary": "Council is set to vote on proposed adjustments to the City's capital budget for May 2026. These adjustments would reallocate funds for various city infrastructure projects, such as road repairs, park upgrades, and building maintenance. If approved, the changes could affect contracts and timelines for businesses working on city projects. The decision is scheduled for the next council meeting.",
+      "action_required": "Watch for the council decision — if approved, check if your business has city contracts that may be affected by the budget changes.",
+      "key_dates": [
+        {
+          "label": "Burnaby capital budget adjustments council vote",
+          "date": "2026-05-11"
+        }
+      ],
+      "industries": "Construction & Development, Professional Services",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "4",
+      "source_body": "3.\tQuarterly Capital Budget Adjustments – May 2026\nReport",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf",
+          "title": "Report"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-11T16:46:24.874388"
+    },
+    {
+      "id": 333,
+      "title": "Proposed: Operator and lease approval for social facility at 485 West 42nd Ave",
+      "summary": "Council is set to vote on appointing an operator and approving a lease for a social facility at #300 - 485 West 42nd Avenue. Recommendations B, C and D require at least 2/3 of all council members to vote 'yes' under Section 206(1) of the Vancouver Charter (a special rule that needs a supermajority for certain decisions). This is a proposed decision that has not yet been approved.",
+      "action_required": "No action required from you at this time — watch for the council vote result.",
+      "key_dates": [],
+      "industries": "Professional Services",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "5",
+      "source_body": "4.\tOperator Appointment and Lease Approval for Social Facility at #300 - 485 West        42nd Avenue\nRecommendations B, C and D require at least 2/3 affirmative votes of all Council members under Section 206(1) of the Vancouver Charter\nReport",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf",
+          "title": "Report"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-11T16:46:24.874908"
+    },
+    {
+      "id": 334,
+      "title": "Proposed: Closure and sale or lease of lane near 1750 Franklin Street",
+      "summary": "Burnaby Council is set to vote on a proposal to close, sell, or lease a public lane that runs next to properties at 1750 Franklin Street and 1717-1771 East Hastings Street. If approved, this would transfer ownership or control of that lane to the adjacent property owners. This could affect access, parking, or future development plans for nearby businesses and residents. The decision has not been made yet — Council will consider the report at an upcoming meeting.",
+      "action_required": "Contact Burnaby City Hall to ask when the public hearing or council vote is scheduled — you may want to attend or submit comments.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "6",
+      "source_body": "5.\tClosure and Sale or Lease of Lane Adjacent to 1750 Franklin Street and 1717-1771 East Hastings Street\nReport",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf",
+          "title": "Report"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-11T16:46:24.875442"
+    },
+    {
+      "id": 335,
+      "title": "Proposed: Burnaby bylaw changes for inclusionary zoning and density bonus",
+      "summary": "Council is set to vote on amendments to the Development Approval Procedure Bylaw. The proposed changes would add new consultation requirements for two housing programs: Inclusionary Zoning (which requires new developments to include affordable housing units) and Density Bonus (which lets developers build more units in exchange for community benefits like parks or childcare). If approved, developers would need to follow new steps for public consultation before their projects can move forward. This is a proposed change — it has not been approved yet.",
+      "action_required": "Watch for the council decision — if approved, these new consultation rules will affect how you apply for development permits in Burnaby.",
+      "key_dates": [],
+      "industries": "Construction & Development",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "7",
+      "source_body": "6.\tDevelopment Approval Procedure By-law: Amendments to include Consultation Requirements for Inclusionary Zoning and Density Bonus Provisions\nReport",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf",
+          "title": "Report"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-11T16:46:24.875941"
+    },
+    {
+      "id": 336,
+      "title": "Proposed: Rezoning for mixed-use at 185-193 SW Marine Drive and 7980 Manitoba Street",
+      "summary": "Burnaby Council is set to vote on a proposed bylaw amendment that would change the zoning rules for two properties at 185-193 Southwest Marine Drive and 7980 Manitoba Street. The amendment would allow a new mixed-use development — meaning a building that combines both commercial and residential uses — on these sites. This is a text amendment to the existing Comprehensive Development (CD-1) zone, which is a special zoning category that allows the city to set custom rules for a specific property. The decision has not been made yet; Council will consider the draft bylaw at an upcoming meeting.",
+      "action_required": "Watch for the council meeting date and consider attending the public hearing to voice your support or concerns about this rezoning proposal.",
+      "key_dates": [],
+      "industries": "Construction & Development",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "8",
+      "source_body": "7. \tCD-1 (908) Text Amendment: 185-193 Southwest Marine Drive and 7980 Manitoba Street\n(no speakers per section 7.2(b) of the Procedure By-law)\nReport\nDraft By-law\nLink to renderings",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://rezoning.vancouver.ca/applications/320-e-2-ave/application-booklet.pdf",
+          "title": "Link to renderings"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15draftbylaw.pdf",
+          "title": "Draft By-law"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-11T16:46:24.876467"
+    },
+    {
+      "id": 337,
+      "title": "Proposed: CD-1 rezoning for 6012-6088 Cambie Street",
+      "summary": "Council is set to vote on a proposed rezoning for properties at 6012-6088 Cambie Street. A draft bylaw would change the land use designation to a Comprehensive Development (CD-1) zone, which is a special zoning category that allows for a mix of uses like residential and commercial. This is not yet approved — the decision is upcoming.",
+      "action_required": "Watch for the council decision — this rezoning could affect nearby property values and development plans.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "9",
+      "source_body": "8.\tCD-1 Rezoning: 6012-6088 Cambie Street\n(no speakers per section 7.2(b) of the Procedure By-law)\nReport\n(Report revised May 4, 2026)\nDraft By-law\nLink to renderings",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://rezoning.vancouver.ca/applications/320-e-2-ave/application-booklet.pdf",
+          "title": "Link to renderings"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15draftbylaw.pdf",
+          "title": "Draft By-law"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-11T16:46:24.876968"
+    },
+    {
+      "id": 338,
+      "title": "Proposed: Rezoning for mixed-use at Cambie & 41st Ave, Burnaby",
+      "summary": "Burnaby City Council is set to vote on a proposed rezoning for 5635-5655 Cambie Street and 511 West 41st Avenue. If approved, the CD-1 (Comprehensive Development) zoning bylaw would allow a new mixed-use building with commercial space and residential units. This is a proposed change — it has not been approved yet. The council will consider the draft bylaw at an upcoming meeting.",
+      "action_required": "Watch for the council decision — this rezoning could affect nearby property values and development opportunities.",
+      "key_dates": [],
+      "industries": "Construction & Development, Retail, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "10",
+      "source_body": "9.\tCD-1 Rezoning: 5635-5655 Cambie Street and 511 West 41st Avenue\n(no speakers per section 7.2(b) of the Procedure By-law)\nReport\nDraft By-law\nLink to renderings",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://rezoning.vancouver.ca/applications/320-e-2-ave/application-booklet.pdf",
+          "title": "Link to renderings"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15draftbylaw.pdf",
+          "title": "Draft By-law"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-11T16:46:24.877490"
+    },
+    {
+      "id": 339,
+      "title": "Proposed: Burnaby Council to vote on CD-1 rezoning at 318-346 East 2nd Avenue",
+      "summary": "Burnaby City Council is set to vote on a proposed rezoning for the property at 318-346 East 2nd Avenue. If approved, the site would be rezoned to a Comprehensive Development (CD-1) district, which is a special zoning category that allows for a specific development plan rather than following standard zoning rules. This proposal is on the council agenda and has not yet been decided. A public hearing may be scheduled if council moves forward with the bylaw.",
+      "action_required": "Watch for the public hearing date — this rezoning could affect nearby businesses and property owners.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "11",
+      "source_body": "10. \tCD-1 Rezoning: 320 (318-346) East 2nd Avenue\n(no speakers per section 7.2(b) of the Procedure By-law)\nReport\nDraft By-law\nLink to renderings\nStaff Presentation",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1presentation.pdf",
+          "title": "Staff Presentation"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://rezoning.vancouver.ca/applications/320-e-2-ave/application-booklet.pdf",
+          "title": "Link to renderings"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10presentation.pdf",
+          "title": "Staff Presentation"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12presentation.pdf",
+          "title": "Staff Presentation"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15draftbylaw.pdf",
+          "title": "Draft By-law"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-11T16:46:24.878006"
+    },
+    {
+      "id": 340,
+      "title": "Proposed: Text amendment for CD-1 (892) at 1290 Hornby and 889 Drake",
+      "summary": "Council is set to vote on a proposed text amendment to the Comprehensive Development (CD-1) bylaw for two properties at 1290 Hornby Street and 889 Drake Street. A 'text amendment' means changing the written rules that govern what can be built or done on that specific piece of land. This is not a final decision yet — the draft bylaw is up for approval at a future council meeting. The report and draft bylaw are available for review, and no public speakers are scheduled under the Procedure By-law.",
+      "action_required": "Review the draft bylaw and report to understand how this change could affect your property or business.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "12",
+      "source_body": "11.\tCD-1 (892) Text Amendment: 1290 Hornby Street and 889 Drake Street\n(no speakers per section 7.2(b) of the Procedure By-law)\nReport\nDraft By-law\nLink to renderings",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://rezoning.vancouver.ca/applications/320-e-2-ave/application-booklet.pdf",
+          "title": "Link to renderings"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15draftbylaw.pdf",
+          "title": "Draft By-law"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-11T16:46:24.878559"
+    },
+    {
+      "id": 341,
+      "title": "Proposed: CD-1 rezoning for 531-595 West 27th Avenue in Burnaby",
+      "summary": "Burnaby City Council is set to vote on a proposed rezoning for the properties at 531-595 West 27th Avenue. The proposal would change the land use designation to a Comprehensive Development (CD-1) zone, which is a special zoning category that allows for a specific development plan rather than following standard zoning rules. This is a first reading of the bylaw — it has not been approved yet. A public hearing may be scheduled before a final vote.",
+      "action_required": "Watch for the public hearing date — this is your chance to speak for or against the rezoning.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "13",
+      "source_body": "12.\tCD-1 Rezoning: 531-595 West 27th Avenue\n(no speakers per section 7.2(b) of the Procedure By-law)\nReport\nDraft By-law\nLink to renderings\nStaff Presentation",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1presentation.pdf",
+          "title": "Staff Presentation"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://rezoning.vancouver.ca/applications/320-e-2-ave/application-booklet.pdf",
+          "title": "Link to renderings"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10presentation.pdf",
+          "title": "Staff Presentation"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12presentation.pdf",
+          "title": "Staff Presentation"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15draftbylaw.pdf",
+          "title": "Draft By-law"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-11T16:46:24.879078"
+    },
+    {
+      "id": 342,
+      "title": "Proposed: Rezoning for mixed-use building at 354-380 East 10th Avenue",
+      "summary": "Burnaby Council is set to vote on a proposed rezoning bylaw for 354-380 East 10th Avenue. The proposal would change the zoning to a Comprehensive Development (CD-1) district, which is a special zone that allows for a specific development plan. This would allow a new mixed-use building with commercial space on the ground floor and residential units above. The decision has not been made yet — Council will consider the draft bylaw at an upcoming meeting.",
+      "action_required": "No immediate action required. Watch for the Council decision date if you own property or a business in this area.",
+      "key_dates": [],
+      "industries": "Construction & Development, Retail",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "14",
+      "source_body": "13.\tCD-1 Rezoning: 354-380 East 10th Avenue\n(no speakers per section 7.2(b) of the Procedure By-law)\nReport\nDraft By-law\nLink to renderings",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://rezoning.vancouver.ca/applications/320-e-2-ave/application-booklet.pdf",
+          "title": "Link to renderings"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15draftbylaw.pdf",
+          "title": "Draft By-law"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-11T16:46:24.879598"
+    },
+    {
+      "id": 343,
+      "title": "Proposed: CD-1 rezoning for Alberni and Bidwell streets in Burnaby",
+      "summary": "Council is set to vote on a proposed rezoning for properties at 1728-1738 Alberni Street, 1706 Alberni Street, and 735 Bidwell Street. The proposal would change the zoning to a Comprehensive Development (CD-1) district, which is a special zoning category that allows for a specific development plan. This could affect nearby businesses and property owners. The decision has not been made yet — it is up for discussion and a vote at a future council meeting.",
+      "action_required": "Watch for the council meeting date and consider attending to have your say on this proposed rezoning.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "15",
+      "source_body": "14.\tCD-1 Rezoning: 1728-1738 Alberni Street and 1706 Alberni Street and 735 Bidwell Street\n(no speakers per section 7.2(b) of the Procedure By-law)\nReport\nDraft By-law\nLink to renderings",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://rezoning.vancouver.ca/applications/320-e-2-ave/application-booklet.pdf",
+          "title": "Link to renderings"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15draftbylaw.pdf",
+          "title": "Draft By-law"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-11T16:46:24.880116"
+    },
+    {
+      "id": 344,
+      "title": "Proposed: CD-1 rezoning for 888 West 8th Avenue in Burnaby",
+      "summary": "Council is set to vote on a proposed rezoning for the property at 888 West 8th Avenue. A draft bylaw has been prepared that would change the zoning to a Comprehensive Development (CD-1) zone, which allows for a specific development plan rather than standard zoning rules. This is a proposal only — it has not been approved yet. The item was referred to Council on April 14, 2026, and the report was revised on May 4, 2026. No public speakers are allowed at this stage under the Procedure Bylaw.",
+      "action_required": "Watch for the council decision date — this rezoning could affect nearby property values and development plans.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "16",
+      "source_body": "15.\tCD-1 Rezoning: 888 West 8th Avenue\nReferred to Council at the Council meeting on April 14, 2026.\n(no speakers per section 7.2(b) of the Procedure By-law)\nReport\n(Report revised May 4, 2026)\nDraft By-law\nLink to renderings",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://rezoning.vancouver.ca/applications/320-e-2-ave/application-booklet.pdf",
+          "title": "Link to renderings"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14draftbylaw.pdf",
+          "title": "Draft By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15draftbylaw.pdf",
+          "title": "Draft By-law"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-11T16:46:24.880627"
+    },
+    {
+      "id": 345,
+      "title": "Proposed: Burnaby density bonus and inclusionary zoning updates for 2026",
+      "summary": "Council is set to vote on proposed updates to Burnaby's density bonus and inclusionary zoning rules. A density bonus lets developers build more units than normally allowed in exchange for community benefits like affordable housing. Inclusionary zoning requires new developments to include a certain number of affordable homes. These updates are meant to bring the city's rules in line with new provincial legislation (Bill 16). If approved, the changes could affect how much developers pay for density bonuses and how many affordable units they must include in new projects. This is a proposal only — nothing has been decided yet.",
+      "action_required": "Watch for the council decision — these changes could affect your development costs or project requirements.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "17",
+      "source_body": "REFERRAL REPORTS\n1.\t2026 Financing Growth Update: Bill 16 Compliance Update to Density Bonus Provisions & Inclusionary Zoning\n(no speakers per section 7.2(a) of the Procedure By-law)\nReferral Report",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/rr1.pdf",
+          "title": "Referral Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/rr2.pdf",
+          "title": "Referral Report"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-11T16:46:24.881135"
+    },
+    {
+      "id": 346,
+      "title": "Proposed: CD-1 Text Amendment for 133-159 West 49th Avenue",
+      "summary": "Council is set to vote on a proposed text amendment to the Comprehensive Development (CD-1) bylaw for properties at 133-159 West 49th Avenue (formerly 131-163 West 49th Avenue). A CD-1 bylaw is a special zoning rule for a specific site. This amendment would change the rules for what can be built or done on this land. The decision has not been made yet — council will consider the referral report at an upcoming meeting.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "18",
+      "source_body": "2.\tCD-1 (847) Text Amendment: 133-159 West 49th Avenue (Formerly 131-163 West 49th Avenue)\n(no speakers per section 7.2(a) of the Procedure By-law)\nReferral Report",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/rr1.pdf",
+          "title": "Referral Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/rr2.pdf",
+          "title": "Referral Report"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-11T16:46:24.881646"
+    },
+    {
+      "id": 347,
+      "title": "Proposed: Burnaby bylaw change on drinking alcohol in city parks",
+      "summary": "Council is set to vote on a proposed bylaw that would change the rules about drinking alcohol on City of Burnaby land. The proposed amendment to City Land Regulation Bylaw No. 8735 would update where and when people can consume liquor in public spaces like parks and plazas. This is not yet law — it is up for approval at a future council meeting. If passed, it could affect businesses that hold special event permits or operate near city land where drinking is currently restricted.",
+      "action_required": "Watch for the council meeting date and consider attending to have your say on how this change could affect your business or events.",
+      "key_dates": [],
+      "industries": "Liquor, Food Service, Retail",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "19",
+      "source_body": "BY-LAWS\nBy-laws 1 to 19\n1.\tA By-law to amend the City Land Regulation By-law No. 8735 regarding consumption of liquor on City Land (2026)",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/Bylaws1to19.pdf",
+          "title": "By-laws 1 to 19"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-11T16:46:24.882139"
+    },
+    {
+      "id": 348,
+      "title": "Proposed: Rezoning at 2110 West 5th Avenue to CD-1",
+      "summary": "Council is set to vote on a proposed bylaw that would rezone the property at 2110 West 5th Avenue to a Comprehensive Development (CD-1) zone. A CD-1 zone is a custom zoning category that allows for specific development plans that may not fit standard zoning rules. This is a proposed change only — it has not been approved yet. Councillor Bligh and Mayor Sim must review the meeting proceedings before they are eligible to vote on this matter.",
+      "action_required": "Attend the public hearing or submit your comments to Burnaby City Council before the vote.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "20",
+      "source_body": "2.\tA By-law to amend Zoning and Development By-law No. 3575 to rezone an area to   CD-1 (2110 West 5th Avenue)\n(Councillor Bligh and Mayor Sim will need to review the proceedings to be eligible to vote)",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-11T16:46:24.882661"
+    },
+    {
+      "id": 349,
+      "title": "Proposed: Rezoning of 5889-5925 Dunbar Street to RR-2B",
+      "summary": "Burnaby Council is set to vote on a proposed bylaw that would rezone the properties at 5889-5925 Dunbar Street from R1-1 (single-family homes) to RR-2B (a different residential zone). This change could affect what types of housing or development are allowed on these lots. The decision has not been made yet — Council will consider and vote on the proposal at an upcoming meeting.",
+      "action_required": "Attend the public hearing or contact your councillor to share your views before the vote.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "21",
+      "source_body": "3.\tA By-law to amend Zoning and Development By-law No. 3575 to rezone an area from R1-1 to RR-2B (5889-5925 Dunbar Street)\n(Councillors Maloney, Orr and Mayor Sim will need to review the proceedings to be eligible to vote)",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-11T16:46:24.883164"
+    },
+    {
+      "id": 350,
+      "title": "Proposed: Housing Agreement for 1111 Broughton Street",
+      "summary": "Council is set to vote on a proposed bylaw that would create a Housing Agreement for the property at 1111 Broughton Street. A Housing Agreement is a legal contract between the city and a property owner that locks in certain conditions, like how many rental units must be kept affordable and for how long. This decision has not been made yet — it is up for approval at an upcoming council meeting.",
+      "action_required": "Watch for the council decision — if approved, this agreement could affect rental housing rules in your area.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "22",
+      "source_body": "4.\tA By-law to enact a Housing Agreement for 1111 Broughton Street",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-11T16:46:24.883663"
+    },
+    {
+      "id": 351,
+      "title": "Proposed: Housing agreement for 648-680 East Broadway and 2505 Fraser Street",
+      "summary": "Burnaby Council is set to vote on a proposed bylaw that would create a Housing Agreement for the properties at 648-680 East Broadway and 2505 Fraser Street. A Housing Agreement is a legal contract between the city and a property owner that locks in how the housing will be used — for example, ensuring a certain number of units stay affordable or are rented at below-market rates. This is not yet approved; Council will consider the bylaw at an upcoming meeting.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "23",
+      "source_body": "5.\tA By-law to enact a Housing Agreement for 648-680 East Broadway and 2505 Fraser Street",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-11T16:46:24.884136"
+    },
+    {
+      "id": 352,
+      "title": "Proposed: Housing Agreement for 4615 Arbutus Street in Burnaby",
+      "summary": "Burnaby City Council is set to vote on a proposed bylaw that would create a Housing Agreement for the property at 4615 Arbutus Street. A Housing Agreement is a legal contract between the city and a property owner that locks in certain conditions, like keeping the housing affordable or limiting how it can be used. This is a proposed decision — it has not been approved yet.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "24",
+      "source_body": "6.\tA By-law to enact a Housing Agreement for 4615 Arbutus Street",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-11T16:46:24.884893"
+    },
+    {
+      "id": 353,
+      "title": "Proposed: Amendment to housing agreement for 2221-2223 Main Street",
+      "summary": "Burnaby Council is set to vote on a proposed bylaw that would amend an existing Housing Agreement for the property at 2221-2223 Main Street. A Housing Agreement is a legal contract between the city and a property owner that sets rules about how the building is used — often to keep some units affordable. This amendment would change the terms of that agreement. The decision has not been made yet; Council will consider the proposal at an upcoming meeting.",
+      "action_required": "Watch for the council meeting date — if you live near or have interest in this property, you may want to attend or submit comments.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "25",
+      "source_body": "7.\tA By-law to authorize the amendment of a Housing Agreement Authorized by By-law No. 12181 for 2221-2223 Main Street",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-11T16:46:24.885395"
+    },
+    {
+      "id": 354,
+      "title": "Proposed: Housing agreement for 2158–2170 West 1st Avenue",
+      "summary": "Council is set to vote on a proposed bylaw that would create a Housing Agreement for the property at 2158–2170 West 1st Avenue. A Housing Agreement is a legal contract between the city and a property owner that locks in certain conditions — like how many affordable rental units must be provided and for how long. This proposed agreement would set rules for the development of this site, including requirements for affordable housing. The decision has not been made yet; council will consider and vote on the bylaw at an upcoming meeting.",
+      "action_required": "Watch for the council meeting date — if you own or live near this property, you may want to attend or submit comments.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "26",
+      "source_body": "8.\tA By-law to enact a Housing Agreement for 2158 – 2170 West 1st Avenue",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-11T16:46:24.885911"
+    },
+    {
+      "id": 355,
+      "title": "Proposed: Burnaby bylaw to offer tax relief for development potential in 2026",
+      "summary": "Council is set to vote on a proposed bylaw that would give property owners in Burnaby a break on their property taxes for 2026. This tax relief is for the 'development potential' of a property — meaning the extra value a piece of land has because it could be developed or redeveloped in the future. If approved, the bylaw would lower the tax bill on that future value, not on the current use of the land. This is still a proposal and has not been decided yet.",
+      "action_required": "Watch for the council decision — if approved, this could lower your 2026 property taxes if you own land with development potential.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "27",
+      "source_body": "9.\tA By-law to provide for tax relief from development potential for 2026\nSubject to approval of Report 2",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf",
+          "title": "Report"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-11T16:46:24.886404"
+    },
+    {
+      "id": 356,
+      "title": "Proposed: Vancouver 2026 property tax bylaw to set levy rates",
+      "summary": "Council is set to vote on a proposed bylaw that would set the property tax rates for all taxable real property in Vancouver for the year 2026. The bylaw would raise enough money, combined with other city revenue, to pay all of Vancouver's debts and obligations that come due in 2026. This is a standard annual process, but the specific tax rate has not yet been approved. The decision depends on approval of a separate report (Report 2).",
+      "action_required": "Watch for the council decision on this bylaw and the related Report 2 — the final tax rate will affect your 2026 property taxes.",
+      "key_dates": [],
+      "industries": "Landlord & Property Mgmt, Retail, Professional Services",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "28",
+      "source_body": "10.\tA By-law to levy rates on all taxable real property in the City of Vancouver, to raise a sum which added to the estimated revenue of the City of Vancouver from other sources, will be sufficient to pay all debts and obligations of the City of Vancouver falling due within the year 2026 and not otherwise provided for\nSubject to approval of Report 2",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf",
+          "title": "Report"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-11T16:46:24.886922"
+    },
+    {
+      "id": 357,
+      "title": "Proposed: Burnaby bylaw to levy Metro Vancouver regional district rate",
+      "summary": "Council is set to vote on a proposed bylaw that would levy a rate on property in Burnaby to raise money that the city must pay to the Metro Vancouver Regional District. This is a routine funding mechanism — the regional district provides services like water, sewer, and regional parks, and each member city must collect its share through property taxes. If approved, this bylaw would set the specific rate for the coming year, meaning property owners in Burnaby would see this charge on their property tax bill. The decision is not final yet; it is up for approval at a future council meeting.",
+      "action_required": "Watch for the council decision — if approved, this rate will appear on your property tax bill.",
+      "key_dates": [],
+      "industries": "Landlord & Property Mgmt, Tenant",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "29",
+      "source_body": "11.\tA By-law to levy a rate on property to raise monies required to be paid to the Metro Vancouver Regional District\nSubject to approval of Report 2",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf",
+          "title": "Report"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-11T16:46:24.887433"
+    },
+    {
+      "id": 358,
+      "title": "Proposed: Burnaby bylaw amendment for 6486 Chester Street subdivision",
+      "summary": "Council is set to vote on a proposed bylaw that would amend the Subdivision By-law No. 5208 specifically for the property at 6486 Chester Street. A subdivision bylaw controls how land can be divided into smaller lots. This amendment would change the rules for that one property only. The decision has not been made yet — it is up for approval at an upcoming council meeting.",
+      "action_required": "Watch for the council meeting date and attend or submit comments if you own or plan to develop property near 6486 Chester Street.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "30",
+      "source_body": "12.\tA By-law to amend Subdivision By-law No. 5208 regarding 6486 Chester Street",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-11T16:46:24.888011"
+    },
+    {
+      "id": 359,
+      "title": "Proposed: Sign bylaw amendment for 1710-1730 East Pender Street",
+      "summary": "Burnaby Council is set to vote on a proposed bylaw that would change the sign rules for the properties at 1710-1730 East Pender Street. This is an amendment to the existing Sign Bylaw No. 11879. If approved, it would allow different or additional signage at this specific location. The decision has not been made yet — Council will consider and vote on the proposal at an upcoming meeting.",
+      "action_required": "If you own or operate a business at 1710-1730 East Pender Street, watch for the council decision — this could affect your signage options.",
+      "key_dates": [],
+      "industries": "Retail, Construction & Development",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "31",
+      "source_body": "13.\tA By-law to amend Sign By-law No. 11879 regarding 1710-1730 East Pender Street\n(Councillors Maloney, Orr and Mayor Sim will need to review the proceedings to be eligible to vote)",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-11T16:46:24.888550"
+    },
+    {
+      "id": 360,
+      "title": "Proposed: Noise bylaw amendment for 1710-1730 East Pender Street",
+      "summary": "Burnaby Council is set to vote on a proposed bylaw that would change the Noise Control Bylaw for the properties at 1710-1730 East Pender Street. If approved, this amendment could allow certain construction or business activities that are currently restricted by noise rules. The change is not yet in effect — Council will consider it at an upcoming meeting.",
+      "action_required": "Watch for the council decision date — this could affect noise rules for nearby businesses or construction projects.",
+      "key_dates": [],
+      "industries": "Construction & Development, Retail",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "32",
+      "source_body": "14.\tA By-law to amend Noise Control By-law No. 6555 regarding 1710-1730 East Pender Street",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-11T16:46:24.889102"
+    },
+    {
+      "id": 361,
+      "title": "Proposed: Burnaby sign bylaw amendment for 1302-1318 East 12th Avenue",
+      "summary": "Council is set to vote on a proposed bylaw that would change the sign rules for the property at 1302-1318 East 12th Avenue in Burnaby. This is an amendment to the existing Sign Bylaw No. 11879. If approved, it would allow different or additional signage at that specific location than what the current bylaw permits. The decision has not been made yet — this is a proposal that council members will discuss and vote on.",
+      "action_required": "If you own or operate a business at this address, contact the City of Burnaby planning department to understand how the proposed changes could affect your signage options.",
+      "key_dates": [],
+      "industries": "Construction & Development, Retail",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "33",
+      "source_body": "15.\tA By-law to amend Sign By-law No. 11879 regarding 1302-1318 East 12th Avenue\n(Councillors Maloney, Montague, Orr and Mayor Sim will need to review the proceedings to be eligible to vote)",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-11T16:46:24.889599"
+    },
+    {
+      "id": 362,
+      "title": "Proposed: Burnaby noise bylaw amendment for 1302-1318 East 12th Avenue",
+      "summary": "Council is set to vote on a proposed bylaw that would change the Noise Control Bylaw for the property at 1302-1318 East 12th Avenue. If approved, this amendment could allow different noise rules (like construction hours or equipment use) on that specific site. The decision has not been made yet — it is up for discussion and a vote at an upcoming council meeting.",
+      "action_required": "Watch for the council meeting date and attend or submit comments if you are a nearby business or resident affected by noise rules.",
+      "key_dates": [],
+      "industries": "Construction & Development",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "34",
+      "source_body": "16.\tA By-law to amend Noise Control By-law No. 6555 regarding 1302-1318 East 12th Avenue",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-11T16:46:24.890102"
+    },
+    {
+      "id": 363,
+      "title": "Proposed: Burnaby council to vote on housekeeping changes to Building Bylaw",
+      "summary": "Council is set to vote on a proposed bylaw that would make minor 'housekeeping' updates to Burnaby's existing Building Bylaw No. 14343. These are not major new rules — they are small fixes to clean up language, fix errors, and keep the bylaw up to date. The changes are up for approval at an upcoming council meeting. If passed, they would affect anyone who needs a building permit in Burnaby.",
+      "action_required": "No action needed now — just watch for the council decision to see if the changes affect your next building permit application.",
+      "key_dates": [],
+      "industries": "Construction & Development",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "35",
+      "source_body": "17.\tA By-law to amend Building By-law No. 14343 regarding housekeeping and miscellaneous amendments",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-11T16:46:24.890603"
+    },
+    {
+      "id": 364,
+      "title": "Proposed: Burnaby to update electrical bylaw for new BC safety rules",
+      "summary": "Council is set to vote on a proposed bylaw that would update Burnaby's Electrical By-law No. 5563 to match recent changes to the BC Electrical Safety Regulation. If approved, this would bring the city's rules in line with provincial safety standards. The changes are mostly technical and aim to keep electrical work in Burnaby safe and consistent with the rest of the province. No major new fees or requirements for business owners are expected, but anyone doing electrical work should be aware that the provincial rules they already follow will now be the same as the city's rules.",
+      "action_required": "No action needed now — just watch for the council decision to confirm the bylaw is updated.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "36",
+      "source_body": "18. \tA By-law to amend Electrical By-law No. 5563 Regarding BC Electrical Safety Regulation Changes and Miscellaneous Amendments",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-11T16:46:24.891087"
+    },
+    {
+      "id": 365,
+      "title": "Proposed: Burnaby to update ticket fines for bylaw offences",
+      "summary": "Council is set to vote on a proposed bylaw that would make miscellaneous updates to the Ticket Offences By-law No. 9360. This bylaw sets the fines for breaking various city rules, like parking or property standards. If approved, the changes could mean different fine amounts or new ticketable offences. The exact changes are not yet public, but business owners should watch for the final decision to see if their operations are affected.",
+      "action_required": "Watch for the council decision — if approved, check the updated fine list to ensure your business complies with any new or changed ticketable offences.",
+      "key_dates": [],
+      "industries": "Retail, Food Service, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "37",
+      "source_body": "19.\tA By-law to amend the Ticket Offences By-law No. 9360 regarding miscellaneous amendments",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-11T16:46:24.891579"
+    },
+    {
+      "id": 366,
+      "title": "Proposed: Burnaby council to vote on closing lane near Franklin and Hastings",
+      "summary": "Burnaby City Council is set to vote on a proposal to close and sell a public lane next to 1750 Franklin Street and 1717-1771 East Hastings Street. If approved, the lane would be permanently closed and sold to the adjacent property owners. This is not a done deal yet — council will make the final decision at an upcoming meeting. The proposal is part of a larger report (Report 5) that council must also approve first.",
+      "action_required": "Watch for the council meeting date — if you use this lane or own nearby property, consider contacting council before the vote.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "38",
+      "source_body": "ADMINISTRATIVE MOTIONS\n1.\tResolution - Closure and Sale of Lane Adjacent to 1750 Franklin Street and 1717-1771 East Hastings Street\nSubject to approval of Recommendations A and B of Report 5\nResolution",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf",
+          "title": "Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a1.pdf",
+          "title": "Resolution"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a2.pdf",
+          "title": "Resolution"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a3.pdf",
+          "title": "Resolution"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a4.pdf",
+          "title": "Resolution"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a5.pdf",
+          "title": "Resolution"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-11T16:46:24.892058"
+    },
+    {
+      "id": 367,
+      "title": "Council to vote on 2026 tax levies for provincial schools",
+      "summary": "Burnaby City Council is set to vote on a resolution that would set the 2026 tax levies for provincial schools. This is a proposed decision that would determine how much property tax revenue is collected from local businesses and residents to fund schools in the province. The resolution is subject to approval of related bylaws (Bylaws 9 to 11), which are the formal legal documents that would put the tax rates into effect. If passed, this would affect property tax bills for all commercial and residential property owners in Burnaby.",
+      "action_required": "Watch for the council decision — this could affect your property tax bill for 2026.",
+      "key_dates": [],
+      "industries": "Landlord & Property Mgmt, Retail, Professional Services",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "39",
+      "source_body": "2.\tResolution - 2026 Tax Levies for Provincial Schools\nSubject to approval of By-laws 9 to 11\nResolution",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a1.pdf",
+          "title": "Resolution"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a2.pdf",
+          "title": "Resolution"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a3.pdf",
+          "title": "Resolution"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a4.pdf",
+          "title": "Resolution"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a5.pdf",
+          "title": "Resolution"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-11T16:46:24.892586"
+    },
+    {
+      "id": 368,
+      "title": "Proposed: Burnaby Council to vote on 2026 TransLink tax levies",
+      "summary": "Burnaby City Council is set to vote on a resolution that would approve the 2026 tax levies for TransLink (the South Coast British Columbia Transportation Authority). If passed, this would set the amount of property taxes collected in Burnaby that go to fund regional transit. The decision is tied to the approval of three related bylaws (Bylaws 9 to 11). This is a proposed decision — it has not been finalized yet.",
+      "action_required": "Watch for the council decision — this could affect your property tax bill for 2026.",
+      "key_dates": [],
+      "industries": "Landlord & Property Mgmt, Retail, Professional Services",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "40",
+      "source_body": "3.\tResolution - 2026 Tax Levies for South Coast British Columbia Transportation Authority (“Translink”)\nSubject to approval of By-laws 9 to 11\nResolution",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a1.pdf",
+          "title": "Resolution"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a2.pdf",
+          "title": "Resolution"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a3.pdf",
+          "title": "Resolution"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a4.pdf",
+          "title": "Resolution"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a5.pdf",
+          "title": "Resolution"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-11T16:46:24.893086"
+    },
+    {
+      "id": 369,
+      "title": "Proposed: Burnaby Council to vote on 2026 BC Assessment tax levies",
+      "summary": "Burnaby City Council is set to vote on a resolution that would approve the 2026 tax levies for the BC Assessment Authority. This is a proposed decision that has not yet been approved. If passed, it would set the amount of property tax money the city collects on behalf of BC Assessment for the 2026 year. This affects all property owners in Burnaby, as it is part of how your property taxes are calculated. The resolution is subject to the approval of three related bylaws (Bylaws 9 to 11).",
+      "action_required": "Watch for the council decision — this could affect your 2026 property tax bill.",
+      "key_dates": [],
+      "industries": "Landlord & Property Mgmt, Retail, Professional Services",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "41",
+      "source_body": "4.\tResolution - 2026 Tax Levies for British Columbia Assessment Authority\nSubject to approval of By-laws 9 to 11\nResolution",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a1.pdf",
+          "title": "Resolution"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a2.pdf",
+          "title": "Resolution"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a3.pdf",
+          "title": "Resolution"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a4.pdf",
+          "title": "Resolution"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a5.pdf",
+          "title": "Resolution"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-11T16:46:24.893568"
+    },
+    {
+      "id": 370,
+      "title": "Proposed: Burnaby Council to vote on 2026 tax levies for Municipal Finance Authority",
+      "summary": "Council is set to vote on a resolution to approve the 2026 tax levies for the Municipal Finance Authority of British Columbia (MFA). The MFA is a government agency that helps local governments borrow money at lower rates for big projects like roads, water systems, and buildings. If approved, this resolution would set the amount of money Burnaby must collect from property taxes to pay for its share of MFA borrowing costs. This is a routine financial step, but it directly affects how much the city will need to raise through property taxes in 2026. The resolution is subject to the approval of three related bylaws (Bylaws 9 to 11), which will also be voted on.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Landlord & Property Mgmt, Professional Services",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "42",
+      "source_body": "5.\tResolution - 2026 Tax Levies for Municipal Finance Authority of British Columbia\nSubject to approval of By-laws 9 to 11\nResolution",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a1.pdf",
+          "title": "Resolution"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a2.pdf",
+          "title": "Resolution"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a3.pdf",
+          "title": "Resolution"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a4.pdf",
+          "title": "Resolution"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a5.pdf",
+          "title": "Resolution"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-11T16:46:24.894839"
+    }
+  ],
+  "minutes_briefs": []
+}
