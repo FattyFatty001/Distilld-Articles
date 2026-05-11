@@ -1,0 +1,42 @@
+{
+  "article_id": 19,
+  "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=4795f9af-8f42-44b4-9c31-6b81686448a8&lang=English",
+  "article_title": "Board of Variance — May 04, 2026",
+  "source": "burnaby_council",
+  "source_label": "Burnaby Council",
+  "government_level": "Municipal",
+  "meeting_type": "variance",
+  "article_published_at": "2026-05-04T00:00:00",
+  "has_attachments": false,
+  "has_pdf": false,
+  "has_html": false,
+  "has_agenda": true,
+  "has_minutes": false,
+  "agenda_brief_count": 1,
+  "minutes_brief_count": 0,
+  "pdf_urls": "{\"_doc\": [{\"url\": \"https://pub-burnaby.escribemeetings.com/FileStream.ashx?DocumentId=89562\", \"title\": \"Agenda (PDF)\"}], \"_inline\": [{\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89557\", \"title\": \"BOV March 30 Minutes DRAFT.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89551\", \"title\": \"BOV 6533 - 3872 Spruce Street Application_Redacted.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89552\", \"title\": \"BOV 6533 - 3872  Spruce Street Referral Letter  BLD25-00208_Redacted.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89553\", \"title\": \"BOV 6533 - 3872 Spruce Street Hardship Let.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89554\", \"title\": \"BOV 6533 - 3872 Spruce Street Plans.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89555\", \"title\": \"BOV 6533 - 3872 Spruce Street MAP.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89556\", \"title\": \"BOV 26-005 3872 SPRUCE ST - Planning Comments  BV 6533 2026.05.04 (1).pdf\"}]}",
+  "body": "",
+  "agenda_briefs": [
+    {
+      "id": 322,
+      "title": "Proposed: Relax lot coverage to 41.27% for new duplex at 3872 Spruce Street",
+      "summary": "Council will consider an appeal to relax the maximum lot coverage rule for a proposed two-unit small-scale multi-unit housing development (a duplex) at 3872 Spruce Street. The developer is asking for permission to cover 41.27% of the lot with the building, instead of the 40% maximum normally allowed under Burnaby's Zoning Bylaw. This is a proposed variance — it has not been approved yet.",
+      "action_required": "If you own property nearby or are affected by this development, contact Burnaby City Council before the vote to express your support or concerns.",
+      "key_dates": [],
+      "industries": "Construction & Development",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "4.1",
+      "source_body": "4.1\nBOV # 6533 - 3872 Spruce Street\nAPPEAL: An appeal for the relaxation of Section 101.4 Development Regulations, 1 to 3 Units,  Maximum Lot Coverage, of the Burnaby Zoning Bylaw which if permitted would allow for a new two-unit Small-Scale Multi-Unit housing with attached garage at 3872 Spruce Street. The following variance is requested:\na) maximum lot coverage of 41.27% where a maximum lot coverage of 40% is allowed.",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=4795f9af-8f42-44b4-9c31-6b81686448a8&lang=English",
+      "article_title": "Board of Variance Agenda — May 04, 2026",
+      "article_published_at": "2026-05-04T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-11T02:06:54.252624"
+    }
+  ],
+  "minutes_briefs": []
+}
