@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T20:06:55.552037+00:00",
-  "count": 1,
+  "generated_at": "2026-05-11T20:10:41.397657+00:00",
+  "count": 2,
   "articles": [
     {
       "article_id": 22,
@@ -272,6 +272,191 @@
         {
           "id": 329,
           "title": "Proposed: Changes to Burnaby's 2026 Council meeting schedule",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        }
+      ]
+    },
+    {
+      "article_id": 23,
+      "path": "2026/04/14/23_vancouver-council_revised-regular-council-april-14-2026.json",
+      "article_url": "https://council.vancouver.ca/20260414/regu20260414ag.htm",
+      "article_title": "Revised Regular Council — April 14, 2026",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "government_level": "Municipal",
+      "meeting_type": "regular-council",
+      "article_published_at": "2026-04-14T00:00:00",
+      "created_at": "2026-05-11T20:09:31.435655",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 27,
+      "minutes_brief_count": 0,
+      "industries": "Construction & Development, Food Service, Hotel & Accommodation, Insurance, Landlord & Property Mgmt, Liquor, Professional Services, Retail",
+      "locations": "Burnaby, Vancouver",
+      "briefs": [
+        {
+          "id": 397,
+          "title": "Proposed: Trounce Alley & Blood Alley Square maintenance assessment bylaw",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 396,
+          "title": "Proposed: Burnaby bylaw to assess parking costs on East Hastings",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 395,
+          "title": "Proposed: Burnaby housing agreement for 320-360 West 2nd Avenue",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 394,
+          "title": "Proposed: Amendment to housing agreement for Prior Street, Malkin Avenue, Station Street",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 393,
+          "title": "Proposed: Burnaby council to vote on bylaw amendment for 1700-1750 West 75th Avenue",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 392,
+          "title": "Proposed: Rezoning of 1710-1730 East Pender Street to CD-1",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 391,
+          "title": "Proposed: Rezoning of 6486 Chester Street to CD-1 in Burnaby",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 390,
+          "title": "Proposed: Rezoning of 1302–1318 East 12th Avenue to CD-1",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 389,
+          "title": "Proposed: Rezoning for 888-896 Cambie Street and 111-191 Smithe Street",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 388,
+          "title": "Proposed: CD-1 rezoning for 888 West 8th Avenue in Burnaby",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 387,
+          "title": "Proposed: Fast-track rental housing and small hotels in new Burnaby commercial district",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 386,
+          "title": "Proposed: Burnaby to consult on new development cost charges",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 385,
+          "title": "Proposed: Rezoning at 1305-1325 West 13th Avenue in Burnaby",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 384,
+          "title": "Proposed: CD-1 Rezoning for 310 East 14th Avenue in Burnaby",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 383,
+          "title": "Proposed: Rezoning for 3803-3823 West 10th Ave and 2553 Highbury St",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 382,
+          "title": "Proposed: CD-1 Rezoning at 4088 Granville Street, Burnaby",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 381,
+          "title": "Proposed: Text amendment to CD-1 (839) bylaw for 5590 Victoria Drive and 2005 East 40th Avenue",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 380,
+          "title": "Proposed: Burnaby council to vote on housing rezoning rule changes",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 379,
+          "title": "Proposed: Burnaby council to apply for development approvals funding",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 378,
+          "title": "Proposed: Burnaby council to vote on public plaza alcohol sites for 2026-2029",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 377,
+          "title": "Council to consider Vancouver Heritage Foundation annual report and board reappointment",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 376,
+          "title": "Proposed: Burnaby Coastal Flood Management Policy",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 375,
+          "title": "Proposed: Burnaby 2025 property tax exemptions for non-profits",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 374,
+          "title": "Proposed: Burnaby property tax distribution for 2026",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 373,
+          "title": "Proposed: Vancouver Community Sport Event Grants for Spring 2026",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 372,
+          "title": "Proposed: Burnaby 2026 Cultural Grants for Operating & Spaces",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 371,
+          "title": "Proposed: Vancouver 2025 Homeless Count results presented to Council",
           "source_label": "Vancouver Council",
           "is_proposal": true
         }
