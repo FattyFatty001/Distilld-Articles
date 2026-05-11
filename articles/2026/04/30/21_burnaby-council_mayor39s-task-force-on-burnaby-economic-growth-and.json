@@ -1,0 +1,42 @@
+{
+  "article_id": 21,
+  "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=373e1552-5d24-42a7-8db2-65bcc5b31f7d&lang=English",
+  "article_title": "Mayor&#39;s Task Force on Burnaby Economic Growth and Resilience — April 30, 2026",
+  "source": "burnaby_council",
+  "source_label": "Burnaby Council",
+  "government_level": "Municipal",
+  "meeting_type": "task-force",
+  "article_published_at": "2026-04-30T00:00:00",
+  "has_attachments": false,
+  "has_pdf": false,
+  "has_html": false,
+  "has_agenda": true,
+  "has_minutes": false,
+  "agenda_brief_count": 1,
+  "minutes_brief_count": 0,
+  "pdf_urls": "{\"_doc\": [{\"url\": \"https://pub-burnaby.escribemeetings.com/FileStream.ashx?DocumentId=89545\", \"title\": \"Agenda (PDF)\"}], \"_inline\": [{\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89547\", \"title\": \"MTFBEGR Minutes 2026.04.16.pdf\"}]}",
+  "body": "",
+  "agenda_briefs": [
+    {
+      "id": 328,
+      "title": "Proposed: Burnaby Council workshop on turning strategy into action",
+      "summary": "Burnaby City Council is set to hold Workshop #7, titled 'Strategy to Action (Part 2)'. This is an interactive discussion where council members will review previous workshop notes, participate in group activities, and work on turning strategic goals into concrete actions. No decisions have been made yet — this is a planning and brainstorming session. The outcome could affect future city policies and regulations that may impact local businesses.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Professional Services, Construction & Development, Retail",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "5",
+      "source_body": "5. WORKSHOP # 7 - STRATEGY TO ACTION (PART 2)\n5.1 Chair's Address\n5.2 Review of Previous Workshop and Miro Board\n5.3 Icebreaker\n5.4 Interactive Discussion and Group Activities\n5.5 Closing Remarks",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=373e1552-5d24-42a7-8db2-65bcc5b31f7d&lang=English",
+      "article_title": "Mayor&#39;s Task Force on Burnaby Economic Growth and Resilience Agenda — April 30, 2026",
+      "article_published_at": "2026-04-30T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-11T02:08:01.093804"
+    }
+  ],
+  "minutes_briefs": []
+}
