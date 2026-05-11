@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T18:15:52.289152+00:00",
-  "count": 7,
+  "generated_at": "2026-05-11T02:08:06.114306+00:00",
+  "count": 11,
   "articles": [
     {
       "article_id": 17,
@@ -131,7 +131,7 @@
       "article_id": 16,
       "path": "2026/05/12/16_burnaby-council_committee-of-the-whole-meeting-may-12-2026.json",
       "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=70e29ca3-4f56-4cbc-be82-5f666ccb37e8&lang=English",
-      "article_title": "Committee of the Whole — May 12, 2026",
+      "article_title": "Committee of the Whole Meeting — May 12, 2026",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
       "government_level": "Municipal",
@@ -324,6 +324,152 @@
         {
           "id": 163,
           "title": "Proposed: Burnaby 2025 Annual Municipal Report presented to Council",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        }
+      ]
+    },
+    {
+      "article_id": 18,
+      "path": "2026/05/05/18_burnaby-council_executive-committee-of-council-meeting-may-05-2026.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=6dae2e63-0077-4ff5-9a6f-d79e45f1a9c0&lang=English",
+      "article_title": "Executive Committee of Council Meeting — May 05, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "meeting_type": "executive",
+      "article_published_at": "2026-05-05T00:00:00",
+      "created_at": "2026-05-11T02:06:46.991597",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 2,
+      "minutes_brief_count": 0,
+      "industries": "Professional Services",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 321,
+          "title": "Proposed: $1,000 grant to Tsleil-Waututh Nation for Giving Circles",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 320,
+          "title": "Proposed: Festivals Burnaby Grant Program spring 2026 intake",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        }
+      ]
+    },
+    {
+      "article_id": 20,
+      "path": "2026/05/04/20_burnaby-council_planning-and-development-committee-meeting-may-04.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=d7f0e2e6-d1bc-4dd0-a465-92546e7d59d9&lang=English",
+      "article_title": "Planning and Development Committee Meeting — May 04, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "meeting_type": "planning",
+      "article_published_at": "2026-05-04T00:00:00",
+      "created_at": "2026-05-11T02:07:55.289401",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 5,
+      "minutes_brief_count": 0,
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 327,
+          "title": "Proposed: Burnaby 2050 OCP Special Study Area program framework",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 326,
+          "title": "Proposed: Mixed-use high-rise rezoning on Dow Avenue in Burnaby",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 325,
+          "title": "Proposed: 32-storey and 28-storey apartments at Silver Avenue",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 324,
+          "title": "Proposed: Burnaby council to consider easing R1 zoning rules for 33-foot lots",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 323,
+          "title": "Proposed: Council to consider turning off LED screen at Gilmore Place",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        }
+      ]
+    },
+    {
+      "article_id": 19,
+      "path": "2026/05/04/19_burnaby-council_board-of-variance-may-04-2026.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=4795f9af-8f42-44b4-9c31-6b81686448a8&lang=English",
+      "article_title": "Board of Variance — May 04, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "meeting_type": "variance",
+      "article_published_at": "2026-05-04T00:00:00",
+      "created_at": "2026-05-11T02:06:54.252624",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 1,
+      "minutes_brief_count": 0,
+      "industries": "Construction & Development",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 322,
+          "title": "Proposed: Relax lot coverage to 41.27% for new duplex at 3872 Spruce Street",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        }
+      ]
+    },
+    {
+      "article_id": 21,
+      "path": "2026/04/30/21_burnaby-council_mayor39s-task-force-on-burnaby-economic-growth-and.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=373e1552-5d24-42a7-8db2-65bcc5b31f7d&lang=English",
+      "article_title": "Mayor&#39;s Task Force on Burnaby Economic Growth and Resilience — April 30, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "meeting_type": "task-force",
+      "article_published_at": "2026-04-30T00:00:00",
+      "created_at": "2026-05-11T02:08:01.093804",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 1,
+      "minutes_brief_count": 0,
+      "industries": "Construction & Development, Professional Services, Retail",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 328,
+          "title": "Proposed: Burnaby Council workshop on turning strategy into action",
           "source_label": "Burnaby Council",
           "is_proposal": true
         }
