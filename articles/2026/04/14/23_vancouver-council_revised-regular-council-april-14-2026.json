@@ -19,12 +19,12 @@
   "agenda_briefs": [
     {
       "id": 371,
-      "title": "Council to receive 2025 Homeless Count report for Vancouver",
-      "summary": "Burnaby City Council will consider a report and presentation on the 2025 Homeless Count for Vancouver. This is an information item only — no bylaw or regulation is being proposed. The report provides data on homelessness in the region, which may inform future policy decisions that could affect businesses, particularly those in the Hotel & Accommodation and Retail sectors. No speakers are allowed during this agenda item per the Procedure Bylaw.",
+      "title": "Proposed: Vancouver 2025 Homeless Count results presented to Council",
+      "summary": "Council received the 2025 Homeless Count report showing 2,715 people identified as homeless in Vancouver on March 11, 2025 (1,952 sheltered, 763 unsheltered), a 12% increase from 2023. 79% of respondents reported being homeless for at least a year. Indigenous peoples are 18 times more likely to be homeless than non-Indigenous peoples, making up 42% of respondents. Black and African diaspora peoples make up 9% of respondents yet only 1% of Vancouver's population. 83% of respondents indicated they are on income assistance or PWD. 42% of respondents reported their housing loss related to an eviction.",
       "action_required": null,
       "key_dates": [],
       "industries": "Hotel & Accommodation, Retail",
-      "locations": "Vancouver, Burnaby",
+      "locations": "Vancouver",
       "government_level": "Municipal",
       "is_proposal": true,
       "item_number": "1",
@@ -100,16 +100,21 @@
       "article_published_at": "2026-04-14T00:00:00",
       "source": "vancouver_council",
       "source_label": "Vancouver Council",
-      "created_at": "2026-05-11T23:36:53.805710"
+      "created_at": "2026-05-11T23:45:18.828051"
     },
     {
       "id": 372,
       "title": "Proposed: Burnaby 2026 Cultural Grants for Operating & Spaces",
-      "summary": "Council is set to vote on proposed 2026 Cultural Grants that would provide funding for arts and cultural organizations in Burnaby. The grants cover two areas: Operating support (for day-to-day costs) and Cultural Spaces (for facilities and venues). Some parts of this proposal need at least two-thirds of all council members to vote 'yes' to pass, as required by Section 206(1) of the Vancouver Charter — a rule that demands a supermajority for certain funding decisions. This is not yet approved; council will decide at an upcoming meeting.",
-      "action_required": "Watch for the council vote on this proposal — if approved, it could affect eligibility or funding for your cultural organization.",
-      "key_dates": [],
+      "summary": "Council is set to vote on proposed 2026 Cultural Grants totaling $5,509,770 to 85 organizations. Operating grants include $2,828,160 for 5 institutions, $709,760 for 26 annual organizations, and $1,897,550/year for 3 years (2026-2028) for 52 multi-year organizations. Also proposed: a $75,000 grant to Vancouver Concert Hall and Theatre Society for Phase II feasibility study site assessment, and a $728,000 one-time grant to Historic Joy Kogawa House Society for hazardous materials abatement and accessibility upgrades. Some recommendations require a two-thirds majority vote under Section 206(1) of the Vancouver Charter.",
+      "action_required": "No action needed now — watch for the council vote on April 14, 2026 to see if your organization may be eligible for future funding.",
+      "key_dates": [
+        {
+          "label": "Council vote on 2026 Cultural Grants",
+          "date": "2026-04-14"
+        }
+      ],
       "industries": "Professional Services",
-      "locations": "Burnaby",
+      "locations": "Vancouver",
       "government_level": "Municipal",
       "is_proposal": true,
       "item_number": "2",
@@ -181,14 +186,19 @@
       "article_published_at": "2026-04-14T00:00:00",
       "source": "vancouver_council",
       "source_label": "Vancouver Council",
-      "created_at": "2026-05-11T23:36:53.807676"
+      "created_at": "2026-05-11T23:45:18.833205"
     },
     {
       "id": 373,
       "title": "Proposed: Vancouver Community Sport Event Grants for Spring 2026",
-      "summary": "Council is set to vote on a proposal to award grants to community sport events happening in Vancouver in Spring 2026. This decision requires at least two-thirds of all council members to vote 'yes' — a higher bar than a simple majority. If approved, the grants would help local organizers cover costs for events that bring people together and promote physical activity. The exact grant amounts and which events would receive funding are not detailed in this agenda item.",
-      "action_required": "No immediate action needed — watch for the council vote to see if your event or organization could apply for future grants.",
-      "key_dates": [],
+      "summary": "Council will vote on awarding 19 grants totalling $89,000 to community sport events in Vancouver during Spring 2026. The grants range from $1,000 to $5,000 per event, with events scheduled between May 1 and August 30, 2026. The program budget is $244,000 for 2026, with a second intake in Fall 2026.",
+      "action_required": "If you run a community sport event in Vancouver, watch for the council decision on April 14, 2026 — this could mean grant funding for your Spring 2026 event.",
+      "key_dates": [
+        {
+          "label": "Council vote on Spring 2026 sport event grants",
+          "date": "2026-04-14"
+        }
+      ],
       "industries": "Professional Services",
       "locations": "Vancouver",
       "government_level": "Municipal",
@@ -262,16 +272,21 @@
       "article_published_at": "2026-04-14T00:00:00",
       "source": "vancouver_council",
       "source_label": "Vancouver Council",
-      "created_at": "2026-05-11T23:36:53.808303"
+      "created_at": "2026-05-11T23:45:18.833906"
     },
     {
       "id": 374,
       "title": "Proposed: Burnaby property tax distribution for 2026",
-      "summary": "Council is set to vote on how to divide the total property tax levy among different classes of properties (like homes, businesses, and industry) for the 2026 tax year. This decision will determine how much of the overall tax burden falls on commercial and residential properties. A proposed bylaw would set the tax rates for each class. The outcome directly affects how much property tax your business will pay next year.",
-      "action_required": "Watch for the council decision — this will set your 2026 property tax rate.",
-      "key_dates": [],
-      "industries": "Landlord & Property Mgmt, Retail, Professional Services",
-      "locations": "Burnaby",
+      "summary": "Council is being asked to approve a 2026 general purpose tax levy of $1,224,250,000 with no tax shift. The proposed distribution keeps the residential share at approximately 57.5% and the non-residential share at approximately 42.5%, based on adjustments and non-market changes to the assessment roll. Tax rates for Classes 5 (Light industry) and 6 (Business/other) will continue to be calculated on a blended basis, and Classes 1, 8, and 9 will share a common rate.",
+      "action_required": "Watch for the council decision on April 14, 2026 — it will determine your 2026 property tax rates.",
+      "key_dates": [
+        {
+          "label": "Council vote on 2026 property tax distribution",
+          "date": "2026-04-14"
+        }
+      ],
+      "industries": "Landlord & Property Mgmt, Retail, Construction & Development",
+      "locations": "Vancouver",
       "government_level": "Municipal",
       "is_proposal": true,
       "item_number": "4",
@@ -351,16 +366,16 @@
       "article_published_at": "2026-04-14T00:00:00",
       "source": "vancouver_council",
       "source_label": "Vancouver Council",
-      "created_at": "2026-05-11T23:36:53.808856"
+      "created_at": "2026-05-11T23:45:18.834471"
     },
     {
       "id": 375,
       "title": "Proposed: Burnaby 2025 property tax exemptions for non-profits",
-      "summary": "Council is set to vote on a report that recommends granting property tax exemptions for 2025 to certain non-profit organizations in Burnaby. A proposed bylaw would allow eligible charities, churches, and community groups to pay less or no property tax. This is not yet approved — council will debate and decide at an upcoming meeting.",
-      "action_required": "No action needed from you now. Watch for the council decision — if approved, it will affect which non-profits get tax relief.",
+      "summary": "Council received the 2025 Property Tax Exemptions report. In 2025, $60.9 billion of properties (12% of the Assessment Roll) were exempt, resulting in $335.1 million in forgone general purpose taxes, partially offset by $34.8 million in compensating payments-in-lieu of taxes (PILTs). Any net forgone taxes are redistributed to other taxpayers. Statutory exemptions apply to Crown lands, City property, charitable institutions, learning institutions, hospitals, churches, emergency shelters, and others. Permissive exemptions are discretionary by Council by-law.",
+      "action_required": null,
       "key_dates": [],
       "industries": "Landlord & Property Mgmt, Professional Services",
-      "locations": "Burnaby",
+      "locations": "Vancouver",
       "government_level": "Municipal",
       "is_proposal": true,
       "item_number": "5",
@@ -432,16 +447,21 @@
       "article_published_at": "2026-04-14T00:00:00",
       "source": "vancouver_council",
       "source_label": "Vancouver Council",
-      "created_at": "2026-05-11T23:36:53.809415"
+      "created_at": "2026-05-11T23:45:18.835002"
     },
     {
       "id": 376,
       "title": "Proposed: Burnaby Coastal Flood Management Policy",
-      "summary": "Council is set to vote on a proposed Coastal Flood Management Policy. This policy would set new rules for building and development in areas of Burnaby that are at risk of flooding from the ocean. If approved, property owners in these flood-risk zones may face new requirements for building elevations, flood-proofing, and insurance. The goal is to protect people and property from rising sea levels and storm surges. The report is on the agenda for an upcoming council meeting, but no decision has been made yet.",
-      "action_required": "Watch for the council decision and public hearing dates — this policy could affect your property if you own or develop land near the coast.",
-      "key_dates": [],
-      "industries": "Construction & Development, Landlord & Property Mgmt, Insurance & Finance",
-      "locations": "Burnaby",
+      "summary": "Council is set to vote on adopting a citywide Coastal Flood Management Policy. The policy clarifies the City's role in coastal flood management and identifies when the City may build new flood infrastructure. It emphasizes leveraging land-use authority and redevelopment to improve long-term flood resilience. City-built structural measures outside redevelopment will be considered only in specific situations, focused on preserving City facilities and core services, subject to financial capacity. The policy formalizes existing practices for consistency.",
+      "action_required": "Check if your property is in a proposed flood-risk zone and attend the public hearing to have your say.",
+      "key_dates": [
+        {
+          "label": "Coastal Flood Management Policy public hearing",
+          "date": "2025-06-15"
+        }
+      ],
+      "industries": "Construction & Development, Landlord & Property Mgmt, Finance & Insurance",
+      "locations": "Vancouver",
       "government_level": "Municipal",
       "is_proposal": true,
       "item_number": "6",
@@ -513,15 +533,20 @@
       "article_published_at": "2026-04-14T00:00:00",
       "source": "vancouver_council",
       "source_label": "Vancouver Council",
-      "created_at": "2026-05-11T23:36:53.809943"
+      "created_at": "2026-05-11T23:45:18.835524"
     },
     {
       "id": 377,
       "title": "Council to vote on Vancouver Heritage Foundation Board annual report",
-      "summary": "Council is set to vote on a recommendation (Recommendation B) regarding the Vancouver Heritage Foundation Board's 2025 Annual Report. This recommendation requires at least two-thirds of all council members to vote in favour, as stated in Section 206(1) of the Vancouver Charter. The Vancouver Charter is the city's main governing law. If passed, this would approve or adopt the report and its recommendations. The decision is not final yet — it is up for approval at a future council meeting.",
-      "action_required": null,
-      "key_dates": [],
-      "industries": "Professional Services",
+      "summary": "Council will vote on approving the Vancouver Heritage Foundation's 2025 Annual Report and a $152,375 operating grant for 2026, the first year of a three-year agreement (2026-2028). The grant funds staffing and resources for educational programming, activities, and conservation work. Approval requires at least two-thirds of all council members under Section 206(1) of the Vancouver Charter.",
+      "action_required": "Watch for the council vote on April 14, 2026 — approval secures funding for heritage programs and grants.",
+      "key_dates": [
+        {
+          "label": "Council vote on VHF annual report and grant",
+          "date": "2026-04-14"
+        }
+      ],
+      "industries": "Construction & Development, Landlord & Property Mgmt, Professional Services",
       "locations": "Vancouver",
       "government_level": "Municipal",
       "is_proposal": true,
@@ -594,21 +619,25 @@
       "article_published_at": "2026-04-14T00:00:00",
       "source": "vancouver_council",
       "source_label": "Vancouver Council",
-      "created_at": "2026-05-11T23:36:53.810479"
+      "created_at": "2026-05-11T23:45:18.836050"
     },
     {
       "id": 378,
-      "title": "Proposed: Burnaby council to vote on public plaza alcohol sites for 2026-2029",
-      "summary": "Council is set to vote on a proposal to choose which public plazas in Burnaby will allow alcohol consumption from 2026 through 2029. This is part of the Alcohol Consumption in Public Plazas Program. If approved, the program would let people drink alcohol in certain outdoor public spaces during specific hours and dates. The decision has not been made yet — council will discuss and vote on the proposed sites at an upcoming meeting. Business owners near potential plaza sites should pay attention, as this could affect foot traffic, noise, and local business operations.",
-      "action_required": "Watch for the council meeting date and attend or submit comments if your business is near a proposed plaza site.",
+      "title": "Proposed: Burnaby to choose sites for 2026-2029 public plaza drinking program",
+      "summary": "Council approved 13 public plaza locations for the Alcohol Consumption in Public Plazas Program for a three-year cycle (2026-2028), plus a two-year extension for the Drinker's Lounge parklet at 111 Princess St. Permissible drinking hours align with nearby washroom operating hours. The program transitions from annual to a 3-year cycle; new plazas can join every 3 years.",
+      "action_required": "Check if your business is near one of the 13 approved plaza sites — alcohol consumption hours will be set by nearby washroom schedules.",
       "key_dates": [
         {
-          "label": "Burnaby public plaza alcohol program — council vote on proposed sites",
-          "date": "2025-06-15"
+          "label": "Alcohol Consumption in Public Plazas Program 3-year cycle begins",
+          "date": "2026-01-01"
+        },
+        {
+          "label": "Program cycle ends (next intake for new plazas)",
+          "date": "2028-12-31"
         }
       ],
       "industries": "Liquor, Food Service, Retail",
-      "locations": "Burnaby",
+      "locations": "Vancouver",
       "government_level": "Municipal",
       "is_proposal": true,
       "item_number": "8",
@@ -680,16 +709,21 @@
       "article_published_at": "2026-04-14T00:00:00",
       "source": "vancouver_council",
       "source_label": "Vancouver Council",
-      "created_at": "2026-05-11T23:36:53.811013"
+      "created_at": "2026-05-11T23:45:18.836562"
     },
     {
       "id": 379,
       "title": "Proposed: Burnaby seeks grant to speed up development approvals",
-      "summary": "Council will consider applying for a provincial grant through the Local Government Development Approvals Program. If approved, the funding would help the city hire more staff and upgrade its systems to process building and development permits faster. This is not a final decision yet — council will vote on whether to submit the application at an upcoming meeting.",
-      "action_required": "No action needed now. Watch for council's decision on whether to apply for the grant.",
-      "key_dates": [],
+      "summary": "Council will consider endorsing a $200,000 grant application to the Union of BC Municipalities Local Government Development Approvals Program. The funding would be used to redesign approval processes for large-scale housing developments, including creating reusable guides, templates, and service blueprints. The application was submitted March 13, 2026. A decision on whether to apply is expected at the April 14 council meeting.",
+      "action_required": "No action needed now. Watch for council's decision — faster approvals could affect your project timelines.",
+      "key_dates": [
+        {
+          "label": "Council decision on grant application",
+          "date": "2026-04-14"
+        }
+      ],
       "industries": "Construction & Development",
-      "locations": "Burnaby",
+      "locations": "Vancouver",
       "government_level": "Municipal",
       "is_proposal": true,
       "item_number": "9",
@@ -761,16 +795,25 @@
       "article_published_at": "2026-04-14T00:00:00",
       "source": "vancouver_council",
       "source_label": "Vancouver Council",
-      "created_at": "2026-05-11T23:36:53.811520"
+      "created_at": "2026-05-11T23:45:18.837087"
     },
     {
       "id": 380,
-      "title": "Proposed: Burnaby to amend housing rezoning conditions",
-      "summary": "Council is set to vote on miscellaneous amendments that would change the conditions attached to various housing rezoning approvals. These are proposed changes to the rules developers must follow when they get permission to rezone land for housing. The exact details of the amendments are not specified in the agenda item, but the decision could affect how housing projects are built or what conditions they must meet. The item is listed for discussion at an upcoming council meeting, with no public speakers allowed per the procedure bylaw.",
-      "action_required": "Watch for the council decision — these amendments could change conditions on your rezoning application or future housing project.",
-      "key_dates": [],
+      "title": "Proposed: Burnaby council to vote on housing rezoning rule changes",
+      "summary": "Council will vote on amendments to housing rezoning conditions for 11 developments, including adjustments to below-market rental (BMR) affordability under the Rental Development Relief Program (RDRP). Eligible projects may adjust BMR rents from a 20% discount to CMHC city-wide average rents, reflecting up to a 25% discount vs. 2024 market rents. The RDRP is a two-year pilot (Feb 1, 2026 – Dec 15, 2027) for mid/high-rise BMR projects on sites under 8,000 sq m with fewer than 10 existing purpose-built rental units.",
+      "action_required": "Watch for council decision; if passed, affected property owners must agree to amended Housing Agreements.",
+      "key_dates": [
+        {
+          "label": "Rental Development Relief Program pilot period",
+          "date": "2026-02-01"
+        },
+        {
+          "label": "Rental Development Relief Program pilot ends",
+          "date": "2027-12-15"
+        }
+      ],
       "industries": "Construction & Development, Landlord & Property Mgmt",
-      "locations": "Burnaby",
+      "locations": "Vancouver",
       "government_level": "Municipal",
       "is_proposal": true,
       "item_number": "10",
@@ -842,16 +885,21 @@
       "article_published_at": "2026-04-14T00:00:00",
       "source": "vancouver_council",
       "source_label": "Vancouver Council",
-      "created_at": "2026-05-11T23:36:53.812066"
+      "created_at": "2026-05-11T23:45:18.837856"
     },
     {
       "id": 381,
       "title": "Proposed: Text amendment to CD-1 (839) bylaw for 5590 Victoria Drive and 2005 East 40th Avenue",
-      "summary": "Council is set to vote on a proposed text amendment to the Comprehensive Development (CD-1) Bylaw No. 13493 for two properties: 5590 Victoria Drive and 2005 East 40th Avenue. A CD-1 bylaw is a special zoning rule that applies only to a specific site. This amendment would change the rules for what can be built or done on these properties. The decision has not been made yet — it is up for approval at a future council meeting.",
-      "action_required": "Watch for the council meeting date and attend the public hearing to have your say on this proposed bylaw change.",
-      "key_dates": [],
+      "summary": "Council will vote on a text amendment to CD-1 (839) Bylaw No. 13493 for 5590 Victoria Drive and 2005 East 40th Avenue. The amendment would change the required housing from for-profit affordable rental (leased by a non-profit, with 30% of units for households below HILs, rent capped at 30% of income) to 100% secured market rental housing. The floor space ratio (FSR) would increase from 3.49 to 3.5 to allow larger units. No public hearing will be held because the proposal is consistent with the Official Development Plan and is majority residential.",
+      "action_required": "Watch for the council meeting date (April 14, 2026) and submit comments to Council before the meeting.",
+      "key_dates": [
+        {
+          "label": "Council meeting to vote on CD-1 text amendment — 5590 Victoria Drive",
+          "date": "2026-04-14"
+        }
+      ],
       "industries": "Construction & Development, Landlord & Property Mgmt",
-      "locations": "Burnaby",
+      "locations": "Vancouver",
       "government_level": "Municipal",
       "is_proposal": true,
       "item_number": "11",
@@ -927,16 +975,16 @@
       "article_published_at": "2026-04-14T00:00:00",
       "source": "vancouver_council",
       "source_label": "Vancouver Council",
-      "created_at": "2026-05-11T23:36:53.812809"
+      "created_at": "2026-05-11T23:45:18.838396"
     },
     {
       "id": 382,
-      "title": "Proposed: CD-1 rezoning at 4088 Granville Street, Burnaby",
-      "summary": "Burnaby City Council is set to vote on a proposed bylaw that would rezone 4088 Granville Street. A 'CD-1' (Comprehensive Development) rezoning would change the rules for what can be built on that specific property, allowing a different type of development than the current zoning permits. This is a first step — the bylaw has not been approved yet, and council will consider it at an upcoming meeting.",
-      "action_required": "Watch for the council meeting date — if you own property nearby or have an interest in this site, consider attending or submitting comments before the vote.",
+      "title": "Proposed: CD-1 Rezoning at 4088 Granville Street",
+      "summary": "Burnaby Council is set to vote on a proposed rezoning bylaw for 4088 Granville Street. The draft bylaw would rezone the property from FSD to CD-1, increasing the maximum floor space ratio from 0.5 to 1.2 and building height from 11.5 m to 13.4 m, to permit three three-storey residential rental buildings with 31 units. At least 35% of units must have 2+ bedrooms. No public hearing is required as the proposal is consistent with the Official Development Plan.",
+      "action_required": "Watch for the public hearing date — if you own property or a business nearby, you may want to attend or submit comments.",
       "key_dates": [],
-      "industries": "Construction & Development",
-      "locations": "Burnaby",
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
       "government_level": "Municipal",
       "is_proposal": true,
       "item_number": "12",
@@ -1024,16 +1072,21 @@
       "article_published_at": "2026-04-14T00:00:00",
       "source": "vancouver_council",
       "source_label": "Vancouver Council",
-      "created_at": "2026-05-11T23:36:53.813371"
+      "created_at": "2026-05-11T23:45:18.838913"
     },
     {
       "id": 383,
       "title": "Proposed: Rezoning for 3803-3823 West 10th Ave and 2553 Highbury St",
-      "summary": "Council is set to vote on a proposed rezoning for properties at 3803-3823 West 10th Avenue and 2553 Highbury Street. If approved, the rezoning would change the land-use rules (called a CD-1 bylaw amendment) for these sites. The proposal also includes changes to the city's main zoning bylaw and sign bylaw. This is a first reading — the decision is not final yet.",
-      "action_required": null,
-      "key_dates": [],
-      "industries": "Construction & Development",
-      "locations": "Burnaby",
+      "summary": "Council will vote on a CD-1 rezoning for 3803-3823 West 10th Avenue and 2553 Highbury Street to allow a six-storey mixed-use building with 82 secured market rental units and commercial space (minimum 594.9 m²). The existing requirement for 20% below-market rental (BMR) floor area is deferred for two years: if a Stage 1 building permit is not issued within two years of Council's approval in principle, the BMR requirement will be reinstated. The maximum FSR is 3.50, building height is 22 m, and at least 35% of units must have 2+ bedrooms. The Sign By-law and Noise Control By-law will also be amended.",
+      "action_required": "Watch for the council meeting date and attend the public hearing to have your say on this rezoning proposal.",
+      "key_dates": [
+        {
+          "label": "Two-year BMR deferral deadline — Stage 1 building permit must be issued by",
+          "date": "2028-04-14"
+        }
+      ],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
       "government_level": "Municipal",
       "is_proposal": true,
       "item_number": "13",
@@ -1129,13 +1182,13 @@
       "article_published_at": "2026-04-14T00:00:00",
       "source": "vancouver_council",
       "source_label": "Vancouver Council",
-      "created_at": "2026-05-11T23:36:53.813896"
+      "created_at": "2026-05-11T23:45:18.839449"
     },
     {
       "id": 384,
       "title": "Proposed: CD-1 Rezoning for 310 East 14th Avenue in Burnaby",
-      "summary": "Council is set to vote on a proposed bylaw that would rezone the property at 310 East 14th Avenue. This is called a Comprehensive Development (CD-1) rezoning, which means the city would create a special set of rules just for this property, instead of using the standard zoning rules. The draft bylaw would change the official Zoning and Development Bylaw. This is a proposal only — it has not been approved yet. The public hearing is part of the council meeting agenda, but no speakers are scheduled for this item under the Procedure Bylaw.",
-      "action_required": "Watch for the council decision on this rezoning — it could affect nearby development or property values.",
+      "summary": "Burnaby City Council is set to vote on a proposed bylaw that would rezone the property at 310 East 14th Avenue. This is a 'CD-1 Rezoning', which stands for Comprehensive Development Zone — a special zoning category that allows for a specific development plan, rather than following the standard rules for that area. The draft bylaw would amend the city's main Zoning and Development Bylaw. If approved, this would change what can be built on that property. The decision has not been made yet; council will consider the proposal at an upcoming meeting.",
+      "action_required": "Watch for the council decision date — this rezoning could affect nearby property values or development plans.",
       "key_dates": [],
       "industries": "Construction & Development, Landlord & Property Mgmt",
       "locations": "Burnaby",
@@ -1226,12 +1279,12 @@
       "article_published_at": "2026-04-14T00:00:00",
       "source": "vancouver_council",
       "source_label": "Vancouver Council",
-      "created_at": "2026-05-11T23:36:53.814431"
+      "created_at": "2026-05-11T23:45:18.839964"
     },
     {
       "id": 385,
       "title": "Proposed: Rezoning at 1305-1325 West 13th Avenue in Burnaby",
-      "summary": "Burnaby City Council is set to vote on a proposed bylaw that would rezone the properties at 1305-1325 West 13th Avenue. This is a draft bylaw to amend the city's Zoning and Development By-law. If approved, the rezoning would change what can be built or done on these properties. The decision has not been made yet — Council will consider the proposal at an upcoming meeting.",
+      "summary": "Burnaby City Council is set to vote on a proposed bylaw that would rezone the properties at 1305-1325 West 13th Avenue from R3-3 to R5-4 District. If approved, the rezoning would allow a 20-storey residential building with 172 rental units, including 20% of residential floor area secured as below-market rental units. The decision has not been made yet — council will consider the proposal at an upcoming meeting.",
       "action_required": "Watch for the council meeting date and attend the public hearing to have your say on this rezoning proposal.",
       "key_dates": [],
       "industries": "Construction & Development",
@@ -1323,13 +1376,13 @@
       "article_published_at": "2026-04-14T00:00:00",
       "source": "vancouver_council",
       "source_label": "Vancouver Council",
-      "created_at": "2026-05-11T23:36:53.814974"
+      "created_at": "2026-05-11T23:45:18.840612"
     },
     {
       "id": 386,
-      "title": "Proposed: Burnaby amenity cost charge bylaw and density bonus updates",
-      "summary": "Council is set to consider updates to the Amenity Cost Charge (ACC) bylaw and Density Bonus (Bill 16) rules. An ACC is a fee the city charges new development projects to help pay for community amenities like parks, community centres, and libraries. A density bonus lets developers build more units in exchange for providing affordable housing or other public benefits. The proposed changes would update how these charges and bonuses are calculated. A required public consultation on these changes is coming up. This could affect the cost and feasibility of new development projects in Burnaby.",
-      "action_required": "Watch for the public consultation dates and attend to have your say on how these charges affect your project costs.",
+      "title": "Proposed: Burnaby amenity cost charges and density bonus updates",
+      "summary": "Council is set to consider proposed updates to how the city charges developers for community amenities like parks, childcare, and community centres. A proposed bylaw would update the Amenity Cost Charge (ACC) — a fee developers pay to help fund new amenities needed because of growth. Council will also consider updates to the Density Bonus and Inclusionary Zoning policies, which let developers build more units in exchange for providing affordable housing or cash contributions. These changes are part of the 2026 Financing Growth Update. A public consultation is required before council can vote to approve the new bylaw and policy updates.",
+      "action_required": "Attend or submit comments at the required public consultation to have your say on the proposed amenity cost charges and density bonus changes.",
       "key_dates": [],
       "industries": "Construction & Development, Landlord & Property Mgmt",
       "locations": "Burnaby",
@@ -1404,13 +1457,13 @@
       "article_published_at": "2026-04-14T00:00:00",
       "source": "vancouver_council",
       "source_label": "Vancouver Council",
-      "created_at": "2026-05-11T23:36:53.815488"
+      "created_at": "2026-05-11T23:45:18.841494"
     },
     {
       "id": 397,
-      "title": "Proposed bylaw: Trounce Alley & Blood Alley Square maintenance costs for 2025",
-      "summary": "Burnaby Council is set to vote on a proposed bylaw that would charge property owners in the Trounce Alley and Blood Alley Square area for the 2025 maintenance costs of those public spaces. This is a 'local improvement' project, meaning the costs are shared among the properties that directly benefit from the upkeep. The bylaw would allow the city to collect these costs through property taxes. The decision has not been made yet — Council will consider and vote on the bylaw at an upcoming meeting.",
-      "action_required": "Watch for the council meeting date and attend or submit comments if you own property in the Trounce Alley or Blood Alley Square area.",
+      "title": "Proposed: Bylaw to assess property owners for Trounce Alley & Blood Alley Square maintenance",
+      "summary": "Burnaby Council is set to vote on a proposed bylaw that would charge property owners in the Trounce Alley and Blood Alley Square area for the 2025 maintenance costs of those public spaces. A 'local improvement project' is a way for a city to pay for upgrades or upkeep in a specific area by billing the properties that benefit from the work. If approved, this bylaw would add a special fee to the property taxes of affected landowners to cover things like cleaning, repairs, and landscaping for the alleys and square next year.",
+      "action_required": "Check if your property is in the Trounce Alley or Blood Alley Square assessment area and watch for the council vote.",
       "key_dates": [],
       "industries": "Landlord & Property Mgmt, Retail, Food Service",
       "locations": "Burnaby",
@@ -1424,15 +1477,15 @@
       "article_published_at": "2026-04-14T00:00:00",
       "source": "vancouver_council",
       "source_label": "Vancouver Council",
-      "created_at": "2026-05-11T23:36:53.822089"
+      "created_at": "2026-05-11T23:45:18.848699"
     },
     {
       "id": 396,
-      "title": "Proposed: Burnaby bylaw to assess property costs for East Hastings parking project",
-      "summary": "Council is set to vote on a proposed bylaw that would charge certain property owners in the East Hastings Street area for the costs of a shared parking project in 2025. The bylaw would 'assess real property' — meaning it would add a special fee or tax to specific properties to pay for the collective parking project. This is not yet approved; council will decide at an upcoming meeting.",
-      "action_required": "Watch for the council meeting date and consider attending to voice your support or concerns about the proposed parking assessment.",
+      "title": "Proposed: Burnaby bylaw to assess parking costs on East Hastings",
+      "summary": "Council is set to vote on a proposed bylaw that would charge property owners along East Hastings Street to help pay for the 2025 costs of the East Hastings Street Collective Parking Project. A 'bylaw to assess real property' means the city would place a special fee on certain properties to cover the cost of a shared parking project. This is not yet approved — it is up for discussion and a vote at an upcoming council meeting.",
+      "action_required": "Watch for the council meeting date and attend or submit comments if your property is on East Hastings Street.",
       "key_dates": [],
-      "industries": "Landlord & Property Mgmt, Retail",
+      "industries": "Landlord & Property Mgmt, Retail, Professional Services",
       "locations": "Burnaby",
       "government_level": "Municipal",
       "is_proposal": true,
@@ -1444,13 +1497,13 @@
       "article_published_at": "2026-04-14T00:00:00",
       "source": "vancouver_council",
       "source_label": "Vancouver Council",
-      "created_at": "2026-05-11T23:36:53.820715"
+      "created_at": "2026-05-11T23:45:18.847283"
     },
     {
       "id": 395,
-      "title": "Proposed: Housing agreement for 320-360 West 2nd Avenue",
-      "summary": "Burnaby City Council is set to vote on a proposed bylaw that would create a Housing Agreement for the property at 320-360 West 2nd Avenue. A Housing Agreement is a legal contract between the city and a property owner that locks in how the building will be used — for example, requiring a certain number of affordable rental units. This agreement has not been approved yet; Council will consider it at an upcoming meeting.",
-      "action_required": null,
+      "title": "Proposed: Housing agreement bylaw for 320-360 West 2nd Avenue",
+      "summary": "Council is set to vote on a proposed bylaw that would create a housing agreement for the property at 320-360 West 2nd Avenue. A housing agreement is a legal contract between the city and a property owner that locks in certain conditions, like how many affordable rental units must be provided and for how long. This proposal has not been approved yet — it is up for discussion and a vote at an upcoming council meeting.",
+      "action_required": "Watch for the council meeting date and attend or submit comments if you own or manage property near this site.",
       "key_dates": [],
       "industries": "Construction & Development, Landlord & Property Mgmt",
       "locations": "Burnaby",
@@ -1464,12 +1517,12 @@
       "article_published_at": "2026-04-14T00:00:00",
       "source": "vancouver_council",
       "source_label": "Vancouver Council",
-      "created_at": "2026-05-11T23:36:53.820186"
+      "created_at": "2026-05-11T23:45:18.846767"
     },
     {
       "id": 394,
-      "title": "Proposed: Amend housing agreement for Prior Street, Malkin Avenue, Station Street",
-      "summary": "Council is set to vote on a proposed bylaw that would amend an existing Housing Agreement for properties at 450-496 Prior Street, 550 Malkin Avenue, and 1002 Station Street. A Housing Agreement is a legal contract between the city and a property owner that sets rules for how the housing is used — often to keep it affordable or for specific types of tenants. This amendment would change the terms of that existing agreement. The decision has not been made yet.",
+      "title": "Proposed: Amendment to housing agreement for Prior Street, Malkin Avenue, Station Street",
+      "summary": "Council is set to vote on a proposed bylaw that would amend an existing Housing Agreement for properties at 450-496 Prior Street, 550 Malkin Avenue, and 1002 Station Street. A Housing Agreement is a legal contract between the city and a property owner that sets rules for how the property is used, often to keep it affordable or reserved for certain types of housing. This amendment would change the terms of that agreement. The decision has not been made yet.",
       "action_required": null,
       "key_dates": [],
       "industries": "Construction & Development, Landlord & Property Mgmt",
@@ -1484,12 +1537,12 @@
       "article_published_at": "2026-04-14T00:00:00",
       "source": "vancouver_council",
       "source_label": "Vancouver Council",
-      "created_at": "2026-05-11T23:36:53.819681"
+      "created_at": "2026-05-11T23:45:18.846238"
     },
     {
       "id": 393,
-      "title": "Proposed: Burnaby council to vote on amending CD-1 bylaw for 1700-1750 West 75th Avenue",
-      "summary": "Burnaby City Council is set to vote on a proposed bylaw that would amend the existing Comprehensive Development (CD-1) bylaw for the properties at 1700-1750 West 75th Avenue. A CD- bylaw is a special zoning rule that applies only to a specific site. This amendment could change what is allowed to be built or done on that property. The decision has not been made yet — council will discuss and vote on it at an upcoming meeting. Councillor Montague has noted they need to review the proceedings before they are eligible to vote on this matter.",
+      "title": "Proposed: Burnaby council to vote on zoning amendment at 1700-1750 West 75th Avenue",
+      "summary": "Council is set to vote on a proposed bylaw that would change the zoning rules for the property at 1700-1750 West 75th Avenue. This is an amendment to an existing Comprehensive Development (CD-1) bylaw, which is a special zoning plan for a specific site. The change could affect what can be built or how the land can be used at that address. The decision has not been made yet — council will discuss and vote on it at an upcoming meeting.",
       "action_required": "Watch for the council meeting date and attend or submit comments if you own or operate a business at this location.",
       "key_dates": [],
       "industries": "Construction & Development, Landlord & Property Mgmt",
@@ -1504,13 +1557,13 @@
       "article_published_at": "2026-04-14T00:00:00",
       "source": "vancouver_council",
       "source_label": "Vancouver Council",
-      "created_at": "2026-05-11T23:36:53.819165"
+      "created_at": "2026-05-11T23:45:18.845656"
     },
     {
       "id": 392,
-      "title": "Proposed: Rezone 1710-1730 East Pender Street to CD-1",
-      "summary": "Burnaby Council is set to vote on a proposed bylaw that would rezone 1710-1730 East Pender Street to a Comprehensive Development (CD-1) zone. A CD-1 zone is a custom zoning category that allows the city to set specific rules for a particular property, rather than following the standard zoning rules. This is a proposed change only — it has not been approved yet.",
-      "action_required": "Watch for the council decision — this could affect property use and development potential in the area.",
+      "title": "Proposed: Rezoning at 1710-1730 East Pender Street to CD-1",
+      "summary": "Council is set to vote on a proposed bylaw that would rezone the properties at 1710-1730 East Pender Street. The change would create a new 'CD-1' zone, which stands for Comprehensive Development Zone. This is a special zoning category that allows for a mix of uses or a specific development plan, rather than following the standard rules for that area. The decision has not been made yet — this is an upcoming item on the council agenda.",
+      "action_required": "If you own property or a business near 1710-1730 East Pender Street, watch for the council decision — this rezoning could affect future development or property values in your area.",
       "key_dates": [],
       "industries": "Construction & Development, Landlord & Property Mgmt",
       "locations": "Burnaby",
@@ -1524,13 +1577,13 @@
       "article_published_at": "2026-04-14T00:00:00",
       "source": "vancouver_council",
       "source_label": "Vancouver Council",
-      "created_at": "2026-05-11T23:36:53.818641"
+      "created_at": "2026-05-11T23:45:18.845046"
     },
     {
       "id": 391,
-      "title": "Proposed: Rezone 6486 Chester Street to CD-1 in Burnaby",
-      "summary": "Burnaby City Council is set to vote on a proposed bylaw that would rezone the property at 6486 Chester Street to a Comprehensive Development (CD-1) zone. A CD-1 zone is a special zoning category that allows for a specific development plan, rather than following the standard rules for that area. This is a proposed change only — it has not been approved yet. Council will consider the bylaw at an upcoming meeting.",
-      "action_required": "Watch for the council decision — if approved, this could affect nearby property values and development plans.",
+      "title": "Proposed: Rezoning at 6486 Chester Street to CD-1",
+      "summary": "Burnaby Council is set to vote on a proposed bylaw that would rezone the property at 6486 Chester Street to a Comprehensive Development (CD-1) zone. A CD-1 zone is a custom zoning category that allows for specific types of development not normally permitted under standard zoning rules. This is a proposed change only — it has not been approved yet. Council will consider the bylaw at an upcoming meeting.",
+      "action_required": "Watch for the council decision date — this rezoning could affect nearby property values or development plans.",
       "key_dates": [],
       "industries": "Construction & Development, Landlord & Property Mgmt",
       "locations": "Burnaby",
@@ -1544,15 +1597,15 @@
       "article_published_at": "2026-04-14T00:00:00",
       "source": "vancouver_council",
       "source_label": "Vancouver Council",
-      "created_at": "2026-05-11T23:36:53.818129"
+      "created_at": "2026-05-11T23:45:18.844559"
     },
     {
       "id": 390,
-      "title": "Proposed: Rezone 1302-1318 East 12th Avenue to CD-1",
-      "summary": "Burnaby Council is set to vote on a proposed bylaw that would rezone the properties at 1302-1318 East 12th Avenue to a Comprehensive Development (CD-1) zone. A CD-1 zone is a custom zoning category that allows for a specific development plan, rather than following the standard rules for that area. This is a first step — the bylaw has not been approved yet, and Council will debate and decide on it at a future meeting.",
-      "action_required": "Watch for the public hearing date — if you own property nearby or have an interest in this development, attend the hearing to voice your support or concerns.",
+      "title": "Proposed: Rezoning of 1302–1318 East 12th Avenue to CD-1",
+      "summary": "Burnaby City Council is set to vote on a proposed bylaw that would rezone the properties at 1302–1318 East 12th Avenue to a Comprehensive Development (CD-1) zone. A CD-1 zone is a custom zoning category that allows for a specific development plan, rather than following the standard rules for that area. This is a first step — the bylaw has not been approved yet, and Council will debate and decide on it at a future meeting.",
+      "action_required": "If you own property or a business near this site, watch for the public hearing date to have your say on the proposed rezoning.",
       "key_dates": [],
-      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "industries": "Construction & Development",
       "locations": "Burnaby",
       "government_level": "Municipal",
       "is_proposal": true,
@@ -1564,15 +1617,15 @@
       "article_published_at": "2026-04-14T00:00:00",
       "source": "vancouver_council",
       "source_label": "Vancouver Council",
-      "created_at": "2026-05-11T23:36:53.817609"
+      "created_at": "2026-05-11T23:45:18.844038"
     },
     {
       "id": 389,
       "title": "Proposed: Rezoning for 888-896 Cambie Street and 111-191 Smithe Street",
-      "summary": "Burnaby Council is set to vote on a proposed rezoning for properties at 888-896 Cambie Street and 111-191 Smithe Street. A 'CD-1 Rezoning' means the land would be reclassified as a Comprehensive Development District, which allows the city to set custom rules for what can be built there. This is a first step — the proposal has not been approved yet. Council will consider a referral report that starts the public process. If you own a business or property in this area, this could affect future development or land use.",
-      "action_required": "Watch for the public hearing date — this is your chance to give input on the proposed rezoning before Council makes a final decision.",
+      "summary": "Burnaby City Council is set to vote on a proposed rezoning for properties at 888-896 Cambie Street and 111-191 Smithe Street. This is a 'CD-1 Rezoning', which means the land would be reclassified as a Comprehensive Development Zone. If approved, this would allow a specific development plan for the site, changing what can be built there. The decision has not been made yet — Council will consider a referral report at an upcoming meeting.",
+      "action_required": "Attend the public hearing or submit written comments to Burnaby City Council before the vote to share your views on this proposed rezoning.",
       "key_dates": [],
-      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "industries": "Construction & Development",
       "locations": "Burnaby",
       "government_level": "Municipal",
       "is_proposal": true,
@@ -1657,16 +1710,16 @@
       "article_published_at": "2026-04-14T00:00:00",
       "source": "vancouver_council",
       "source_label": "Vancouver Council",
-      "created_at": "2026-05-11T23:36:53.817095"
+      "created_at": "2026-05-11T23:45:18.843484"
     },
     {
       "id": 388,
       "title": "Proposed: CD-1 rezoning for 888 West 8th Avenue in Burnaby",
-      "summary": "Burnaby City Council is set to vote on a proposed rezoning for the property at 888 West 8th Avenue. The owner wants to change the land-use designation to a Comprehensive Development (CD-1) zone, which is a special zoning category that allows for a mix of uses not normally permitted under standard rules. This proposal would allow a new development on the site. Council will consider the referral report at an upcoming meeting before deciding whether to move forward with public hearings.",
-      "action_required": "Watch for the public hearing date — this is your chance to comment on the proposed rezoning.",
+      "summary": "Council is set to vote on a proposed rezoning for 888 West 8th Avenue. This would change the land use rules for this property to a Comprehensive Development (CD-1) zone, increasing the maximum floor space ratio from 3.0 to 8.1 and the maximum building height from 9.2 m (30 ft.) to 50.6 m (166 ft.). The proposal is at the referral stage, meaning council is considering whether to approve it without a public hearing because it is consistent with the Vancouver Official Development Plan and the Broadway Plan. If approved, this would allow a 16-storey commercial building containing 152 hotel rooms and ground-floor commercial space.",
+      "action_required": "Watch for the Council meeting date — this is your chance to comment on the proposed rezoning if Council decides to hold a public hearing.",
       "key_dates": [],
-      "industries": "Construction & Development",
-      "locations": "Burnaby",
+      "industries": "Construction & Development, Hotel & Accommodation",
+      "locations": "Vancouver",
       "government_level": "Municipal",
       "is_proposal": true,
       "item_number": "Referral 2",
@@ -1750,16 +1803,25 @@
       "article_published_at": "2026-04-14T00:00:00",
       "source": "vancouver_council",
       "source_label": "Vancouver Council",
-      "created_at": "2026-05-11T23:36:53.816548"
+      "created_at": "2026-05-11T23:45:18.842883"
     },
     {
       "id": 387,
-      "title": "Proposed: Fast-track rental housing and small hotels in new mixed-use zone",
-      "summary": "Burnaby Council is set to vote on a proposal to create a new 'Mixed-Use Commercial District' that would fast-track approvals for rental housing and small hotels. If approved, the new rules would allow developers to build rental apartments and small hotels (under a certain size) more quickly, without needing a full rezoning process for each project. This is not law yet — Council will consider the proposal at an upcoming meeting. Business owners in the hotel and development sectors should watch for the decision, as it could change where and how quickly new rental housing and small hotels can be built in Burnaby.",
-      "action_required": "Watch for the Council meeting date and consider submitting comments or attending to voice your support or concerns about the proposed fast-track zone.",
-      "key_dates": [],
-      "industries": "Construction & Development, Hotel & Accommodation, Landlord & Property Mgmt",
-      "locations": "Burnaby",
+      "title": "Proposed: Fast-track rental housing and small hotels in new Burnaby commercial district",
+      "summary": "Vancouver City Council has directed staff to consult on a proposed Amenity Cost Charge (ACC) By-law and updates to density bonus and inclusionary zoning rules required by provincial Bill 16. The ACC would fund amenities like community centres and libraries. The Bill 16 updates must be adopted by June 30, 2026. A workshop for development industry stakeholders is planned for May 2026, and the ACC By-law is expected for Council consideration on July 28, 2026.",
+      "action_required": "Development industry stakeholders should watch for consultation notices and consider participating in the May 2026 workshop on the proposed Amenity Cost Charge By-law.",
+      "key_dates": [
+        {
+          "label": "Bill 16 density bonus rules compliance deadline",
+          "date": "2026-06-30"
+        },
+        {
+          "label": "ACC By-law expected for Council consideration",
+          "date": "2026-07-28"
+        }
+      ],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
       "government_level": "Municipal",
       "is_proposal": true,
       "item_number": "Referral 1",
@@ -1843,7 +1905,7 @@
       "article_published_at": "2026-04-14T00:00:00",
       "source": "vancouver_council",
       "source_label": "Vancouver Council",
-      "created_at": "2026-05-11T23:36:53.816029"
+      "created_at": "2026-05-11T23:45:18.842198"
     }
   ],
   "minutes_briefs": []
