@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T14:48:08.805078+00:00",
-  "count": 1,
+  "generated_at": "2026-05-12T15:17:25.478406+00:00",
+  "count": 2,
   "articles": [
     {
       "article_id": 2,
@@ -26,6 +26,35 @@
         {
           "id": 2,
           "title": "Burnaby approves housing agreement for 5938 Olive Avenue rental development",
+          "source_label": "Burnaby Bylaws",
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 25,
+      "path": "2025/08/26/25_burnaby-bylaws_bylaw-14758-housing-agreement-7786-and-7792-6th-st.json",
+      "article_url": "https://bylaws.burnaby.ca/en/permalink/bylaw26052",
+      "article_title": "Bylaw 14758 — Housing Agreement (7786 and 7792 6th St) Bylaw 2025",
+      "source": "burnaby_bylaws",
+      "source_label": "Burnaby Bylaws",
+      "government_level": "Municipal",
+      "meeting_type": null,
+      "article_published_at": "2025-08-26T00:00:00",
+      "created_at": "2026-05-12T15:17:24.091563",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 424,
+          "title": "Burnaby approves housing agreement for 174 non-market rental units at 7786 & 7792 6th Street",
           "source_label": "Burnaby Bylaws",
           "is_proposal": false
         }
