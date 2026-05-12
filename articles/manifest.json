@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-12T14:48:08.805078+00:00",
+  "generated_at": "2026-05-12T15:17:25.478406+00:00",
   "sources": {
     "burnaby_council": {
-      "generated_at": "2026-05-12T14:48:08.805078+00:00",
+      "generated_at": "2026-05-12T15:17:25.478406+00:00",
       "count": 11,
       "locations": "British Columbia, Burnaby, Maple Ridge, Surrey, Vancouver",
       "meeting_types": [
@@ -18,7 +18,7 @@
       "index_path": "Index/bc/index_source_burnaby_council.json"
     },
     "vancouver_council": {
-      "generated_at": "2026-05-12T14:48:08.805078+00:00",
+      "generated_at": "2026-05-12T15:17:25.478406+00:00",
       "count": 2,
       "locations": "British Columbia, Burnaby, Vancouver",
       "meeting_types": [
@@ -27,22 +27,22 @@
       "index_path": "Index/bc/index_source_vancouver_council.json"
     },
     "bc_gazette_part2": {
-      "generated_at": "2026-05-12T14:48:08.805078+00:00",
+      "generated_at": "2026-05-12T15:17:25.478406+00:00",
       "count": 1,
       "locations": "British Columbia",
       "meeting_types": null,
       "index_path": "Index/bc/index_source_bc_gazette_part2.json"
     },
     "liquor_bulletins": {
-      "generated_at": "2026-05-12T14:48:08.805078+00:00",
+      "generated_at": "2026-05-12T15:17:25.478406+00:00",
       "count": 1,
       "locations": "British Columbia",
       "meeting_types": null,
       "index_path": "Index/bc/index_source_liquor_bulletins.json"
     },
     "burnaby_bylaws": {
-      "generated_at": "2026-05-12T14:48:08.805078+00:00",
-      "count": 1,
+      "generated_at": "2026-05-12T15:17:25.478406+00:00",
+      "count": 2,
       "locations": "Burnaby",
       "meeting_types": null,
       "index_path": "Index/bc/index_source_burnaby_bylaws.json"
