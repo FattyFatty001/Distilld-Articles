@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-12T21:36:50.604926+00:00",
-  "count": 2,
+  "generated_at": "2026-05-13T21:15:33.907610+00:00",
+  "count": 5,
   "articles": [
     {
-      "article_id": 22,
-      "path": "2026/05/05/22_vancouver-council_revised-regular-council-may-05-2026.json",
+      "article_id": 36,
+      "path": "2026/05/05/36_vancouver-council_revised-regular-council-may-05-2026.json",
       "article_url": "https://council.vancouver.ca/20260505/regu20260505ag.htm",
       "article_title": "Revised Regular Council — May 05, 2026",
       "source": "vancouver_council",
@@ -12,544 +12,532 @@
       "government_level": "Municipal",
       "meeting_type": "regular-council",
       "article_published_at": "2026-05-05T00:00:00",
-      "created_at": "2026-05-12T19:40:24.680753",
+      "created_at": "2026-05-13T21:00:12.762442",
       "has_attachments": false,
       "has_pdf": false,
       "has_html": false,
       "has_agenda": true,
       "has_minutes": true,
-      "agenda_brief_count": 42,
+      "agenda_brief_count": 40,
       "minutes_brief_count": 45,
-      "industries": "Construction & Development, Finance & Insurance, Food Service, Hotel & Accommodation, Landlord & Property Mgmt, Liquor, Professional Services, Retail, Technology, Tenant",
-      "locations": "British Columbia, Burnaby, Canada, Ottawa, Vancouver",
+      "industries": "Construction & Development, Finance & Insurance, Food Service, Healthcare, Hotel & Accommodation, Landlord & Property Mgmt, Liquor, Professional Services, Retail, Tenant, Transportation & Logistics",
+      "locations": "British Columbia, Vancouver, Victoria",
       "briefs": [
         {
-          "id": 370,
-          "title": "Proposed: Burnaby Council to vote on 2026 tax levies for Municipal Finance Authority",
+          "id": 469,
+          "title": "Proposed: Vancouver Council to vote on 2026 tax levies for Municipal Finance Authority",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 369,
-          "title": "Proposed: Burnaby Council to vote on 2026 BC Assessment tax levies",
+          "id": 468,
+          "title": "Proposed: 2026 property tax levies for BC Assessment Authority",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 368,
-          "title": "Proposed: Burnaby Council to vote on 2026 TransLink tax levies",
+          "id": 467,
+          "title": "Proposed: Vancouver Council to vote on 2026 TransLink tax levies",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 367,
-          "title": "Council to vote on 2026 tax levies for provincial schools",
+          "id": 466,
+          "title": "Proposed: Vancouver Council to vote on 2026 school tax levies",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 366,
-          "title": "Proposed: Burnaby council to vote on closing lane near Franklin and Hastings",
+          "id": 465,
+          "title": "Proposed: Closure and sale of lane near 1750 Franklin Street",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 365,
-          "title": "Proposed: Burnaby to update ticket fines for bylaw offences",
+          "id": 464,
+          "title": "Proposed: Vancouver to amend Ticket Offences Bylaw",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 364,
-          "title": "Proposed: Burnaby to update electrical bylaw for new BC safety rules",
+          "id": 463,
+          "title": "Proposed: Vancouver to update electrical bylaw for BC safety rules",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 363,
-          "title": "Proposed: Burnaby council to vote on housekeeping changes to Building Bylaw",
+          "id": 462,
+          "title": "Proposed: Vancouver Building By-law amendments for housekeeping changes",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 362,
-          "title": "Proposed: Burnaby noise bylaw amendment for 1302-1318 East 12th Avenue",
+          "id": 461,
+          "title": "Proposed: Vancouver noise bylaw change for 1302-1318 East 12th Avenue",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 361,
-          "title": "Proposed: Burnaby sign bylaw amendment for 1302-1318 East 12th Avenue",
+          "id": 460,
+          "title": "Proposed: Sign bylaw amendment for 1302-1318 East 12th Avenue",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 360,
-          "title": "Proposed: Noise bylaw amendment for 1710-1730 East Pender Street",
+          "id": 459,
+          "title": "Proposed: Vancouver noise bylaw change for 1710-1730 East Pender Street",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 359,
-          "title": "Proposed: Sign bylaw amendment for 1710-1730 East Pender Street",
+          "id": 458,
+          "title": "Proposed: Vancouver sign bylaw amendment for 1710-1730 East Pender Street",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 358,
-          "title": "Proposed: Burnaby bylaw amendment for 6486 Chester Street subdivision",
+          "id": 457,
+          "title": "Proposed: Vancouver council to vote on subdivision bylaw change for 6486 Chester Street",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 357,
-          "title": "Proposed: Burnaby bylaw to levy Metro Vancouver regional district rate",
+          "id": 456,
+          "title": "Proposed: Metro Vancouver regional district levy rate on property",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 356,
-          "title": "Proposed: Vancouver 2026 property tax bylaw to set levy rates",
+          "id": 455,
+          "title": "Proposed: Vancouver 2026 property tax rates up for council vote",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 355,
-          "title": "Proposed: Burnaby bylaw to offer tax relief for development potential in 2026",
+          "id": 454,
+          "title": "Proposed: Vancouver tax relief for development potential in 2026",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 354,
-          "title": "Proposed: Housing agreement for 2158–2170 West 1st Avenue",
+          "id": 453,
+          "title": "Proposed: Housing agreement for 2158–2170 West 1st Avenue, Vancouver",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 353,
-          "title": "Proposed: Amendment to housing agreement for 2221-2223 Main Street",
+          "id": 452,
+          "title": "Proposed: Council to vote on amending housing agreement at 2221-2223 Main Street",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 352,
-          "title": "Proposed: Housing Agreement for 4615 Arbutus Street in Burnaby",
+          "id": 451,
+          "title": "Proposed: Housing agreement for 4615 Arbutus Street",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 351,
+          "id": 450,
           "title": "Proposed: Housing agreement for 648-680 East Broadway and 2505 Fraser Street",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 350,
-          "title": "Proposed: Housing Agreement for 1111 Broughton Street",
+          "id": 449,
+          "title": "Proposed: Housing agreement for 1111 Broughton Street",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 349,
-          "title": "Proposed: Rezoning of 5889-5925 Dunbar Street to RR-2B",
+          "id": 448,
+          "title": "Proposed: Rezone Dunbar Street properties from R1-1 to RR-2B",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 348,
-          "title": "Proposed: Rezoning at 2110 West 5th Avenue to CD-1",
+          "id": 447,
+          "title": "Proposed: Rezone 2110 West 5th Avenue to CD-1",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 347,
-          "title": "Proposed: Burnaby bylaw change on drinking alcohol in city parks",
+          "id": 446,
+          "title": "Proposed: Vancouver bylaw change on drinking in city parks and plazas",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 346,
-          "title": "Proposed: CD-1 Text Amendment for 133-159 West 49th Avenue",
+          "id": 445,
+          "title": "Proposed: Vancouver council to vote on text amendment for 133-159 West 49th Avenue",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 345,
-          "title": "Proposed: Burnaby density bonus and inclusionary zoning updates for 2026",
+          "id": 444,
+          "title": "Proposed: Vancouver updates density bonus and inclusionary zoning rules",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 344,
-          "title": "Proposed: CD-1 rezoning for 888 West 8th Avenue in Burnaby",
+          "id": 443,
+          "title": "Proposed: CD-1 rezoning for 888 West 8th Avenue in Vancouver",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 343,
-          "title": "Proposed: CD-1 rezoning for Alberni and Bidwell streets in Burnaby",
+          "id": 442,
+          "title": "Proposed: CD-1 rezoning for Alberni and Bidwell streets in Vancouver",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 342,
-          "title": "Proposed: Rezoning for mixed-use building at 354-380 East 10th Avenue",
+          "id": 441,
+          "title": "Proposed: CD-1 Rezoning at 354-380 East 10th Avenue, Vancouver",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 341,
-          "title": "Proposed: CD-1 rezoning for 531-595 West 27th Avenue in Burnaby",
+          "id": 440,
+          "title": "Proposed: CD-1 Rezoning for 531-595 West 27th Avenue",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 340,
-          "title": "Proposed: Text amendment for CD-1 (892) at 1290 Hornby and 889 Drake",
+          "id": 439,
+          "title": "Proposed: CD-1 text amendment for 1290 Hornby Street and 889 Drake Street",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 339,
-          "title": "Proposed: Burnaby Council to vote on CD-1 rezoning at 318-346 East 2nd Avenue",
+          "id": 438,
+          "title": "Proposed: CD-1 rezoning for 320 East 2nd Avenue in Vancouver",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 338,
-          "title": "Proposed: Rezoning for mixed-use at Cambie & 41st Ave, Burnaby",
+          "id": 437,
+          "title": "Proposed: Rezoning at 5635-5655 Cambie Street and 511 West 41st Avenue",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 337,
-          "title": "Proposed: CD-1 rezoning for 6012-6088 Cambie Street",
+          "id": 436,
+          "title": "Proposed: CD-1 Rezoning for 6012-6088 Cambie Street",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 336,
-          "title": "Proposed: Rezoning for mixed-use at 185-193 SW Marine Drive and 7980 Manitoba Street",
+          "id": 435,
+          "title": "Proposed: Vancouver council to vote on rezoning at 185-193 Southwest Marine Drive",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 335,
-          "title": "Proposed: Burnaby bylaw changes for inclusionary zoning and density bonus",
+          "id": 434,
+          "title": "Proposed: Vancouver bylaw changes for inclusionary zoning consultation",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 334,
-          "title": "Proposed: Closure and sale or lease of lane near 1750 Franklin Street",
+          "id": 433,
+          "title": "Proposed: Vancouver council to vote on lane closure and sale near 1750 Franklin",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 333,
-          "title": "Proposed: Operator and lease approval for social facility at 485 West 42nd Ave",
+          "id": 432,
+          "title": "Proposed: Council to vote on social facility operator and lease at 485 West 42nd Ave",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 332,
-          "title": "Proposed: Burnaby capital budget adjustments for May 2026",
+          "id": 431,
+          "title": "Proposed: Vancouver capital budget adjustments for May 2026",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 331,
-          "title": "Proposed: Burnaby development property tax relief program for 2026",
+          "id": 430,
+          "title": "Proposed: Vancouver Development Potential Relief Program bylaw for 2026",
           "source_label": "Vancouver Council",
           "is_proposal": true
-        },
-        {
-          "id": 330,
-          "title": "Proposed: Vancouver Commemoration Framework report up for council review",
-          "source_label": "Vancouver Council",
-          "is_proposal": true
-        },
-        {
-          "id": 329,
-          "title": "Proposed: Changes to Burnaby's 2026 Council meeting schedule",
-          "source_label": "Vancouver Council",
-          "is_proposal": true
-        },
-        {
-          "id": 521,
-          "title": "Council approved $480 travel expense for Councillor Klassen to BC Legislature",
-          "source_label": "Vancouver Council",
-          "is_proposal": false
-        },
-        {
-          "id": 520,
-          "title": "Council approved travel expenses for Vancouver councillors to Ottawa",
-          "source_label": "Vancouver Council",
-          "is_proposal": false
-        },
-        {
-          "id": 519,
-          "title": "Council endorsed Vancouver as home for new Defence, Security & Resilience Bank",
-          "source_label": "Vancouver Council",
-          "is_proposal": false
-        },
-        {
-          "id": 518,
-          "title": "Vancouver council voted to block overdose prevention site at 900 Helmcken",
-          "source_label": "Vancouver Council",
-          "is_proposal": false
-        },
-        {
-          "id": 517,
-          "title": "Council approved 2026 MFABC tax rates for Vancouver property classes",
-          "source_label": "Vancouver Council",
-          "is_proposal": false
-        },
-        {
-          "id": 516,
-          "title": "Council approved adjusted BC Assessment tax rates for 2026 averaging",
-          "source_label": "Vancouver Council",
-          "is_proposal": false
-        },
-        {
-          "id": 515,
-          "title": "Council approved adjusted TransLink tax rates for 2026 in Vancouver",
-          "source_label": "Vancouver Council",
-          "is_proposal": false
         },
         {
           "id": 514,
-          "title": "Council approved substituted school tax rates for 2026 averaging in Vancouver",
+          "title": "Council approved up to $480 for Councillor Klassen's BC Legislature trip",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
           "id": 513,
-          "title": "Council approved closing and selling a lane to Hallmark Poultry for redevelopment",
+          "title": "Council approved travel expenses for two councillors and staff to Ottawa",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
           "id": 512,
-          "title": "Council approved miscellaneous amendments to Burnaby's Ticket Offences By-law",
+          "title": "Council approved $100k to back Vancouver as Defence Bank location",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
           "id": 511,
-          "title": "Burnaby Council approved electrical bylaw updates to match BC safety rules",
+          "title": "Council voted to block overdose prevention site at 900 Helmcken",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
           "id": 510,
-          "title": "Burnaby Council approved housekeeping amendments to Building By-law No. 14343",
+          "title": "Council approved 2026 tax levy rates for Municipal Finance Authority of BC",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
           "id": 509,
-          "title": "Burnaby Council approved noise bylaw amendment for 1302-1318 East 12th Ave",
+          "title": "Council approved adjusted 2026 BC Assessment tax rates for Vancouver properties",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
           "id": 508,
-          "title": "Council approved sign bylaw amendment for 1302-1318 East 12th Avenue",
+          "title": "Council approved 2026 TransLink tax rate adjustments for Vancouver properties",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
           "id": 507,
-          "title": "Council approved noise bylaw amendment for 1710-1730 East Pender St",
+          "title": "Council approved adjusted 2026 school tax rates for Vancouver properties",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
           "id": 506,
-          "title": "Council approved sign bylaw amendment for 1710-1730 East Pender St",
+          "title": "Council approved lane closure and sale for 1750 Franklin Street redevelopment",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
           "id": 505,
-          "title": "Council approved a bylaw amendment for 6486 Chester Street subdivision rules",
+          "title": "Council approved miscellaneous amendments to Vancouver's Ticket Offences Bylaw",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
           "id": 504,
-          "title": "Council approved a bylaw to levy Metro Vancouver Regional District tax rates on property",
+          "title": "Council approved electrical bylaw updates to match BC safety rules",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
           "id": 503,
-          "title": "Vancouver Council approved 2026 property tax rate bylaw",
+          "title": "Council approved housekeeping amendments to Vancouver's Building By-law",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
           "id": 502,
-          "title": "Council approved development potential tax relief bylaw for 2026",
+          "title": "Council approved noise bylaw amendment for 1302-1318 East 12th Avenue",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
           "id": 501,
-          "title": "Council approved a housing agreement for 2158–2170 West 1st Avenue",
+          "title": "Council approved sign bylaw amendment for 1302-1318 East 12th Avenue",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
           "id": 500,
-          "title": "Council approved amending the housing agreement for 2221-2223 Main Street",
+          "title": "Council approved noise bylaw amendment for 1710-1730 East Pender Street",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
           "id": 499,
-          "title": "Council approved a housing agreement for 4615 Arbutus Street",
+          "title": "Council approved sign bylaw amendment for 1710-1730 East Pender Street",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
           "id": 498,
-          "title": "Council approved a housing agreement for 648-680 East Broadway and 2505 Fraser St",
+          "title": "Council approved subdivision bylaw amendment for 6486 Chester Street",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
           "id": 497,
-          "title": "Council approved housing agreement for 1111 Broughton Street",
+          "title": "Council approved Metro Vancouver regional tax rates for 2025",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
           "id": 496,
-          "title": "Burnaby Council approved rezoning of 5889-5925 Dunbar St to RR-2B",
+          "title": "Council approved 2026 property tax rates bylaw for Vancouver",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
           "id": 495,
-          "title": "Council approved rezoning of 2110 West 5th Avenue to CD-1",
+          "title": "Council approved 2026 tax relief bylaw for development potential",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
           "id": 494,
-          "title": "Council approved bylaw changes for drinking alcohol on city land",
+          "title": "Council approved a housing agreement for 2158-2170 West 1st Avenue.",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
           "id": 493,
-          "title": "Council approved mezzanine additions for commercial spaces at 133-159 West 49th Ave",
+          "title": "Council approved housing agreement amendment for 2221-2223 Main Street",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
           "id": 492,
-          "title": "Council approved new inclusionary zoning rules for Vancouver development",
+          "title": "Council approved a housing agreement for 4615 Arbutus Street",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
           "id": 491,
-          "title": "Council approved rezoning for 16-storey hotel and commercial at 888 West 8th Ave",
+          "title": "Council approved a housing agreement for 648-680 East Broadway and 2505 Fraser Street",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
           "id": 490,
-          "title": "Council approved rezoning for two towers on Alberni Street in Burnaby",
+          "title": "Council approved a Housing Agreement for 1111 Broughton Street",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
           "id": 489,
-          "title": "Council approved 25-storey mixed-use tower at 354-380 East 10th Ave",
+          "title": "Council approved rezoning of 5889-5925 Dunbar Street to RR-2B",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
           "id": 488,
-          "title": "Council approved CD-1 rezoning for 222 rental units at 531-595 West 27th Ave",
+          "title": "Council approved rezoning of 2110 West 5th Avenue to CD-1",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
           "id": 487,
-          "title": "Council approved converting cultural space to 14 residential units at 1290 Hornby St",
+          "title": "Council approved bylaw allowing liquor consumption on city land",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
           "id": 486,
-          "title": "Council approved rezoning for 19-storey rental building at 320 East 2nd Ave",
+          "title": "Council approved CD-1 text amendment for 133-159 West 49th Avenue",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
           "id": 485,
-          "title": "Council approved 31-storey mixed-use tower at 5635-5655 Cambie St",
+          "title": "Council approved new inclusionary zoning rules for Vancouver development",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
           "id": 484,
-          "title": "Council approved rezoning for 25-storey tower and hotel at Cambie and 45th",
+          "title": "Council approved rezoning for 16-storey hotel at 888 West 8th Avenue",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
           "id": 483,
-          "title": "Council approved CD-1 text amendment for 61 rental units at 185-193 SW Marine Drive",
+          "title": "Council approved rezoning for 41-storey rental tower at 1728-1738 Alberni Street",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
           "id": 482,
-          "title": "Council approved new consultation rules for inclusionary zoning and density bonus",
+          "title": "Council approved 25-storey rental tower at 354-380 East 10th Avenue",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
           "id": 481,
-          "title": "Council approved closure and sale of lane to Hallmark Poultry for $6M",
+          "title": "Council approved rezoning for 222 rental units at 531-595 West 27th Avenue",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
           "id": 480,
-          "title": "Council approved Disability Alliance BC as social facility operator and lease",
+          "title": "Council approved converting cultural space to 14 residential units at 1290 Hornby",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
           "id": 479,
-          "title": "Council approved $27M increase to Burnaby's 2023-2026 Capital Plan",
+          "title": "Council approved 19-storey mixed-use tower at 320 East 2nd Avenue",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
           "id": 478,
-          "title": "Council approved 2026 property tax relief bylaw and tax rates for Burnaby",
+          "title": "Council approved 31-storey mixed-use tower at 5635-5655 Cambie Street",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
           "id": 477,
-          "title": "Council approved Vancouver's Commemoration Framework and delegated plaque approvals",
+          "title": "Council approved 25-storey tower and hotel rezoning at Cambie and 45th",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 476,
+          "title": "Council approved taller, denser rental building at 185-193 SW Marine Drive",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 475,
+          "title": "Council approved new consultation rules for inclusionary zoning and density bonus",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 474,
+          "title": "Council approved lane closure and $6M sale to Hallmark Poultry",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 473,
+          "title": "Council approved Disability Alliance BC as operator of new social facility at 485 W 42nd",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 472,
+          "title": "Council approved $27M increase to Vancouver's capital budget",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 471,
+          "title": "Council approved 2026 Development Potential Tax Relief and tax rating by-laws",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 470,
+          "title": "Council approved Vancouver Commemoration Framework with Q4 2026 implementation",
           "source_label": "Vancouver Council",
           "is_proposal": false
         }
       ]
     },
     {
-      "article_id": 26,
-      "path": "2026/04/14/26_vancouver-council_revised-regular-council-april-14-2026.json",
+      "article_id": 38,
+      "path": "2026/04/14/38_vancouver-council_revised-regular-council-april-14-2026.json",
       "article_url": "https://council.vancouver.ca/20260414/regu20260414ag.htm",
       "article_title": "Revised Regular Council — April 14, 2026",
       "source": "vancouver_council",
@@ -557,326 +545,1025 @@
       "government_level": "Municipal",
       "meeting_type": "regular-council",
       "article_published_at": "2026-04-14T00:00:00",
-      "created_at": "2026-05-12T15:31:20.443589",
+      "created_at": "2026-05-13T21:05:51.516940",
       "has_attachments": false,
       "has_pdf": false,
       "has_html": false,
       "has_agenda": true,
       "has_minutes": true,
       "agenda_brief_count": 27,
-      "minutes_brief_count": 25,
-      "industries": "Construction & Development, Food Service, Hotel & Accommodation, Insurance, Landlord & Property Mgmt, Liquor, Professional Services, Retail, Transportation & Logistics",
-      "locations": "Burnaby, Vancouver",
+      "minutes_brief_count": 27,
+      "industries": "Construction & Development, Food Service, Healthcare, Hotel & Accommodation, Landlord & Property Mgmt, Liquor, Professional Services, Retail, Transportation & Logistics",
+      "locations": "British Columbia, Vancouver",
       "briefs": [
         {
-          "id": 451,
-          "title": "Proposed: Burnaby bylaw to assess property for Trounce Alley and Blood Alley maintenance",
+          "id": 541,
+          "title": "Proposed: Vancouver bylaw to assess property owners for Trounce Alley & Blood Alley Square maintenance",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 450,
-          "title": "Proposed: Burnaby bylaw to assess property costs for East Hastings parking project",
+          "id": 540,
+          "title": "Proposed: Vancouver bylaw to assess property for East Hastings parking project costs",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 449,
-          "title": "Proposed: Housing agreement for 320-360 West 2nd Avenue up for council vote",
+          "id": 539,
+          "title": "Proposed: Housing agreement bylaw for 320-360 West 2nd Avenue",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 448,
-          "title": "Proposed: Amend housing agreement for 450-496 Prior Street, Burnaby",
+          "id": 538,
+          "title": "Proposed: Council to vote on housing agreement amendment for three Vancouver properties",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 447,
-          "title": "Proposed: Amend CD-1 (198) bylaw for 1700-1750 West 75th Avenue",
+          "id": 537,
+          "title": "Proposed: Vancouver council to vote on amending CD-1 zoning at 1700-1750 West 75th Avenue",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 446,
-          "title": "Proposed: Rezone 1710-1730 East Pender Street to CD-1",
+          "id": 536,
+          "title": "Proposed: Vancouver council to vote on rezoning 1710-1730 East Pender Street",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 445,
-          "title": "Proposed: Rezone 6486 Chester Street to CD-1 in Burnaby",
+          "id": 535,
+          "title": "Proposed: Rezoning of 6486 Chester Street to CD-1",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 444,
-          "title": "Proposed: Rezone 1302-1318 East 12th Avenue to CD-1",
+          "id": 534,
+          "title": "Proposed: Rezoning of 1302-1318 East 12th Avenue to CD-1",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 443,
+          "id": 533,
           "title": "Proposed: Rezoning for 888-896 Cambie Street and 111-191 Smithe Street",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 442,
-          "title": "Proposed: CD-1 Rezoning for 888 West 8th Avenue in Burnaby",
+          "id": 532,
+          "title": "Proposed: CD-1 Rezoning at 888 West 8th Avenue, Vancouver",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 441,
-          "title": "Proposed: Fast-track rental housing and small hotels in new Burnaby mixed-use district",
+          "id": 531,
+          "title": "Proposed: New mixed-use district to fast-track rental housing and small hotels",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 440,
-          "title": "Proposed: Burnaby amenity cost charge bylaw and density bonus updates",
+          "id": 530,
+          "title": "Proposed: Vancouver council to consult on new development cost charges",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 439,
-          "title": "Proposed: Rezoning at 1305-1325 West 13th Avenue in Burnaby",
+          "id": 529,
+          "title": "Proposed: Rezoning of 1305-1325 West 13th Avenue in Vancouver",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 438,
-          "title": "Proposed: CD-1 Rezoning for 310 East 14th Avenue in Burnaby",
+          "id": 528,
+          "title": "Proposed: CD-1 Rezoning at 310 East 14th Avenue, Vancouver",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 437,
-          "title": "Proposed: Rezoning for 3803-3823 West 10th Ave and 2553 Highbury St",
+          "id": 527,
+          "title": "Proposed: Rezoning at 3803-3823 West 10th Avenue and 2553 Highbury Street",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 436,
-          "title": "Proposed: CD-1 rezoning at 4088 Granville Street, Burnaby",
+          "id": 526,
+          "title": "Proposed: CD-1 rezoning for 4088 Granville Street, Vancouver",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 435,
-          "title": "Proposed: Text amendment to CD-1 (839) bylaw for 5590 Victoria Drive and 2005 East 40th Avenue",
+          "id": 525,
+          "title": "Proposed: Text amendment for CD-1 at 5590 Victoria Drive and 2005 East 40th Avenue",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 434,
-          "title": "Proposed: Burnaby council to vote on housing rezoning rule changes",
+          "id": 524,
+          "title": "Proposed: Vancouver council to vote on housing rezoning rule changes",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 433,
-          "title": "Proposed: Burnaby council to apply for development approvals funding",
+          "id": 523,
+          "title": "Proposed: Vancouver seeks provincial grant to speed up development approvals",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 432,
-          "title": "Proposed: Burnaby council to vote on public plaza alcohol sites for 2026-2029",
+          "id": 522,
+          "title": "Proposed: Vancouver council to vote on public plaza drinking sites for 2026-2029",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 431,
-          "title": "Council to consider Vancouver Heritage Foundation annual report and board reappointment",
+          "id": 521,
+          "title": "Council to consider Vancouver Heritage Foundation annual report",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 430,
-          "title": "Proposed: Burnaby Coastal Flood Management Policy",
+          "id": 520,
+          "title": "Proposed: Vancouver Coastal Flood Management Policy",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 429,
-          "title": "Proposed: Burnaby 2025 property tax exemptions for non-profits",
+          "id": 519,
+          "title": "Proposed: Vancouver 2025 property tax exemptions for non-profits",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 428,
-          "title": "Proposed: Burnaby property tax distribution for 2026",
+          "id": 518,
+          "title": "Proposed: Vancouver 2026 property tax levy distribution",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 427,
-          "title": "Proposed: Vancouver Community Sport Event Grants for Spring 2026",
+          "id": 517,
+          "title": "Proposed: Vancouver Community Sport Event Grants – Spring 2026 Intake",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 426,
-          "title": "Proposed: Burnaby 2026 Cultural Grants for Operating & Spaces",
+          "id": 516,
+          "title": "Proposed: Vancouver 2026 Cultural Grants for operating and spaces",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 425,
+          "id": 515,
           "title": "Council to consider 2025 Homeless Count results for Vancouver",
           "source_label": "Vancouver Council",
           "is_proposal": true
         },
         {
-          "id": 476,
-          "title": "Council approved bylaw to assess properties for Trounce Alley and Blood Alley Square maintenance costs",
+          "id": 568,
+          "title": "Council approved bylaw for Trounce Alley and Blood Alley Square maintenance costs",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
-          "id": 475,
-          "title": "Council approved bylaw to assess properties for East Hastings parking project",
+          "id": 567,
+          "title": "Council approved bylaw for East Hastings Street parking project",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
-          "id": 474,
-          "title": "Burnaby Council approved housing agreement for 320-360 West 2nd Avenue",
+          "id": 566,
+          "title": "Council approved a housing agreement for 320-360 West 2nd Avenue",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
-          "id": 473,
-          "title": "Council approved amendment to housing agreement for Prior Street properties",
+          "id": 565,
+          "title": "Council approved amending a housing agreement for Prior Street properties",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
-          "id": 472,
-          "title": "Council approved bylaw amendment for 1700-1750 West 75th Avenue development",
+          "id": 564,
+          "title": "Council approved bylaw amendment for 1700-1750 West 75th Avenue",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
-          "id": 471,
-          "title": "Burnaby Council approved rezoning of 1710-1730 East Pender Street to CD-1",
+          "id": 563,
+          "title": "Council approved rezoning of 1710-1730 East Pender Street to CD-1",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
-          "id": 470,
+          "id": 562,
           "title": "Council approved rezoning of 6486 Chester Street to CD-1",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
-          "id": 469,
-          "title": "Council approved rezoning of 1302-1318 East 12th Avenue to CD-1",
+          "id": 561,
+          "title": "Council approved rezoning for 1302-1318 East 12th Avenue to CD-1",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
-          "id": 468,
-          "title": "Council approved in principle rezoning for 29-storey tower at 888-896 Cambie",
+          "id": 560,
+          "title": "Council approved rezoning for 29-storey mixed-use tower at Cambie and Smithe",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
-          "id": 467,
-          "title": "Council approved in principle CD-1 rezoning for 16-storey hotel at 888 West 8th Avenue",
+          "id": 559,
+          "title": "Council approved CD-1 rezoning for 16-storey hotel at 888 West 8th Avenue",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
-          "id": 466,
-          "title": "Council approved new C-2A zone to fast-track rental housing and small hotels",
+          "id": 558,
+          "title": "Council approved new C-2A mixed-use zone to fast-track rental housing",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
-          "id": 465,
+          "id": 557,
+          "title": "Council approved public consultation on new Amenity Cost Charge By-law",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 556,
           "title": "Council approved rezoning of 1305-1325 West 13th Avenue to R5-4",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
-          "id": 464,
-          "title": "Council approved in principle 20-storey rental tower at 310 East 14th Avenue",
+          "id": 555,
+          "title": "Council approved rezoning for 20-storey rental tower at 310 East 14th Avenue",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
-          "id": 463,
-          "title": "Council approved in principle a rezoning for a six-storey mixed-use building on West 10th Avenue",
+          "id": 554,
+          "title": "Council approved in principle a rezoning for a six-storey mixed-use building at West 10th and Highbury",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
-          "id": 462,
+          "id": 553,
           "title": "Council approved rezoning for 31 rental units at 4088 Granville Street",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
-          "id": 461,
-          "title": "Council approved in principle CD-1 text amendment at 5590 Victoria Drive",
+          "id": 552,
+          "title": "Council approved CD-1 text amendment at 5590 Victoria Drive",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
-          "id": 460,
-          "title": "Council approved amendments to housing rezoning conditions for multiple developments",
+          "id": 551,
+          "title": "Council approved amendments to housing rezoning conditions for specific developments",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
-          "id": 459,
-          "title": "Council endorsed $200,000 grant application to streamline Vancouver housing approvals",
+          "id": 550,
+          "title": "Council approved $200,000 grant application to speed up housing permits",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
-          "id": 458,
-          "title": "Council approved in principle alcohol consumption in Burnaby public plazas",
+          "id": 549,
+          "title": "Council approved in principle bylaw for alcohol in public plazas",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
-          "id": 457,
-          "title": "Council approved Vancouver Heritage Foundation 2025 annual report and $152,375 grant",
+          "id": 548,
+          "title": "Council approved $152,375 grant for Vancouver Heritage Foundation",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
-          "id": 456,
-          "title": "Vancouver Council adopted Coastal Flood Management Policy to guide flood planning",
+          "id": 547,
+          "title": "Council adopted Coastal Flood Management Policy for Vancouver",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
-          "id": 455,
-          "title": "Council approved 57.5% residential, 42.5% non-residential property tax split for 2026",
+          "id": 546,
+          "title": "Council approved 57.5% residential property tax share for 2026",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
-          "id": 454,
-          "title": "Burnaby Council adopted 2026 budget with $1.224B property tax levy",
+          "id": 545,
+          "title": "Council adopted $2.39B 2026 budget and property tax levy",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
-          "id": 453,
-          "title": "Council approved 19 Vancouver community sport event grants totalling $89,000",
+          "id": 544,
+          "title": "Council approved $89,000 in community sport event grants",
           "source_label": "Vancouver Council",
           "is_proposal": false
         },
         {
-          "id": 452,
-          "title": "Council approved $2.8M in institutional, $710K annual, and $5.7M multi-year cultural grants",
+          "id": 543,
+          "title": "Council approved $9.6M in 2026 cultural grants with amendments",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 542,
+          "title": "Council approved call for senior government homelessness funding",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 40,
+      "path": "2026/03/31/40_vancouver-council_regular-council-march-31-2026.json",
+      "article_url": "https://council.vancouver.ca/20260331/regu20260331ag.htm",
+      "article_title": "Regular Council — March 31, 2026",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "government_level": "Municipal",
+      "meeting_type": "regular-council",
+      "article_published_at": "2026-03-31T00:00:00",
+      "created_at": "2026-05-13T21:08:21.863773",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": true,
+      "has_minutes": true,
+      "agenda_brief_count": 16,
+      "minutes_brief_count": 12,
+      "industries": "Construction & Development, Food Service, Hotel & Accommodation, Landlord & Property Mgmt, Liquor, Professional Services, Retail",
+      "locations": "Vancouver",
+      "briefs": [
+        {
+          "id": 584,
+          "title": "Proposed: Vancouver to repeal its Greenhouse Gas Emission Reduction plan",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 583,
+          "title": "Proposed: Vancouver to repeal Regional Context Statement bylaw",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 582,
+          "title": "Proposed: Vancouver Official Development Plan up for council vote",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 581,
+          "title": "Proposed: Vancouver bylaw amendment for 1110-1160 West King Edward Avenue subdivision",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 580,
+          "title": "Proposed: Noise bylaw amendment for Prior Street, Malkin Avenue, Station Street",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 579,
+          "title": "Proposed: Sign bylaw changes for three Vancouver properties",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 578,
+          "title": "Proposed: Vancouver noise bylaw amendment for West Broadway & Arbutus",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 577,
+          "title": "Proposed: Sign bylaw amendment for 2096 West Broadway and 2560-2576 Arbutus Street",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 576,
+          "title": "Proposed: Noise bylaw amendment for 800 Commercial Drive, Vancouver",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 575,
+          "title": "Proposed: Sign bylaw amendment for 800 Commercial Drive, Vancouver",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 574,
+          "title": "Proposed: Vancouver council to vote on brewery lounge rules",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 573,
+          "title": "Council to vote on Front-ender Agreement Amendment",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 572,
+          "title": "Proposed: Vancouver council to apply for federal green building grant",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 571,
+          "title": "Proposed: Vancouver SRO upgrade and cooling/warming retrofit grants",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 570,
+          "title": "Proposed: Vancouver ODP amendment for Villages Planning Program",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 569,
+          "title": "Proposed: Vancouver council to vote on Heather Lands rezoning",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 596,
+          "title": "Council rescinded Vancouver Plan, adopted new land-use rules",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 595,
+          "title": "Council approved floating hotel rezoning at Canada Place for public hearing",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 594,
+          "title": "Council approved two-year extension of brewery lounge floor area suspension",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 593,
+          "title": "Council approved $1.21M front-ender agreement for Pennyfarthing development",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 592,
+          "title": "Council approved $2.36M grant application for Champlain Heights energy retrofit",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 591,
+          "title": "Council approved $1.4M in SRO grants from Empty Homes Tax",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 590,
+          "title": "Council approved consultation list for Villages Planning Program changes",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 589,
+          "title": "Council approved public consultation for in-stream ODP rezoning applications",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 588,
+          "title": "Council approved changes to 2026 meeting schedule, cancelled two public hearings",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 587,
+          "title": "Council approved Vancouver Official Development Plan bylaw",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 586,
+          "title": "Council approved 15 by-laws including zoning, housing, sign, and noise changes",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 585,
+          "title": "Council approved rezoning for Heather Lands mixed-use development up to 46 storeys",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 42,
+      "path": "2026/03/10/42_vancouver-council_regular-council-march-10-2026.json",
+      "article_url": "https://council.vancouver.ca/20260310/regu20260310ag.htm",
+      "article_title": "Regular Council — March 10, 2026",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "government_level": "Municipal",
+      "meeting_type": "regular-council",
+      "article_published_at": "2026-03-10T00:00:00",
+      "created_at": "2026-05-13T21:11:24.895334",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": true,
+      "has_minutes": true,
+      "agenda_brief_count": 31,
+      "minutes_brief_count": 14,
+      "industries": "Agriculture, Cannabis, Childcare, Construction & Development, Finance & Insurance, Food Service, Grocery & Food Retail, Healthcare, Hotel & Accommodation, Labour & Employment, Landlord & Property Mgmt, Liquor, Natural Resources, Professional Services, Retail, Spa & Wellness, Technology, Tenant, Transportation & Logistics",
+      "locations": "Vancouver",
+      "briefs": [
+        {
+          "id": 627,
+          "title": "Proposed: Vancouver noise bylaw amendment for 2111 Main Street",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 626,
+          "title": "Proposed: Sign bylaw amendment for 2111 Main Street",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 625,
+          "title": "Proposed: Noise bylaw amendment for Knight Street and East 24th Avenue",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 624,
+          "title": "Proposed: Sign bylaw amendment for 4001-4009 Knight Street and 1348 East 24th Avenue",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 623,
+          "title": "Proposed: Grant money for West End business promotion scheme",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 622,
+          "title": "Proposed: West End Business Improvement Area designation",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 621,
+          "title": "Proposed: Grant money for West Broadway business promotion scheme",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 620,
+          "title": "Proposed: West Broadway Business Improvement Area designation",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 619,
+          "title": "Proposed: Grant Money for Mount Pleasant Business Promotion Scheme",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 618,
+          "title": "Proposed: Mount Pleasant Business Improvement Area designation",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 617,
+          "title": "Proposed: Grant money for Kitsilano 4th Avenue business promotion scheme",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 616,
+          "title": "Proposed: Kitsilano 4th Avenue Business Improvement Area designation",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 615,
+          "title": "Proposed: Grant money for Kerrisdale business promotion scheme",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 614,
+          "title": "Proposed: Kerrisdale Business Improvement Area designation",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 613,
+          "title": "Proposed: Grant money for Hastings Crossing business promotion scheme",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 612,
+          "title": "Proposed: Hastings Crossing Business Improvement Area designation",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 611,
+          "title": "Proposed: Grant money for Dunbar Village business promotion scheme",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 610,
+          "title": "Proposed: Dunbar Village Business Improvement Area designation",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 609,
+          "title": "Proposed: Vancouver bylaw to average land assessments for 2026",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 608,
+          "title": "Proposed: Rezone 1110–1160 West King Edward to CD-1",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 607,
+          "title": "Proposed: Rezone 800 Commercial Drive to CD-1",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 606,
+          "title": "Proposed: Street vending bylaw changes for 2026 Granville Street summer patios",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 605,
+          "title": "Proposed: Vancouver council to vote on housing co-op grant",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 604,
+          "title": "Council to vote on update to outstanding motions list",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 603,
+          "title": "Proposed: Vancouver property tax relief for development land",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 602,
+          "title": "Proposed: Vancouver Council to vote on 2026 community service grants",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 601,
+          "title": "Proposed: Vancouver council to vote on municipal membership fees for 2026-2027",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 600,
+          "title": "Proposed: Vancouver Charter change to renew BIA funding model",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 599,
+          "title": "Proposed: 2026 graffiti abatement grants for Vancouver BIAs",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 598,
+          "title": "Proposed: Vancouver council to vote on 2026-27 BIA budgets",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 597,
+          "title": "Proposed: CD-1 rezoning for three sites on East Hastings Street",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 641,
+          "title": "Council approved $30,000 grant to save 2026 Car Free Days",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 640,
+          "title": "Council approved 21 by-laws including zoning, BIA, sign, and noise changes",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 639,
+          "title": "Council approved Auditor General recommendations on land sales and whistleblower rules",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 638,
+          "title": "Council approved Nomination Subcommittee meeting dates for 2026",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 637,
+          "title": "Council approved fee waivers for 2026 Granville Street summer patios",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 636,
+          "title": "Council approved $12.27M grant for 191-unit co-op on East Pender",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 635,
+          "title": "Council approved staff time and resources for outstanding motions",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 634,
+          "title": "Council approved 2026 property tax relief for development and land assessment averaging",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 633,
+          "title": "Council approved $4.3M in community services and social grants for 2026",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 632,
+          "title": "Council approved $246,613 in municipal membership fees for 2026-2027",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 631,
+          "title": "Council approved Vancouver Charter changes for BIA renewal",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 630,
+          "title": "Council approved $510,000 in 2026 graffiti abatement grants for 22 BIAs",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 629,
+          "title": "Council approved $20.36M in grants to 22 Vancouver BIAs for 2026-27",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 628,
+          "title": "Council approved rezoning for three East Hastings rental housing sites",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 44,
+      "path": "2026/02/24/44_vancouver-council_revised-regular-council-february-24-2026.json",
+      "article_url": "https://council.vancouver.ca/20260224/regu20260224ag.htm",
+      "article_title": "Revised Regular Council — February 24, 2026",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "government_level": "Municipal",
+      "meeting_type": "regular-council",
+      "article_published_at": "2026-02-24T00:00:00",
+      "created_at": "2026-05-13T21:13:42.865895",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": true,
+      "has_minutes": true,
+      "agenda_brief_count": 14,
+      "minutes_brief_count": 16,
+      "industries": "Construction & Development, Food Service, Healthcare, Hotel & Accommodation, Labour & Employment, Landlord & Property Mgmt, Professional Services, Retail, Tenant, Transportation & Logistics",
+      "locations": "Vancouver",
+      "briefs": [
+        {
+          "id": 655,
+          "title": "Proposed: Housing agreement for 1525 Robson Street up for council vote",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 654,
+          "title": "Proposed: Housing Agreement for 4288 Yew Street",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 653,
+          "title": "Proposed: Vancouver council to amend housing agreement for 3 downtown sites",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 652,
+          "title": "Proposed: Housing agreement for 2110 West 5th Avenue",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 651,
+          "title": "Proposed: Housing agreement for 3282-3296 East 1st Avenue / 1725 Rupert Street",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 650,
+          "title": "Proposed: Housing agreement for 6486 Chester Street, Vancouver",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 649,
+          "title": "Proposed: Housing agreement for 1302-1318 E 12th Avenue",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 648,
+          "title": "Proposed: Vancouver Fire Bylaw changes on appointments",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 647,
+          "title": "Proposed: Street name changes for Marpole Transit and St. Paul's Hospital",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 646,
+          "title": "Proposed: Land use change for former Molson Brewery industrial site",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 645,
+          "title": "Proposed: Special traffic lanes for FIFA World Cup 26 in Vancouver",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 644,
+          "title": "Proposed: Closure and sale of road portion at 1710-1730 East Pender Street",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 643,
+          "title": "Proposed: Vancouver council to vote on BIA renewals for 2026",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 642,
+          "title": "Proposed: Vancouver renews 2STGD+ Safety and Inclusion Action Plan",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 671,
+          "title": "Council approved road closure and sale near 1710-1730 East Pender",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 670,
+          "title": "Council approved housing agreement for 1525 Robson Street",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 669,
+          "title": "Council approved housing agreement for 4288 Yew Street",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 668,
+          "title": "Council approved housing agreement amendment for 625 Pacific Street",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 667,
+          "title": "Council approved housing agreement for 2110 West 5th Avenue",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 666,
+          "title": "Council approved housing agreement for 3282-3296 East 1st Avenue",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 665,
+          "title": "Council approved housing agreement for 6486 Chester Street",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 664,
+          "title": "Council approved a housing agreement for 1302-1318 E 12th Avenue",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 663,
+          "title": "Council approved bylaw amendment for Fire Department appointments",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 662,
+          "title": "Council approved new street names for Marpole and St. Paul's developments",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 661,
+          "title": "Council approved land use change for former Molson Brewery site",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 660,
+          "title": "Council approved FIFA-accredited vehicles in Vancouver special use lanes",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 659,
+          "title": "Council approved road closure and sale for $280,000",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 658,
+          "title": "Council approved seven BIA renewals for 2026",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 657,
+          "title": "Council rejected amendment to study $104M accessibility funding gap",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 656,
+          "title": "Council approved $104M for road and sidewalk repairs",
           "source_label": "Vancouver Council",
           "is_proposal": false
         }
