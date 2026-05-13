@@ -1,0 +1,697 @@
+{
+  "article_id": 40,
+  "article_url": "https://council.vancouver.ca/20260331/regu20260331ag.htm",
+  "article_title": "Regular Council — March 31, 2026",
+  "source": "vancouver_council",
+  "source_label": "Vancouver Council",
+  "government_level": "Municipal",
+  "meeting_type": "regular-council",
+  "article_published_at": "2026-03-31T00:00:00",
+  "has_attachments": false,
+  "has_pdf": false,
+  "has_html": false,
+  "has_agenda": true,
+  "has_minutes": true,
+  "agenda_brief_count": 16,
+  "minutes_brief_count": 12,
+  "pdf_urls": "{\"_doc\": [{\"url\": \"https://council.vancouver.ca/20260331/documents/regu20260331min.pdf\", \"title\": \"Minutes\"}, {\"url\": \"https://council.vancouver.ca/20260217/documents/phea20260217min.pdf\", \"title\": \"Minutes\"}, {\"url\": \"https://council.vancouver.ca/20260224/documents/regu20260224min.pdf\", \"title\": \"Minutes\"}, {\"url\": \"https://council.vancouver.ca/20260225/documents/pspc20250225min.pdf\", \"title\": \"Minutes\"}, {\"url\": \"https://council.vancouver.ca/20260305/documents/phea20260305min.pdf\", \"title\": \"Minutes\"}, {\"url\": \"https://council.vancouver.ca/20260310/documents/regu20260310min.pdf\", \"title\": \"Minutes\"}, {\"url\": \"https://council.vancouver.ca/20260310/documents/phea20260310min.pdf\", \"title\": \"Minutes\"}, {\"url\": \"https://council.vancouver.ca/20260311/documents/cfsc20260311min.pdf\", \"title\": \"Minutes\"}, {\"url\": \"https://council.vancouver.ca/20260219/documents/phea20260219min.pdf\", \"title\": \"Minutes\"}, {\"url\": \"https://council.vancouver.ca/20260305/documents/phea1SR.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260203/documents/rr19.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260305/documents/phea1ZDBy-lawS.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260305/documents/phea1ZDBy-lawN.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260305/documents/phea1SignBy-lawS.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260305/documents/phea1SignBy-lawN.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260305/documents/phea1CD-1881By-law.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260305/documents/phea1CD-180By-law.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/4911-5255-heather-637-657-w-37-ave-and-620-689-w-35-ave/drawings.pdf#page=64\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260305/documents/phea1yellowmemo.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260331/documents/ub1yellowmemo.PDF\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260305/documents/phea1staffpresentation.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260331/documents/comm1.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260331/documents/r1.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260331/documents/r2.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260331/documents/r2presentation.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260331/documents/r3.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260331/documents/r4.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260331/documents/r5.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260331/documents/r6.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260331/documents/rr1.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260331/documents/bylaws1to16.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260331/documents/a1.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260331/documents/regu20260331ag.pdf\", \"title\": \"Agenda\"}], \"_inline\": [{\"url\": \"https://council.vancouver.ca/20260217/documents/phea20260217min.pdf\", \"title\": \"Get involved and stay informed \\u2014 Public Hearing \\u2013 February 17 and March 4, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260224/documents/regu20260224min.pdf\", \"title\": \"Get involved and stay informed \\u2014 Council \\u2013 February 24, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260225/documents/pspc20250225min.pdf\", \"title\": \"Get involved and stay informed \\u2014 Council (Policy and Strategic Priorities) \\u2013 February 25, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260305/documents/phea20260305min.pdf\", \"title\": \"Get involved and stay informed \\u2014 Public Hearing \\u2013 March 5, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260310/documents/regu20260310min.pdf\", \"title\": \"Get involved and stay informed \\u2014 Council \\u2013 March 10, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260310/documents/phea20260310min.pdf\", \"title\": \"Get involved and stay informed \\u2014 Public Hearing \\u2013 March 10 and 11, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260311/documents/cfsc20260311min.pdf\", \"title\": \"Get involved and stay informed \\u2014 Council (City Finance and Services) \\u2013 March 11, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260219/documents/phea20260219min.pdf\", \"title\": \"Get involved and stay informed \\u2014 Public Hearing \\u2013 February 19, March 5 and 12, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260305/documents/phea1SR.pdf\", \"title\": \"1.\\tCD-1 Rezoning: 4911-5255 Heather Street, 637-657 West 37th Avenue, and 620-689 West 35th Avenue (Heather Lands) \\u2014 Summary and Recommendation\"}, {\"url\": \"https://council.vancouver.ca/20260203/documents/rr19.pdf\", \"title\": \"Referral Report dated January 20, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260305/documents/phea1ZDBy-lawS.pdf\", \"title\": \"Draft Zoning and Development By-law (South)\"}, {\"url\": \"https://council.vancouver.ca/20260305/documents/phea1ZDBy-lawN.pdf\", \"title\": \"Draft Zoning and Development By-law (North)\"}, {\"url\": \"https://council.vancouver.ca/20260305/documents/phea1SignBy-lawS.pdf\", \"title\": \"1.\\tCD-1 Rezoning: 4911-5255 Heather Street, 637-657 West 37th Avenue, and 620-689 West 35th Avenue (Heather Lands) \\u2014 Draft Sign By-law (South)\"}, {\"url\": \"https://council.vancouver.ca/20260305/documents/phea1SignBy-lawN.pdf\", \"title\": \"1.\\tCD-1 Rezoning: 4911-5255 Heather Street, 637-657 West 37th Avenue, and 620-689 West 35th Avenue (Heather Lands) \\u2014 Draft Sign By-law (North)\"}, {\"url\": \"https://council.vancouver.ca/20260305/documents/phea1CD-1881By-law.pdf\", \"title\": \"1.\\tCD-1 Rezoning: 4911-5255 Heather Street, 637-657 West 37th Avenue, and 620-689 West 35th Avenue (Heather Lands) \\u2014 Draft Repeal CD-1 (881) By-law\"}, {\"url\": \"https://council.vancouver.ca/20260305/documents/phea1CD-180By-law.pdf\", \"title\": \"1.\\tCD-1 Rezoning: 4911-5255 Heather Street, 637-657 West 37th Avenue, and 620-689 West 35th Avenue (Heather Lands) \\u2014 Draft Repeal CD-1 (80) By-law\"}, {\"url\": \"https://council.vancouver.ca/20260305/documents/phea1yellowmemo.pdf\", \"title\": \"Yellow Memorandum dated February 23, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260331/documents/ub1yellowmemo.PDF\", \"title\": \"1.\\tCD-1 Rezoning: 4911-5255 Heather Street, 637-657 West 37th Avenue, and 620-689 West 35th Avenue (Heather Lands) \\u2014 Memorandum dated March 26, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260305/documents/phea1staffpresentation.pdf\", \"title\": \"1.\\tCD-1 Rezoning: 4911-5255 Heather Street, 637-657 West 37th Avenue, and 620-689 West 35th Avenue (Heather Lands) \\u2014 Staff Presentation\"}, {\"url\": \"https://council.vancouver.ca/20260331/documents/comm1.pdf\", \"title\": \"1.\\tChanges to the 2026 Council Meetings Schedule \\u2014 Communication\"}, {\"url\": \"https://council.vancouver.ca/20260331/documents/r1.pdf\", \"title\": \"1.\\tRequired Consultation for In-stream Rezoning Applications Amending the Vancouver Official Development Plan \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260331/documents/r2.pdf\", \"title\": \"2.\\tConsultation for City-initiated Vancouver ODP amendment for the Villages Planning Program \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260331/documents/r2presentation.pdf\", \"title\": \"2.\\tConsultation for City-initiated Vancouver ODP amendment for the Villages Planning Program \\u2014 Staff Presentation\"}, {\"url\": \"https://council.vancouver.ca/20260331/documents/r3.pdf\", \"title\": \"3.\\tSingle Room Accommodation (SRO) Upgrading and SRO Cooling and Warming Retrofit Grants \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260331/documents/r4.pdf\", \"title\": \"4.\\tFunding Application to Green and Inclusive Community Buildings Program \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260331/documents/r5.pdf\", \"title\": \"5.\\tFront-ender Agreement Amendment \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260331/documents/r6.pdf\", \"title\": \"6.\\tCouncil Resolution \\u2013 Brewery Lounges \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260331/documents/rr1.pdf\", \"title\": \"1.\\tCD-1 (363) Text Amendment: 1055-1085 Canada Place and 1001-1045 West Waterfront Road \\u2014 Referral Report\"}, {\"url\": \"https://council.vancouver.ca/20260331/documents/bylaws1to16.pdf\", \"title\": \"By-laws 1 to 16\"}, {\"url\": \"https://council.vancouver.ca/20260331/documents/a1.pdf\", \"title\": \"1.  Regulatory Changes Regarding Vancouver Official Development Plan \\u2014 Motion\"}], \"_items\": {\"Get involved and stay informed\": [{\"url\": \"https://council.vancouver.ca/20260331/documents/regu20260331min.pdf\", \"title\": \"Get involved and stay informed \\u2014 Read the minutes\"}, {\"url\": \"https://council.vancouver.ca/20260217/documents/phea20260217min.pdf\", \"title\": \"Get involved and stay informed \\u2014 Public Hearing \\u2013 February 17 and March 4, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260224/documents/regu20260224min.pdf\", \"title\": \"Get involved and stay informed \\u2014 Council \\u2013 February 24, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260225/documents/pspc20250225min.pdf\", \"title\": \"Get involved and stay informed \\u2014 Council (Policy and Strategic Priorities) \\u2013 February 25, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260305/documents/phea20260305min.pdf\", \"title\": \"Get involved and stay informed \\u2014 Public Hearing \\u2013 March 5, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260310/documents/regu20260310min.pdf\", \"title\": \"Get involved and stay informed \\u2014 Council \\u2013 March 10, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260310/documents/phea20260310min.pdf\", \"title\": \"Get involved and stay informed \\u2014 Public Hearing \\u2013 March 10 and 11, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260311/documents/cfsc20260311min.pdf\", \"title\": \"Get involved and stay informed \\u2014 Council (City Finance and Services) \\u2013 March 11, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260219/documents/phea20260219min.pdf\", \"title\": \"Get involved and stay informed \\u2014 Public Hearing \\u2013 February 19, March 5 and 12, 2026\"}], \"1.\\tCD-1 Rezoning: 4911-5255 Heather Street, 637-657 West 37th Avenue, and 620-689 West 35th Avenue (Heather Lands)\": [{\"url\": \"https://council.vancouver.ca/20260305/documents/phea1SR.pdf\", \"title\": \"1.\\tCD-1 Rezoning: 4911-5255 Heather Street, 637-657 West 37th Avenue, and 620-689 West 35th Avenue (Heather Lands) \\u2014 Summary and Recommendation\"}, {\"url\": \"https://council.vancouver.ca/20260203/documents/rr19.pdf\", \"title\": \"Referral Report dated January 20, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260305/documents/phea1ZDBy-lawS.pdf\", \"title\": \"Draft Zoning and Development By-law (South)\"}, {\"url\": \"https://council.vancouver.ca/20260305/documents/phea1ZDBy-lawN.pdf\", \"title\": \"Draft Zoning and Development By-law (North)\"}, {\"url\": \"https://council.vancouver.ca/20260305/documents/phea1SignBy-lawS.pdf\", \"title\": \"1.\\tCD-1 Rezoning: 4911-5255 Heather Street, 637-657 West 37th Avenue, and 620-689 West 35th Avenue (Heather Lands) \\u2014 Draft Sign By-law (South)\"}, {\"url\": \"https://council.vancouver.ca/20260305/documents/phea1SignBy-lawN.pdf\", \"title\": \"1.\\tCD-1 Rezoning: 4911-5255 Heather Street, 637-657 West 37th Avenue, and 620-689 West 35th Avenue (Heather Lands) \\u2014 Draft Sign By-law (North)\"}, {\"url\": \"https://council.vancouver.ca/20260305/documents/phea1CD-1881By-law.pdf\", \"title\": \"1.\\tCD-1 Rezoning: 4911-5255 Heather Street, 637-657 West 37th Avenue, and 620-689 West 35th Avenue (Heather Lands) \\u2014 Draft Repeal CD-1 (881) By-law\"}, {\"url\": \"https://council.vancouver.ca/20260305/documents/phea1CD-180By-law.pdf\", \"title\": \"1.\\tCD-1 Rezoning: 4911-5255 Heather Street, 637-657 West 37th Avenue, and 620-689 West 35th Avenue (Heather Lands) \\u2014 Draft Repeal CD-1 (80) By-law\"}, {\"url\": \"https://council.vancouver.ca/20260305/documents/phea1yellowmemo.pdf\", \"title\": \"Yellow Memorandum dated February 23, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260331/documents/ub1yellowmemo.PDF\", \"title\": \"1.\\tCD-1 Rezoning: 4911-5255 Heather Street, 637-657 West 37th Avenue, and 620-689 West 35th Avenue (Heather Lands) \\u2014 Memorandum dated March 26, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260305/documents/phea1staffpresentation.pdf\", \"title\": \"1.\\tCD-1 Rezoning: 4911-5255 Heather Street, 637-657 West 37th Avenue, and 620-689 West 35th Avenue (Heather Lands) \\u2014 Staff Presentation\"}], \"1.\\tChanges to the 2026 Council Meetings Schedule\": [{\"url\": \"https://council.vancouver.ca/20260331/documents/comm1.pdf\", \"title\": \"1.\\tChanges to the 2026 Council Meetings Schedule \\u2014 Communication\"}], \"1.\\tRequired Consultation for In-stream Rezoning Applications Amending the Vancouver Official Development Plan\": [{\"url\": \"https://council.vancouver.ca/20260331/documents/r1.pdf\", \"title\": \"1.\\tRequired Consultation for In-stream Rezoning Applications Amending the Vancouver Official Development Plan \\u2014 Report\"}], \"2.\\tConsultation for City-initiated Vancouver ODP amendment for the Villages Planning Program\": [{\"url\": \"https://council.vancouver.ca/20260331/documents/r2.pdf\", \"title\": \"2.\\tConsultation for City-initiated Vancouver ODP amendment for the Villages Planning Program \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260331/documents/r2presentation.pdf\", \"title\": \"2.\\tConsultation for City-initiated Vancouver ODP amendment for the Villages Planning Program \\u2014 Staff Presentation\"}], \"3.\\tSingle Room Accommodation (SRO) Upgrading and SRO Cooling and Warming Retrofit Grants\": [{\"url\": \"https://council.vancouver.ca/20260331/documents/r3.pdf\", \"title\": \"3.\\tSingle Room Accommodation (SRO) Upgrading and SRO Cooling and Warming Retrofit Grants \\u2014 Report\"}], \"4.\\tFunding Application to Green and Inclusive Community Buildings Program\": [{\"url\": \"https://council.vancouver.ca/20260331/documents/r4.pdf\", \"title\": \"4.\\tFunding Application to Green and Inclusive Community Buildings Program \\u2014 Report\"}], \"5.\\tFront-ender Agreement Amendment\": [{\"url\": \"https://council.vancouver.ca/20260331/documents/r5.pdf\", \"title\": \"5.\\tFront-ender Agreement Amendment \\u2014 Report\"}], \"6.\\tCouncil Resolution \\u2013 Brewery Lounges\": [{\"url\": \"https://council.vancouver.ca/20260331/documents/r6.pdf\", \"title\": \"6.\\tCouncil Resolution \\u2013 Brewery Lounges \\u2014 Report\"}], \"1.\\tCD-1 (363) Text Amendment: 1055-1085 Canada Place and 1001-1045 West Waterfront Road\": [{\"url\": \"https://council.vancouver.ca/20260331/documents/rr1.pdf\", \"title\": \"1.\\tCD-1 (363) Text Amendment: 1055-1085 Canada Place and 1001-1045 West Waterfront Road \\u2014 Referral Report\"}], \"1.  Regulatory Changes Regarding Vancouver Official Development Plan\": [{\"url\": \"https://council.vancouver.ca/20260331/documents/a1.pdf\", \"title\": \"1.  Regulatory Changes Regarding Vancouver Official Development Plan \\u2014 Motion\"}, {\"url\": \"https://council.vancouver.ca/20260331/documents/regu20260331ag.pdf\", \"title\": \"1.  Regulatory Changes Regarding Vancouver Official Development Plan \\u2014 Download the  agenda\"}]}}",
+  "body": "",
+  "agenda_briefs": [
+    {
+      "id": 569,
+      "title": "Proposed: Vancouver council to vote on Heather Lands rezoning",
+      "summary": "Vancouver City Council votes March 31 on rezoning Heather Lands to two new CD-1 districts for a mixed-use development with up to 4,250 residential units (2,940 Attainable Housing Initiative leasehold strata at 40% below market, 700 market leasehold strata, 610 social housing), 317,861 sq. m. gross floor area, buildings from 4 to 46 storeys, 4.3 acres of park, a 10,000 sq. ft. cultural centre, a 125-space childcare facility, and a 1-acre school site. If AHI funding is withdrawn or a sub-area becomes ineligible, that sub-area must include at least 15% secured market rental (25% of those below-market).",
+      "action_required": "Watch for the council decision on March 31, 2026 — this rezoning could affect development opportunities in Vancouver.",
+      "key_dates": [
+        {
+          "label": "Heather Lands rezoning final council vote",
+          "date": "2026-03-31"
+        }
+      ],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "1",
+      "source_body": "UNFINISHED BUSINESS\n1.\tCD-1 Rezoning: 4911-5255 Heather Street, 637-657 West 37th Avenue, and 620-689 West 35th Avenue (Heather Lands)\nAt the Public Hearing on March 5, 2026, Council heard the staff presentation and applicant comments, asked questions to staff and the applicant, heard from public speakers, closed the speakers list and receipt of public comments, heard closing comments from staff and the applicant, and asked further questions to staff for the above-noted item. Subsequently, Council referred debate and decision to the Council meeting on March 31, 2026, as Unfinished Business.",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260305/documents/phea1SR.pdf",
+          "title": "1.\tCD-1 Rezoning: 4911-5255 Heather Street, 637-657 West 37th Avenue, and 620-689 West 35th Avenue (Heather Lands) — Summary and Recommendation"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260203/documents/rr19.pdf",
+          "title": "Referral Report dated January 20, 2026"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260305/documents/phea1ZDBy-lawS.pdf",
+          "title": "Draft Zoning and Development By-law (South)"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260305/documents/phea1ZDBy-lawN.pdf",
+          "title": "Draft Zoning and Development By-law (North)"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260305/documents/phea1SignBy-lawS.pdf",
+          "title": "1.\tCD-1 Rezoning: 4911-5255 Heather Street, 637-657 West 37th Avenue, and 620-689 West 35th Avenue (Heather Lands) — Draft Sign By-law (South)"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260305/documents/phea1SignBy-lawN.pdf",
+          "title": "1.\tCD-1 Rezoning: 4911-5255 Heather Street, 637-657 West 37th Avenue, and 620-689 West 35th Avenue (Heather Lands) — Draft Sign By-law (North)"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260305/documents/phea1CD-1881By-law.pdf",
+          "title": "1.\tCD-1 Rezoning: 4911-5255 Heather Street, 637-657 West 37th Avenue, and 620-689 West 35th Avenue (Heather Lands) — Draft Repeal CD-1 (881) By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260305/documents/phea1CD-180By-law.pdf",
+          "title": "1.\tCD-1 Rezoning: 4911-5255 Heather Street, 637-657 West 37th Avenue, and 620-689 West 35th Avenue (Heather Lands) — Draft Repeal CD-1 (80) By-law"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260305/documents/phea1yellowmemo.pdf",
+          "title": "Yellow Memorandum dated February 23, 2026"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260331/documents/ub1yellowmemo.PDF",
+          "title": "1.\tCD-1 Rezoning: 4911-5255 Heather Street, 637-657 West 37th Avenue, and 620-689 West 35th Avenue (Heather Lands) — Memorandum dated March 26, 2026"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260305/documents/phea1staffpresentation.pdf",
+          "title": "1.\tCD-1 Rezoning: 4911-5255 Heather Street, 637-657 West 37th Avenue, and 620-689 West 35th Avenue (Heather Lands) — Staff Presentation"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260331/regu20260331ag.htm",
+      "article_title": "Regular Council Agenda — March 31, 2026",
+      "article_published_at": "2026-03-31T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-13T21:07:38.866558"
+    },
+    {
+      "id": 570,
+      "title": "Proposed: Vancouver ODP amendment for Villages Planning Program",
+      "summary": "Council is considering a city-initiated amendment to the Vancouver Official Development Plan (ODP) that would change the Generalized Land Use (GLU) designation of many Village areas from Residential Multiplex to Residential Low-Rise or Mixed-Use Low-Rise, and from Residential Low-Rise to Mixed-Use Low-Rise. This would enable missing middle housing up to six storeys and more shops and services in 17 of the 25 designated Villages. The Villages Plan is anticipated in June 2026, with a separate referral report and public hearing to follow.",
+      "action_required": "Watch for the referral report and public hearing notice in June 2026 — this will affect development rules in your Village area.",
+      "key_dates": [
+        {
+          "label": "Villages Plan and ODP amendment referral report — Council consideration",
+          "date": "2026-06-01"
+        }
+      ],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "2",
+      "source_body": "REPORTS\n2.\tConsultation for City-initiated Vancouver ODP amendment for the Villages Planning Program\nReport\nStaff Presentation",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260331/documents/r2.pdf",
+          "title": "2.\tConsultation for City-initiated Vancouver ODP amendment for the Villages Planning Program — Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260331/documents/r2presentation.pdf",
+          "title": "2.\tConsultation for City-initiated Vancouver ODP amendment for the Villages Planning Program — Staff Presentation"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260331/regu20260331ag.htm",
+      "article_title": "Regular Council Agenda — March 31, 2026",
+      "article_published_at": "2026-03-31T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-13T21:07:38.870271"
+    },
+    {
+      "id": 571,
+      "title": "Proposed: Vancouver SRO upgrade and cooling/warming retrofit grants",
+      "summary": "Vancouver City Council is set to vote on a proposed program that would provide grants to upgrade Single Room Accommodation (SRO) buildings. The proposal includes funding for basic upgrades as well as special grants to install cooling and warming systems in SRO units. Council will consider this at an upcoming meeting. Note that recommendations A, B and D require at least two-thirds of all council members to vote yes — this is a higher bar than a simple majority, as required by Section 206(1) of the Vancouver Charter (the city's governing law).",
+      "action_required": "Watch for the council vote — if approved, this could mean grant funding for your SRO building upgrades.",
+      "key_dates": [],
+      "industries": "Hotel & Accommodation, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "3",
+      "source_body": "REPORTS\n3.\tSingle Room Accommodation (SRO) Upgrading and SRO Cooling and Warming Retrofit Grants\nRecommendations A, B and D require at least 2/3 affirmative votes of all Council members under Section 206(1) of the Vancouver Charter.\nReport",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260331/documents/r3.pdf",
+          "title": "3.\tSingle Room Accommodation (SRO) Upgrading and SRO Cooling and Warming Retrofit Grants — Report"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260331/regu20260331ag.htm",
+      "article_title": "Regular Council Agenda — March 31, 2026",
+      "article_published_at": "2026-03-31T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-13T21:07:38.870830"
+    },
+    {
+      "id": 572,
+      "title": "Proposed: Vancouver council to apply for federal green building grant",
+      "summary": "Vancouver City Council will vote on endorsing a $2,359,000 federal grant application to the Green and Inclusive Community Buildings Program for the Champlain Heights Community Centre. The $2,948,750 project would replace HVAC, add cooling and high-efficiency air filtration, and reduce greenhouse gas emissions by an estimated 95%. The city would contribute $589,750 from its capital plan.",
+      "action_required": null,
+      "key_dates": [
+        {
+          "label": "Council vote on GICB grant application for Champlain Heights",
+          "date": "2026-03-31"
+        }
+      ],
+      "industries": "Construction & Development",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "4",
+      "source_body": "REPORTS\n4.\tFunding Application to Green and Inclusive Community Buildings Program\nReport",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260331/documents/r4.pdf",
+          "title": "4.\tFunding Application to Green and Inclusive Community Buildings Program — Report"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260331/regu20260331ag.htm",
+      "article_title": "Regular Council Agenda — March 31, 2026",
+      "article_published_at": "2026-03-31T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-13T21:07:38.871343"
+    },
+    {
+      "id": 573,
+      "title": "Council to vote on Front-ender Agreement Amendment",
+      "summary": "Vancouver City Council will vote on amending a Utilities DCL Front-Ender Agreement with Pennyfarthing Properties Ash St. North Ltd. for the project at 4989-5049 Ash St. The amendment raises the maximum City remittance from $811,200 to $1,211,720 (78% of actual $1,553,486 construction cost), payable over 10 years from the Utilities DCL reserve fund at 0.4% of annual DCL revenue.",
+      "action_required": "Watch for the March 31, 2026 council decision — approval will increase the maximum reimbursement available under this agreement.",
+      "key_dates": [
+        {
+          "label": "Council vote on Front-ender Agreement amendment",
+          "date": "2026-03-31"
+        }
+      ],
+      "industries": "Construction & Development",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "5",
+      "source_body": "REPORTS\n5.\tFront-ender Agreement Amendment\nReport",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260331/documents/r5.pdf",
+          "title": "5.\tFront-ender Agreement Amendment — Report"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260331/regu20260331ag.htm",
+      "article_title": "Regular Council Agenda — March 31, 2026",
+      "article_published_at": "2026-03-31T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-13T21:07:38.871855"
+    },
+    {
+      "id": 574,
+      "title": "Proposed: Vancouver council to vote on brewery lounge rules",
+      "summary": "Vancouver City Council will vote March 31, 2026 on extending the temporary suspension of enforcement of Zoning and Development By-law maximum floor-area limits for brewery lounges for an additional two years. The suspension applies only to lounges accessory to a Brewing use within the principal building and does not apply to distilleries. Expansions must not involve construction requiring a building permit. Breweries must apply to the Province's Liquor and Cannabis Regulation Branch for a structural change to their liquor licence. No development permits will be issued for lounge size increases under this temporary measure.",
+      "action_required": "If you operate a Vancouver brewery and want to expand lounge space, apply to the LCRB for a structural liquor-licence amendment before the March 31 council vote.",
+      "key_dates": [
+        {
+          "label": "Council vote on brewery lounge floor-area suspension extension",
+          "date": "2026-03-31"
+        }
+      ],
+      "industries": "Liquor",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "6",
+      "source_body": "REPORTS\n6.\tCouncil Resolution – Brewery Lounges\nReport",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260331/documents/r6.pdf",
+          "title": "6.\tCouncil Resolution – Brewery Lounges — Report"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260331/regu20260331ag.htm",
+      "article_title": "Regular Council Agenda — March 31, 2026",
+      "article_published_at": "2026-03-31T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-13T21:07:38.872362"
+    },
+    {
+      "id": 575,
+      "title": "Proposed: Sign bylaw amendment for 800 Commercial Drive, Vancouver",
+      "summary": "Vancouver City Council is set to vote on a proposed bylaw that would change the sign rules for the property at 800 Commercial Drive. The proposed amendment would alter Sign Bylaw No. 11879, which controls the size, type, and placement of signs on businesses. This is not yet approved — Council will consider the change at an upcoming meeting. If passed, it could affect what signs are allowed at that specific address.",
+      "action_required": "Watch for the council decision — this could affect signage rules for your business if you are located at or near 800 Commercial Drive.",
+      "key_dates": [],
+      "industries": "Retail, Food Service, Construction & Development",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "7",
+      "source_body": "7.\tA By-law to amend Sign By-law No.11879 regarding 800 Commercial Drive\n(Councillors Fry, Maloney, Orr and Mayor Sim will need to review the proceedings to be eligible to vote)",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260331/regu20260331ag.htm",
+      "article_title": "Regular Council Agenda — March 31, 2026",
+      "article_published_at": "2026-03-31T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-13T21:07:38.875149"
+    },
+    {
+      "id": 576,
+      "title": "Proposed: Noise bylaw amendment for 800 Commercial Drive, Vancouver",
+      "summary": "Council is set to vote on a proposed bylaw that would change the noise rules for 800 Commercial Drive. A bylaw is a local law passed by the city. This amendment would change the existing Noise Control Bylaw No. 6555 for that specific address. The exact change is not detailed in the agenda item, but it could affect noise limits, permitted hours, or types of noise allowed. Business owners near this address should watch for the council decision.",
+      "action_required": "Watch for the council decision — this could affect noise rules for your business if you are near 800 Commercial Drive.",
+      "key_dates": [],
+      "industries": "Food Service, Retail, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "8",
+      "source_body": "8.\tA By-law to amend Noise Control By-law No. 6555 regarding 800 Commercial Drive",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260331/regu20260331ag.htm",
+      "article_title": "Regular Council Agenda — March 31, 2026",
+      "article_published_at": "2026-03-31T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-13T21:07:38.875711"
+    },
+    {
+      "id": 577,
+      "title": "Proposed: Sign bylaw amendment for 2096 West Broadway and 2560-2576 Arbutus Street",
+      "summary": "Council is set to vote on a proposed bylaw that would change the sign rules for two specific properties: 2096 West Broadway and 2560-2576 Arbutus Street. This is an amendment to Vancouver's existing Sign Bylaw No. 11879. If approved, it would allow different or additional signage at these locations than what is currently permitted. The decision has not been made yet — this is a proposal up for consideration at a council meeting.",
+      "action_required": "Watch for the council decision — if approved, this could affect signage options for these properties.",
+      "key_dates": [],
+      "industries": "Construction & Development, Retail",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "9",
+      "source_body": "9.\tA By-law to amend Sign By-law No.11879 regarding 2096 West Broadway and 2560-2576 Arbutus Street\n(Councillors Maloney, Orr and Mayor Sim will need to review the proceedings to be eligible to vote)",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260331/regu20260331ag.htm",
+      "article_title": "Regular Council Agenda — March 31, 2026",
+      "article_published_at": "2026-03-31T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-13T21:07:38.876239"
+    },
+    {
+      "id": 578,
+      "title": "Proposed: Vancouver noise bylaw amendment for West Broadway & Arbutus",
+      "summary": "Council is set to vote on a proposed bylaw that would change the Noise Control Bylaw for the properties at 2096 West Broadway and 2560-2576 Arbutus Street. If approved, this amendment could allow construction or other noise-generating activities at specific times or under specific conditions that are currently restricted. The decision has not been made yet — this is a proposal up for consideration at an upcoming council meeting.",
+      "action_required": "Watch for the council meeting date and attend or submit comments if you are a nearby resident or business owner affected by noise.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "10",
+      "source_body": "10.\tA By-law to amend Noise Control By-law No. 6555 regarding 2096 West Broadway and 2560-2576 Arbutus Street",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260331/regu20260331ag.htm",
+      "article_title": "Regular Council Agenda — March 31, 2026",
+      "article_published_at": "2026-03-31T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-13T21:07:38.876743"
+    },
+    {
+      "id": 579,
+      "title": "Proposed: Sign bylaw changes for three Vancouver properties",
+      "summary": "Council is set to vote on a proposed bylaw that would change the sign rules for three specific properties: 450-496 Prior Street, 550 Malkin Avenue, and 1002 Station Street. The proposed bylaw would amend the existing Sign By-law No.11879. This is not yet approved — it is up for a vote at an upcoming council meeting. Councillors Maloney, Orr, and the Mayor must review the proceedings before they are eligible to vote on this item.",
+      "action_required": "If you own or operate a business at one of these addresses, watch for the council decision — it could affect your signage options.",
+      "key_dates": [],
+      "industries": "Retail, Construction & Development",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "11",
+      "source_body": "11.\tA By-law to amend Sign By-law No.11879 regarding 450-496 Prior Street, 550 Malkin Avenue and 1002 Station Street\n(Councillors Maloney, Orr, and Mayor Sim will need to review the proceedings to be eligible to vote)",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260331/regu20260331ag.htm",
+      "article_title": "Regular Council Agenda — March 31, 2026",
+      "article_published_at": "2026-03-31T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-13T21:07:38.877253"
+    },
+    {
+      "id": 580,
+      "title": "Proposed: Noise bylaw amendment for Prior Street, Malkin Avenue, Station Street",
+      "summary": "Council will consider a proposed bylaw that would change the Noise Control Bylaw (No. 6555) for three specific properties: 450-496 Prior Street, 550 Malkin Avenue, and 1002 Station Street. This is a proposed amendment — it has not been approved yet. If passed, it would allow different noise rules at these locations, which could affect nearby businesses and residents.",
+      "action_required": "Watch for the council decision — this could affect noise rules for your property or business near these addresses.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt, Retail",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "12",
+      "source_body": "12.\tA By-law to amend Noise Control By-law No. 6555 regarding 450-496 Prior Street, 550 Malkin Avenue and 1002 Station Street",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260331/regu20260331ag.htm",
+      "article_title": "Regular Council Agenda — March 31, 2026",
+      "article_published_at": "2026-03-31T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-13T21:07:38.877763"
+    },
+    {
+      "id": 581,
+      "title": "Proposed: Vancouver bylaw amendment for 1110-1160 West King Edward Avenue subdivision",
+      "summary": "Council is set to vote on a proposed bylaw that would amend Vancouver's Subdivision By-law No. 5208 for properties at 1110-1160 West King Edward Avenue. A bylaw is a local law passed by the city council. This amendment would change the rules for how these specific properties can be divided into smaller lots. The decision has not been made yet — it is up for approval at a future council meeting.",
+      "action_required": "Watch for the council meeting date — if you own property in this area, you may want to attend or submit comments.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "13",
+      "source_body": "13.\tA By-law to amend Subdivision By-law No. 5208 regarding 1110-1160 West King Edward Avenue",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260331/regu20260331ag.htm",
+      "article_title": "Regular Council Agenda — March 31, 2026",
+      "article_published_at": "2026-03-31T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-13T21:07:38.878285"
+    },
+    {
+      "id": 582,
+      "title": "Proposed: Vancouver Official Development Plan up for council vote",
+      "summary": "Council is set to vote on a proposed bylaw to adopt the Vancouver Official Development Plan. This plan would set the long-term rules for how land can be used and developed across the city. If approved, it could affect property values, building permits, and what kinds of businesses can operate in different areas. The decision has not been made yet — council will consider and vote on the proposal at an upcoming meeting.",
+      "action_required": "Watch for the council meeting date — this plan could change development rules that affect your property or business.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt, Retail",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "14",
+      "source_body": "14.\tA By-law to adopt the Vancouver Official Development Plan\n(Councillors Bligh and Montague will need to review the proceedings to be eligible to vote)",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260331/regu20260331ag.htm",
+      "article_title": "Regular Council Agenda — March 31, 2026",
+      "article_published_at": "2026-03-31T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-13T21:07:38.878830"
+    },
+    {
+      "id": 583,
+      "title": "Proposed: Vancouver to repeal Regional Context Statement bylaw",
+      "summary": "Council is set to vote on a proposed bylaw that would repeal the Regional Context Statement Official Development Plan By-law No. 10789. This is a planning document that guides how Vancouver grows and develops in line with regional goals. If approved, it would remove this specific bylaw from the city's official development plan. The decision is not final — council will consider and vote on the repeal at an upcoming meeting.",
+      "action_required": "Watch for the council vote — this could affect future development and land-use rules in Vancouver.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "15",
+      "source_body": "15.\tA By-law to repeal the Regional Context Statement Official Development Plan By-law No. 10789\nSubject to By-law 14.\n(Councillors Bligh and Montague will need to review the proceedings to be eligible to vote)",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260331/regu20260331ag.htm",
+      "article_title": "Regular Council Agenda — March 31, 2026",
+      "article_published_at": "2026-03-31T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-13T21:07:38.879461"
+    },
+    {
+      "id": 584,
+      "title": "Proposed: Vancouver to repeal its Greenhouse Gas Emission Reduction plan",
+      "summary": "Council is set to vote on a bylaw that would repeal the city's Greenhouse Gas Emission Reduction Official Development Plan (By-law No. 10041). This plan was a set of rules and goals for reducing greenhouse gas emissions in Vancouver. If approved, this repeal would remove those specific rules from the city's official development plan. Two councillors, Bligh and Montague, need to review the meeting records before they can vote on this proposal.",
+      "action_required": "Watch for the council vote — this could affect Vancouver's climate policies and any related business requirements.",
+      "key_dates": [],
+      "industries": "Construction & Development, Professional Services",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "16",
+      "source_body": "16.\tA By-law to repeal the Greenhouse Gas Emission Reduction Official Development Plan By-law No. 10041\nSubject to By-law 14.\n(Councillors Bligh and Montague will need to review the proceedings to be eligible to vote)",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260331/regu20260331ag.htm",
+      "article_title": "Regular Council Agenda — March 31, 2026",
+      "article_published_at": "2026-03-31T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-13T21:07:38.879977"
+    }
+  ],
+  "minutes_briefs": [
+    {
+      "id": 596,
+      "title": "Council rescinded Vancouver Plan, adopted new land-use rules",
+      "summary": "Vancouver Council voted unanimously to rescind the Vancouver Plan that was adopted in July 2022. At the same time, Council adopted a set of consequential amendments — meaning changes that follow from the first decision — to several land-use documents. These new rules will take effect on March 31, 2026. The Vancouver Official Development Plan Bylaw has now been enacted to replace the old plan.",
+      "action_required": "Review the new land-use rules and consequential amendments before they take effect on March 31, 2026, to understand how they affect your property or development plans.",
+      "key_dates": [
+        {
+          "label": "New land-use rules and consequential amendments take effect — Vancouver",
+          "date": "2026-03-31"
+        }
+      ],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "Administrative Motions 1",
+      "source_body": "Administrative Motions 1. Regulatory Changes Regarding Vancouver Official Development Plan ... MOVED by Councillor Dominato SECONDED by Councillor Bligh ... WHEREAS the Vancouver Official Development Plan By-law has now been enacted. THEREFORE BE IT RESOLVED THAT the Vancouver Plan adopted in July 2022 hereby be rescinded; FURTHER THAT amendments to the various land use documents as described below entitled “Consequential Amendments to Council-Approved Policies” are hereby adopted and are to come into effect on March 31, 2026. CARRIED UNANIMOUSLY (Vote No. 11495)",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260331/regu20260331ag.htm",
+      "article_title": "Regular Council Minutes — March 31, 2026",
+      "article_published_at": "2026-03-31T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-13T21:08:21.863773"
+    },
+    {
+      "id": 595,
+      "title": "Council approved floating hotel rezoning at Canada Place for public hearing",
+      "summary": "Vancouver Council voted unanimously to refer a rezoning application for a 250-room floating hotel at Canada Place to a public hearing. The application, by Vancouver Harbour Flight Centre Ltd. on behalf of BC Pavilion Corporation, would amend the existing CD-1 (363) bylaw to allow a larger floor area and taller structures near the Vancouver Convention Centre. The plan includes a new dock, public walkway, and commercial space. Council approved the application in principle, meaning the public hearing is the next step before a final vote.",
+      "action_required": "Attend or submit comments at the public hearing on the Canada Place floating hotel rezoning to voice your support or concerns.",
+      "key_dates": [
+        {
+          "label": "Canada Place floating hotel rezoning public hearing",
+          "date": "2026-04-15"
+        }
+      ],
+      "industries": "Hotel & Accommodation, Construction & Development, Retail",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "Referral Reports 1",
+      "source_body": "Referral Reports 1. CD-1 (363) Text Amendment: 1055-1085 Canada Place and 1001-1045 West Waterfront Road March 10, 2026 ... MOVED by Councillor Kirby-Yung SECONDED by Councillor Dominato THAT the rezoning application and plans, described below, be referred to a Public Hearing together with the recommendations set out below and with the recommendation of the General Manager of Planning, Urban Design and Sustainability to approve the application, subject to the conditions set out below; FURTHER THAT the Director of Legal Services be instructed to prepare the necessary zoning by-laws, in accordance with the recommendations set out below, for consideration at the Public Hearing. ... A. THAT the application by Vancouver Harbour Flight Centre Ltd., on behalf of the B.C. Pavilion Corporation ... to amend CD-1 (363) By-law No. 7679 to increase the maximum floor area of sub-area 2 from 98,122 sq. m to 101,223 sq. m and increase the maximum height for structures between the Vancouver Convention and Exhibition Centre and the harbour headline from 9.0 m to 20.0 m, to permit a 250-room floating hotel and a new dock at water level with a public walkway and commercial uses be approved in principle ... CARRIED UNANIMOUSLY (Vote No. 11492)",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260331/regu20260331ag.htm",
+      "article_title": "Regular Council Minutes — March 31, 2026",
+      "article_published_at": "2026-03-31T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-13T21:08:21.863188"
+    },
+    {
+      "id": 594,
+      "title": "Council approved two-year extension of brewery lounge floor area suspension",
+      "summary": "Vancouver City Council voted unanimously to extend the temporary suspension of enforcement of the Zoning and Development By-law maximum floor area restrictions for a lounge use accessory to a Brewing use located within the principal building. This means that for an additional two years, breweries in Vancouver will not be penalized for having a lounge area that exceeds the usual size limits set by the bylaw. The suspension applies to lounges that are part of a brewery and located in the same building as the brewery.",
+      "action_required": "No immediate action required. The enforcement suspension is already in effect for two more years.",
+      "key_dates": [],
+      "industries": "Liquor",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "Reports 6",
+      "source_body": "Reports 6. Council Resolution – Brewery Lounges March 11, 2026 ... MOVED by Councillor Kirby-Yung SECONDED by Councillor Zhou THAT Council adopt the resolution attached as Appendix A of the Report dated March 11, 2026, entitled “Council Resolution – Brewery Loungers”, to extend, for an additional two years, the temporary suspension of enforcement of the Zoning and Development By-law maximum floor area restrictions for a lounge use accessory to a Brewing use located within the principal building. CARRIED UNANIMOUSLY (Vote No. 11491)",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260331/regu20260331ag.htm",
+      "article_title": "Regular Council Minutes — March 31, 2026",
+      "article_published_at": "2026-03-31T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-13T21:08:21.862631"
+    },
+    {
+      "id": 593,
+      "title": "Council approved $1.21M front-ender agreement for Pennyfarthing development",
+      "summary": "Vancouver Council approved a $1,211,720 amendment to the Utilities Development Cost Levy Front-Ender Agreement with Pennyfarthing Properties Ash St. North Ltd. A front-ender agreement lets a developer pay upfront for utility infrastructure (like water or sewer lines) that will also benefit other properties. The city then repays the developer over time from a special reserve fund. Council authorized the funds to be paid out over 10 years from the Utilities Development Cost Levy reserve fund.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "Reports 5",
+      "source_body": "Reports 5. Front-ender Agreement Amendment March 2, 2026 A. THAT Council authorize the Director of Legal Services to modify the existing Utilities Development Cost Levy Front-Ender Agreement (the “Agreement”) with Pennyfarthing Properties Ash St. North Ltd. to an upset limit of $1,211,720 (including all applicable taxes), as generally described in the Report dated March 2, 2026, entitled “Front-ender Agreement Amendment”. B. THAT Council authorize the funds to be paid out of the Utilities Development Cost Levy reserve fund over a period of 10 years in accordance with the Agreement, as modified. ADOPTED ON CONSENT (Vote No. 11482)",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260331/regu20260331ag.htm",
+      "article_title": "Regular Council Minutes — March 31, 2026",
+      "article_published_at": "2026-03-31T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-13T21:08:21.862092"
+    },
+    {
+      "id": 592,
+      "title": "Council approved $2.36M grant application for Champlain Heights energy retrofit",
+      "summary": "Vancouver Council unanimously endorsed a $2,359,000 federal grant application to the Green and Inclusive Community Buildings program for the Champlain Heights Community Centre Energy Retrofit project. The total project cost is $2,948,750. Council also approved adjustments to the 2023-2026 Capital Plan and multi-year capital project budgets, subject to signing a contribution agreement with the federal government.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "Reports 4",
+      "source_body": "Reports 4. Funding Application to Green and Inclusive Community Buildings Program March 6, 2026 ... MOVED by Councillor Dominato SECONDED by Councillor Kirby-Yung A. THAT Council endorse a funding application in the amount of $2,359,000 submitted to the Government of Canada’s Green and Inclusive Community Buildings program for the Champlain Heights Community Centre Energy Retrofit project that has a total cost of $2,948,750. B. THAT subject to the signing of a contribution agreement, Council approve the related adjustments to the 2023-2026 Capital Plan and multi-year capital project budgets as described in the Report dated March 6, 2026, entitled “Funding Application to Green and Inclusive Community Buildings Program”. CARRIED UNANIMOUSLY (Vote No. 11490)",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260331/regu20260331ag.htm",
+      "article_title": "Regular Council Minutes — March 31, 2026",
+      "article_published_at": "2026-03-31T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-13T21:08:21.861521"
+    },
+    {
+      "id": 591,
+      "title": "Council approved $1.4M in SRO grants from Empty Homes Tax",
+      "summary": "Vancouver Council approved $1.4 million in grants to upgrade Single Room Occupancy (SRO) buildings and add cooling and warming rooms. The money comes from the Empty Homes Tax (a tax on vacant properties). Three SRO upgrading grants worth $899,753 and one $500,000 grant for cooling and warming retrofits were approved. The Downtown Eastside SRO Collaborative Society will receive the $500,000 grant. All motions passed unanimously.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Hotel & Accommodation, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "Reports 3",
+      "source_body": "Reports 3. Single Room Accommodation (SRO) Upgrading and SRO Cooling and Warming Retrofit Grants February 24, 2026 ... MOVED by Councillor Bligh SECONDED by Councillor Kirby-Yung A. THAT Council approve three Single Room Occupancy (SRO) Upgrading Grants totaling $899,753 from the 2026 SRO Upgrading Grant Capital Budget ... B. THAT Council approve one grant totaling $500,000 from the 2026-2028 SRO Cooling and Warming Room Retrofit to the Downtown Eastside SRO Collaborative Society ... amended ... FINAL MOTION AS APPROVED A. THAT Council approve three Single Room Occupancy (SRO) Upgrading Grants totaling $899,753 from the EHT (Empty Homes Tax) as the source of funding ... B. THAT Council approve one grant totaling $500,000 from the EHT (Empty Homes Tax) as the source of funding ... CARRIED UNANIMOUSLY WITH A, B AND D BY THE REQUIRED MAJORITY (Vote No. 11489)",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260331/regu20260331ag.htm",
+      "article_title": "Regular Council Minutes — March 31, 2026",
+      "article_published_at": "2026-03-31T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-13T21:08:21.860981"
+    },
+    {
+      "id": 590,
+      "title": "Council approved consultation list for Villages Planning Program changes",
+      "summary": "Vancouver City Council has approved a list of groups that must be consulted before any changes are made to the Official Development Plan (ODP) for the Villages Planning Program. The ODP is the city's main rulebook for how land can be used and developed. Council voted to require consultation with the Vancouver School Board, the Conseil scolaire francophone, three local First Nations (Musqueam, Squamish, and Tsleil-Waututh), TransLink, BC Hydro, and business improvement associations. This means the city must talk to these groups early and often as it works on updating the plan for Vancouver's village areas.",
+      "action_required": "No immediate action is required for business owners. Stay informed about upcoming consultations if your business is in a village area.",
+      "key_dates": [],
+      "industries": "Construction & Development, Retail, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "Reports 2",
+      "source_body": "Reports 2. Consultation for City-initiated Vancouver ODP amendment for the Villages Planning Program March 17, 2026 ... MOVED by Councillor Fry SECONDED by Councillor Bligh THAT Council, a. subject to enactment of the Vancouver Official Development Plan, and regarding the proposed amendments to the Vancouver Official Development Plan for the Villages Planning Program, b. having considered whether the opportunities for consultation with certain persons, organizations and authorities should be early and ongoing, and c. being aware of its obligation to provide at least one opportunity for consultation with persons, organizations and authorities it considers will be affected, hereby directs staff to consult with: (i) Vancouver School Board; (ii) Conseil scolaire francophone; (iii) Musqueam Indian Band; (iv) Squamish Nation; (v) Tsleil-Waututh Nation; (vi) South Coast British Columbia Transportation Authority (TransLink); and (vii) BC Hydro. amended ... The motion as amended was put and CARRIED UNANIMOUSLY (Vote No. 11486) ... FINAL MOTION AS APPROVED ... (viii) Business improvement associations.",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260331/regu20260331ag.htm",
+      "article_title": "Regular Council Minutes — March 31, 2026",
+      "article_published_at": "2026-03-31T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-13T21:08:21.860418"
+    },
+    {
+      "id": 589,
+      "title": "Council approved public consultation for in-stream ODP rezoning applications",
+      "summary": "Vancouver Council voted unanimously to direct staff to consult with affected persons, organizations, and authorities on proposed amendments to the Vancouver Official Development Plan (ODP) for specific in-stream rezoning applications. The ODP is the city's main land-use plan that guides development. The consultation will follow the details in Appendix A of the March 10, 2026 report. This decision is final and staff must now carry out the required public consultation before any rezoning can proceed.",
+      "action_required": "If your property is listed in Appendix A of the March 10, 2026 report, prepare to participate in the upcoming public consultation process.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "Reports 1",
+      "source_body": "Reports 1. Required Consultation for In-stream Rezoning Applications Amending the Vancouver Official Development Plan March 10, 2026 ... MOVED by Councillor Dominato SECONDED by Councillor Montague THAT Council, i. regarding proposed amendments to the Vancouver Official Development Plan for the in-stream rezoning applications by address listed in Appendix A of the Report dated March 10, 2026, entitled “Required Consultation for In-stream Rezoning Applications Amending the Vancouver Official Development Plan”, and ii. having considered whether the opportunities for consultation with certain persons, organizations and authorities listed in Appendix B of the above-noted report should be early and ongoing, and being aware of its obligation to provide at least one opportunity for consultation, directs staff to consult with persons, organizations and authorities it considers will be affected, as detailed in Appendix A of the above-noted report. CARRIED UNANIMOUSLY (Vote No. 11483)",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260331/regu20260331ag.htm",
+      "article_title": "Regular Council Minutes — March 31, 2026",
+      "article_published_at": "2026-03-31T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-13T21:08:21.859846"
+    },
+    {
+      "id": 588,
+      "title": "Council approved changes to 2026 meeting schedule, cancelled two public hearings",
+      "summary": "Vancouver Council voted unanimously to change the 2026 Council meeting schedule. The Mayor’s Budget Task Force Implementation Oversight Committee meeting was moved from April 7, 2026 to July 6, 2026. Council also cancelled two Public Hearings — one on April 16, 2026 and one on May 7, 2026 — and changed them to Meeting Reserves. A Court of Revision meeting (a meeting where property owners can challenge local improvement charges) scheduled for April 21, 2026 was also cancelled and changed to a Meeting Reserve.",
+      "action_required": null,
+      "key_dates": [
+        {
+          "label": "Budget Task Force meeting rescheduled to July 6, 2026",
+          "date": "2026-07-06"
+        }
+      ],
+      "industries": "Landlord & Property Mgmt, Construction & Development",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "Communications 1",
+      "source_body": "Communications 1. Changes to the 2026 Council Meetings Schedule ... MOVED by Councillor Dominato SECONDED by Councillor Maloney THAT Council change the Mayor’s Budget Task Force Implementation Oversight Committee meeting from April 7, 2026, 10:00 am to 11:00 am, to July 6, 2026, 10:00 am to 11:00 am; FURTHER THAT Council cancel the Public Hearing on April 16, 2026, and change it to a Meeting Reserve; FURTHER THAT Council cancel the Public Hearing on May 7, 2026, and change it to a Meeting Reserve; AND FURTHER THAT Council cancel the Court of Revision (Local Improvements) meeting on April 21, 2026, from 3 pm to 5 pm, and change it to a Meeting Reserve. CARRIED UNANIMOUSLY (Vote No. 11493)",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260331/regu20260331ag.htm",
+      "article_title": "Regular Council Minutes — March 31, 2026",
+      "article_published_at": "2026-03-31T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-13T21:08:21.859277"
+    },
+    {
+      "id": 587,
+      "title": "Council approved Vancouver Official Development Plan bylaw",
+      "summary": "Vancouver City Council unanimously passed a bylaw to adopt the Vancouver Official Development Plan (By-law No. 14660). This plan sets the long-term rules for how land can be used and developed across the city. It affects where buildings can go, what types of businesses are allowed, and how new construction must fit into the community. The bylaw is now in effect.",
+      "action_required": "Review the new Official Development Plan to see how it affects your property or business location and any future development plans.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt, Retail",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "By-law 14",
+      "source_body": "MOVED by Councillor Zhou SECONDED by Councillor Bligh THAT Council, except for those members ineligible to vote as noted below, enact the by-law listed on the agenda for this meeting as number 14, and authorize the Mayor and City Clerk to sign and seal the enacted by-law. CARRIED UNANIMOUSLY (Councillors Meiszner, Orr and Mayor Sim absent for the vote) 14. A By-law to adopt the Vancouver Official Development Plan (By-law No. 14660)",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260331/regu20260331ag.htm",
+      "article_title": "Regular Council Minutes — March 31, 2026",
+      "article_published_at": "2026-03-31T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-13T21:08:21.858709"
+    },
+    {
+      "id": 586,
+      "title": "Council approved 15 by-laws including zoning, housing, sign, and noise changes",
+      "summary": "Vancouver Council unanimously passed 15 by-laws covering a range of topics. Key changes include rezoning at 414-420 West Pender, new housing agreements for properties on Dunbar Street, Fraser Street, and Granville Street, and sign and noise by-law amendments for locations on Commercial Drive, West Broadway, and Prior Street. The by-laws also update street and traffic rules for refuse deposits, ticket offences, subdivision rules at King Edward Avenue, and repeal two official development plans (Regional Context Statement and Greenhouse Gas Emission Reduction). These decisions are now final and in effect.",
+      "action_required": "Check if your property or business is affected by the new zoning, housing agreement, sign, or noise rules and update your operations accordingly.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt, Retail",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "By-laws 1-13, 15, 16",
+      "source_body": "MOVED by Councillor Dominato SECONDED by Councillor Fry THAT Council, except for those members ineligible to vote as noted below, enact the by-laws listed on the agenda for this meeting as numbers 1 to 13, 15 and 16 inclusive, and authorize the Mayor and City Clerk to sign and seal the enacted by-laws. CARRIED UNANIMOUSLY (Councillors Meiszner, Orr and Mayor Sim absent for the vote) 1. A By-law to amend Zoning and Development By-law No. 3575 to rezone an area to CD-1 (414 – 420 West Pender) (By-law No. 14647) 2. A By-law to amend the Street and Traffic By-law No. 2849 regarding owner or occupier allowing deposit of refuse on street (By-law No. 14648) 3. A By-law to amend the Ticket Offences By-law No. 9360 regarding the Street and Traffic By-law and the Solid Waste By-law (By-law No. 14649) 4. A By-law to enact a Housing Agreement for 5889 – 5925 Dunbar Street (By-law No. 14650) 5. A By-law to enact a Housing Agreement for 6055 Fraser Street (By-law No. 14651) 6. A By-law to enact a Housing Agreement for 5238 – 5262 Granville Street and 1495 West 37th Avenue (By-law No. 14652) 7. A By-law to amend Sign By-law No.11879 (800 Commercial Drive) (By-law No. 14653) 8. A By-law to amend Noise Control By-law No. 6555 (800 Commercial Drive) (By-law No. 14654) 9. A By-law to amend Sign By-law No.11879 (2096 West Broadway and 2560-2576 Arbutus Street) (By-law No. 14655) 10. A By-law to amend Noise Control By-law No. 6555 (2096 West Broadway and 2560-2576 Arbutus Street) (By-law No. 14656) 11. A By-law to amend Sign By-law No.11879 (450-496 Prior Street, 550 Malkin Avenue and 1002 Station Street) (By-law No. 14657) 12. A By-law to amend Noise Control By-law No. 6555 (450-496 Prior Street, 550 Malkin Avenue and 1002 Station Street) (By-law No. 14658) 13. A By-law to amend Subdivision By-law No. 5208 (1110-1160 West King Edward Avenue) (By-law No. 14659) 15. A By-law to repeal the Regional Context Statement Official Development Plan By-law No. 10789 (By-law No. 14661) 16. A By-law to repeal the Greenhouse Gas Emission Reduction Official Development Plan By-law No. 10041 (By-law No. 14662)",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260331/regu20260331ag.htm",
+      "article_title": "Regular Council Minutes — March 31, 2026",
+      "article_published_at": "2026-03-31T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-13T21:08:21.857953"
+    },
+    {
+      "id": 585,
+      "title": "Council approved rezoning for Heather Lands mixed-use development up to 46 storeys",
+      "summary": "Vancouver Council unanimously approved rezoning the Heather Lands (4911-5255 Heather Street and surrounding properties) to two new Comprehensive Development (CD-1) districts. This allows a multi-phased mixed-use development with buildings from 4 to 46 storeys, including commercial, residential, community, and cultural uses. The total floor space approved is about 3.4 million square feet. Councillors Kirby-Yung, Meiszner, and Montague abstained from the vote.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt, Retail",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "Unfinished Business 1",
+      "source_body": "Unfinished Business 1. CD-1 Rezoning: 4911-5255 Heather Street, 637-657 West 37th Avenue, and 620-689 West 35th Avenue (Heather Lands) ... MOVED by Councillor Fry SECONDED by Councillor Klassen A. THAT the application by MSTA Fairmont LP, on behalf of: MST (Fairmont) Land Holdings Ltd., Inc, the registered owner of the lands located at: • 4911-5255 Heather Street ... to rezone the lands from CD-1 (80) and CD-1 (881) to two new CD-1 (Comprehensive Development) Districts (\"CD-1 South\" and \"CD-1 North\"), to permit a multi-phased mixed-use development with a combined gross floor area of 317,861 sq. m (3,421,428 sq. ft.) in buildings ranging from four-to-46 storeys for commercial, residential, community and cultural uses, be approved in principle for both sites ... The motion was put and CARRIED UNANIMOUSLY (Vote No. 11481) with Councillors Kirby-Yung, Meiszner and Montague abstaining from the vote.",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260331/regu20260331ag.htm",
+      "article_title": "Regular Council Minutes — March 31, 2026",
+      "article_published_at": "2026-03-31T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-05-13T21:08:21.855441"
+    }
+  ]
+}
