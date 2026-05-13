@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-13T19:02:51.299036+00:00",
-  "count": 1,
+  "generated_at": "2026-05-13T21:15:33.907610+00:00",
+  "count": 2,
   "articles": [
     {
-      "article_id": 29,
-      "path": "2026/03/11/29_bc-gazette-part-ii_bc-reg-302026-british-columbia-securities-commissi.json",
+      "article_id": 33,
+      "path": "2026/03/11/33_bc-gazette-part-ii_bc-reg-302026-british-columbia-securities-commissi.json",
       "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n05_30-2026",
       "article_title": "B.C. Reg. 30/2026 – British Columbia Securities Commission",
       "source": "bc_gazette_part2",
@@ -12,7 +12,7 @@
       "government_level": "Provincial",
       "meeting_type": null,
       "article_published_at": "2026-03-11T00:00:00",
-      "created_at": "2026-05-12T21:36:44.086533",
+      "created_at": "2026-05-13T20:52:38.784405",
       "has_attachments": false,
       "has_pdf": false,
       "has_html": false,
@@ -24,8 +24,37 @@
       "locations": "British Columbia",
       "briefs": [
         {
-          "id": 522,
+          "id": 427,
           "title": "Investment dealers must now register with the Canadian Investment Regulatory Organization (CIRO)",
+          "source_label": "BC Gazette Part II",
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 32,
+      "path": "2026/03/11/32_bc-gazette-part-ii_bc-reg-292026-treasury-board.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n05_29-2026",
+      "article_title": "B.C. Reg. 29/2026 – Treasury Board",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "meeting_type": null,
+      "article_published_at": "2026-03-11T00:00:00",
+      "created_at": "2026-05-13T20:52:34.825917",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Agriculture, Natural Resources, Professional Services",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 426,
+          "title": "Clean Energy Act deadline extended to April 1, 2029",
           "source_label": "BC Gazette Part II",
           "is_proposal": false
         }
