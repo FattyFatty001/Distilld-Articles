@@ -1,0 +1,42 @@
+{
+  "article_id": 35,
+  "article_url": "https://www2.gov.bc.ca/gov/content/employment-business/business/liquor-regulation-licensing/about-lcrb/bulletins/bulletin-25-01-liquor-primary-licences-may-offer-bottle-service",
+  "article_title": "Liquor Primary licences may offer bottle service",
+  "source": "liquor_bulletins",
+  "source_label": "Liquor Bulletins",
+  "government_level": "Provincial",
+  "meeting_type": null,
+  "article_published_at": "2025-01-16T00:00:00",
+  "has_attachments": false,
+  "has_pdf": false,
+  "has_html": false,
+  "has_agenda": false,
+  "has_minutes": true,
+  "agenda_brief_count": 0,
+  "minutes_brief_count": 1,
+  "pdf_urls": null,
+  "body": "",
+  "agenda_briefs": [],
+  "minutes_briefs": [
+    {
+      "id": 429,
+      "title": "Liquor Primary bars can now offer bottle service with new rules",
+      "summary": "Liquor Primary establishments (like nightclubs and bars) can now sell and serve whole bottles of spirits, known as bottle service. This is a VIP experience where a customer gets a reserved table, a full bottle of spirits, and a dedicated server. The server must pour the drinks, and customers can add their own ice, mix, and garnishes. New rules require that you never pour more than the maximum serving size per person, you cannot sell a whole bottle in the last hour of liquor service, and you must keep control of the bottle so customers do not pour their own drinks. Any leftover liquor must be stored securely for the customer or thrown away if you don't have secure storage.",
+      "action_required": "No action needed — this change takes effect automatically for all Liquor Primary licensees.",
+      "key_dates": [],
+      "industries": "Liquor",
+      "locations": "British Columbia",
+      "government_level": "Provincial",
+      "is_proposal": false,
+      "item_number": null,
+      "source_body": "These changes apply to the following: Liquor Primary establishments are now permitted to sell and serve a whole bottle of spirits, commonly known as bottle service. Bottle service is a VIP experience primarily offered in nightclubs and bars. It may include a reserved table, a bottle of spirits, and a dedicated server at a premium price. The server pours the spirits according to maximum serving sizes. The ice, drink mix and garnishes may be provided at the table for patrons to add themselves. Licensees who sell and serve a bottle of spirits (bottle service), must follow these terms and conditions: You must not pour more than the maximum serving size per patron at any time. A whole bottle of spirits must not be sold within the last hour of liquor service. You must maintain control of the bottle of spirits during liquor service and have a system to ensure that patrons do not self-serve. Any remaining liquor in the bottle can be stored for the patron’s exclusive use if you have created secure and separate storage for this purpose. In Liquor Primary Clubs with locker room privileges, the bottle of spirits may alternatively be stored by the member in their locker. Any remaining liquor must be disposed of immediately if separate storage measures have not been established. Read the changes in the: No application is required. This change will automatically take effect for all Liquor Primary licensees.",
+      "attachments": [],
+      "article_url": "https://www2.gov.bc.ca/gov/content/employment-business/business/liquor-regulation-licensing/about-lcrb/bulletins/bulletin-25-01-liquor-primary-licences-may-offer-bottle-service",
+      "article_title": "Liquor Primary licences may offer bottle service",
+      "article_published_at": "2025-01-16T00:00:00",
+      "source": "liquor_bulletins",
+      "source_label": "Liquor Bulletins",
+      "created_at": "2026-05-13T20:52:46.737588"
+    }
+  ]
+}
