@@ -1,0 +1,42 @@
+{
+  "article_id": 31,
+  "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=4b143031-6a4c-44b2-aa0d-89572e135b0a&lang=English",
+  "article_title": "Mayor's Task Force on Burnaby Economic Growth and Resilience — May 14, 2026",
+  "source": "burnaby_council",
+  "source_label": "Burnaby Council",
+  "government_level": "Municipal",
+  "meeting_type": "task-force",
+  "article_published_at": "2026-05-14T00:00:00",
+  "has_attachments": false,
+  "has_pdf": false,
+  "has_html": false,
+  "has_agenda": true,
+  "has_minutes": false,
+  "agenda_brief_count": 1,
+  "minutes_brief_count": 0,
+  "pdf_urls": "{\"_doc\": [], \"_inline\": [{\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89731\", \"title\": \"MTFBEGR Minutes 2026.04.30.pdf\"}]}",
+  "body": "",
+  "agenda_briefs": [
+    {
+      "id": 425,
+      "title": "Proposed: Burnaby Council to consider final economic growth recommendations",
+      "summary": "Burnaby Council is set to vote on final recommendations from Workshop #8 on economic growth and resilience. These proposed recommendations could lead to new policies or bylaw changes affecting local businesses. The agenda item covers a review of previous workshops, report writing, and discussion of next steps. A final decision has not been made yet — this is a proposal under consideration.",
+      "action_required": "Watch for the council decision — these recommendations could lead to new rules or programs affecting your business.",
+      "key_dates": [],
+      "industries": "Professional Services, Retail, Food Service",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "5",
+      "source_body": "5. WORKSHOP # 8 - FINAL RECOMMENDATIONS\n5.1 Chair's Address\n5.2 Icebreaker\n5.3 Review of Previous Workshop\n5.4 Report Writing\n5.5 Discussion\n5.6 Next Steps and Closing Remarks",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=4b143031-6a4c-44b2-aa0d-89572e135b0a&lang=English",
+      "article_title": "Mayor's Task Force on Burnaby Economic Growth and Resilience Agenda — May 14, 2026",
+      "article_published_at": "2026-05-14T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-13T20:52:31.217612"
+    }
+  ],
+  "minutes_briefs": []
+}
