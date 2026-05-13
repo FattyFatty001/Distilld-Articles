@@ -14,7 +14,7 @@
   "has_minutes": true,
   "agenda_brief_count": 42,
   "minutes_brief_count": 45,
-  "pdf_urls": "{\"_doc\": [{\"url\": \"https://council.vancouver.ca/20260401/documents/pspc20260401_minutes.pdf\", \"title\": \"Minutes\"}, {\"url\": \"https://council.vancouver.ca/20260407/documents/nom20260407min.pdf\", \"title\": \"Minutes\"}, {\"url\": \"https://council.vancouver.ca/20260414/documents/regu20260414min.pdf\", \"title\": \"Minutes\"}, {\"url\": \"https://council.vancouver.ca/20260414/documents/phea20260414min.pdf\", \"title\": \"Minutes\"}, {\"url\": \"https://council.vancouver.ca/20260421/documents/blhe20260421min.pdf\", \"title\": \"Minutes\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/comm1.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r1.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r1presentation.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r2.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r3.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r4.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r5.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r6.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r7.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r7draftbylaw.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/185-193-sw-marine-dr-7980-manitoba-st-ta/application-booklet.pdf#page=21\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r8.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r8draftbylaw.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/6012-cambie-st/application-booklet.pdf#page=25\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r9.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r9draftbylaw.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/5635-5655-cambie-st-and-511-w-41-ave/application-booklet-2.pdf#page=21\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r10.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r10draftbylaw.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/320-e-2-ave/application-booklet.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r10presentation.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r11.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r11draftbylaw.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/1290-hornby-st-and-889-drake-st/application-booklet.pdf#page=8\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r12.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r12draftbylaw.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/531-595-w-27-ave/application-booklet.pdf#page=86\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r12presentation.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r13.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r13draftbylaw.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/354-380-e-10-ave/application-booklet.pdf#page=35\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r14.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r14draftbylaw.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/1706-alberni-st/application-booklet.pdf#page=48\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r15_revised.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r15draftbylaw.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/888-w-8-ave/application-booklet.pdf#page=29\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/rr1.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/rr2.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/Bylaws1to19.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/a1.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/a2.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/a3.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/a4.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/a5.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/regu20260505ag.pdf\", \"title\": \"Agenda\"}], \"_inline\": [{\"url\": \"https://council.vancouver.ca/20260401/documents/pspc20260401_minutes.pdf\", \"title\": \"Council (Policy and Strategic Priorities) \\u2013 April 1, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260407/documents/nom20260407min.pdf\", \"title\": \"Nomination Subcommittee \\u2013 April 7, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260414/documents/regu20260414min.pdf\", \"title\": \"Council \\u2013 April 14, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260414/documents/phea20260414min.pdf\", \"title\": \"Public Hearing \\u2013 April 14, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260421/documents/blhe20260421min.pdf\", \"title\": \"Business Licence Hearing \\u2013 April 21, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/comm1.pdf\", \"title\": \"Memorandum\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1presentation.pdf\", \"title\": \"Staff Presentation\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7draftbylaw.pdf\", \"title\": \"Draft By-law\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8draftbylaw.pdf\", \"title\": \"Draft By-law\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9draftbylaw.pdf\", \"title\": \"Draft By-law\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10draftbylaw.pdf\", \"title\": \"Draft By-law\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/320-e-2-ave/application-booklet.pdf\", \"title\": \"Link to renderings\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10presentation.pdf\", \"title\": \"Staff Presentation\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11draftbylaw.pdf\", \"title\": \"Draft By-law\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12draftbylaw.pdf\", \"title\": \"Draft By-law\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12presentation.pdf\", \"title\": \"Staff Presentation\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13draftbylaw.pdf\", \"title\": \"Draft By-law\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14draftbylaw.pdf\", \"title\": \"Draft By-law\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15draftbylaw.pdf\", \"title\": \"Draft By-law\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/rr1.pdf\", \"title\": \"Referral Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/rr2.pdf\", \"title\": \"Referral Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/Bylaws1to19.pdf\", \"title\": \"By-laws 1 to 19\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a1.pdf\", \"title\": \"Resolution\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a2.pdf\", \"title\": \"Resolution\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a3.pdf\", \"title\": \"Resolution\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a4.pdf\", \"title\": \"Resolution\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a5.pdf\", \"title\": \"Resolution\"}, {\"url\": \"https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/regu20260505ag.pdf\", \"title\": \"Download the agenda\"}]}",
+  "pdf_urls": "{\"_doc\": [{\"url\": \"https://council.vancouver.ca/20260401/documents/pspc20260401_minutes.pdf\", \"title\": \"Minutes\"}, {\"url\": \"https://council.vancouver.ca/20260407/documents/nom20260407min.pdf\", \"title\": \"Minutes\"}, {\"url\": \"https://council.vancouver.ca/20260414/documents/regu20260414min.pdf\", \"title\": \"Minutes\"}, {\"url\": \"https://council.vancouver.ca/20260414/documents/phea20260414min.pdf\", \"title\": \"Minutes\"}, {\"url\": \"https://council.vancouver.ca/20260421/documents/blhe20260421min.pdf\", \"title\": \"Minutes\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/comm1.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r1.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r1presentation.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r2.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r3.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r4.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r5.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r6.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r7.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r7draftbylaw.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/185-193-sw-marine-dr-7980-manitoba-st-ta/application-booklet.pdf#page=21\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r8.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r8draftbylaw.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/6012-cambie-st/application-booklet.pdf#page=25\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r9.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r9draftbylaw.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/5635-5655-cambie-st-and-511-w-41-ave/application-booklet-2.pdf#page=21\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r10.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r10draftbylaw.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/320-e-2-ave/application-booklet.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r10presentation.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r11.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r11draftbylaw.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/1290-hornby-st-and-889-drake-st/application-booklet.pdf#page=8\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r12.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r12draftbylaw.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/531-595-w-27-ave/application-booklet.pdf#page=86\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r12presentation.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r13.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r13draftbylaw.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/354-380-e-10-ave/application-booklet.pdf#page=35\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r14.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r14draftbylaw.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/1706-alberni-st/application-booklet.pdf#page=48\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r15_revised.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r15draftbylaw.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/888-w-8-ave/application-booklet.pdf#page=29\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/rr1.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/rr2.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/Bylaws1to19.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/a1.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/a2.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/a3.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/a4.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/a5.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/regu20260505ag.pdf\", \"title\": \"Agenda\"}], \"_inline\": [{\"url\": \"https://council.vancouver.ca/20260401/documents/pspc20260401_minutes.pdf\", \"title\": \"Council (Policy and Strategic Priorities) \\u2013 April 1, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260407/documents/nom20260407min.pdf\", \"title\": \"Nomination Subcommittee \\u2013 April 7, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260414/documents/regu20260414min.pdf\", \"title\": \"Council \\u2013 April 14, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260414/documents/phea20260414min.pdf\", \"title\": \"Public Hearing \\u2013 April 14, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260421/documents/blhe20260421min.pdf\", \"title\": \"Business Licence Hearing \\u2013 April 21, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/comm1.pdf\", \"title\": \"Memorandum\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r1.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r1presentation.pdf\", \"title\": \"Staff Presentation\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r2.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r3.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r4.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r5.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r6.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r7.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r7draftbylaw.pdf\", \"title\": \"Draft By-law\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r8.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r8draftbylaw.pdf\", \"title\": \"Draft By-law\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r9.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r9draftbylaw.pdf\", \"title\": \"Draft By-law\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r10.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r10draftbylaw.pdf\", \"title\": \"Draft By-law\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/320-e-2-ave/application-booklet.pdf\", \"title\": \"Link to renderings\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r10presentation.pdf\", \"title\": \"Staff Presentation\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r11.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r11draftbylaw.pdf\", \"title\": \"Draft By-law\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r12.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r12draftbylaw.pdf\", \"title\": \"Draft By-law\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r12presentation.pdf\", \"title\": \"Staff Presentation\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r13.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r13draftbylaw.pdf\", \"title\": \"Draft By-law\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r14.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r14draftbylaw.pdf\", \"title\": \"Draft By-law\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r15_revised.pdf\", \"title\": \"Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/r15draftbylaw.pdf\", \"title\": \"Draft By-law\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/rr1.pdf\", \"title\": \"Referral Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/rr2.pdf\", \"title\": \"Referral Report\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/Bylaws1to19.pdf\", \"title\": \"By-laws 1 to 19\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/a1.pdf\", \"title\": \"Resolution\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/a2.pdf\", \"title\": \"Resolution\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/a3.pdf\", \"title\": \"Resolution\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/a4.pdf\", \"title\": \"Resolution\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/a5.pdf\", \"title\": \"Resolution\"}, {\"url\": \"https://council.vancouver.ca/20260505/documents/regu20260505ag.pdf\", \"title\": \"Download the agenda\"}]}",
   "body": "",
   "agenda_briefs": [
     {
@@ -31,7 +31,7 @@
       "source_body": "COMMUNICATIONS\n1.\tChanges to the 2026 Council Meetings Schedule\nMemorandum",
       "attachments": [
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/comm1.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/comm1.pdf",
           "title": "Memorandum"
         }
       ],
@@ -56,75 +56,75 @@
       "source_body": "REPORTS\n1.\tCity of Vancouver Commemoration Framework\nReport\nStaff Presentation",
       "attachments": [
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r1.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1presentation.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r1presentation.pdf",
           "title": "Staff Presentation"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r2.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r3.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r4.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r5.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r6.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r7.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r8.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r9.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r10.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10presentation.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r10presentation.pdf",
           "title": "Staff Presentation"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r11.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r12.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12presentation.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r12presentation.pdf",
           "title": "Staff Presentation"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r13.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r14.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r15_revised.pdf",
           "title": "Report"
         }
       ],
@@ -149,83 +149,83 @@
       "source_body": "2.\t2026 Property Taxation: Development Potential Relief Program By-law, Tax Rating      By-laws, and Averaging Resolutions\nReport",
       "attachments": [
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r1.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r2.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r3.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r4.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r5.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r6.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r7.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r8.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r9.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r10.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r11.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r12.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r13.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r14.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r15_revised.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a1.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/a1.pdf",
           "title": "Resolution"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a2.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/a2.pdf",
           "title": "Resolution"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a3.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/a3.pdf",
           "title": "Resolution"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a4.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/a4.pdf",
           "title": "Resolution"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a5.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/a5.pdf",
           "title": "Resolution"
         }
       ],
@@ -255,63 +255,63 @@
       "source_body": "3.\tQuarterly Capital Budget Adjustments – May 2026\nReport",
       "attachments": [
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r1.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r2.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r3.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r4.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r5.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r6.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r7.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r8.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r9.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r10.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r11.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r12.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r13.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r14.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r15_revised.pdf",
           "title": "Report"
         }
       ],
@@ -336,63 +336,63 @@
       "source_body": "4.\tOperator Appointment and Lease Approval for Social Facility at #300 - 485 West        42nd Avenue\nRecommendations B, C and D require at least 2/3 affirmative votes of all Council members under Section 206(1) of the Vancouver Charter\nReport",
       "attachments": [
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r1.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r2.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r3.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r4.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r5.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r6.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r7.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r8.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r9.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r10.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r11.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r12.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r13.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r14.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r15_revised.pdf",
           "title": "Report"
         }
       ],
@@ -417,63 +417,63 @@
       "source_body": "5.\tClosure and Sale or Lease of Lane Adjacent to 1750 Franklin Street and 1717-1771 East Hastings Street\nReport",
       "attachments": [
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r1.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r2.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r3.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r4.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r5.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r6.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r7.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r8.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r9.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r10.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r11.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r12.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r13.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r14.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r15_revised.pdf",
           "title": "Report"
         }
       ],
@@ -498,63 +498,63 @@
       "source_body": "6.\tDevelopment Approval Procedure By-law: Amendments to include Consultation Requirements for Inclusionary Zoning and Density Bonus Provisions\nReport",
       "attachments": [
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r1.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r2.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r3.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r4.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r5.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r6.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r7.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r8.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r9.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r10.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r11.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r12.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r13.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r14.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r15_revised.pdf",
           "title": "Report"
         }
       ],
@@ -579,59 +579,59 @@
       "source_body": "7. \tCD-1 (908) Text Amendment: 185-193 Southwest Marine Drive and 7980 Manitoba Street\n(no speakers per section 7.2(b) of the Procedure By-law)\nReport\nDraft By-law\nLink to renderings",
       "attachments": [
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r1.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r2.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r3.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r4.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r5.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r6.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r7.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r7draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r8.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r8draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r9.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r9draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r10.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r10draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
@@ -639,43 +639,43 @@
           "title": "Link to renderings"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r11.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r11draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r12.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r12draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r13.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r13draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r14.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r14draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r15_revised.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r15draftbylaw.pdf",
           "title": "Draft By-law"
         }
       ],
@@ -700,59 +700,59 @@
       "source_body": "8.\tCD-1 Rezoning: 6012-6088 Cambie Street\n(no speakers per section 7.2(b) of the Procedure By-law)\nReport\n(Report revised May 4, 2026)\nDraft By-law\nLink to renderings",
       "attachments": [
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r1.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r2.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r3.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r4.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r5.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r6.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r7.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r7draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r8.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r8draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r9.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r9draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r10.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r10draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
@@ -760,43 +760,43 @@
           "title": "Link to renderings"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r11.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r11draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r12.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r12draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r13.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r13draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r14.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r14draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r15_revised.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r15draftbylaw.pdf",
           "title": "Draft By-law"
         }
       ],
@@ -821,59 +821,59 @@
       "source_body": "9.\tCD-1 Rezoning: 5635-5655 Cambie Street and 511 West 41st Avenue\n(no speakers per section 7.2(b) of the Procedure By-law)\nReport\nDraft By-law\nLink to renderings",
       "attachments": [
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r1.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r2.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r3.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r4.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r5.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r6.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r7.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r7draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r8.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r8draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r9.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r9draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r10.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r10draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
@@ -881,43 +881,43 @@
           "title": "Link to renderings"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r11.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r11draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r12.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r12draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r13.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r13draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r14.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r14draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r15_revised.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r15draftbylaw.pdf",
           "title": "Draft By-law"
         }
       ],
@@ -942,63 +942,63 @@
       "source_body": "10. \tCD-1 Rezoning: 320 (318-346) East 2nd Avenue\n(no speakers per section 7.2(b) of the Procedure By-law)\nReport\nDraft By-law\nLink to renderings\nStaff Presentation",
       "attachments": [
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r1.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1presentation.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r1presentation.pdf",
           "title": "Staff Presentation"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r2.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r3.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r4.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r5.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r6.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r7.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r7draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r8.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r8draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r9.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r9draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r10.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r10draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
@@ -1006,51 +1006,51 @@
           "title": "Link to renderings"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10presentation.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r10presentation.pdf",
           "title": "Staff Presentation"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r11.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r11draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r12.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r12draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12presentation.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r12presentation.pdf",
           "title": "Staff Presentation"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r13.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r13draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r14.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r14draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r15_revised.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r15draftbylaw.pdf",
           "title": "Draft By-law"
         }
       ],
@@ -1075,59 +1075,59 @@
       "source_body": "11.\tCD-1 (892) Text Amendment: 1290 Hornby Street and 889 Drake Street\n(no speakers per section 7.2(b) of the Procedure By-law)\nReport\nDraft By-law\nLink to renderings",
       "attachments": [
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r1.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r2.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r3.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r4.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r5.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r6.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r7.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r7draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r8.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r8draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r9.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r9draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r10.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r10draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
@@ -1135,43 +1135,43 @@
           "title": "Link to renderings"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r11.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r11draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r12.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r12draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r13.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r13draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r14.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r14draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r15_revised.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r15draftbylaw.pdf",
           "title": "Draft By-law"
         }
       ],
@@ -1196,63 +1196,63 @@
       "source_body": "12.\tCD-1 Rezoning: 531-595 West 27th Avenue\n(no speakers per section 7.2(b) of the Procedure By-law)\nReport\nDraft By-law\nLink to renderings\nStaff Presentation",
       "attachments": [
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r1.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1presentation.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r1presentation.pdf",
           "title": "Staff Presentation"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r2.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r3.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r4.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r5.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r6.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r7.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r7draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r8.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r8draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r9.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r9draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r10.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r10draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
@@ -1260,51 +1260,51 @@
           "title": "Link to renderings"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10presentation.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r10presentation.pdf",
           "title": "Staff Presentation"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r11.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r11draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r12.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r12draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12presentation.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r12presentation.pdf",
           "title": "Staff Presentation"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r13.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r13draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r14.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r14draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r15_revised.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r15draftbylaw.pdf",
           "title": "Draft By-law"
         }
       ],
@@ -1329,59 +1329,59 @@
       "source_body": "13.\tCD-1 Rezoning: 354-380 East 10th Avenue\n(no speakers per section 7.2(b) of the Procedure By-law)\nReport\nDraft By-law\nLink to renderings",
       "attachments": [
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r1.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r2.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r3.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r4.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r5.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r6.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r7.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r7draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r8.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r8draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r9.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r9draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r10.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r10draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
@@ -1389,43 +1389,43 @@
           "title": "Link to renderings"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r11.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r11draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r12.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r12draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r13.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r13draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r14.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r14draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r15_revised.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r15draftbylaw.pdf",
           "title": "Draft By-law"
         }
       ],
@@ -1450,59 +1450,59 @@
       "source_body": "14.\tCD-1 Rezoning: 1728-1738 Alberni Street and 1706 Alberni Street and 735 Bidwell Street\n(no speakers per section 7.2(b) of the Procedure By-law)\nReport\nDraft By-law\nLink to renderings",
       "attachments": [
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r1.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r2.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r3.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r4.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r5.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r6.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r7.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r7draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r8.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r8draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r9.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r9draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r10.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r10draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
@@ -1510,43 +1510,43 @@
           "title": "Link to renderings"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r11.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r11draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r12.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r12draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r13.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r13draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r14.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r14draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r15_revised.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r15draftbylaw.pdf",
           "title": "Draft By-law"
         }
       ],
@@ -1571,59 +1571,59 @@
       "source_body": "15.\tCD-1 Rezoning: 888 West 8th Avenue\nReferred to Council at the Council meeting on April 14, 2026.\n(no speakers per section 7.2(b) of the Procedure By-law)\nReport\n(Report revised May 4, 2026)\nDraft By-law\nLink to renderings",
       "attachments": [
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r1.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r2.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r3.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r4.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r5.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r6.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r7.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r7draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r8.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r8draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r9.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r9draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r10.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r10draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
@@ -1631,43 +1631,43 @@
           "title": "Link to renderings"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r11.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r11draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r12.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r12draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r13.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r13draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r14.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r14draftbylaw.pdf",
           "title": "Draft By-law"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r15_revised.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15draftbylaw.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r15draftbylaw.pdf",
           "title": "Draft By-law"
         }
       ],
@@ -1692,71 +1692,71 @@
       "source_body": "REFERRAL REPORTS\n1.\t2026 Financing Growth Update: Bill 16 Compliance Update to Density Bonus Provisions & Inclusionary Zoning\n(no speakers per section 7.2(a) of the Procedure By-law)\nReferral Report",
       "attachments": [
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r1.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r2.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r3.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r4.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r5.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r6.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r7.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r8.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r9.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r10.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r11.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r12.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r13.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r14.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r15_revised.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/rr1.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/rr1.pdf",
           "title": "Referral Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/rr2.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/rr2.pdf",
           "title": "Referral Report"
         }
       ],
@@ -1781,71 +1781,71 @@
       "source_body": "2.\tCD-1 (847) Text Amendment: 133-159 West 49th Avenue (Formerly 131-163 West 49th Avenue)\n(no speakers per section 7.2(a) of the Procedure By-law)\nReferral Report",
       "attachments": [
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r1.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r2.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r3.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r4.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r5.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r6.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r7.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r8.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r9.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r10.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r11.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r12.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r13.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r14.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r15_revised.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/rr1.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/rr1.pdf",
           "title": "Referral Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/rr2.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/rr2.pdf",
           "title": "Referral Report"
         }
       ],
@@ -1870,7 +1870,7 @@
       "source_body": "BY-LAWS\nBy-laws 1 to 19\n1.\tA By-law to amend the City Land Regulation By-law No. 8735 regarding consumption of liquor on City Land (2026)",
       "attachments": [
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/Bylaws1to19.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/Bylaws1to19.pdf",
           "title": "By-laws 1 to 19"
         }
       ],
@@ -2035,63 +2035,63 @@
       "source_body": "9.\tA By-law to provide for tax relief from development potential for 2026\nSubject to approval of Report 2",
       "attachments": [
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r1.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r2.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r3.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r4.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r5.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r6.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r7.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r8.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r9.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r10.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r11.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r12.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r13.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r14.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r15_revised.pdf",
           "title": "Report"
         }
       ],
@@ -2116,63 +2116,63 @@
       "source_body": "10.\tA By-law to levy rates on all taxable real property in the City of Vancouver, to raise a sum which added to the estimated revenue of the City of Vancouver from other sources, will be sufficient to pay all debts and obligations of the City of Vancouver falling due within the year 2026 and not otherwise provided for\nSubject to approval of Report 2",
       "attachments": [
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r1.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r2.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r3.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r4.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r5.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r6.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r7.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r8.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r9.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r10.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r11.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r12.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r13.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r14.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r15_revised.pdf",
           "title": "Report"
         }
       ],
@@ -2197,63 +2197,63 @@
       "source_body": "11.\tA By-law to levy a rate on property to raise monies required to be paid to the Metro Vancouver Regional District\nSubject to approval of Report 2",
       "attachments": [
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r1.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r2.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r3.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r4.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r5.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r6.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r7.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r8.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r9.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r10.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r11.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r12.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r13.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r14.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r15_revised.pdf",
           "title": "Report"
         }
       ],
@@ -2438,83 +2438,83 @@
       "source_body": "ADMINISTRATIVE MOTIONS\n1.\tResolution - Closure and Sale of Lane Adjacent to 1750 Franklin Street and 1717-1771 East Hastings Street\nSubject to approval of Recommendations A and B of Report 5\nResolution",
       "attachments": [
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r1.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r1.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r2.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r2.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r3.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r3.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r4.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r4.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r5.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r5.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r6.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r6.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r7.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r7.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r8.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r8.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r9.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r9.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r10.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r10.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r11.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r11.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r12.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r12.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r13.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r13.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r14.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r14.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/r15_revised.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/r15_revised.pdf",
           "title": "Report"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a1.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/a1.pdf",
           "title": "Resolution"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a2.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/a2.pdf",
           "title": "Resolution"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a3.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/a3.pdf",
           "title": "Resolution"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a4.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/a4.pdf",
           "title": "Resolution"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a5.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/a5.pdf",
           "title": "Resolution"
         }
       ],
@@ -2539,23 +2539,23 @@
       "source_body": "2.\tResolution - 2026 Tax Levies for Provincial Schools\nSubject to approval of By-laws 9 to 11\nResolution",
       "attachments": [
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a1.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/a1.pdf",
           "title": "Resolution"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a2.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/a2.pdf",
           "title": "Resolution"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a3.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/a3.pdf",
           "title": "Resolution"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a4.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/a4.pdf",
           "title": "Resolution"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a5.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/a5.pdf",
           "title": "Resolution"
         }
       ],
@@ -2580,23 +2580,23 @@
       "source_body": "3.\tResolution - 2026 Tax Levies for South Coast British Columbia Transportation Authority (“Translink”)\nSubject to approval of By-laws 9 to 11\nResolution",
       "attachments": [
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a1.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/a1.pdf",
           "title": "Resolution"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a2.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/a2.pdf",
           "title": "Resolution"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a3.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/a3.pdf",
           "title": "Resolution"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a4.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/a4.pdf",
           "title": "Resolution"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a5.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/a5.pdf",
           "title": "Resolution"
         }
       ],
@@ -2621,23 +2621,23 @@
       "source_body": "4.\tResolution - 2026 Tax Levies for British Columbia Assessment Authority\nSubject to approval of By-laws 9 to 11\nResolution",
       "attachments": [
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a1.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/a1.pdf",
           "title": "Resolution"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a2.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/a2.pdf",
           "title": "Resolution"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a3.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/a3.pdf",
           "title": "Resolution"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a4.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/a4.pdf",
           "title": "Resolution"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a5.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/a5.pdf",
           "title": "Resolution"
         }
       ],
@@ -2662,23 +2662,23 @@
       "source_body": "5.\tResolution - 2026 Tax Levies for Municipal Finance Authority of British Columbia\nSubject to approval of By-laws 9 to 11\nResolution",
       "attachments": [
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a1.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/a1.pdf",
           "title": "Resolution"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a2.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/a2.pdf",
           "title": "Resolution"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a3.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/a3.pdf",
           "title": "Resolution"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a4.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/a4.pdf",
           "title": "Resolution"
         },
         {
-          "url": "https://council.vancouver.ca/20260505/regu20260505ag.htm/documents/a5.pdf",
+          "url": "https://council.vancouver.ca/20260505/documents/a5.pdf",
           "title": "Resolution"
         }
       ],
