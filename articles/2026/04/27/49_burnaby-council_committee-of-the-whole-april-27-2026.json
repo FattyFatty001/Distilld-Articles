@@ -1,0 +1,73 @@
+{
+  "article_id": 49,
+  "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ad81bcd5-0d96-467e-bb51-9ad36ec793d2&lang=English",
+  "article_title": "Committee of the Whole — April 27, 2026",
+  "source": "burnaby_council",
+  "source_label": "Burnaby Council",
+  "government_level": "Municipal",
+  "meeting_type": "committee-whole",
+  "article_published_at": "2026-04-27T00:00:00",
+  "has_attachments": false,
+  "has_pdf": false,
+  "has_html": false,
+  "has_agenda": true,
+  "has_minutes": true,
+  "agenda_brief_count": 1,
+  "minutes_brief_count": 1,
+  "pdf_urls": "{\"_doc\": [{\"url\": \"https://pub-burnaby.escribemeetings.com/FileStream.ashx?DocumentId=89398\", \"title\": \"Agenda (PDF)\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/FileStream.ashx?DocumentId=89739\", \"title\": \"Minutes\"}], \"_inline\": [{\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89394\", \"title\": \"2026.04.27 - Proposed Works and Services Requirements - COTW Presentation__.pdf\"}]}",
+  "body": "",
+  "agenda_briefs": [
+    {
+      "id": 712,
+      "title": "Proposed: Burnaby Works and Services Bylaw replacing Subdivision and Development Control Bylaw",
+      "summary": "The proposed Works and Services Bylaw would replace the Subdivision and Development Control Bylaw, introducing Schedule B service area maps and Schedule A Table 1 specifying required frontage upgrades (water, sanitary, rainwater management, road works, landscaping, highway furniture, third-party utilities) for each area: Town Centre, Urban Village, Industrial (I), and Agricultural (A) zones. Table 2 sets new right-of-way widths to accommodate street trees. The General Manager would be delegated authority to require extended works and impose latecomer charges, with a latecomer policy to follow.",
+      "action_required": "Watch for the public hearing date and council vote — this proposed bylaw could change your development costs, approval process, and frontage improvement obligations.",
+      "key_dates": [
+        {
+          "label": "Proposed Works and Services Bylaw introduced at Committee of the Whole",
+          "date": "2026-04-27"
+        }
+      ],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "3.1",
+      "source_body": "3.1\nVERBAL REPORT: PROPOSED WORKS AND SERVICES REQUIREMENTS\n1.\n2026.04.27 - Proposed Works and Services Requirements - COTW Presentation__.pdf\nPurpose: To introduce the proposed requirements in the Works and Services Bylaw (replacement of the Subdivision and Development Control Bylaw).",
+      "attachments": [
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89394",
+          "title": "2026.04.27 - Proposed Works and Services Requirements - COTW Presentation__.pdf"
+        }
+      ],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ad81bcd5-0d96-467e-bb51-9ad36ec793d2&lang=English",
+      "article_title": "Committee of the Whole Agenda — April 27, 2026",
+      "article_published_at": "2026-04-27T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-15T16:01:22.181744"
+    }
+  ],
+  "minutes_briefs": [
+    {
+      "id": 713,
+      "title": "Council approved review of street width standards for new developments",
+      "summary": "Burnaby Council voted unanimously to have staff review the city's street width standards. This review was discussed at the April 27, 2026 Committee of the Whole meeting. The decision means the city will look at current rules for how wide streets must be in new developments. This could lead to changes in future building requirements for roads and infrastructure.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "3.1",
+      "source_body": "3.1 VERBAL REPORT: PROPOSED WORKS AND SERVICES REQUIREMENTS\n\nArising from discussion, the following motion was introduced:\nMOVED AND SECONDED\nTHAT staff review the street width standards, as discussed at the Open Committee of the Whole Meeting on April 27, 2026.\nCARRIED UNANIMOUSLY",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ad81bcd5-0d96-467e-bb51-9ad36ec793d2&lang=English",
+      "article_title": "Committee of the Whole Minutes — April 27, 2026",
+      "article_published_at": "2026-04-27T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-15T16:01:27.105396"
+    }
+  ]
+}
