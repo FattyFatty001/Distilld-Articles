@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T08:57:36.162715+00:00",
-  "count": 12,
+  "generated_at": "2026-05-15T16:02:08.225291+00:00",
+  "count": 15,
   "articles": [
     {
       "article_id": 31,
@@ -505,6 +505,113 @@
       ]
     },
     {
+      "article_id": 48,
+      "path": "2026/04/28/48_burnaby-council_council-correspondence-and-public-notice-submissio.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=96853b3a-810f-453e-bebe-e142ce83e805&lang=English",
+      "article_title": "Council Correspondence and Public Notice Submissions — April 28, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "meeting_type": "correspondence",
+      "article_published_at": "2026-04-28T00:00:00",
+      "created_at": "2026-05-15T16:01:11.382762",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 14,
+      "minutes_brief_count": 0,
+      "industries": "Construction & Development, Landlord & Property Mgmt, Natural Resources, Professional Services, Retail, Transportation & Logistics",
+      "locations": "British Columbia, Burnaby, Coquitlam, Metro Vancouver, North Vancouver, Victoria",
+      "briefs": [
+        {
+          "id": 711,
+          "title": "Proposed: Council to vote on rezoning at 6535 Kingsway",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 710,
+          "title": "Proposed: Pedestrian scramble intersection at Metrotown",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 709,
+          "title": "Proposed: Purpose-built rental student housing at Rathburn Drive (Lougheed Town Centre)",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 708,
+          "title": "Proposed: Burnaby council to vote on Street and Traffic Bylaw amendments",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 707,
+          "title": "Proposed: Burnaby-North Shore Rapid Bus Transit Project correspondence",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 706,
+          "title": "Proposed: Burnaby Council to consider closure of Michael J. Fox Theatre",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 705,
+          "title": "Proposed: Chemtrade to present operations info to Burnaby Council",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 704,
+          "title": "Proposed: Permanent daylight-saving time impact on school travel safety",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 703,
+          "title": "Proposed: Zoning amendment for 727 North Road, Coquitlam",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 702,
+          "title": "Proposed: Metro Vancouver 10-Year Housing Plan received by Burnaby Council",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 701,
+          "title": "Proposed: Burnaby Council to consider non-market housing concentration on Byrnepark Drive",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 700,
+          "title": "Proposed: Parking meter rates doubled on 18th Avenue near Edmonds",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 699,
+          "title": "Proposed: Burnaby police service fees under review after complaint",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 698,
+          "title": "Proposed: Burnaby Sign Bylaw update to regulate digital sign brightness",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        }
+      ]
+    },
+    {
       "article_id": 9,
       "path": "2026/04/28/9_burnaby-council_city-council-meeting-april-28-2026.json",
       "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=2d97efcf-ac16-41b8-9702-b4c8ab249af9&lang=English",
@@ -514,16 +621,16 @@
       "government_level": "Municipal",
       "meeting_type": "regular-council",
       "article_published_at": "2026-04-28T00:00:00",
-      "created_at": "2026-05-10T17:37:04.712086",
+      "created_at": "2026-05-15T15:59:35.312894",
       "has_attachments": false,
       "has_pdf": false,
       "has_html": false,
       "has_agenda": true,
-      "has_minutes": false,
+      "has_minutes": true,
       "agenda_brief_count": 29,
-      "minutes_brief_count": 0,
-      "industries": "Agriculture, Construction & Development, Finance & Insurance, Food Service, Grocery & Food Retail, Hotel & Accommodation, Landlord & Property Mgmt, Professional Services, Retail, Technology, Tenant, Transportation & Logistics",
-      "locations": "British Columbia, Burnaby",
+      "minutes_brief_count": 25,
+      "industries": "Agriculture, Construction & Development, Finance & Insurance, Food Service, Grocery & Food Retail, Hotel & Accommodation, Landlord & Property Mgmt, Professional Services, Retail, Spa & Wellness, Technology, Tenant, Transportation & Logistics",
+      "locations": "British Columbia, Burnaby, Coquitlam, New Westminster, Port Coquitlam, Port Moody",
       "briefs": [
         {
           "id": 216,
@@ -696,6 +803,244 @@
         {
           "id": 188,
           "title": "Proposed: Burnaby to replace 1965 Zoning Bylaw with new 2026 version",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 697,
+          "title": "Council approved re-nominations of Mayors Lahti and Johnstone to E-Comm Board",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 696,
+          "title": "Council approved Burnaby Rates Bylaw 2026 setting property tax rates",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 695,
+          "title": "Council approved Bylaw Notice Enforcement amendment (Bylaw 14813)",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 694,
+          "title": "Council approved updates to Burnaby's Parks Regulation Bylaw",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 693,
+          "title": "Council approved amendments to Burnaby's Street and Traffic Bylaw",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 692,
+          "title": "Council approved first two readings for Grand Promenade rezoning",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 691,
+          "title": "Council approved first two readings for rezoning at 2757 Norland Avenue",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 690,
+          "title": "Council approved first and second reading for rezoning at 6535 Kingsway",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 689,
+          "title": "Council defeated motion to amend Building Bylaw for Brentwood Park covenants",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 688,
+          "title": "Council referred intersection design changes back to staff for more review",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 687,
+          "title": "Council approved Southeast Bikeway Upgrade and advanced it to design",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 686,
+          "title": "Burnaby Council approved Tenant Protection Bylaw with inclusionary unit amendment",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 685,
+          "title": "Council approved mid-year fee changes for Burnaby parks, rec, and culture programs.",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 684,
+          "title": "Council approved $175,000 in Spring 2026 community grants for Burnaby groups",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 683,
+          "title": "Council approved $384,893 contract change for Burnaby Lake geotechnical work",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 682,
+          "title": "Council approved $47,000 contract change for KPMG audit services",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 681,
+          "title": "Council approved $1.96M furniture contract for new civic facility fit-out",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 680,
+          "title": "Council approved $1,047,545 Cisco software license contract to Insight Canada Inc.",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 679,
+          "title": "Council approved $4,000 for Heritage Commission members to attend conference",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 678,
+          "title": "Council approved $4,013,855 for 2026 insurance contract renewals with Aon Reed Stenhouse",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 677,
+          "title": "Council approved retaining wall height variances at 8012 11th Avenue",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 676,
+          "title": "Council approved Mark Norton as Burnaby's Approving Officer under Land Title Act",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 675,
+          "title": "Council approved 2026 property tax rates for Burnaby businesses",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 674,
+          "title": "Council approved $2M in Year 2 operating funding for Burnaby Housing Authority",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        },
+        {
+          "id": 673,
+          "title": "Council approved new Burnaby Zoning Bylaw 2026, replacing 1965 rules",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 49,
+      "path": "2026/04/27/49_burnaby-council_committee-of-the-whole-april-27-2026.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ad81bcd5-0d96-467e-bb51-9ad36ec793d2&lang=English",
+      "article_title": "Committee of the Whole — April 27, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "meeting_type": "committee-whole",
+      "article_published_at": "2026-04-27T00:00:00",
+      "created_at": "2026-05-15T16:01:27.105396",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": true,
+      "has_minutes": true,
+      "agenda_brief_count": 1,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 712,
+          "title": "Proposed: Burnaby Works and Services Bylaw replacing Subdivision and Development Control Bylaw",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 713,
+          "title": "Council approved review of street width standards for new developments",
+          "source_label": "Burnaby Council",
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 51,
+      "path": "2026/04/23/51_burnaby-council_public-safety-committee-meeting-april-23-2026.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=893bfec7-b595-490c-b42a-3d0529f07850&lang=English",
+      "article_title": "Public Safety Committee Meeting — April 23, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "meeting_type": "public-safety",
+      "article_published_at": "2026-04-23T00:00:00",
+      "created_at": "2026-05-15T16:01:45.637631",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 5,
+      "minutes_brief_count": 0,
+      "industries": "Food Service, Hotel & Accommodation, Professional Services, Retail",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 718,
+          "title": "Proposed: Burnaby Community Safety Advisory Committee update",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 717,
+          "title": "Proposed: Burnaby Fire Department status update for February 2026",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 716,
+          "title": "Proposed: Burnaby Council to review RCMP policing performance report",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 715,
+          "title": "Proposed: Burnaby Council to vote on 2026 Community Safety Plan update",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 714,
+          "title": "Council to receive overview of Burnaby RCMP Community Safety Response Team",
           "source_label": "Burnaby Council",
           "is_proposal": true
         }
