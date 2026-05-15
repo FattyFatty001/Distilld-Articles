@@ -1,0 +1,47 @@
+{
+  "article_id": 46,
+  "article_url": "https://bylaws.burnaby.ca/en/permalink/bylaw26126",
+  "article_title": "Bylaw 14814 — Rates Bylaw 2026",
+  "source": "burnaby_bylaws",
+  "source_label": "Burnaby Bylaws",
+  "government_level": "Municipal",
+  "meeting_type": null,
+  "article_published_at": null,
+  "has_attachments": false,
+  "has_pdf": false,
+  "has_html": false,
+  "has_agenda": false,
+  "has_minutes": true,
+  "agenda_brief_count": 0,
+  "minutes_brief_count": 1,
+  "pdf_urls": "[{\"url\": \"https://bylaws.burnaby.ca/media/14000/14814.pdf\", \"title\": \"Bylaw Document\"}]",
+  "body": "",
+  "agenda_briefs": [],
+  "minutes_briefs": [
+    {
+      "id": 672,
+      "title": "Burnaby 2026 property tax rates set — Bylaw 14814",
+      "summary": "The City of Burnaby has passed Bylaw 14814, which sets the property tax rates for 2026. This bylaw (a local law passed by the city council) determines how much property tax you will pay based on your property's assessed value and its class (for example, residential, commercial, or industrial). The new rates take effect for the 2026 tax year, meaning your property tax bill for 2026 will be calculated using these rates.",
+      "action_required": "Review your 2026 property tax notice when it arrives to confirm the new rates have been applied correctly.",
+      "key_dates": [
+        {
+          "label": "Burnaby 2026 property tax rates take effect",
+          "date": "2026-01-01"
+        }
+      ],
+      "industries": "Landlord & Property Mgmt, Retail, Professional Services",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": null,
+      "source_body": "Burnaby Bylaw 14814: Rates Bylaw 2026",
+      "attachments": [],
+      "article_url": "https://bylaws.burnaby.ca/en/permalink/bylaw26126",
+      "article_title": "Bylaw 14814 — Rates Bylaw 2026",
+      "article_published_at": null,
+      "source": "burnaby_bylaws",
+      "source_label": "Burnaby Bylaws",
+      "created_at": "2026-05-15T08:57:34.528153"
+    }
+  ]
+}
