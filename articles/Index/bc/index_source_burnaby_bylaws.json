@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T16:02:08.225291+00:00",
-  "count": 3,
+  "generated_at": "2026-05-15T17:26:08.825470+00:00",
+  "count": 6,
   "articles": [
     {
       "article_id": 2,
@@ -32,6 +32,35 @@
       ]
     },
     {
+      "article_id": 56,
+      "path": "2025/08/26/56_burnaby-bylaws_bylaw-14757-housing-agreement-4281-grange-street-b.json",
+      "article_url": "https://bylaws.burnaby.ca/en/permalink/bylaw26051",
+      "article_title": "Bylaw 14757 — Housing Agreement (4281 Grange Street) Bylaw 2025",
+      "source": "burnaby_bylaws",
+      "source_label": "Burnaby Bylaws",
+      "government_level": "Municipal",
+      "meeting_type": null,
+      "article_published_at": "2025-08-26T00:00:00",
+      "created_at": "2026-05-15T17:25:31.924032",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 723,
+          "title": "Burnaby approves housing agreement for 31-storey rental building at 4281 Grange Street",
+          "source_label": "Burnaby Bylaws",
+          "is_proposal": false
+        }
+      ]
+    },
+    {
       "article_id": 25,
       "path": "2025/08/26/25_burnaby-bylaws_bylaw-14758-housing-agreement-7786-and-7792-6th-st.json",
       "article_url": "https://bylaws.burnaby.ca/en/permalink/bylaw26052",
@@ -55,6 +84,64 @@
         {
           "id": 424,
           "title": "Burnaby approves housing agreement for 174 non-market rental units at 7786 & 7792 6th Street",
+          "source_label": "Burnaby Bylaws",
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 58,
+      "path": "2025/07/08/58_burnaby-bylaws_bylaw-14752-housing-agreement-4990-bennett-street.json",
+      "article_url": "https://bylaws.burnaby.ca/en/permalink/bylaw26046",
+      "article_title": "Bylaw 14752 — Housing Agreement (4990 Bennett Street) Bylaw 2025",
+      "source": "burnaby_bylaws",
+      "source_label": "Burnaby Bylaws",
+      "government_level": "Municipal",
+      "meeting_type": null,
+      "article_published_at": "2025-07-08T00:00:00",
+      "created_at": "2026-05-15T17:25:44.402561",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development, Landlord & Property Mgmt, Tenant",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 725,
+          "title": "Burnaby approves housing agreement for 49 affordable rental units at 4990 Bennett Street",
+          "source_label": "Burnaby Bylaws",
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 57,
+      "path": "2025/07/08/57_burnaby-bylaws_bylaw-14753-housing-agreement-4612-4664-lougheed-h.json",
+      "article_url": "https://bylaws.burnaby.ca/en/permalink/bylaw26047",
+      "article_title": "Bylaw 14753 — Housing Agreement (4612, 4664 Lougheed Highway and 2040, 2140 and 2150 Alpha Avenue) Bylaw 2025",
+      "source": "burnaby_bylaws",
+      "source_label": "Burnaby Bylaws",
+      "government_level": "Municipal",
+      "meeting_type": null,
+      "article_published_at": "2025-07-08T00:00:00",
+      "created_at": "2026-05-15T17:25:38.293166",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 724,
+          "title": "Burnaby approves housing agreement for 5 non-market rental buildings at Lougheed Highway and Alpha Avenue",
           "source_label": "Burnaby Bylaws",
           "is_proposal": false
         }
