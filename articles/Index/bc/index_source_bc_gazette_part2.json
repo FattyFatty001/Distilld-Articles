@@ -1,7 +1,123 @@
 {
-  "generated_at": "2026-05-15T16:02:08.225291+00:00",
-  "count": 2,
+  "generated_at": "2026-05-15T17:26:08.825470+00:00",
+  "count": 6,
   "articles": [
+    {
+      "article_id": 55,
+      "path": "2026/03/16/55_bc-gazette-part-ii_bc-reg-342026-oic-792026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n05_34-2026",
+      "article_title": "B.C. Reg. 34/2026 – OIC 79/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "meeting_type": null,
+      "article_published_at": "2026-03-16T00:00:00",
+      "created_at": "2026-05-15T17:25:26.350072",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Labour & Employment",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 722,
+          "title": "Serious illness or injury leave rules take effect April 1 in BC",
+          "source_label": "BC Gazette Part II",
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 54,
+      "path": "2026/03/16/54_bc-gazette-part-ii_bc-reg-332026-victoria-regional-transit-commission.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n05_33-2026",
+      "article_title": "B.C. Reg. 33/2026 – Victoria Regional Transit Commission",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "meeting_type": null,
+      "article_published_at": "2026-03-16T00:00:00",
+      "created_at": "2026-05-15T17:25:22.108558",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Landlord & Property Mgmt, Professional Services, Retail",
+      "locations": "Victoria",
+      "briefs": [
+        {
+          "id": 721,
+          "title": "Victoria Regional Transit Commission sets 2026 property tax rates for transit funding",
+          "source_label": "BC Gazette Part II",
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 53,
+      "path": "2026/03/13/53_bc-gazette-part-ii_bc-reg-322026-oic-752026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n05_32-2026",
+      "article_title": "B.C. Reg. 32/2026 – OIC 75/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "meeting_type": null,
+      "article_published_at": "2026-03-13T00:00:00",
+      "created_at": "2026-05-15T17:25:17.285371",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Agriculture, Natural Resources",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 720,
+          "title": "BC biomass energy rate change takes effect April 1, 2026",
+          "source_label": "BC Gazette Part II",
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 52,
+      "path": "2026/03/13/52_bc-gazette-part-ii_bc-reg-312026-oic-742026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n05_31-2026",
+      "article_title": "B.C. Reg. 31/2026 – OIC 74/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "meeting_type": null,
+      "article_published_at": "2026-03-13T00:00:00",
+      "created_at": "2026-05-15T17:25:12.316593",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development, Landlord & Property Mgmt, Professional Services",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 719,
+          "title": "BC court filing fees increase May 4, 2026 — Small Claims and Supreme Court",
+          "source_label": "BC Gazette Part II",
+          "is_proposal": false
+        }
+      ]
+    },
     {
       "article_id": 33,
       "path": "2026/03/11/33_bc-gazette-part-ii_bc-reg-302026-british-columbia-securities-commissi.json",
