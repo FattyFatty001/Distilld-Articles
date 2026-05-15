@@ -1,0 +1,42 @@
+{
+  "article_id": 61,
+  "article_url": "https://www2.gov.bc.ca/gov/content/employment-business/business/liquor-regulation-licensing/about-lcrb/bulletins/bulletin-25-04-updates-to-liquor-licesning-process-for-private-corporations",
+  "article_title": "Updates to liquor licensing process for private corporations",
+  "source": "liquor_bulletins",
+  "source_label": "Liquor Bulletins",
+  "government_level": "Provincial",
+  "meeting_type": null,
+  "article_published_at": "2025-09-18T00:00:00",
+  "has_attachments": false,
+  "has_pdf": false,
+  "has_html": false,
+  "has_agenda": false,
+  "has_minutes": true,
+  "agenda_brief_count": 0,
+  "minutes_brief_count": 1,
+  "pdf_urls": null,
+  "body": "",
+  "agenda_briefs": [],
+  "minutes_briefs": [
+    {
+      "id": 728,
+      "title": "Tied house rules now include directors and officers — new reporting required",
+      "summary": "British Columbia has updated its liquor licensing rules for private corporations. The big change is that directors and officers of a private corporation are now included when the government checks for a 'tied house' relationship. A tied house relationship is when a manufacturer or agent has a deal with another liquor licensee (like a bar or store) that makes that licensee likely to push the manufacturer's products over others. This can give the licensee a bigger benefit for selling that brand. Now, the government will look at who runs the company, not just who owns it. There is also a new online process called a 'Legal Entity Review' where the government can ask for documents to check your company's structure. You must report any tied house relationships through the liquor and cannabis licensing portal.",
+      "action_required": "Log into the liquor and cannabis licensing portal and report any tied house associations using the 'Permanent Change to a Licensee' application.",
+      "key_dates": [],
+      "industries": "Liquor",
+      "locations": "British Columbia",
+      "government_level": "Provincial",
+      "is_proposal": false,
+      "item_number": null,
+      "source_body": "These changes apply to the following licences: Private corporations that are applying for a Manufacturer and/or Agent licence, licence transfer, or approval of new shareholders will continue to submit Criminal Record Checks and Personal History Summary forms for all shareholders holding 10% or more voting interest.Manufacturer and Agent licensees will continue to report external and internal transfers of shares (TSE/TSI). If a licensee holds both a Manufacturer/Agent licence and any other liquor licence type, they mustreportboth external/internal transfers of shares and changes to directors/officers. Generally, tied house relationships between licensees (specifically liquor primary, food primary, private liquor/wine store, or the business location of a caterer) and manufacturers or agents are prohibited under theLiquor Control and Licensing Act. “Tied house” refers to a relationship between a manufacturer/agent and another licensee, if the relationship puts the licensee in the position of being likely to promote the sale of that manufacturer’s/agent’s liquor products over another manufacturer. A tied house relationship may result in the licensee benefitting more when they sell the liquor of that manufacturer or agent. Directors and officers of a private corporation are now included when determining if a tied house relationship exists. To support these changes, applicants and licensees can now report tied house associations through the Permanent Change to a Licensee application in theliquor and cannabis licensing portal. Under theLiquor Control and Licensing Actthe general manager has the authority to determine whether a licensee or applicant is fit and proper (i.e., suitable) to hold a licence. This includes the ability to request documentation from a licensee to assess their legal entity such as their corporate structure. To support this authority, the branch is introducing a new Legal Entity Review process. This process will be managed through theliquor and cannabis licensing portalallowing: Once initiated by LCRB staff, a Legal Entity Review request appears in the licensee/applicant's portal dashboard and they receive a letter with instructions on next steps. After the documents are submitted and LCRB staff complete the Legal Entity Review, the licensee/applicant receives an Outcome Letter notifying them if action is necessary to comply with their licence requirements. These changes improve LCRB's oversight of tied house associations by listing all possible associations between a Manufacturer/Agent and other licensed establishments establishments. In addition, the online applications for tied house reporting and the legal entity review modernize the liquor licensing process and increase operational efficiency. Learn more about these changes in the: Bulletins are for general information and may not apply to all situations. Bulletins do not constitute legal advice nor are they a comprehensive statement of the legal obligations that arise under the Liquor Control and Licensing Act, Cannabis Control and Licensing Act, regulations, or any other applicable laws.",
+      "attachments": [],
+      "article_url": "https://www2.gov.bc.ca/gov/content/employment-business/business/liquor-regulation-licensing/about-lcrb/bulletins/bulletin-25-04-updates-to-liquor-licesning-process-for-private-corporations",
+      "article_title": "Updates to liquor licensing process for private corporations",
+      "article_published_at": "2025-09-18T00:00:00",
+      "source": "liquor_bulletins",
+      "source_label": "Liquor Bulletins",
+      "created_at": "2026-05-15T17:25:58.195046"
+    }
+  ]
+}
