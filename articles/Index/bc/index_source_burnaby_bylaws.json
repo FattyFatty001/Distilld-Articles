@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T23:26:42.506712+00:00",
-  "count": 6,
+  "generated_at": "2026-05-18T23:10:56.752756+00:00",
+  "count": 5,
   "articles": [
     {
       "article_id": 2,
@@ -142,35 +142,6 @@
         {
           "id": 724,
           "title": "Burnaby approves housing agreement for 5 non-market rental buildings at Lougheed Highway and Alpha Avenue",
-          "source_label": "Burnaby Bylaws",
-          "is_proposal": false
-        }
-      ]
-    },
-    {
-      "article_id": 46,
-      "path": "2026/05/15/46_burnaby-bylaws_bylaw-14814-rates-bylaw-2026.json",
-      "article_url": "https://bylaws.burnaby.ca/en/permalink/bylaw26126",
-      "article_title": "Bylaw 14814 — Rates Bylaw 2026",
-      "source": "burnaby_bylaws",
-      "source_label": "Burnaby Bylaws",
-      "government_level": "Municipal",
-      "meeting_type": null,
-      "article_published_at": null,
-      "created_at": "2026-05-15T08:57:34.528153",
-      "has_attachments": false,
-      "has_pdf": false,
-      "has_html": false,
-      "has_agenda": false,
-      "has_minutes": true,
-      "agenda_brief_count": 0,
-      "minutes_brief_count": 1,
-      "industries": "Landlord & Property Mgmt, Professional Services, Retail",
-      "locations": "Burnaby",
-      "briefs": [
-        {
-          "id": 672,
-          "title": "Burnaby 2026 property tax rates set — Bylaw 14814",
           "source_label": "Burnaby Bylaws",
           "is_proposal": false
         }
