@@ -1,7 +1,204 @@
 {
-  "generated_at": "2026-05-18T23:11:51.246874+00:00",
-  "count": 5,
+  "generated_at": "2026-05-19T00:31:33.653774+00:00",
+  "count": 6,
   "articles": [
+    {
+      "article_id": 65,
+      "path": "2026/05/19/65_vancouver-council_revised-regular-council-may-19-2026.json",
+      "article_url": "https://council.vancouver.ca/20260519/regu20260519ag.htm",
+      "article_title": "Revised Regular Council — May 19, 2026",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "government_level": "Municipal",
+      "meeting_type": "regular-council",
+      "article_published_at": "2026-05-19T00:00:00",
+      "created_at": "2026-05-19T00:31:17.671628",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 29,
+      "minutes_brief_count": 0,
+      "industries": "Construction & Development, Food Service, Hotel & Accommodation, Landlord & Property Mgmt, Liquor, Professional Services, Retail",
+      "locations": "Vancouver",
+      "briefs": [
+        {
+          "id": 761,
+          "title": "Proposed: Vancouver council to fast-track rental housing and small hotels in new mixed-use district",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 760,
+          "title": "Proposed: Vancouver bylaw to authorize electronic signs on streets",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 759,
+          "title": "Proposed: Amend Downtown Eastside/Oppenheimer plan for new C-2A district",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 758,
+          "title": "Proposed: New parking rules for Vancouver's C-2A district",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 757,
+          "title": "Proposed: Vancouver noise bylaw changes for new C-2A district",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 756,
+          "title": "Proposed: Vancouver sign bylaw changes for new C-2A district",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 755,
+          "title": "Proposed: Vancouver to amend subdivision rules for new C-2A zone",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 754,
+          "title": "Proposed: Vancouver bylaw change to protect rental housing in new C-2A zone",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 753,
+          "title": "Proposed: New C-2A zoning district and bylaw amendments in Vancouver",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 752,
+          "title": "Proposed: Housing agreement for 282 West 49th Avenue social housing",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 751,
+          "title": "Proposed: Housing agreement for 282 West 49th Avenue (secured market rental)",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 750,
+          "title": "Proposed: Council to repeal housing agreement for 1289 Nicola Street",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 749,
+          "title": "Proposed: Vancouver to amend utility development cost levy bylaw",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 748,
+          "title": "Proposed: Vancouver development cost levy bylaw amendments",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 747,
+          "title": "Proposed: Rezone 4910-4950 Willow Street to CD-1 in Vancouver",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 746,
+          "title": "Proposed: CD-1 Rezoning for 1500-1580 West 3rd Avenue",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 745,
+          "title": "Proposed: CD-1 rezoning for 1745 West 8th Avenue",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 744,
+          "title": "Proposed: Text amendment for CD-1 zoning at 133-159 West 49th Avenue, Vancouver",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 743,
+          "title": "Proposed: Vancouver council to vote on fast-tracking rental housing updates",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 742,
+          "title": "Proposed: CD-1 Rezoning for 1880-1898 Main Street and 1851 Lorne Street",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 741,
+          "title": "Proposed: CD-1 Rezoning for 2120-2130 West 10th Avenue",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 740,
+          "title": "Proposed: CD-1 Rezoning at 4339-4387 Cambie Street and 506 West 27th Avenue",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 739,
+          "title": "Proposed: CD-1 Rezoning for 2244–2280 West 6th Avenue",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 738,
+          "title": "Proposed: CD-1 Rezoning for 717-743 West 28th Avenue",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 737,
+          "title": "Council to vote on modifying conditions for West Georgia, Burrard, Alberni development",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 736,
+          "title": "Proposed: Vancouver council to vote on large electronic advertising signs on streets",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 735,
+          "title": "Proposed: Capital grant for social housing at 1395 Rolston Street",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 734,
+          "title": "Proposed: Sign bylaw amendment for PNE Exhibition Park at 2901 East Hastings Street",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        },
+        {
+          "id": 733,
+          "title": "Proposed: Lease of Coal Harbour Seawalk portion near 333 Menchions Mews",
+          "source_label": "Vancouver Council",
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 36,
       "path": "2026/05/05/36_vancouver-council_revised-regular-council-may-05-2026.json",
