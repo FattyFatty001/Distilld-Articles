@@ -1,7 +1,65 @@
 {
-  "generated_at": "2026-05-19T00:31:33.653774+00:00",
-  "count": 6,
+  "generated_at": "2026-05-20T22:37:36.464677+00:00",
+  "count": 8,
   "articles": [
+    {
+      "article_id": 68,
+      "path": "2026/03/16/68_bc-gazette-part-ii_bc-reg-362026-oic-782026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n05_36-2026",
+      "article_title": "B.C. Reg. 36/2026 – OIC 78/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "meeting_type": null,
+      "article_published_at": "2026-03-16T00:00:00",
+      "created_at": "2026-05-20T22:37:34.481457",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Agriculture, Landlord & Property Mgmt, Natural Resources",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 763,
+          "title": "Spongy moth eradication rules updated for BC",
+          "source_label": "BC Gazette Part II",
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 67,
+      "path": "2026/03/16/67_bc-gazette-part-ii_bc-reg-352026-oic-822026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n05_35-2026",
+      "article_title": "B.C. Reg. 35/2026 – OIC 82/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "meeting_type": null,
+      "article_published_at": "2026-03-16T00:00:00",
+      "created_at": "2026-05-20T22:37:30.920307",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Transportation & Logistics",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 762,
+          "title": "BC passenger vehicle accessibility rules updated — new payment and driver rules",
+          "source_label": "BC Gazette Part II",
+          "is_proposal": false
+        }
+      ]
+    },
     {
       "article_id": 55,
       "path": "2026/03/16/55_bc-gazette-part-ii_bc-reg-342026-oic-792026.json",
