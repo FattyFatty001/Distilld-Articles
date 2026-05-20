@@ -1,0 +1,51 @@
+{
+  "article_id": 67,
+  "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n05_35-2026",
+  "article_title": "B.C. Reg. 35/2026 – OIC 82/2026",
+  "source": "bc_gazette_part2",
+  "source_label": "BC Gazette Part II",
+  "government_level": "Provincial",
+  "meeting_type": null,
+  "article_published_at": "2026-03-16T00:00:00",
+  "has_attachments": false,
+  "has_pdf": false,
+  "has_html": false,
+  "has_agenda": false,
+  "has_minutes": true,
+  "agenda_brief_count": 0,
+  "minutes_brief_count": 1,
+  "pdf_urls": null,
+  "body": "",
+  "agenda_briefs": [],
+  "minutes_briefs": [
+    {
+      "id": 762,
+      "title": "BC passenger vehicle accessibility rules updated — new payment and driver rules",
+      "summary": "The BC government has amended the Passenger Transportation Regulation. The changes do two main things. First, they update how the registrar (the person who oversees passenger transportation) can make payments to BC Transit to support accessibility in the passenger-directed vehicle industry (taxis, ride-hailing, and other for-hire vehicles). Second, they change the rules for counting trips and when a trip starts and ends. For example, a trip now begins when a passenger gets in the vehicle, continues while the vehicle is occupied or held for passengers, and ends when all passengers get out at the final stop. The rules also now require that drivers of accessible passenger-directed vehicles (vehicles that can carry people with mobility aids like wheelchairs) must be included in certain accessibility requirements. These changes take effect in two stages: some on September 1, 2026, and others on September 1, 2027.",
+      "action_required": "If you operate passenger-directed vehicles (taxis, ride-hailing), review your trip-recording and accessibility policies to comply with the new definitions by September 1, 2026.",
+      "key_dates": [
+        {
+          "label": "BC passenger transportation rule changes take effect",
+          "date": "2026-09-01"
+        },
+        {
+          "label": "Further BC passenger transportation rule changes take effect",
+          "date": "2027-09-01"
+        }
+      ],
+      "industries": "Transportation & Logistics",
+      "locations": "British Columbia",
+      "government_level": "Provincial",
+      "is_proposal": false,
+      "item_number": null,
+      "source_body": "Regulation: B.C. Reg. 35/2026\nMade under: Passenger Transportation Act\nPublished in: No. 5 – B.C. Regs. 29 to 42, March 24, 2026\nDeposit date: March 16, 2026\n\nB.C. Reg. 35/2026, deposited March 16, 2026, under thePASSENGER TRANSPORTATION ACT[sections 53, 59, 59.01, 59.2, 59.3, 59.4 and 59.5]. Order in Council 82/2026, approved and ordered March 16, 2026. On the recommendation of the undersigned, the Lieutenant Governor, by and with the advice and consent of the Executive Council, orders that (a)\tthe Passenger Transportation Regulation, B.C. Reg. 266/2004, is amended as set out in the attached Schedule 1, (b)\teffective September 1, 2026, the Passenger Transportation Regulation is amended as set out in the attached Schedule 2, and (c)\teffective September 1, 2027, the Passenger Transportation Regulation is amended as set out in the attached Schedule 3. — M. FARNWORTH,Minister of Transportation and Transit; A. DIX,Presiding Member of the Executive Council. 1\tSection 7.1 of the Passenger Transportation Regulation, B.C. Reg. 266/2004, is amended (a)\tin subsection (1) (d) by striking out \"by persons who use mobility aids\", and (b)\tin subsection (3) by adding the following paragraph: (d)\tpersons who are or may be driving accessible passenger directed vehicles. 2\tPart 6 is amended by adding the following section: 23.1For the purposes of section 4 (0.2) (c)[payments to support accessibility in passenger directed vehicle industry]of the Act, the registrar may make payments to British Columbia Transit. (a)\tin subsection (2) by striking out \"the number of trips taken, during each instalment period, in motor vehicles that    are not accessible passenger directed vehicles\" and substituting \"the number of trips taken during each instalment period\", and (b)\tby repealing subsection (4) (a) and substituting the following: (i)\tbegins when a passenger enters the vehicle, (ii)\tcontinues for the period that the vehicle is continuously occupied or, if all passengers temporarily exit the vehicle, held for the passengers, and (iii)\tends when all passengers exit the vehicle at the final destination, and. 1\tSection 12.6 (1) of the Passenger Transportation Regulation, B.C. Reg. 266/2004, is amended (a)\tin the definition of\"driving record check\"by striking out \"section 12.61 (b)\" and substituting \"section 12.61 (a) (ii)\", and (b)\tin the definition of\"police record check\"by striking out \"section 12.61 (a)\" and substituting \"section 12.61 (a) (i)\".",
+      "attachments": [],
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n05_35-2026",
+      "article_title": "B.C. Reg. 35/2026 – OIC 82/2026",
+      "article_published_at": "2026-03-16T00:00:00",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "created_at": "2026-05-20T22:37:30.920307"
+    }
+  ]
+}
