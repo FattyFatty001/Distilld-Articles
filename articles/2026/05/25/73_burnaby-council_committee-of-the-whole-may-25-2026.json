@@ -1,0 +1,72 @@
+{
+  "article_id": 73,
+  "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=36d3b3f3-ac61-47db-90cd-9a8e7e065417&lang=English",
+  "article_title": "Committee of the Whole — May 25, 2026",
+  "source": "burnaby_council",
+  "source_label": "Burnaby Council",
+  "government_level": "Municipal",
+  "meeting_type": "committee-whole",
+  "article_published_at": "2026-05-25T00:00:00",
+  "has_attachments": false,
+  "has_pdf": false,
+  "has_html": false,
+  "has_agenda": true,
+  "has_minutes": false,
+  "agenda_brief_count": 2,
+  "minutes_brief_count": 0,
+  "pdf_urls": "{\"_doc\": [{\"url\": \"https://pub-burnaby.escribemeetings.com/FileStream.ashx?DocumentId=90122\", \"title\": \"Agenda (PDF)\"}], \"_inline\": [{\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=90118\", \"title\": \"PRESENTATION - PROPOSED SIGN BYLAW 2026.05.25_.pdf\"}]}",
+  "body": "",
+  "agenda_briefs": [
+    {
+      "id": 815,
+      "title": "Proposed: Burnaby council to vote on new Sign Bylaw replacement",
+      "summary": "Burnaby City Council is considering a replacement of the 1972 Sign Bylaw. Key changes include: new sign types (blade, digital, projected, sky signs, sign bands); digital sign brightness regulations; sky signs allowed only on buildings over 22,000 m² where the business occupies 25%+ of floor area; illumination restricted in lanes fronting residences (no illumination 11pm–7am); signs must not inhibit street tree growth (4.0 m clearance); city-owned billboards over 19.0 m² permitted; and new penalty provisions for traffic/structural hazards, tree/wire interference, and obstructing an inspector. This is a proposal only — not yet enacted.",
+      "action_required": "Watch for council decision and any public hearing dates — new rules will affect signage size, type, illumination, and permit requirements for Burnaby businesses.",
+      "key_dates": [
+        {
+          "label": "Burnaby Sign Bylaw 2026 council discussion — Committee of the Whole",
+          "date": "2026-05-25"
+        }
+      ],
+      "industries": "Retail, Construction & Development, Professional Services",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "3.1",
+      "source_body": "3.1\nVERBAL REPORT: PROPOSED SIGN BYLAW\n1.\nPRESENTATION - PROPOSED SIGN BYLAW 2026.05.25_.pdf\nPurpose: To introduce the proposed Sign Bylaw (replacement of the existing Sign Bylaw)",
+      "attachments": [
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=90118",
+          "title": "PRESENTATION - PROPOSED SIGN BYLAW 2026.05.25_.pdf"
+        }
+      ],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=36d3b3f3-ac61-47db-90cd-9a8e7e065417&lang=English",
+      "article_title": "Committee of the Whole Agenda — May 25, 2026",
+      "article_published_at": "2026-05-25T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-22T23:56:59.985077"
+    },
+    {
+      "id": 816,
+      "title": "Proposed: Burnaby Council to consider housing delivery policy options",
+      "summary": "Burnaby Council is set to discuss policy options to support housing delivery during tough economic times. A verbal report will outline possible changes to rules or incentives to help get new housing built. This is a proposal only — no decisions have been made yet. The goal is to keep housing projects moving forward despite high costs and market challenges.",
+      "action_required": "Watch for the council decision — proposed policy changes could affect your development or construction projects.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "3.2",
+      "source_body": "3.2\nVERBAL REPORT: POLICY CONSIDERATIONS FOR HOUSING DELIVERY IN CURRENT MARKET CONDITIONS\nPurpose: To discuss policy options to support housing delivery during challenging economic times.",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=36d3b3f3-ac61-47db-90cd-9a8e7e065417&lang=English",
+      "article_title": "Committee of the Whole Agenda — May 25, 2026",
+      "article_published_at": "2026-05-25T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-22T23:56:59.988006"
+    }
+  ],
+  "minutes_briefs": []
+}
