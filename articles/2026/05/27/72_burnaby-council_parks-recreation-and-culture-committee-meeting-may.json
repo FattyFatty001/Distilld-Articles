@@ -1,0 +1,67 @@
+{
+  "article_id": 72,
+  "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=1db5e71a-d164-4b72-b0ce-9319a5ade2ed&lang=English",
+  "article_title": "Parks, Recreation and Culture Committee Meeting — May 27, 2026",
+  "source": "burnaby_council",
+  "source_label": "Burnaby Council",
+  "government_level": "Municipal",
+  "meeting_type": "parks",
+  "article_published_at": "2026-05-27T00:00:00",
+  "has_attachments": false,
+  "has_pdf": false,
+  "has_html": false,
+  "has_agenda": true,
+  "has_minutes": false,
+  "agenda_brief_count": 2,
+  "minutes_brief_count": 0,
+  "pdf_urls": "{\"_doc\": [{\"url\": \"https://pub-burnaby.escribemeetings.com/FileStream.ashx?DocumentId=90115\", \"title\": \"Agenda (PDF)\"}], \"_inline\": [{\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=90111\", \"title\": \"2026.04.22 PRCC Minutes DRAFT.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=90108\", \"title\": \"Making Life Better - Parks, Recreation and Culture Plan - Final Phase (Phase 4) \"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=90109\", \"title\": \"Attachment 1 -  Draft Phase 4 Confirming - What We Heard Report.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=90110\", \"title\": \"Attachment 2 - Making Life Better - Parks, Recreation and Culture Plan.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=90107\", \"title\": \"Eugene Hibbert - Burnaby Lakers Junior A Lacrosse Team at Copeland Arena.pdf\"}]}",
+  "body": "",
+  "agenda_briefs": [
+    {
+      "id": 813,
+      "title": "Council to vote on final Parks, Recreation and Culture Plan for Burnaby",
+      "summary": "Burnaby City Council is set to vote on approving the final 'Making Life Better: Parks, Recreation and Culture Plan' (Phase 4). The plan outlines the city's long-term vision for parks, recreation facilities, and cultural programs. If approved, it will guide future investments and decisions, with parks-related actions advanced to earlier timelines and culture/physical activity strategies shifted to medium and long term.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development, Professional Services",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "6.1",
+      "source_body": "6.1\nMAKING LIFE BETTER - PARKS, RECREATION AND CULTURE PLAN - FINAL PHASE (PHASE 4)\nPurpose: To seek approval of the final Making Life Better: Parks, Recreation and Culture Plan, and to inform on the recent public engagement and revisions made to the Plan.",
+      "attachments": [
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=90108",
+          "title": "Making Life Better - Parks, Recreation and Culture Plan - Final Phase (Phase 4) "
+        }
+      ],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=1db5e71a-d164-4b72-b0ce-9319a5ade2ed&lang=English",
+      "article_title": "Parks, Recreation and Culture Committee Meeting Agenda — May 27, 2026",
+      "article_published_at": "2026-05-27T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-22T22:08:56.917111"
+    },
+    {
+      "id": 814,
+      "title": "Proposed: Burnaby Lakers lacrosse team booking fines and bylaw rules",
+      "summary": "Council is set to consider a proposal regarding the Burnaby Lakers Junior A Lacrosse Team's use of Copeland Arena. Currently, no fine process exists for teams that go over their booked time. Staff have reminded the team to stick to their allocated booking times, like all other user groups. Moving forward, extended use beyond booked times may be added to bookings to meet operational, insurance, safety, and bylaw requirements. This could mean new rules or fees for any group that uses city facilities.",
+      "action_required": "Watch for the council decision — this could affect your booking rules and costs if you use city facilities.",
+      "key_dates": [],
+      "industries": "Professional Services",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "8.1",
+      "source_body": "8.1\nEugene Hibbert - Burnaby Lakers Junior A Lacrosse Team at Copeland Arena\nNote from Deputy General Manager Parks, Recreation and Culture: Staff will follow up with the writer regarding their concerns. The Junior A team has not received fines, as no fine process currently exists. They have been reminded to remain within their allocated booking times, consistent with all user groups. Moving forward, extended use beyond booked times may be added to bookings in accordance with operational, insurance, safety, and bylaw requirements.",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=1db5e71a-d164-4b72-b0ce-9319a5ade2ed&lang=English",
+      "article_title": "Parks, Recreation and Culture Committee Meeting Agenda — May 27, 2026",
+      "article_published_at": "2026-05-27T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-22T22:08:56.919838"
+    }
+  ],
+  "minutes_briefs": []
+}
