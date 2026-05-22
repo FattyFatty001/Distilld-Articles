@@ -1,7 +1,168 @@
 {
-  "generated_at": "2026-05-21T20:23:02.985378+00:00",
-  "count": 17,
+  "generated_at": "2026-05-22T15:54:33.556810+00:00",
+  "count": 18,
   "articles": [
+    {
+      "article_id": 71,
+      "path": "2026/05/26/71_burnaby-council_council-correspondence-and-public-notice-submissio.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=2c30f84c-688f-4076-b90f-7e6ae5fc11dd&lang=English",
+      "article_title": "Council Correspondence and Public Notice Submissions — May 26, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "meeting_type": "correspondence",
+      "article_published_at": "2026-05-26T00:00:00",
+      "created_at": "2026-05-22T15:54:21.127523",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 23,
+      "minutes_brief_count": 0,
+      "industries": "Construction & Development, Food Service, Hotel & Accommodation, Landlord & Property Mgmt, Natural Resources, Professional Services, Retail, Transportation & Logistics",
+      "locations": "Abbotsford, British Columbia, Burnaby, Canada, North Vancouver",
+      "briefs": [
+        {
+          "id": 812,
+          "title": "Proposed: Temporary Use Permit for church at 7375 Kingsway",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 811,
+          "title": "Proposed: Burnaby to consider 'Density Without Demolition' pilot program",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 810,
+          "title": "Proposed: NAV Canada flight path changes — Burnaby Council to consider response",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 809,
+          "title": "Proposed: Council to vote on paving Burnaby Lake trails",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 808,
+          "title": "Proposed: Burnaby Council to vote on Metrotown pedestrian scramble",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 807,
+          "title": "Proposed: Burnaby Council to consider Michael J. Fox Theatre closure",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 806,
+          "title": "Proposed: Burnaby to consider new rules for street naming and correspondence",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 805,
+          "title": "Proposed: Council to decide on building permit dispute for 5970 Sussex Avenue",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 804,
+          "title": "Proposed: Burnaby Council to vote on Rathburn Drive housing rezoning (REZ #25-19)",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 803,
+          "title": "Proposed: Burnaby Council to vote on Rathburn Drive student housing rezoning",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 802,
+          "title": "Council to consider correspondence from Descendants of Komagata Maru Society",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 801,
+          "title": "Proposed: Burnaby Council to consider support for chlorine gas concerns",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 800,
+          "title": "Proposed: Burnaby-North Shore Rapid Bus Transit project correspondence",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 799,
+          "title": "Proposed: Burnaby to consider SSMUH rules and restrictive covenants",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 798,
+          "title": "Proposed: BC Provincial Sales Tax expansion — Council to send letter to Minister",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 797,
+          "title": "Proposed: Burnaby Council to consider federal Build Canada Homes letter",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 796,
+          "title": "Proposed: New crosswalk across North Road at Still Creek Avenue",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 795,
+          "title": "Proposed: West Sells Park signage and speed bumps request",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 794,
+          "title": "Proposed: Burnaby Lakers Junior A Lacrosse team booking rules at Copeland Arena",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 793,
+          "title": "Proposed: Rosser Avenue and Halifax Street intersection changes in Burnaby",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 792,
+          "title": "Proposed: 4-unit development at 6516 Portland Street under building permit review",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 791,
+          "title": "Proposed: Burnaby to extend temporary shelter at 7320 Buller Avenue through summer 2026",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        },
+        {
+          "id": 790,
+          "title": "Proposed: Burnaby Council to vote on Edmonds traffic and speed review",
+          "source_label": "Burnaby Council",
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 70,
       "path": "2026/05/26/70_burnaby-council_city-council-meeting-may-26-2026.json",
