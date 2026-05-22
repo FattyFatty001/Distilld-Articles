@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-22T22:08:58.602295+00:00",
+  "generated_at": "2026-05-22T23:57:01.498464+00:00",
   "sources": {
     "burnaby_council": {
-      "generated_at": "2026-05-22T22:08:58.602295+00:00",
-      "count": 19,
+      "generated_at": "2026-05-22T23:57:01.498464+00:00",
+      "count": 20,
       "locations": "Abbotsford, British Columbia, Burnaby, Canada, Coquitlam, Maple Ridge, Metro Vancouver, New Westminster, North Vancouver, Port Coquitlam, Port Moody, Surrey, Vancouver, Victoria",
       "meeting_types": [
         "committee-whole",
@@ -21,14 +21,14 @@
       "index_path": "Index/bc/index_source_burnaby_council.json"
     },
     "liquor_bulletins": {
-      "generated_at": "2026-05-22T22:08:58.602295+00:00",
+      "generated_at": "2026-05-22T23:57:01.498464+00:00",
       "count": 7,
       "locations": "British Columbia",
       "meeting_types": null,
       "index_path": "Index/bc/index_source_liquor_bulletins.json"
     },
     "vancouver_council": {
-      "generated_at": "2026-05-22T22:08:58.602295+00:00",
+      "generated_at": "2026-05-22T23:57:01.498464+00:00",
       "count": 6,
       "locations": "British Columbia, Vancouver, Victoria",
       "meeting_types": [
@@ -37,14 +37,14 @@
       "index_path": "Index/bc/index_source_vancouver_council.json"
     },
     "burnaby_bylaws": {
-      "generated_at": "2026-05-22T22:08:58.602295+00:00",
+      "generated_at": "2026-05-22T23:57:01.498464+00:00",
       "count": 6,
       "locations": "Burnaby",
       "meeting_types": null,
       "index_path": "Index/bc/index_source_burnaby_bylaws.json"
     },
     "bc_gazette_part2": {
-      "generated_at": "2026-05-22T22:08:58.602295+00:00",
+      "generated_at": "2026-05-22T23:57:01.498464+00:00",
       "count": 8,
       "locations": "British Columbia, Victoria",
       "meeting_types": null,
