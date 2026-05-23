@@ -4,6 +4,7 @@
   "article_title": "Executive Committee of Council Meeting — May 05, 2026",
   "source": "burnaby_council",
   "source_label": "Burnaby Council",
+  "source_website_icon": "https://burnaby.ca",
   "government_level": "Municipal",
   "meeting_type": "executive",
   "article_published_at": "2026-05-05T00:00:00",
@@ -35,6 +36,7 @@
       "article_published_at": "2026-05-05T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
+  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-11T02:06:46.987694"
     },
     {
@@ -55,6 +57,7 @@
       "article_published_at": "2026-05-05T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
+  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-11T02:06:46.991597"
     }
   ],
