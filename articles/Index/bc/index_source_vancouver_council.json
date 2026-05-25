@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T23:57:01.498464+00:00",
+  "generated_at": "2026-05-25T19:08:24.115961+00:00",
   "count": 6,
   "articles": [
     {
@@ -12,15 +12,15 @@
       "government_level": "Municipal",
       "meeting_type": "regular-council",
       "article_published_at": "2026-05-19T00:00:00",
-      "created_at": "2026-05-19T00:31:17.671628",
+      "created_at": "2026-05-25T19:08:22.311023",
       "has_attachments": false,
       "has_pdf": false,
       "has_html": false,
       "has_agenda": true,
-      "has_minutes": false,
+      "has_minutes": true,
       "agenda_brief_count": 29,
-      "minutes_brief_count": 0,
-      "industries": "Construction & Development, Food Service, Hotel & Accommodation, Landlord & Property Mgmt, Liquor, Professional Services, Retail",
+      "minutes_brief_count": 27,
+      "industries": "Construction & Development, Food Service, Hotel & Accommodation, Landlord & Property Mgmt, Liquor, Professional Services, Retail, Tenant",
       "locations": "Vancouver",
       "briefs": [
         {
@@ -196,6 +196,168 @@
           "title": "Proposed: Lease of Coal Harbour Seawalk portion near 333 Menchions Mews",
           "source_label": "Vancouver Council",
           "is_proposal": true
+        },
+        {
+          "id": 843,
+          "title": "Council approved new mixed-use commercial district for rental housing and small hotels",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 842,
+          "title": "Council approved electronic signs on Vancouver streets",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 841,
+          "title": "Council approved new C-2A district rules for Vancouver's Downtown Eastside",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 840,
+          "title": "Council approved parking bylaw changes for new C-2A district",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 839,
+          "title": "Council approved noise bylaw changes for new C-2A district",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 838,
+          "title": "Council approved sign bylaw changes for new C-2A district",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 837,
+          "title": "Council approved bylaw amendment for new C-2A district in Vancouver",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 836,
+          "title": "Council approved bylaw changes for new C-2A rental housing district",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 835,
+          "title": "Council approved new C-2A zoning district for Vancouver businesses",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 834,
+          "title": "Council approved a housing agreement for 282 West 49th Avenue social housing.",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 833,
+          "title": "Council approved a housing agreement for 282 West 49th Avenue (market rental).",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 832,
+          "title": "Council approved repealing a housing agreement bylaw for 1289 Nicola Street",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 831,
+          "title": "Council approved amendments to Vancouver's Utilities Development Cost Levy By-law",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 830,
+          "title": "Council approved amendments to Vancouver's Development Cost Levy By-law No. 9755",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 829,
+          "title": "Council approved CD-1 rezoning for 4910-4950 Willow Street",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 828,
+          "title": "Council approved higher density for mezzanines at West 49th Avenue",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 827,
+          "title": "Council approved new RR-3C district to fast-track rental housing",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 826,
+          "title": "Council approved rezoning for 17-storey rental tower on Main Street",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 825,
+          "title": "Council approved 20-storey rental tower at 2120-2130 West 10th Avenue",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 824,
+          "title": "Council approved rezoning for 9-storey mixed-use building on Cambie Street",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 823,
+          "title": "Council approved rezoning for two 22-storey rental buildings on West 6th",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 822,
+          "title": "Council approved rezoning for 6-storey rental building at 717-743 West 28th",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 821,
+          "title": "Council approved rezoning deadline extensions to May 31, 2028 for four Vancouver properties",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 820,
+          "title": "Council approved large-format electronic advertising signs on Vancouver streets",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 819,
+          "title": "Council approved $30M grant for 212 social housing units on Rolston Street",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 818,
+          "title": "Council approved three new electronic signs at PNE Exhibition Park",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
+        },
+        {
+          "id": 817,
+          "title": "Council approved leasing 11.8 sqm of Coal Harbour Seawalk to adjacent business",
+          "source_label": "Vancouver Council",
+          "is_proposal": false
         }
       ]
     },
