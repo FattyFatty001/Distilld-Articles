@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T23:12:21.753532+00:00",
+  "generated_at": "2026-05-25T23:16:30.563901+00:00",
   "count": 1,
   "articles": [
     {
@@ -13,7 +13,7 @@
       "source_website_icon": "https://www.richmond.ca",
       "meeting_type": null,
       "article_published_at": "2026-05-19T00:00:00",
-      "created_at": "2026-05-25T23:12:20.776073",
+      "created_at": "2026-05-25T23:16:29.600757",
       "has_attachments": false,
       "has_pdf": false,
       "has_html": false,
@@ -21,7 +21,7 @@
       "has_minutes": false,
       "agenda_brief_count": 34,
       "minutes_brief_count": 0,
-      "industries": "Construction & Development, Finance & Insurance, Food Service, Grocery & Food Retail, Healthcare, Labour & Employment, Landlord & Property Mgmt, Natural Resources, Professional Services, Retail, Technology, Transportation & Logistics",
+      "industries": "Construction & Development, Finance & Insurance, Food Service, Healthcare, Hotel & Accommodation, Labour & Employment, Landlord & Property Mgmt, Natural Resources, Professional Services, Retail, Technology, Transportation & Logistics",
       "locations": "Richmond",
       "briefs": [
         {
@@ -56,7 +56,7 @@
         },
         {
           "id": 872,
-          "title": "Proposed: Richmond zoning and land-use changes to match state housing law",
+          "title": "Proposed: Richmond zoning and land-use changes to meet state housing law",
           "source_label": "Richmond Council",
           "is_proposal": true
         },
@@ -68,25 +68,25 @@
         },
         {
           "id": 870,
-          "title": "Proposed: Richmond sidewalk vendor rules updated — council to vote",
+          "title": "Proposed: Richmond sidewalk vendor rules to be updated",
           "source_label": "Richmond Council",
           "is_proposal": true
         },
         {
           "id": 869,
-          "title": "Proposed: $390,000 contract amendment for Richmond electric bikeshare",
+          "title": "Proposed: Richmond council to vote on $390K e-bike share contract extension",
           "source_label": "Richmond Council",
           "is_proposal": true
         },
         {
           "id": 868,
-          "title": "Proposed: $1.28M slope stabilization project on Santa Fe Avenue",
+          "title": "Proposed: $1.28M slope stabilization on Santa Fe Avenue",
           "source_label": "Richmond Council",
           "is_proposal": true
         },
         {
           "id": 867,
-          "title": "Proposed: Richmond council to vote on $3.25M road repair fund list",
+          "title": "Proposed: Richmond Council to vote on $3.25M road repair fund list",
           "source_label": "Richmond Council",
           "is_proposal": true
         },
@@ -110,7 +110,7 @@
         },
         {
           "id": 863,
-          "title": "Proposed: Richmond council to vote on $75,000 shooting range rental contract",
+          "title": "Proposed: Richmond council to vote on $75,000 shooting range contract",
           "source_label": "Richmond Council",
           "is_proposal": true
         },
@@ -146,19 +146,19 @@
         },
         {
           "id": 857,
-          "title": "Proposed: Richmond council to vote on extending EMS agreement with Contra Costa County",
+          "title": "Proposed: Richmond council to vote on extending EMS agreement with Contra Costa",
           "source_label": "Richmond Council",
           "is_proposal": true
         },
         {
           "id": 856,
-          "title": "Proposed: Richmond council to designate officials for disaster aid applications",
+          "title": "Proposed: Richmond Council to designate officials for disaster aid applications",
           "source_label": "Richmond Council",
           "is_proposal": true
         },
         {
           "id": 855,
-          "title": "Proposed: Richmond Donation Acceptance Policy up for council vote",
+          "title": "Proposed: Richmond City Donation Acceptance Policy up for approval",
           "source_label": "Richmond Council",
           "is_proposal": true
         },
@@ -170,7 +170,7 @@
         },
         {
           "id": 853,
-          "title": "Proposed: Richmond Council to vote on writing off $535,499 in uncollected debts",
+          "title": "Proposed: Richmond Council to vote on writing off $535,499 in unpaid debts",
           "source_label": "Richmond Council",
           "is_proposal": true
         },
@@ -182,13 +182,13 @@
         },
         {
           "id": 851,
-          "title": "Proposed: Downtown Richmond property assessment levy for 2026-2027",
+          "title": "Proposed: Downtown Richmond property assessment levy for FY 2026-27",
           "source_label": "Richmond Council",
           "is_proposal": true
         },
         {
           "id": 850,
-          "title": "Proposed: Richmond council to accept $35,000 Chevron grant for street outreach",
+          "title": "Proposed: Richmond Council to accept $35,000 Chevron grant for street outreach",
           "source_label": "Richmond Council",
           "is_proposal": true
         },
@@ -200,7 +200,7 @@
         },
         {
           "id": 848,
-          "title": "Proposed: Richmond council to vote on $300K hearing officer contracts",
+          "title": "Council to vote on on-call hearing officer contracts up to $300,000 per firm",
           "source_label": "Richmond Council",
           "is_proposal": true
         },
@@ -218,13 +218,13 @@
         },
         {
           "id": 845,
-          "title": "Proposed: Richmond Council to vote on $150K personnel investigation contract",
+          "title": "Proposed: Richmond council to vote on $150K investigation contract",
           "source_label": "Richmond Council",
           "is_proposal": true
         },
         {
           "id": 844,
-          "title": "Council to vote on $75,000 increase for Winehaven litigation legal fees",
+          "title": "Proposed: Richmond council to vote on $75K increase for Winehaven legal fees",
           "source_label": "Richmond Council",
           "is_proposal": true
         }
