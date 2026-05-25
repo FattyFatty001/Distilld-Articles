@@ -20,11 +20,11 @@
   "agenda_briefs": [
     {
       "id": 877,
-      "title": "Proposed: Richmond Council to explore funding for youth scholarships",
-      "summary": "Council will receive a presentation from Richmond Promise, a local non-profit that helps Richmond students access and complete post-secondary education (including trade schools and colleges, not just four-year universities). After the presentation, Council will consider directing staff to explore funding options to support scholarships for Richmond youth. This is a proposed step only — no funding has been approved yet.",
-      "action_required": "No action needed now — watch for the Council decision on whether to proceed with funding exploration.",
+      "title": "Proposed: Richmond Council to explore funding for student scholarships",
+      "summary": "Council will receive a presentation from Richmond Promise, a local organization that helps Richmond students access and complete post-secondary education (including college, trade school, and university). After the presentation, Council will consider directing staff to find funding for scholarships for Richmond youth. This is a proposed step — no funding has been approved yet.",
+      "action_required": null,
       "key_dates": [],
-      "industries": "Professional Services",
+      "industries": "Labour & Employment, Professional Services",
       "locations": "Richmond",
       "government_level": "Municipal",
       "is_proposal": true,
@@ -36,20 +36,20 @@
       "article_published_at": "2026-05-19T00:00:00",
       "source": "richmond_council",
       "source_label": "Richmond Council",
-      "created_at": "2026-05-25T22:16:56.342971"
+      "created_at": "2026-05-25T22:31:23.771557"
     },
     {
       "id": 876,
-      "title": "Proposed: Richmond Council to vote on opposing CO2 pipelines",
-      "summary": "Richmond City Council is set to vote on a resolution opposing the proposed Montezuma Carbon Sequestration Hub. This project would build a large network of CO2 pipelines through Richmond, Contra Costa, and Solano Counties to transport carbon waste for underground storage. Council will hear public comments and debate the resolution at the upcoming meeting. If approved, the resolution would formally state the city's opposition to the pipeline project, citing health and safety risks to residents.",
-      "action_required": "Attend the council meeting or submit written comments to voice your concerns about the proposed CO2 pipelines.",
+      "title": "Proposed: Richmond Council to vote on opposing CO2 pipeline project",
+      "summary": "Richmond City Council is set to consider a resolution opposing the proposed Montezuma Carbon Sequestration Hub. This project would involve building a large network of CO2 pipelines through Richmond, Contra Costa, and Solano Counties to transport and dump carbon waste underground. Council will hear public comments and deliberate on whether to adopt the resolution. The decision has not been made yet.",
+      "action_required": "Attend the council meeting or submit public comment to voice your support or opposition before the vote.",
       "key_dates": [
         {
-          "label": "Council deliberation and public comment on CO2 pipeline resolution",
+          "label": "Council deliberation and public comment on Montezuma CO2 pipeline resolution",
           "date": "2026-05-12"
         }
       ],
-      "industries": "Natural Resources, Transportation & Logistics",
+      "industries": "Natural Resources, Transportation & Logistics, Construction & Development",
       "locations": "Richmond",
       "government_level": "Municipal",
       "is_proposal": true,
@@ -61,15 +61,20 @@
       "article_published_at": "2026-05-19T00:00:00",
       "source": "richmond_council",
       "source_label": "Richmond Council",
-      "created_at": "2026-05-25T22:16:56.341522"
+      "created_at": "2026-05-25T22:31:23.770271"
     },
     {
       "id": 875,
-      "title": "Proposed: Richmond council to hold public hearing on city job vacancies",
-      "summary": "Council is set to hold a public hearing and receive a presentation on the status of city job vacancies and the city's recruitment and retention efforts in 2025. This is a proposed annual hearing — it has not yet been approved or enacted. The hearing will give the public a chance to learn about staffing gaps and how the city plans to attract and keep workers.",
-      "action_required": "Attend the public hearing to learn about city staffing challenges and share your input.",
-      "key_dates": [],
-      "industries": "Labour & Employment",
+      "title": "Proposed: Richmond Council to hold public hearing on city job vacancies",
+      "summary": "Richmond City Council is set to hold a public hearing and receive a presentation on the status of city job vacancies and the city's efforts to recruit and retain workers in 2025. This is a proposed annual hearing — it has not yet been approved or enacted. The hearing will cover how many jobs are open, how the city is trying to fill them, and what it is doing to keep staff. This could affect local businesses if the city's hiring challenges slow down permits, inspections, or other services you rely on.",
+      "action_required": "Attend the public hearing to learn how city staffing shortages may affect your business permits and services.",
+      "key_dates": [
+        {
+          "label": "Richmond city vacancies public hearing — proposed date",
+          "date": "2025-12-31"
+        }
+      ],
+      "industries": "Labour & Employment, Professional Services",
       "locations": "Richmond",
       "government_level": "Municipal",
       "is_proposal": true,
@@ -81,13 +86,13 @@
       "article_published_at": "2026-05-19T00:00:00",
       "source": "richmond_council",
       "source_label": "Richmond Council",
-      "created_at": "2026-05-25T22:16:56.340944"
+      "created_at": "2026-05-25T22:31:23.769745"
     },
     {
       "id": 874,
       "title": "Proposed: Richmond council to vote on new Master Fee Schedule",
-      "summary": "Richmond City Council is set to hold a public hearing and introduce a new ordinance (a proposed law) that would establish new fees for the city's Master Fee Schedule. This means the city is considering changing the fees it charges for various permits, licences, and services. The decision has not been made yet — council will vote on it after the public hearing. Business owners who pay city fees should pay attention to this proposal.",
-      "action_required": "Attend the public hearing or submit your comments to council before the vote to have your say on the proposed fee changes.",
+      "summary": "Council is set to vote on a proposed update to the city's Master Fee Schedule, which would establish new fees for various city services. A public hearing will be held before the first reading of the ordinance. If approved, the new fees could affect the cost of business licences, permits, and other municipal services. The proposal is up for approval at an upcoming council meeting.",
+      "action_required": "Attend the public hearing to voice your concerns about proposed fee increases.",
       "key_dates": [
         {
           "label": "Public hearing on proposed Master Fee Schedule",
@@ -106,17 +111,17 @@
       "article_published_at": "2026-05-19T00:00:00",
       "source": "richmond_council",
       "source_label": "Richmond Council",
-      "created_at": "2026-05-25T22:16:56.340388"
+      "created_at": "2026-05-25T22:31:23.769239"
     },
     {
       "id": 873,
       "title": "Proposed: Richmond to levy special assessments for unpaid code fines",
-      "summary": "Council will consider a resolution to add unpaid administrative citation fees and nuisance abatement costs to property tax bills as special assessments. This means if a property owner has not paid fines for things like bylaw violations or cleaning up a nuisance property, the city could put those charges on the owner's property tax bill. A public hearing will be held before any decision is made. This is a proposed action — it has not been approved yet.",
+      "summary": "Council will consider a proposal to add unpaid administrative citation fees and nuisance abatement costs directly onto property tax bills as a 'special assessment'. This means if a property owner has unpaid fines for things like code violations or nuisance cleanup, the city could collect that money by adding it to the property's annual tax levy. A public hearing will be held before any decision is made. This is not yet approved — it is up for discussion and a vote at a future council meeting.",
       "action_required": "Attend the public hearing to voice your concerns or support before council votes.",
       "key_dates": [
         {
-          "label": "Public hearing on special assessments for unpaid code fines — Richmond",
-          "date": "2025-05-12"
+          "label": "Richmond special assessment bylaw public hearing",
+          "date": "2025-06-10"
         }
       ],
       "industries": "Landlord & Property Mgmt, Construction & Development, Retail",
@@ -131,16 +136,16 @@
       "article_published_at": "2026-05-19T00:00:00",
       "source": "richmond_council",
       "source_label": "Richmond Council",
-      "created_at": "2026-05-25T22:16:56.339817"
+      "created_at": "2026-05-25T22:31:23.768705"
     },
     {
       "id": 872,
       "title": "Proposed: Richmond zoning and land-use changes to match state housing law",
-      "summary": "Richmond City Council is set to vote on a proposed ordinance that would change several sections of the city's zoning code and the General Plan 2030. These changes are meant to bring local rules in line with recent updates to California state housing law, as part of the city's 6th Cycle Housing Element. If approved, the amendments could affect what types of housing can be built where, and how land can be used. A public hearing will be held before the first vote.",
-      "action_required": "Attend the public hearing to voice your support or concerns before Council votes.",
+      "summary": "Richmond City Council is set to vote on proposed changes to the city's zoning bylaws and General Plan (the city's long-term land-use blueprint). These amendments are meant to bring local rules in line with recent updates to California state housing law, as part of the city's 6th Cycle Housing Element. If approved, the changes would affect how land can be used and what types of housing can be built in certain areas. A public hearing will be held before the vote.",
+      "action_required": "Attend the public hearing to voice your support or concerns about how these zoning changes could affect your property or business.",
       "key_dates": [
         {
-          "label": "Richmond housing element zoning amendments — public hearing and first reading",
+          "label": "Public hearing on proposed zoning and General Plan amendments",
           "date": "2025-05-13"
         }
       ],
@@ -149,22 +154,22 @@
       "government_level": "Municipal",
       "is_proposal": true,
       "item_number": "P.1",
-      "source_body": "P.1\nGeneral Plan and Zoning Text Amendments\nRelated to 6th Cycle Housing Element Program\nImplementation\n•  HOLD a public hearing; INTRODUCE (first reading) an ordinance, as recommended by Richmond’s Planning Commission, amending Articles 15.04.104, 15.04.201, 15.04.202, 15.04.203, 15.04.602, 15.04.607; Sections 15.04.610.180, 15.04.610.360, 15.04.805.040 and 15.04.806.040 of the Richmond Municipal Code (RMC); and ADOPT a resolution, as recommended by Richmond’s Planning Commission, amending the General Plan 2030 Land Use and Urban Design Element, to implement certain programs identified in the City’s adopted 6th Cycle Housing Element to align with recent changes to State Law - Community Development Department (Lina Velasco/Avery Stark 510-620-6714).",
+      "source_body": "P.1\nGeneral Plan and Zoning Text Amendments Related to 6th Cycle Housing Element Program Implementation\n•  HOLD a public hearing; INTRODUCE (first reading) an ordinance, as recommended by Richmond’s Planning Commission, amending Articles 15.04.104, 15.04.201, 15.04.202, 15.04.203, 15.04.602, 15.04.607; Sections 15.04.610.180, 15.04.610.360, 15.04.805.040 and 15.04.806.040 of the Richmond Municipal Code (RMC); and ADOPT a resolution, as recommended by Richmond’s Planning Commission, amending the General Plan 2030 Land Use and Urban Design Element, to implement certain programs identified in the City’s adopted 6th Cycle Housing Element to align with recent changes to State Law - Community Development Department (Lina Velasco/Avery Stark 510-620-6714).",
       "attachments": [],
       "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=80925a00-313d-4a91-a981-8a4de137a4a1&Agenda=Agenda&lang=English",
       "article_title": "City Council Agenda",
       "article_published_at": "2026-05-19T00:00:00",
       "source": "richmond_council",
       "source_label": "Richmond Council",
-      "created_at": "2026-05-25T22:16:56.339259"
+      "created_at": "2026-05-25T22:31:23.768177"
     },
     {
       "id": 871,
-      "title": "Proposed: Richmond council to review draft budget for Community Services, Economic Development, and Fire",
-      "summary": "Richmond City Council is set to consider the draft Fiscal Year 2026-27 Annual Operating Budget and the FY 2026-31 Five-Year Capital Improvement Plan. As part of this ongoing review, council will receive presentations and updates from the Community Services, Economic Development, and Fire Departments. This is a proposed budget — it has not yet been approved. The council will discuss these departmental presentations and any updated financial or operational considerations before making a final decision. Business owners should watch for the outcome, as the approved budget could affect city services, fees, and economic development programs.",
-      "action_required": "Monitor council meetings for the final budget decision — it may affect city fees, permits, or services your business relies on.",
+      "title": "Proposed: Richmond FY 2026-27 budget presentations and updates",
+      "summary": "Council will consider updates from the Community Services, Economic Development, and Fire Departments as part of the ongoing review of the draft Fiscal Year 2026-27 Annual Operating Budget and the FY 2026-31 Five-Year Capital Improvement Plan. These presentations are part of the budget process, and no final decisions have been made yet. Council will discuss and potentially vote on the budget after all departmental presentations are complete.",
+      "action_required": null,
       "key_dates": [],
-      "industries": "Professional Services, Retail, Construction & Development",
+      "industries": "Professional Services, Construction & Development, Food Service",
       "locations": "Richmond",
       "government_level": "Municipal",
       "is_proposal": true,
@@ -176,14 +181,19 @@
       "article_published_at": "2026-05-19T00:00:00",
       "source": "richmond_council",
       "source_label": "Richmond Council",
-      "created_at": "2026-05-25T22:16:56.338674"
+      "created_at": "2026-05-25T22:31:23.767659"
     },
     {
       "id": 870,
       "title": "Proposed: Richmond sidewalk vendor rules to be updated",
-      "summary": "Council will consider a proposed update to the Sidewalk Vendor Ordinance (Chapter 7.42 of the Richmond Municipal Code). The changes would update administrative procedures, waiver rules, and enforcement mechanisms for sidewalk vendors. This item was first introduced at the April 28, 2026 meeting and continued to the May 5, 2026 meeting. It is now up for a first reading vote. If approved, it would change how vendors get permits, how waivers are handled, and how rules are enforced on Richmond sidewalks.",
-      "action_required": "Watch for the council decision — this could affect your sidewalk vending licence or permit.",
-      "key_dates": [],
+      "summary": "Council will consider a proposed bylaw that would update the rules for sidewalk vendors in Richmond. The changes would affect how vendors get permits, how rules can be waived, and how the city enforces the rules. This item was first discussed at council meetings in late April and early May 2026, and is now back for a first vote. If approved, the new rules would replace parts of the current Sidewalk Vendor Ordinance (Chapter 7.42 of the Richmond Municipal Code).",
+      "action_required": "Watch for the council decision — if passed, this could change your permit and enforcement obligations.",
+      "key_dates": [
+        {
+          "label": "Council vote on proposed sidewalk vendor bylaw",
+          "date": "2026-05-12"
+        }
+      ],
       "industries": "Food Service, Retail",
       "locations": "Richmond",
       "government_level": "Municipal",
@@ -196,20 +206,15 @@
       "article_published_at": "2026-05-19T00:00:00",
       "source": "richmond_council",
       "source_label": "Richmond Council",
-      "created_at": "2026-05-25T22:16:56.338105"
+      "created_at": "2026-05-25T22:31:23.767116"
     },
     {
       "id": 869,
-      "title": "Proposed: Richmond council to vote on $390,000 e-bike contract extension",
-      "summary": "Richmond City Council is set to vote on a proposed contract amendment with Charleston Mobility to keep the city's electric bikeshare program running until the end of the current fiscal year. The amendment would add $390,000, bringing the total contract to $3,540,341. This is a temporary extension to give the city time to decide the program's long-term future during the 2026-27 budget process. The money would come from the Environmental and Community Investment Agreement (ECIA) Transportation budget. This item was previously discussed at council meetings on April 28 and May 5, 2026, and has not yet been approved.",
-      "action_required": "Watch for the council decision — this could affect access to the e-bikeshare program in Richmond.",
-      "key_dates": [
-        {
-          "label": "Council vote on e-bikeshare contract amendment",
-          "date": "2026-05-12"
-        }
-      ],
-      "industries": "Transportation & Logistics, Retail",
+      "title": "Proposed: Richmond council to vote on $390,000 e-bike share contract extension",
+      "summary": "Richmond City Council is set to vote on a proposed third contract amendment with Charleston Mobility for an additional $390,000 to keep the citywide electric bikeshare program running until the end of the current fiscal year. This would bring the total contract value to $3,540,341. The amendment is meant to buy time for council to decide the program's long-term future during the Fiscal Year 2026-27 budget process. The money would come from the Environmental and Community Investment Agreement (ECIA) Transportation budget. This item was previously postponed from meetings on April 28, 2026, and May 5, 2026.",
+      "action_required": "Watch for the council decision — this could affect whether the e-bike program continues in your area.",
+      "key_dates": [],
+      "industries": "Transportation & Logistics",
       "locations": "Richmond",
       "government_level": "Municipal",
       "is_proposal": true,
@@ -221,13 +226,13 @@
       "article_published_at": "2026-05-19T00:00:00",
       "source": "richmond_council",
       "source_label": "Richmond Council",
-      "created_at": "2026-05-25T22:16:56.337510"
+      "created_at": "2026-05-25T22:31:23.766595"
     },
     {
       "id": 868,
-      "title": "Proposed: Richmond Council to vote on $1.28M Santa Fe slope fix",
-      "summary": "Richmond Council is set to vote on a proposal to fund the Santa Fe Avenue Slope Stabilization Project. The plan would take $72,623 from a different slope project (Santa Rita Road), move $205,502 from a bike/pedestrian safety project (Cutting/Hoffman Quick-Build), and pull $1,000,000 from the city's insurance reserve. The total of $1,278,126 would pay for design work, geotechnical studies, and construction to fix a slope on Santa Fe Avenue. This is a proposed decision — it has not been approved yet.",
-      "action_required": "No action needed from you right now — watch for the council vote on this funding proposal.",
+      "title": "Proposed: Richmond council to vote on $1.28M slope stabilization on Santa Fe Avenue",
+      "summary": "Richmond City Council is set to vote on a proposal to fund the Santa Fe Avenue Slope Stabilization Project with a total of $1,278,126. The money would come from three sources: $72,623.62 transferred from the Santa Rita Road Stabilization Project, $205,502.81 from a Quick-Build project funded by California's Active Transportation Program, and $1,000,000 from the city's Insurance Reserve Fund. If approved, the funds would pay for design work, geotechnical services, and construction in the 2026–27 fiscal year. This is a proposed decision — it has not been approved yet.",
+      "action_required": null,
       "key_dates": [],
       "industries": "Construction & Development",
       "locations": "Richmond",
@@ -241,12 +246,12 @@
       "article_published_at": "2026-05-19T00:00:00",
       "source": "richmond_council",
       "source_label": "Richmond Council",
-      "created_at": "2026-05-25T22:16:56.336931"
+      "created_at": "2026-05-25T22:31:23.766048"
     },
     {
       "id": 867,
-      "title": "Proposed: Richmond Council to vote on $3.25M road maintenance project list",
-      "summary": "Council is set to vote on a resolution that would approve the Fiscal Year 2026–27 Senate Bill 1 Road Maintenance and Rehabilitation Account (RMRA) project list and appropriate $3,251,983 in RMRA funds to the Public Works Department. This is a proposed decision — it has not yet been approved. If passed, the money would be used for road maintenance and rehabilitation projects in Richmond.",
+      "title": "Proposed: Richmond Council to vote on $3.25M road repair fund list",
+      "summary": "Council will consider approving a list of road maintenance and rehabilitation projects funded by Senate Bill 1 (SB 1), a state-level gas tax program. If approved, $3,251,983 would be set aside for road work in the 2026–27 fiscal year. This is a proposed decision — it has not been finalized yet.",
       "action_required": null,
       "key_dates": [],
       "industries": "Construction & Development, Transportation & Logistics",
@@ -261,13 +266,13 @@
       "article_published_at": "2026-05-19T00:00:00",
       "source": "richmond_council",
       "source_label": "Richmond Council",
-      "created_at": "2026-05-25T22:16:56.336345"
+      "created_at": "2026-05-25T22:31:23.765546"
     },
     {
       "id": 866,
-      "title": "Proposed: Richmond council to vote on Complete Streets funding plan",
-      "summary": "Council is set to vote on a proposed funding allocation plan for Complete Streets Improvements. This plan covers pavement management, streetscape upgrades, and other street improvements. If approved, the plan would direct how money is spent on making streets safer and more accessible for everyone — including pedestrians, cyclists, and drivers. The decision has not been made yet; it is up for approval at an upcoming council meeting.",
-      "action_required": null,
+      "title": "Proposed: Richmond Council to vote on Complete Streets funding plan",
+      "summary": "Richmond Council is set to vote on a proposed funding allocation plan for Complete Streets improvements. This plan would direct money toward pavement management, streetscape upgrades, and other street-related projects. The decision has not been made yet — Council will consider and vote on the plan at an upcoming meeting. If approved, the plan would determine how funds are spent on making streets safer and more accessible for everyone, including drivers, pedestrians, and cyclists.",
+      "action_required": "Watch for the Council meeting date — if approved, this plan could affect street construction and access near your business.",
       "key_dates": [],
       "industries": "Construction & Development, Retail, Transportation & Logistics",
       "locations": "Richmond",
@@ -281,12 +286,12 @@
       "article_published_at": "2026-05-19T00:00:00",
       "source": "richmond_council",
       "source_label": "Richmond Council",
-      "created_at": "2026-05-25T22:16:56.335768"
+      "created_at": "2026-05-25T22:31:23.765036"
     },
     {
       "id": 865,
-      "title": "Proposed: Council to accept Lincoln Elementary School safe routes project as complete",
-      "summary": "Council will consider a resolution to formally accept the Lincoln Elementary School Safe Routes to School Improvement Project as finished. If approved, this would authorize the city clerk to ratify the previously recorded Notice of Completion (a legal document that marks the project as officially done) and authorize the city engineer to release any remaining bonds and retention (money held back to ensure the work was finished properly). This is a routine step to close out the project and release funds.",
+      "title": "Proposed: Lincoln Elementary Safe Routes project accepted as complete",
+      "summary": "Council will consider a resolution to accept the Lincoln Elementary School Safe Routes to School Improvement Project as complete. If approved, this would authorize the city clerk to ratify the previously recorded Notice of Completion (a formal document stating the project is finished) and authorize the city engineer to release any bonds or retention money held for the project. This is a routine step to formally close out a completed infrastructure project.",
       "action_required": null,
       "key_dates": [],
       "industries": "Construction & Development",
@@ -301,14 +306,19 @@
       "article_published_at": "2026-05-19T00:00:00",
       "source": "richmond_council",
       "source_label": "Richmond Council",
-      "created_at": "2026-05-25T22:16:56.335174"
+      "created_at": "2026-05-25T22:31:23.764509"
     },
     {
       "id": 864,
       "title": "Proposed: Richmond council to vote on $7.2M animal control contract",
-      "summary": "Council is set to vote on a proposed agreement with Contra Costa County Animal Services for ongoing animal control services. The contract would be worth up to $7.2 million and cover the 2026–2027 fiscal year, with an option to extend for three more years (2027–2030). This item was carried over from a previous meeting and is up for approval at the next council meeting. If approved, the total contract term would run from July 1, 2022, through June 30, 2030. The Police Department is recommending approval.",
-      "action_required": "No action required from business owners at this time — watch for council's decision.",
-      "key_dates": [],
+      "summary": "Council is set to vote on a proposed contract with Contra Costa County Animal Services for ongoing animal control services. The contract would be worth up to $7,200,000 and cover the 2026–2027 fiscal year, with an option to extend for three more years (2027–2030). This item was postponed from the May 5, 2026 meeting and is now up for approval. If approved, the total contract term would run from July 1, 2022 through June 30, 2030. The Police Department is recommending approval.",
+      "action_required": "No action required from business owners at this time — watch for the council decision.",
+      "key_dates": [
+        {
+          "label": "Council vote on animal control contract",
+          "date": "2026-05-19"
+        }
+      ],
       "industries": "Professional Services",
       "locations": "Richmond",
       "government_level": "Municipal",
@@ -321,17 +331,21 @@
       "article_published_at": "2026-05-19T00:00:00",
       "source": "richmond_council",
       "source_label": "Richmond Council",
-      "created_at": "2026-05-25T22:16:56.334596"
+      "created_at": "2026-05-25T22:31:23.764000"
     },
     {
       "id": 863,
-      "title": "Proposed: Three-year sole-source contract with Richmond Rod and Gun Club for police shooting range rentals",
-      "summary": "Council will consider approving a three-year, sole-source contract with the Richmond Rod and Gun Club for shooting range facility rentals. A sole-source contract means the city would hire this one club without seeking bids from other businesses. The contract would cost up to $25,000 per year, for a total of up to $75,000 over three years, starting July 1, 2026. The contract also includes two optional one-year extensions at $25,000 per year. This is a proposed decision — it has not been approved yet and is up for a vote at an upcoming council meeting.",
-      "action_required": "No action required from business owners — this is an internal police department contract.",
+      "title": "Proposed: Richmond council to vote on $75,000 shooting range contract",
+      "summary": "Council is set to vote on a proposed three-year contract with the Richmond Rod and Gun Club for shooting range facility rentals. If approved, the contract would cost the city up to $25,000 per year (for a total of $75,000) and run from July 1, 2026, through June 30, 2029. The contract also includes two optional one-year extensions at the same annual rate. The Police Department is recommending this sole-source contract, meaning the city would not seek bids from other vendors. This is a proposed decision and has not yet been approved.",
+      "action_required": "Watch for the council vote — if approved, this contract will affect police training and range access for the next three years.",
       "key_dates": [
         {
-          "label": "Proposed contract start date — Richmond Rod and Gun Club rental",
+          "label": "Proposed shooting range contract start date",
           "date": "2026-07-01"
+        },
+        {
+          "label": "Proposed shooting range contract end date",
+          "date": "2029-06-30"
         }
       ],
       "industries": "Professional Services",
@@ -346,24 +360,24 @@
       "article_published_at": "2026-05-19T00:00:00",
       "source": "richmond_council",
       "source_label": "Richmond Council",
-      "created_at": "2026-05-25T22:16:56.333963"
+      "created_at": "2026-05-25T22:31:23.763460"
     },
     {
       "id": 862,
-      "title": "Proposed: Richmond council to vote on $150K Verizon GPS contract for police vehicles",
-      "summary": "Council is set to vote on a proposed contract with Verizon Connect to provide GPS tracking and management for Richmond police vehicles. The contract would run for three years starting July 1, 2026, at a cost not to exceed $150,000, with options to extend for two additional one-year periods at up to $50,000 per year. This is a proposed decision — it has not yet been approved.",
+      "title": "Proposed: $150,000 GPS contract for Richmond police vehicles",
+      "summary": "Council will consider approving a three-year contract with Verizon Connect to provide GPS tracking and management for police vehicles. The proposed contract is for an amount not to exceed $150,000 over three years, starting July 1, 2026, with two optional one-year extensions at up to $50,000 per year. This is a proposed decision and has not yet been approved.",
       "action_required": null,
       "key_dates": [
         {
-          "label": "Proposed Verizon GPS contract start date — Richmond Police",
+          "label": "Proposed GPS contract start date — Richmond Police",
           "date": "2026-07-01"
         },
         {
-          "label": "Proposed contract end date — Richmond Police GPS",
+          "label": "Proposed GPS contract end date — Richmond Police",
           "date": "2029-06-30"
         }
       ],
-      "industries": "Transportation & Logistics, Technology",
+      "industries": "Technology, Transportation & Logistics",
       "locations": "Richmond",
       "government_level": "Municipal",
       "is_proposal": true,
@@ -375,15 +389,15 @@
       "article_published_at": "2026-05-19T00:00:00",
       "source": "richmond_council",
       "source_label": "Richmond Council",
-      "created_at": "2026-05-25T22:16:56.333154"
+      "created_at": "2026-05-25T22:31:23.762953"
     },
     {
       "id": 861,
-      "title": "Proposed: Richmond council to add four new seats to Macdonald Avenue task force",
-      "summary": "Richmond City Council is set to vote on a proposal to expand the Macdonald Avenue Corridor Task Force by adding four new stakeholder positions. If approved, these seats would be filled through the city's standard boards and commissions process, which is the usual way the city appoints people to advisory groups. This task force helps guide planning and development decisions along the Macdonald Avenue corridor, so the change could affect local businesses and property owners in that area.",
-      "action_required": "Watch for the council vote — if approved, consider applying for one of the four new stakeholder positions through the city's boards and commissions process.",
+      "title": "Proposed: Richmond council to add 4 new seats to Macdonald Avenue task force",
+      "summary": "Richmond City Council is set to vote on a proposal to add four new stakeholder positions to the Macdonald Avenue Corridor Task Force. If approved, these seats would be filled through the city's standard boards and commissions process. This means the task force, which advises on planning and development along the Macdonald Avenue corridor, would get more voices from the community and local businesses. The decision has not been made yet — council will consider this at an upcoming meeting.",
+      "action_required": "Watch for the council meeting date — if you own a business or property on Macdonald Avenue, you may want to apply for one of the new stakeholder seats.",
       "key_dates": [],
-      "industries": "Construction & Development, Landlord & Property Mgmt, Retail",
+      "industries": "Construction & Development, Retail, Landlord & Property Mgmt",
       "locations": "Richmond",
       "government_level": "Municipal",
       "is_proposal": true,
@@ -395,12 +409,12 @@
       "article_published_at": "2026-05-19T00:00:00",
       "source": "richmond_council",
       "source_label": "Richmond Council",
-      "created_at": "2026-05-25T22:16:56.332136"
+      "created_at": "2026-05-25T22:31:23.762429"
     },
     {
       "id": 860,
-      "title": "Proposed: Council rules overhaul to improve meeting efficiency",
-      "summary": "Council will consider a request to create a special committee (called an ad hoc committee) that would rewrite the City Council Rules of Procedure and Order. The goal is to make council meetings run more smoothly and efficiently. If approved, the mayor would appoint members to this committee, and they would have 60 days to propose specific changes for the full council to vote on later. This is not a done deal — it is a proposal that council will discuss and vote on at an upcoming meeting.",
+      "title": "Proposed: Richmond council rules review committee to improve efficiency",
+      "summary": "Council will consider a request to create a special committee (called an ad-hoc committee) to review and suggest changes to the City Council Rules of Procedure and Order. The goal is to make council meetings run more smoothly and efficiently. If approved, the mayor would appoint members to this committee, and they would have 60 days to propose changes for the full council to vote on later. This is not a final decision yet — it is a proposal to start the review process.",
       "action_required": null,
       "key_dates": [],
       "industries": "Professional Services",
@@ -415,16 +429,16 @@
       "article_published_at": "2026-05-19T00:00:00",
       "source": "richmond_council",
       "source_label": "Richmond Council",
-      "created_at": "2026-05-25T22:16:56.330870"
+      "created_at": "2026-05-25T22:31:23.761894"
     },
     {
       "id": 859,
-      "title": "Proposed: 5% salary adjustment for Richmond city clerk in 2026",
-      "summary": "Council will consider approving a five percent (5%) salary increase for the city clerk, effective March 2, 2026. This proposed adjustment is part of the IFPTE Local 21 Executive Management Memorandum of Understanding — a formal agreement that sets pay and working conditions for certain senior city staff. The decision has not been made yet; it is up for approval at an upcoming council meeting.",
+      "title": "Proposed: 5% salary adjustment for Richmond City Clerk in 2026",
+      "summary": "Council will consider approving a 5% salary increase for the City Clerk, effective March 2, 2026. This adjustment is proposed under the existing union agreement with IFPTE Local 21. The decision has not been made yet — it is up for approval at an upcoming council meeting.",
       "action_required": null,
       "key_dates": [
         {
-          "label": "Proposed city clerk salary increase takes effect",
+          "label": "Proposed City Clerk salary adjustment takes effect",
           "date": "2026-03-02"
         }
       ],
@@ -440,15 +454,15 @@
       "article_published_at": "2026-05-19T00:00:00",
       "source": "richmond_council",
       "source_label": "Richmond Council",
-      "created_at": "2026-05-25T22:16:56.330213"
+      "created_at": "2026-05-25T22:31:23.761390"
     },
     {
       "id": 858,
-      "title": "Proposed: Richmond Council to vote on wildfire preparedness budget",
-      "summary": "Council is set to vote on recommendations from the Wildfire Preparedness Ad Hoc Committee. The committee has presented a written report with ideas to improve the city's wildfire readiness. Council will give direction to staff on which recommendations to fund during the upcoming budget process. The committee will then be disbanded. This is a proposed decision — nothing has been approved yet.",
-      "action_required": null,
+      "title": "Proposed: Richmond Council to vote on wildfire preparedness committee recommendations",
+      "summary": "Council will consider recommendations from the Wildfire Preparedness Ad Hoc Committee to improve the city's wildfire preparedness and mitigation efforts. This is a proposed decision — nothing has been approved yet. Council will provide direction to staff during the budget checklist on proposed appropriations. The committee will be disbanded after this.",
+      "action_required": "Watch for the council decision — this could affect your property or business if new wildfire rules or fees are proposed.",
       "key_dates": [],
-      "industries": "Construction & Development, Landlord & Property Mgmt, Professional Services",
+      "industries": "Landlord & Property Mgmt, Construction & Development, Professional Services",
       "locations": "Richmond",
       "government_level": "Municipal",
       "is_proposal": true,
@@ -460,13 +474,13 @@
       "article_published_at": "2026-05-19T00:00:00",
       "source": "richmond_council",
       "source_label": "Richmond Council",
-      "created_at": "2026-05-25T22:16:56.329612"
+      "created_at": "2026-05-25T22:31:23.760864"
     },
     {
       "id": 857,
-      "title": "Proposed: Richmond council to vote on EMS funding amendment with Contra Costa Health Services",
-      "summary": "Council is set to vote on a proposed amendment to an interagency agreement with Contra Costa County Health Services for the Emergency Medical Services (EMS) program. If approved, the amendment would extend the current agreement through June 30, 2027, and accept an additional $229,462 in Measure H funding, bringing the total contract payment limit to $458,924. This is a proposed decision — it has not yet been approved or enacted.",
-      "action_required": "No action required from business owners at this time — this is a proposed council decision that does not directly affect business operations.",
+      "title": "Proposed: Richmond council to vote on $229,462 EMS funding amendment",
+      "summary": "Council is set to vote on a proposed amendment to an agreement with Contra Costa County Health Services for the Emergency Medical Services (EMS) Program. If approved, the city would accept an additional $229,462 in Measure H funding, bringing the total contract to $458,924, and extend the agreement through June 30, 2027. This is a proposed decision — it has not yet been approved.",
+      "action_required": "No action required from business owners at this time. Watch for the council decision — this affects emergency services funding, not business regulations.",
       "key_dates": [],
       "industries": "Healthcare",
       "locations": "Richmond",
@@ -480,12 +494,12 @@
       "article_published_at": "2026-05-19T00:00:00",
       "source": "richmond_council",
       "source_label": "Richmond Council",
-      "created_at": "2026-05-25T22:16:56.328996"
+      "created_at": "2026-05-25T22:31:23.760332"
     },
     {
       "id": 856,
-      "title": "Proposed: Richmond Council to vote on disaster aid application officials",
-      "summary": "Council will consider a resolution to designate specific officials who would be authorized to apply for state and federal disaster financial assistance. If approved, the Fire Department would be able to submit applications to the California Governor's Office of Emergency Services for funds under the California Disaster Assistance Act and the federal Robert T. Stafford Disaster Relief and Emergency Assistance Act. This is a proposed decision — it has not yet been approved.",
+      "title": "Proposed: Richmond council to designate officials for disaster aid applications",
+      "summary": "Council will consider a resolution that would name specific officials authorized to apply for state and federal disaster financial assistance. If approved, the Fire Department would be able to submit applications to the California Governor’s Office of Emergency Services for money under the California Disaster Assistance Act and the federal Robert T. Stafford Disaster Relief and Emergency Assistance Act. This is a proposed step to prepare for future emergencies — it has not been voted on yet.",
       "action_required": null,
       "key_dates": [],
       "industries": "Professional Services",
@@ -500,13 +514,13 @@
       "article_published_at": "2026-05-19T00:00:00",
       "source": "richmond_council",
       "source_label": "Richmond Council",
-      "created_at": "2026-05-25T22:16:56.328189"
+      "created_at": "2026-05-25T22:31:23.759797"
     },
     {
       "id": 855,
-      "title": "Proposed: City of Richmond Donation Acceptance Policy up for approval",
-      "summary": "Council will consider adopting a new Donation Acceptance Policy at an upcoming meeting. This proposed policy would set rules for how the City of Richmond can accept donations from individuals, businesses, or organizations. If approved, it would create a formal process for reviewing and approving donations to ensure they align with city values and legal requirements. The policy is not yet in effect — it is up for a vote by Council.",
-      "action_required": "No immediate action needed. Watch for the Council decision — if approved, the policy will affect how donations are handled.",
+      "title": "Proposed: Richmond council to vote on donation acceptance policy",
+      "summary": "Council is set to vote on a proposed resolution to approve a new City Donation Acceptance Policy. If passed, this policy would set rules for how the City of Richmond can accept donations from individuals, businesses, or organizations. The policy is meant to make the process clear and consistent. A vote on this proposal is expected at an upcoming council meeting.",
+      "action_required": null,
       "key_dates": [],
       "industries": "Professional Services",
       "locations": "Richmond",
@@ -520,15 +534,20 @@
       "article_published_at": "2026-05-19T00:00:00",
       "source": "richmond_council",
       "source_label": "Richmond Council",
-      "created_at": "2026-05-25T22:16:56.327522"
+      "created_at": "2026-05-25T22:31:23.759263"
     },
     {
       "id": 854,
-      "title": "Proposed: Richmond council to vote on 0.14% pension tax rate for 2026-27",
-      "summary": "Richmond City Council is set to vote on a proposed ordinance that would set the tax rate for the Pension Tax Override Fund at 0.14 percent for the 2026-27 fiscal year. This is a first reading of the ordinance, meaning it has been introduced but not yet approved. If passed, this tax rate would apply to property taxes to help fund the city's pension obligations. The decision is scheduled for an upcoming council meeting.",
-      "action_required": "Watch for the council decision — this proposed tax rate could affect your property taxes if approved.",
-      "key_dates": [],
-      "industries": "Landlord & Property Mgmt, Finance & Insurance",
+      "title": "Proposed: Richmond pension tax override rate set at 0.14% for 2026-27",
+      "summary": "Richmond City Council is set to vote on a proposed ordinance that would set the tax rate for the Pension Tax Override Fund at 0.14% for the 2026-27 fiscal year. This is the first reading of the ordinance, meaning it has been introduced but not yet approved. If passed, this rate would apply to property taxes to fund pension obligations for city employees. The Finance Department is recommending this rate.",
+      "action_required": "No immediate action is required, but watch for the council decision — this could affect your property tax bill.",
+      "key_dates": [
+        {
+          "label": "Richmond pension tax override ordinance first reading",
+          "date": "2025-05-13"
+        }
+      ],
+      "industries": "Landlord & Property Mgmt, Tenant, Professional Services",
       "locations": "Richmond",
       "government_level": "Municipal",
       "is_proposal": true,
@@ -540,13 +559,13 @@
       "article_published_at": "2026-05-19T00:00:00",
       "source": "richmond_council",
       "source_label": "Richmond Council",
-      "created_at": "2026-05-25T22:16:56.326802"
+      "created_at": "2026-05-25T22:31:23.758747"
     },
     {
       "id": 853,
       "title": "Proposed: Richmond Council to write off $535,499 in uncollected debts",
-      "summary": "Richmond Council is set to vote on a proposal to write off $535,499.12 in unpaid accounts receivable. 'Write-off' means the city would officially give up trying to collect these debts and remove them from its books. This does not cancel the debt — the city could still try to collect in the future — but it is a signal that the city considers these amounts unlikely to be paid. The proposal covers delinquent (overdue) and uncollectible accounts from various city services. A vote is expected at an upcoming council meeting.",
-      "action_required": "No action required from business owners at this time — this is an internal city accounting decision.",
+      "summary": "Richmond City Council is set to vote on a proposal to write off $535,499.12 in unpaid accounts receivable. 'Write-off' means the city would officially give up trying to collect these debts and remove them from its books. This does not cancel the debt — the city could still try to collect in the future — but it is a signal that the city considers these amounts unlikely to be paid. The proposal covers delinquent (overdue) and uncollectible accounts from various city services. Council will decide whether to approve this at an upcoming meeting.",
+      "action_required": null,
       "key_dates": [],
       "industries": "Finance & Insurance, Professional Services",
       "locations": "Richmond",
@@ -560,14 +579,19 @@
       "article_published_at": "2026-05-19T00:00:00",
       "source": "richmond_council",
       "source_label": "Richmond Council",
-      "created_at": "2026-05-25T22:16:56.325723"
+      "created_at": "2026-05-25T22:31:23.758206"
     },
     {
       "id": 852,
-      "title": "Proposed: Richmond council to vote on $60K increase for facade grant program",
-      "summary": "Richmond City Council is set to vote on a proposed contract amendment with the Renaissance Entrepreneurship Center. If approved, the amendment would increase the total funding for the Small Business Beautification Facade Improvement Program by $60,000, bringing the total to $400,000. The program helps small businesses pay for exterior building improvements like new signs, paint, or storefront repairs. The contract would also be extended to June 30, 2027. This is a proposed change — it has not been approved yet and will be decided at an upcoming council meeting.",
-      "action_required": "Watch for the council decision — if approved, eligible Richmond small businesses can apply for facade improvement funding.",
-      "key_dates": [],
+      "title": "Proposed: Richmond council to vote on $60,000 facade grant program extension",
+      "summary": "Richmond City Council is set to vote on a proposed contract amendment with the Renaissance Entrepreneurship Center. If approved, the amendment would add $60,000 to the Small Business Beautification Facade Improvement Program, bringing the total to $400,000. It would also extend the program through June 30, 2027. This program helps small businesses pay for building front (facade) improvements, like new paint, signs, or awnings. The decision has not been made yet — council will consider it at an upcoming meeting.",
+      "action_required": "Watch for the council decision — if approved, contact the Economic Development Department to apply for facade improvement funding.",
+      "key_dates": [
+        {
+          "label": "Council vote on facade program amendment",
+          "date": "2025-05-13"
+        }
+      ],
       "industries": "Retail, Food Service, Professional Services",
       "locations": "Richmond",
       "government_level": "Municipal",
@@ -580,15 +604,15 @@
       "article_published_at": "2026-05-19T00:00:00",
       "source": "richmond_council",
       "source_label": "Richmond Council",
-      "created_at": "2026-05-25T22:16:56.324882"
+      "created_at": "2026-05-25T22:31:23.757679"
     },
     {
       "id": 851,
-      "title": "Proposed: Downtown Richmond business district levy for FY 2026-2027",
-      "summary": "Council will consider a resolution to levy assessments on property owners in the Downtown Richmond Property and Business Improvement District (PBID). If approved, the assessment would be collected through the County of Contra Costa property tax rolls for the 2026-2027 fiscal year. This means property owners in the downtown area would pay an extra charge on their property tax bill to fund improvements and services in the district.",
+      "title": "Proposed: Downtown Richmond property assessment levy for FY 2026-27",
+      "summary": "Council will consider a resolution to levy assessments on property owners in the Downtown Richmond Property and Business Improvement District for the 2026-27 fiscal year. If approved, these charges would be added to property tax bills through Contra Costa County. This is a proposed decision that has not yet been voted on.",
       "action_required": "Watch for the council vote — if approved, this levy will appear on your property tax bill.",
       "key_dates": [],
-      "industries": "Landlord & Property Mgmt, Retail, Professional Services",
+      "industries": "Landlord & Property Mgmt, Retail, Food Service",
       "locations": "Richmond",
       "government_level": "Municipal",
       "is_proposal": true,
@@ -600,13 +624,13 @@
       "article_published_at": "2026-05-19T00:00:00",
       "source": "richmond_council",
       "source_label": "Richmond Council",
-      "created_at": "2026-05-25T22:16:56.324176"
+      "created_at": "2026-05-25T22:31:23.757155"
     },
     {
       "id": 850,
       "title": "Proposed: Richmond Council to accept $35,000 Chevron grant for street outreach",
-      "summary": "Council will consider accepting a $35,000 grant from the Chevron Community Engagement Foundation. If approved, the money would go to the Office of Neighborhood Safety (ONS) to help pay for street outreach and mobile crisis response teams. This is a proposed decision — it has not been approved yet and will be voted on at an upcoming council meeting.",
-      "action_required": null,
+      "summary": "Richmond City Council is set to vote on whether to accept a $35,000 grant from the Chevron Community Engagement Foundation. If approved, the money would go to the Office of Neighborhood Safety (ONS) to pay for street outreach and mobile crisis response work. This is a proposed decision — it has not been approved yet. The vote will happen at an upcoming council meeting.",
+      "action_required": "No action needed from business owners at this time. Watch for the council decision — if approved, this grant funds safety outreach, not new rules for businesses.",
       "key_dates": [],
       "industries": "Professional Services",
       "locations": "Richmond",
@@ -620,15 +644,15 @@
       "article_published_at": "2026-05-19T00:00:00",
       "source": "richmond_council",
       "source_label": "Richmond Council",
-      "created_at": "2026-05-25T22:16:56.323590"
+      "created_at": "2026-05-25T22:31:23.756617"
     },
     {
       "id": 849,
-      "title": "Proposed: Richmond council to vote on $50,000 housing program contract",
-      "summary": "Richmond City Council is set to vote on a proposed contract with Makanai, LLC. If approved, this on-call contract would provide budget and reporting support for past housing programs. The contract is worth up to $50,000 and would last for three years, with an option to extend for one more year. This is not yet approved — council will consider it at an upcoming meeting.",
-      "action_required": "No action required from business owners at this time. Watch for the council decision — this contract affects city housing program administration, not direct business operations.",
+      "title": "Proposed: $50,000 contract for housing program budget support",
+      "summary": "Council will consider approving a three-year, on-call contract with Makanai, LLC for budget and reporting support related to past housing programs. The contract would be for up to $50,000, with a term ending June 30, 2029, and an option to extend for one additional year. This is a proposed decision that has not yet been approved.",
+      "action_required": "No action needed from business owners at this time — this is an internal administrative contract.",
       "key_dates": [],
-      "industries": "Professional Services",
+      "industries": "Construction & Development, Landlord & Property Mgmt",
       "locations": "Richmond",
       "government_level": "Municipal",
       "is_proposal": true,
@@ -640,15 +664,15 @@
       "article_published_at": "2026-05-19T00:00:00",
       "source": "richmond_council",
       "source_label": "Richmond Council",
-      "created_at": "2026-05-25T22:16:56.322985"
+      "created_at": "2026-05-25T22:31:23.756041"
     },
     {
       "id": 848,
-      "title": "Proposed: Richmond council to vote on $300K hearing officer contracts",
-      "summary": "Richmond City Council is set to vote on a proposal to award on-call contracts to two law firms — Nastich Law and Robert M. Snider, Attorney at Law — to provide Administrative Hearing Officer services. An Administrative Hearing Officer is an independent person who hears disputes or appeals about local government decisions, like property or licensing issues. If approved, each firm could be paid up to $300,000 over a three-year term. The contracts are not yet in effect; council will decide at an upcoming meeting.",
-      "action_required": "No action needed from you right now — watch for the council decision, as it could affect how property or licensing disputes are handled in Richmond.",
+      "title": "Council to vote on on-call hearing officer contracts up to $300,000 per firm",
+      "summary": "Richmond Council is set to vote on a proposal to award on-call contracts to two law firms — Nastich Law and Robert M. Snider, Attorney at Law — to provide Administrative Hearing Officer services. These are independent legal experts who hear and decide disputes about local bylaws, such as property or licensing issues. Each contract would be worth up to $300,000 over a three-year term. The decision has not been made yet; Council will consider and vote on the resolution at an upcoming meeting.",
+      "action_required": "No immediate action needed — watch for the council decision to see if these contracts are approved.",
       "key_dates": [],
-      "industries": "Professional Services, Landlord & Property Mgmt",
+      "industries": "Professional Services",
       "locations": "Richmond",
       "government_level": "Municipal",
       "is_proposal": true,
@@ -660,13 +684,13 @@
       "article_published_at": "2026-05-19T00:00:00",
       "source": "richmond_council",
       "source_label": "Richmond Council",
-      "created_at": "2026-05-25T22:16:56.322384"
+      "created_at": "2026-05-25T22:31:23.755502"
     },
     {
       "id": 847,
-      "title": "Proposed: Fee waiver for WCCUSD Latino/x Graduation at Richmond Memorial Auditorium",
-      "summary": "Council will consider a proposal to waive all auditorium fees, staffing costs, and other associated costs for the West Contra Costa Unified School District's Latino/x Graduation ceremony at the Richmond Memorial Auditorium in 2026. If approved, the city manager would be authorized to use city resources—including overtime for police, fire, public works, and other departments—to support the event. This is a proposed decision that has not yet been voted on.",
-      "action_required": null,
+      "title": "Proposed: Richmond Council to vote on fee waiver for WCCUSD Latino/x graduation",
+      "summary": "Richmond City Council is set to vote on a proposal to waive all fees and staffing costs for the West Contra Costa Unified School District's 2026 Latino/x Graduation Ceremony at the Richmond Memorial Auditorium. If approved, the city manager would be authorized to spend city resources — including possible overtime for police, fire, and public works staff — to support the event. This is a proposed decision and has not yet been approved.",
+      "action_required": "No action required from business owners at this time. Watch for the council vote — this does not affect business operations.",
       "key_dates": [],
       "industries": "Professional Services",
       "locations": "Richmond",
@@ -680,12 +704,12 @@
       "article_published_at": "2026-05-19T00:00:00",
       "source": "richmond_council",
       "source_label": "Richmond Council",
-      "created_at": "2026-05-25T22:16:56.321790"
+      "created_at": "2026-05-25T22:31:23.754971"
     },
     {
       "id": 846,
       "title": "Proposed: Richmond council to vote on $110,000 legal research contract",
-      "summary": "Richmond City Council is set to vote on a proposed contract with Thomson Reuters for legal research subscription services. The contract, worth up to $110,000, would cover the period from July 1, 2026, through June 30, 2029. It would provide the City Attorney's Office with access to Westlaw and CoCounsel Legal research tools. This is a proposed decision that has not yet been approved.",
+      "summary": "Council is set to vote on a proposed contract with Thomson Reuters for legal research subscription services. If approved, the contract would cost up to $110,000 over three years, from July 1, 2026, to June 30, 2029. The services include Westlaw and CoCounsel Legal, which are online tools lawyers use to search for court cases, laws, and legal information. The city manager would be authorized to sign the final contract, with minor changes allowed as long as the City Attorney's Office agrees. This is a proposed decision — it has not been approved yet.",
       "action_required": null,
       "key_dates": [],
       "industries": "Professional Services",
@@ -700,15 +724,15 @@
       "article_published_at": "2026-05-19T00:00:00",
       "source": "richmond_council",
       "source_label": "Richmond Council",
-      "created_at": "2026-05-25T22:16:56.321115"
+      "created_at": "2026-05-25T22:31:23.754403"
     },
     {
       "id": 845,
-      "title": "Proposed: Richmond Council to vote on $150,000 investigation contract",
-      "summary": "Richmond City Council is set to vote on a proposed legal services agreement with Ellis Investigations. If approved, the contract would allow the company to conduct confidential personnel investigations for the city from July 1, 2026, through June 30, 2029. The total cost would not exceed $150,000. This is a proposed decision — it has not been approved yet.",
-      "action_required": "No action needed from business owners — this is an internal city staffing matter.",
+      "title": "Proposed: Richmond council to vote on $150K investigation contract",
+      "summary": "Council will consider approving a legal services agreement with Ellis Investigations to conduct confidential personnel investigations for the City of Richmond. The proposed contract would run from July 1, 2026, through June 30, 2029, for a total amount not to exceed $150,000. This is a proposed decision that has not yet been approved or enacted.",
+      "action_required": null,
       "key_dates": [],
-      "industries": "Labour & Employment, Professional Services",
+      "industries": "Professional Services",
       "locations": "Richmond",
       "government_level": "Municipal",
       "is_proposal": true,
@@ -720,15 +744,15 @@
       "article_published_at": "2026-05-19T00:00:00",
       "source": "richmond_council",
       "source_label": "Richmond Council",
-      "created_at": "2026-05-25T22:16:56.320298"
+      "created_at": "2026-05-25T22:31:23.753738"
     },
     {
       "id": 844,
-      "title": "Proposed: Richmond council to vote on $75K legal fee increase for Winehaven case",
-      "summary": "Richmond City Council is set to vote on a proposed fourth amendment to a legal services agreement with the law firm Nevers, Palazzo, Packard, Wildermuth & Wynner, PC. If approved, this amendment would increase the total amount paid to the firm by $75,000 — bringing the total contract to no more than $450,000 — for legal work related to the Winehaven Legacy litigation and other connected matters. The proposed change would also extend the agreement through December 31, 2027. The $75,000 would come from the city's General Fund (the main pool of money used for everyday city services). This is not yet approved; council will consider and vote on it at an upcoming meeting.",
-      "action_required": "No immediate action needed — watch for the council decision, as this could affect city legal spending priorities.",
+      "title": "Proposed: Richmond council to vote on $75K increase for Winehaven legal fees",
+      "summary": "Council will consider approving a fourth amendment to a legal services agreement with the law firm Nevers, Palazzo, Packard, Wildermuth & Wynner, PC, for the Winehaven Legacy litigation. The proposed change would increase the total contract amount by $75,000 — bringing it to a maximum of $450,000 — and extend the agreement through December 31, 2027. The additional $75,000 would come from the City's General Fund. This is a proposed decision and has not yet been approved.",
+      "action_required": "Watch for the council decision — if approved, this could affect property owners or developers involved in the Winehaven matter.",
       "key_dates": [],
-      "industries": "Professional Services",
+      "industries": "Construction & Development, Landlord & Property Mgmt",
       "locations": "Richmond",
       "government_level": "Municipal",
       "is_proposal": true,
@@ -740,7 +764,7 @@
       "article_published_at": "2026-05-19T00:00:00",
       "source": "richmond_council",
       "source_label": "Richmond Council",
-      "created_at": "2026-05-25T22:16:56.318376"
+      "created_at": "2026-05-25T22:31:23.751751"
     }
   ],
   "minutes_briefs": []
