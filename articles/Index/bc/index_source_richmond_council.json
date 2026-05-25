@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T23:16:30.563901+00:00",
+  "generated_at": "2026-05-25T23:29:30.967954+00:00",
   "count": 1,
   "articles": [
     {
@@ -13,7 +13,7 @@
       "source_website_icon": "https://www.richmond.ca",
       "meeting_type": null,
       "article_published_at": "2026-05-19T00:00:00",
-      "created_at": "2026-05-25T23:16:29.600757",
+      "created_at": "2026-05-25T23:29:29.998350",
       "has_attachments": false,
       "has_pdf": false,
       "has_html": false,
@@ -21,7 +21,7 @@
       "has_minutes": false,
       "agenda_brief_count": 34,
       "minutes_brief_count": 0,
-      "industries": "Construction & Development, Finance & Insurance, Food Service, Healthcare, Hotel & Accommodation, Labour & Employment, Landlord & Property Mgmt, Natural Resources, Professional Services, Retail, Technology, Transportation & Logistics",
+      "industries": "Construction & Development, Finance & Insurance, Food Service, Healthcare, Labour & Employment, Landlord & Property Mgmt, Natural Resources, Professional Services, Retail, Technology, Transportation & Logistics",
       "locations": "Richmond",
       "briefs": [
         {
@@ -56,7 +56,7 @@
         },
         {
           "id": 872,
-          "title": "Proposed: Richmond zoning and land-use changes to meet state housing law",
+          "title": "Proposed: Richmond zoning and land-use changes to match state housing law",
           "source_label": "Richmond Council",
           "is_proposal": true
         },
@@ -68,13 +68,13 @@
         },
         {
           "id": 870,
-          "title": "Proposed: Richmond sidewalk vendor rules to be updated",
+          "title": "Proposed: Richmond council to vote on updated sidewalk vendor rules",
           "source_label": "Richmond Council",
           "is_proposal": true
         },
         {
           "id": 869,
-          "title": "Proposed: Richmond council to vote on $390K e-bike share contract extension",
+          "title": "Council to vote on $390,000 electric bikeshare contract extension",
           "source_label": "Richmond Council",
           "is_proposal": true
         },
@@ -134,7 +134,7 @@
         },
         {
           "id": 859,
-          "title": "Proposed: 5% salary adjustment for Richmond city clerk in 2026",
+          "title": "Proposed: Richmond city clerk salary increase of 5%",
           "source_label": "Richmond Council",
           "is_proposal": true
         },
@@ -158,7 +158,7 @@
         },
         {
           "id": 855,
-          "title": "Proposed: Richmond City Donation Acceptance Policy up for approval",
+          "title": "Proposed: Richmond City Council to vote on Donation Acceptance Policy",
           "source_label": "Richmond Council",
           "is_proposal": true
         },
@@ -224,7 +224,7 @@
         },
         {
           "id": 844,
-          "title": "Proposed: Richmond council to vote on $75K increase for Winehaven legal fees",
+          "title": "Proposed: Richmond council to vote on $75,000 increase for Winehaven legal fees",
           "source_label": "Richmond Council",
           "is_proposal": true
         }
