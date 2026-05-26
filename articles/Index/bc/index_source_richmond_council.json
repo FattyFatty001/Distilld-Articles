@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T00:06:11.156485+00:00",
+  "generated_at": "2026-05-26T00:10:11.457361+00:00",
   "count": 1,
   "articles": [
     {
@@ -13,7 +13,7 @@
       "source_website_icon": "https://www.richmond.ca",
       "meeting_type": null,
       "article_published_at": "2026-05-19T00:00:00",
-      "created_at": "2026-05-26T00:06:10.177540",
+      "created_at": "2026-05-26T00:10:10.493673",
       "has_attachments": false,
       "has_pdf": false,
       "has_html": false,
@@ -26,7 +26,7 @@
       "briefs": [
         {
           "id": 877,
-          "title": "Proposed: Richmond Council to explore funding for student scholarships",
+          "title": "Proposed: Richmond Council to explore scholarship funding for local students",
           "source_label": "Richmond Council",
           "is_proposal": true
         },
@@ -38,7 +38,7 @@
         },
         {
           "id": 875,
-          "title": "Proposed: Richmond council to hold public hearing on city vacancies and recruitment",
+          "title": "Council to hold public hearing on city vacancies and recruitment efforts",
           "source_label": "Richmond Council",
           "is_proposal": true
         },
@@ -50,7 +50,7 @@
         },
         {
           "id": 873,
-          "title": "Proposed: Richmond to levy special assessments for unpaid fines and cleanup costs",
+          "title": "Proposed: Richmond to vote on special assessments for unpaid fines",
           "source_label": "Richmond Council",
           "is_proposal": true
         },
@@ -62,25 +62,25 @@
         },
         {
           "id": 871,
-          "title": "Proposed: Richmond council to review draft budget and capital plan",
+          "title": "Proposed: Richmond council to review draft 2026-27 budget for key city services",
           "source_label": "Richmond Council",
           "is_proposal": true
         },
         {
           "id": 870,
-          "title": "Proposed: Richmond council to vote on sidewalk vendor rule changes",
+          "title": "Proposed: Richmond council to vote on updated sidewalk vendor rules",
           "source_label": "Richmond Council",
           "is_proposal": true
         },
         {
           "id": 869,
-          "title": "Proposed: $390,000 electric bikeshare contract amendment up for council vote",
+          "title": "Council to vote on $390,000 e-bike share contract extension",
           "source_label": "Richmond Council",
           "is_proposal": true
         },
         {
           "id": 868,
-          "title": "Proposed: Richmond council to vote on $1M for Santa Fe Avenue slope fix",
+          "title": "Proposed: $1.28M for Santa Fe Avenue slope stabilization in Richmond",
           "source_label": "Richmond Council",
           "is_proposal": true
         },
@@ -98,7 +98,7 @@
         },
         {
           "id": 865,
-          "title": "Proposed: Council to accept Lincoln Elementary Safe Routes project as complete",
+          "title": "Council to vote on accepting Lincoln Elementary Safe Routes project",
           "source_label": "Richmond Council",
           "is_proposal": true
         },
@@ -110,19 +110,19 @@
         },
         {
           "id": 863,
-          "title": "Proposed: Richmond council to vote on 3-year shooting range rental deal",
+          "title": "Proposed: Richmond council to vote on $75,000 gun range rental contract",
           "source_label": "Richmond Council",
           "is_proposal": true
         },
         {
           "id": 862,
-          "title": "Proposed: Richmond council to vote on $150K GPS contract for police vehicles",
+          "title": "Proposed: Verizon Connect GPS tracking contract for Richmond police vehicles up to $150,000",
           "source_label": "Richmond Council",
           "is_proposal": true
         },
         {
           "id": 861,
-          "title": "Proposed: Four new stakeholder seats added to Macdonald Avenue Task Force",
+          "title": "Proposed: Four new stakeholder seats on Macdonald Avenue Corridor Task Force",
           "source_label": "Richmond Council",
           "is_proposal": true
         },
@@ -134,7 +134,7 @@
         },
         {
           "id": 859,
-          "title": "Proposed: 5% salary adjustment for Richmond city clerk in 2026",
+          "title": "Proposed: 5% salary adjustment for Richmond City Clerk in 2026",
           "source_label": "Richmond Council",
           "is_proposal": true
         },
@@ -146,19 +146,19 @@
         },
         {
           "id": 857,
-          "title": "Proposed: Richmond council to vote on EMS agreement with Contra Costa County",
+          "title": "Proposed: Richmond council to vote on EMS agreement extension with Contra Costa",
           "source_label": "Richmond Council",
           "is_proposal": true
         },
         {
           "id": 856,
-          "title": "Proposed: Richmond Council to designate officials for disaster aid applications",
+          "title": "Proposed: Richmond council to designate officials for disaster aid applications",
           "source_label": "Richmond Council",
           "is_proposal": true
         },
         {
           "id": 855,
-          "title": "Proposed: Richmond City Donation Acceptance Policy up for approval",
+          "title": "Proposed: Richmond Donation Acceptance Policy up for council vote",
           "source_label": "Richmond Council",
           "is_proposal": true
         },
@@ -176,25 +176,25 @@
         },
         {
           "id": 852,
-          "title": "Proposed: $60,000 boost for Richmond small business facade program",
+          "title": "Proposed: Richmond council to vote on $60K facade grant program boost",
           "source_label": "Richmond Council",
           "is_proposal": true
         },
         {
           "id": 851,
-          "title": "Proposed: Downtown Richmond property assessment levy for FY 2026-27",
+          "title": "Proposed: Downtown Richmond property assessment levy for 2026-2027",
           "source_label": "Richmond Council",
           "is_proposal": true
         },
         {
           "id": 850,
-          "title": "Proposed: Richmond council to accept $35,000 Chevron grant for street outreach",
+          "title": "Proposed: Richmond Council to accept $35,000 Chevron grant for street outreach",
           "source_label": "Richmond Council",
           "is_proposal": true
         },
         {
           "id": 849,
-          "title": "Proposed: Richmond council to vote on $50,000 housing program contract",
+          "title": "Proposed: Richmond Council to vote on $50,000 housing program support contract",
           "source_label": "Richmond Council",
           "is_proposal": true
         },
@@ -206,7 +206,7 @@
         },
         {
           "id": 847,
-          "title": "Proposed: Richmond Council to vote on fee waiver for WCCUSD Latino/x graduation",
+          "title": "Proposed: Fee waiver for WCCUSD Latino/x graduation at Richmond Auditorium",
           "source_label": "Richmond Council",
           "is_proposal": true
         },
@@ -218,13 +218,13 @@
         },
         {
           "id": 845,
-          "title": "Proposed: Richmond Council to vote on $150K personnel investigation contract",
+          "title": "Proposed: Richmond council to vote on $150K contract for confidential HR probes",
           "source_label": "Richmond Council",
           "is_proposal": true
         },
         {
           "id": 844,
-          "title": "Proposed: Richmond council to vote on $75,000 increase for Winehaven legal fees",
+          "title": "Proposed: Richmond council to vote on $75K increase for Winehaven legal fees",
           "source_label": "Richmond Council",
           "is_proposal": true
         }
