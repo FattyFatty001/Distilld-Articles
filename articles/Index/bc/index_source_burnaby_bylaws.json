@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T01:50:55.754237+00:00",
-  "count": 6,
+  "generated_at": "2026-05-26T08:51:08.185058+00:00",
+  "count": 10,
   "articles": [
     {
       "article_id": 64,
@@ -27,6 +27,96 @@
         {
           "id": 732,
           "title": "Burnaby 2026 property tax rates set — check your bill",
+          "source_label": "Burnaby Bylaws",
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 78,
+      "path": "2026/01/27/78_burnaby-bylaws_bylaw-14789-housing-agreement-5980-kathleen-avenue.json",
+      "article_url": "https://bylaws.burnaby.ca/en/permalink/bylaw26100",
+      "article_title": "Bylaw 14789 — Housing Agreement (5980 Kathleen Avenue) Bylaw 2025",
+      "source": "burnaby_bylaws",
+      "source_label": "Burnaby Bylaws",
+      "government_level": "Municipal",
+      "source_website_icon": "https://bylaws.burnaby.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-01-27T00:00:00",
+      "created_at": "2026-05-26T08:50:58.216407",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development, Landlord & Property Mgmt, Tenant",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 846,
+          "title": "Burnaby approves housing agreement for 94 non-market rental units at 5980 Kathleen Avenue",
+          "source_label": "Burnaby Bylaws",
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 77,
+      "path": "2026/01/27/77_burnaby-bylaws_bylaw-14790-housing-agreement-6616-telford-avenue.json",
+      "article_url": "https://bylaws.burnaby.ca/en/permalink/bylaw26101",
+      "article_title": "Bylaw 14790 — Housing Agreement (6616 Telford Avenue) Bylaw 2026",
+      "source": "burnaby_bylaws",
+      "source_label": "Burnaby Bylaws",
+      "government_level": "Municipal",
+      "source_website_icon": "https://bylaws.burnaby.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-01-27T00:00:00",
+      "created_at": "2026-05-26T08:50:51.131821",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development, Landlord & Property Mgmt, Tenant",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 845,
+          "title": "Burnaby approves housing agreement for 6616 Telford Avenue rental development",
+          "source_label": "Burnaby Bylaws",
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 79,
+      "path": "2025/12/09/79_burnaby-bylaws_bylaw-14788-housing-agreement-6479-selma-avenue-by.json",
+      "article_url": "https://bylaws.burnaby.ca/en/permalink/bylaw26097",
+      "article_title": "Bylaw 14788 — Housing Agreement (6479 Selma Avenue) Bylaw 2025",
+      "source": "burnaby_bylaws",
+      "source_label": "Burnaby Bylaws",
+      "government_level": "Municipal",
+      "source_website_icon": "https://bylaws.burnaby.ca",
+      "meeting_type": null,
+      "article_published_at": "2025-12-09T00:00:00",
+      "created_at": "2026-05-26T08:51:05.209562",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 847,
+          "title": "Burnaby housing agreement for 74 rental units at 6479 Selma Avenue approved",
           "source_label": "Burnaby Bylaws",
           "is_proposal": false
         }
@@ -177,6 +267,36 @@
         {
           "id": 724,
           "title": "Burnaby approves housing agreement for 5 non-market rental buildings at Lougheed Highway and Alpha Avenue",
+          "source_label": "Burnaby Bylaws",
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 76,
+      "path": "2026/05/26/76_burnaby-bylaws_bylaw-14793-consolidated-5-year-financial-plan-byl.json",
+      "article_url": "https://bylaws.burnaby.ca/en/permalink/bylaw26104",
+      "article_title": "Bylaw 14793 — Consolidated 5-Year Financial Plan Bylaw 2026",
+      "source": "burnaby_bylaws",
+      "source_label": "Burnaby Bylaws",
+      "government_level": "Municipal",
+      "source_website_icon": "https://bylaws.burnaby.ca",
+      "meeting_type": null,
+      "article_published_at": null,
+      "created_at": "2026-05-26T08:50:44.482455",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Landlord & Property Mgmt, Professional Services, Retail",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 844,
+          "title": "Burnaby adopts 5-year financial plan (2026–2030) — property taxes are main revenue source",
           "source_label": "Burnaby Bylaws",
           "is_proposal": false
         }
