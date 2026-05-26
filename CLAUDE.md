@@ -28,3 +28,5 @@ articles/
 ```
 
 **Role**: Single source of truth for article content, consumed by the Legal Alert App via raw.githubusercontent.com.
+
+**Test counterpart**: `FattyFatty001/Distilld-Articles-TEST` — used by the test server instance. The test server publishes test articles to this repo via the GitHub Contents API and the local `Distilld Articles Test/` directory is a git clone of this test repo. Treat it with the same git-pull-before-reading discipline as the production repo.
