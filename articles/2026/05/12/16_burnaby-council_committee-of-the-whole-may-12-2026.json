@@ -1,0 +1,69 @@
+{
+  "article_id": 16,
+  "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=70e29ca3-4f56-4cbc-be82-5f666ccb37e8&lang=English",
+  "article_title": "Committee of the Whole — May 12, 2026",
+  "source": "burnaby_council",
+  "source_label": "Burnaby Council",
+  "government_level": "Municipal",
+  "source_website_icon": "",
+  "meeting_type": "committee-whole",
+  "article_published_at": "2026-05-12T00:00:00",
+  "has_attachments": false,
+  "has_pdf": false,
+  "has_html": false,
+  "has_agenda": true,
+  "has_minutes": true,
+  "agenda_brief_count": 1,
+  "minutes_brief_count": 1,
+  "pdf_urls": "{\"_doc\": [{\"url\": \"https://pub-burnaby.escribemeetings.com/FileStream.ashx?DocumentId=89601\", \"title\": \"Agenda (PDF)\"}], \"_inline\": [{\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89603\", \"title\": \"Building Burnaby Better - Final.pdf\"}]}",
+  "body": "",
+  "agenda_briefs": [
+    {
+      "id": 302,
+      "title": "Proposed: Burnaby capital project program review final report",
+      "summary": "Council will consider the Stewart Group's final report on Burnaby's capital project program. The report recommends a formal design-to-budget policy requiring all projects over $25 million to operate within firm affordability limits, with mandatory reviews triggered when estimates exceed 10% of the original budget. It also recommends a dedicated strategy to help Burnaby-based small and medium enterprises secure City contracts.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "3.1",
+      "source_body": "3.1\nVERBAL REPORT: BURNABY CAPITAL PROJECT PROGRAM REVIEW (THE STEWART GROUP)\n1.\nBuilding Burnaby Better - Final.pdf\nPurpose: To provide final report on capital project program review.",
+      "attachments": [
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89603",
+          "title": "Building Burnaby Better - Final.pdf"
+        }
+      ],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=70e29ca3-4f56-4cbc-be82-5f666ccb37e8&lang=English",
+      "article_title": "Committee of the Whole Meeting Agenda — May 12, 2026",
+      "article_published_at": "2026-05-12T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-10T18:12:53.988929"
+    }
+  ],
+  "minutes_briefs": [
+    {
+      "id": 887,
+      "title": "Council adopted 10 recommendations from Stewart Group capital project review",
+      "summary": "Burnaby Council unanimously adopted all 10 recommendations from The Stewart Group's strategic review of the City's Capital Project Program. The recommendations are designed to strengthen how the city plans and delivers capital projects, ensuring better value for infrastructure investments. Key changes include a new Design to Build Policy to keep projects on budget, consistent project close-out reports, a strategy to help small and local contractors win city work, a framework to assess who benefits from projects and who bears the costs, and a plan to build in-house project management capacity. Council also approved ongoing workshops to improve its own oversight of capital planning.",
+      "action_required": "If you are a small or local contractor, prepare to register for the city's new Small and Local Contractor Strategy to access upcoming capital project opportunities.",
+      "key_dates": [],
+      "industries": "Construction & Development, Professional Services",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "3.1",
+      "source_body": "3.1\nVERBAL REPORT: BURNABY CAPITAL PROJECT PROGRAM REVIEW (THE\nSTEWART GROUP)\nLecia Stewart, President and CEO of The Stewart Group, and Charlotte\nLethwaite, Director of Advisory Services, presented the final report on the\nstrategic review of the City of Burnaby’s Capital Project Program to Council.\nL. Stewart explained that the primary objective of the review was to strengthen\ncapital planning and delivery processes to maximize the value of future\ninfrastructure investments. The review identified ten core, ready-to-implement\nrecommendations, organized into three phases:\nPhase 1\n•\nDesign to Build Policy: Emphasizes early-stage controls and formal stage\ngates to ensure projects remain within approved budgets and to maintain\ntransparency when budget adjustments are required.\n•\nProject Close-Out Reports: Establishes consistent reporting at project\ncompletion to capture outcomes, lessons learned, and financial performance.\n•\nSmall and Local Contractor Strategy: Aims to improve access for local\nsuppliers, supporting the local economy and keeping capital investment within\nthe community.\nPhase 2\n•\nBenefit-Burden Review: Introduces a framework to assess the distribution of\nproject benefits and associated costs.\n•\nTransparent Reporting Culture: Promotes open, consistent reporting practices\nacross capital projects.\n\nOpen Committee of the Whole Meeting\nMinutes May 12, 2026\n________________________________________________________________________________________\n\n3\n•\nCouncil Capital Projects Workshop Series: Recommends ongoing workshops\nto enhance Council’s understanding and oversight of capital planning and\ndelivery.\nPhase 3\n•\nProject Deliverables and Accountability Framework: Defines clear\ndeliverables and accountability structures for project execution.\n•\nProject Authority Matrix: Clarifies decision-making authority and escalation\nprocesses.\n•\nIncubator Stream for Innovative Pilots: Creates a mechanism to test and\nscale innovative project approaches.\n•\nOwn In-House Capital Project Management Function: Recommends building\ninternal capacity to improve efficiency, strengthen accountability, and support\norganizational learning across projects.\nArising from discussion, the following motion was introduced:\nMOVED AND SECONDED\nTHAT the 10 (ten) recommendations provided by The Stewart Group at the Open\nCommittee of the Whole meeting on May 12, 2026, be adopted.\n\n\nCARRIED UNANIMOUSLY",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=70e29ca3-4f56-4cbc-be82-5f666ccb37e8&lang=English",
+      "article_title": "Committee of the Whole Minutes — May 12, 2026",
+      "article_published_at": "2026-05-12T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-27T16:48:20.274252"
+    }
+  ]
+}
