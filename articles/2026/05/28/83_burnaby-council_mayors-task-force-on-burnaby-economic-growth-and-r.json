@@ -1,0 +1,43 @@
+{
+  "article_id": 83,
+  "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=b67412f2-b209-4ecb-8585-d99098f7d8b8&lang=English",
+  "article_title": "Mayor's Task Force on Burnaby Economic Growth and Resilience — May 28, 2026",
+  "source": "burnaby_council",
+  "source_label": "Burnaby Council",
+  "government_level": "Municipal",
+  "source_website_icon": "https://burnaby.ca",
+  "meeting_type": "task-force",
+  "article_published_at": "2026-05-28T00:00:00",
+  "has_attachments": false,
+  "has_pdf": false,
+  "has_html": false,
+  "has_agenda": true,
+  "has_minutes": false,
+  "agenda_brief_count": 1,
+  "minutes_brief_count": 0,
+  "pdf_urls": "{\"_doc\": [], \"_inline\": [{\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=90189\", \"title\": \"MTFBEGR Minutes 2026.05.14.pdf\"}]}",
+  "body": "",
+  "agenda_briefs": [
+    {
+      "id": 888,
+      "title": "Proposed: Burnaby Council to consider final recommendations for economic growth",
+      "summary": "Council is set to vote on the final recommendations from Workshop #9, which focus on boosting economic growth in Burnaby. A draft report will be presented, and council members will validate the recommendations before a final decision is made. This is a proposed plan — it has not been approved yet. Business owners should watch for the council's decision, as it could lead to new rules or programs that affect local businesses.",
+      "action_required": "Watch for the council decision on these recommendations — they could affect your business operations or growth opportunities.",
+      "key_dates": [],
+      "industries": "Professional Services, Retail, Construction & Development",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "5",
+      "source_body": "5. WORKSHOP # 9 - FINAL RECOMMENDATIONS\n5.1 Chair's Address\n5.2 Presentation of Draft Report\n5.3 Validation of Recommendations\n5.4 Presentation of Gifts\n5.5 Closing Remarks",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=b67412f2-b209-4ecb-8585-d99098f7d8b8&lang=English",
+      "article_title": "Mayor's Task Force on Burnaby Economic Growth and Resilience Agenda — May 28, 2026",
+      "article_published_at": "2026-05-28T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-27T18:33:54.429665"
+    }
+  ],
+  "minutes_briefs": []
+}
