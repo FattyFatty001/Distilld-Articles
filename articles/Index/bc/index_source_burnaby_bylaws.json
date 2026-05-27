@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T08:51:08.185058+00:00",
-  "count": 10,
+  "generated_at": "2026-05-27T08:58:10.712207+00:00",
+  "count": 11,
   "articles": [
     {
       "article_id": 64,
@@ -267,6 +267,36 @@
         {
           "id": 724,
           "title": "Burnaby approves housing agreement for 5 non-market rental buildings at Lougheed Highway and Alpha Avenue",
+          "source_label": "Burnaby Bylaws",
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 80,
+      "path": "2026/05/27/80_burnaby-bylaws_bylaw-14777-burnaby-piggery-location-bylaw-1921-re.json",
+      "article_url": "https://bylaws.burnaby.ca/en/permalink/bylaw26085",
+      "article_title": "Bylaw 14777 — Burnaby Piggery Location Bylaw 1921, Repeal Bylaw 2025",
+      "source": "burnaby_bylaws",
+      "source_label": "Burnaby Bylaws",
+      "government_level": "Municipal",
+      "source_website_icon": "https://bylaws.burnaby.ca",
+      "meeting_type": null,
+      "article_published_at": null,
+      "created_at": "2026-05-27T08:58:09.143651",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Agriculture",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 848,
+          "title": "Burnaby repeals 1921 bylaw that restricted pig farm locations",
           "source_label": "Burnaby Bylaws",
           "is_proposal": false
         }
