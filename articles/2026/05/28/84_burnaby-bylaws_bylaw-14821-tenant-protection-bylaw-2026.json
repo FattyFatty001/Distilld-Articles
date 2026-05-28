@@ -1,0 +1,48 @@
+{
+  "article_id": 84,
+  "article_url": "https://bylaws.burnaby.ca/en/permalink/bylaw26133",
+  "article_title": "Bylaw 14821 — Tenant Protection Bylaw 2026",
+  "source": "burnaby_bylaws",
+  "source_label": "Burnaby Bylaws",
+  "government_level": "Municipal",
+  "source_website_icon": "https://bylaws.burnaby.ca",
+  "meeting_type": null,
+  "article_published_at": null,
+  "has_attachments": false,
+  "has_pdf": false,
+  "has_html": false,
+  "has_agenda": false,
+  "has_minutes": true,
+  "agenda_brief_count": 0,
+  "minutes_brief_count": 1,
+  "pdf_urls": "[{\"url\": \"https://bylaws.burnaby.ca/media/14000/14821.pdf\", \"title\": \"Bylaw Document\"}]",
+  "body": "",
+  "agenda_briefs": [],
+  "minutes_briefs": [
+    {
+      "id": 889,
+      "title": "Burnaby Tenant Protection Bylaw 14821 takes effect — new rules for landlords",
+      "summary": "The City of Burnaby has passed Bylaw 14821, called the Tenant Protection Bylaw 2026. This bylaw creates new rules that landlords must follow when they want to end a tenancy or renovate a rental unit. For example, landlords now have to give tenants more notice before renovations, and they may have to pay relocation expenses if a tenant has to move out temporarily. The bylaw also limits when a landlord can use a 'renoviction' (evicting a tenant to do major repairs or renovations) and requires the landlord to let the tenant move back in at the same rent after the work is done. These rules apply to most rental buildings in Burnaby.",
+      "action_required": "Review your rental properties in Burnaby and update your lease forms and renovation procedures to comply with the new notice and relocation rules.",
+      "key_dates": [
+        {
+          "label": "Burnaby Tenant Protection Bylaw 14821 takes effect",
+          "date": "2026-01-01"
+        }
+      ],
+      "industries": "Landlord & Property Mgmt, Tenant",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": null,
+      "source_body": "Burnaby Bylaw 14821: Tenant Protection Bylaw 2026",
+      "attachments": [],
+      "article_url": "https://bylaws.burnaby.ca/en/permalink/bylaw26133",
+      "article_title": "Bylaw 14821 — Tenant Protection Bylaw 2026",
+      "article_published_at": null,
+      "source": "burnaby_bylaws",
+      "source_label": "Burnaby Bylaws",
+      "created_at": "2026-05-28T08:58:00.437543"
+    }
+  ]
+}
