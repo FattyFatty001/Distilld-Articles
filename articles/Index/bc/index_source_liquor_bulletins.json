@@ -238,6 +238,16 @@
           "id": 896,
           "title": "Bars and restaurants can now buy liquor directly from private retailers starting May 29, 2026",
           "source_label": "Liquor Bulletins",
+          "key_dates": [
+            {
+              "label": "Liquor licensee-to-licensee sales trial starts — BC LCRB",
+              "date": "2026-05-29"
+            },
+            {
+              "label": "Liquor licensee-to-licensee sales trial ends — BC LCRB",
+              "date": "2029-06-01"
+            }
+          ],
           "is_proposal": false
         }
       ]
