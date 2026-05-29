@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T01:19:21.673103+00:00",
-  "count": 7,
+  "generated_at": "2026-05-29T19:55:08.010016+00:00",
+  "count": 8,
   "articles": [
     {
       "article_id": 69,
@@ -207,6 +207,36 @@
         {
           "id": 429,
           "title": "Liquor Primary bars can now offer bottle service with new rules",
+          "source_label": "Liquor Bulletins",
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 92,
+      "path": "2026/05/29/92_liquor-bulletins_licensee-to-licensee-sales-between-licence-classes.json",
+      "article_url": "https://www2.gov.bc.ca/gov/content/employment-business/business/liquor-regulation-licensing/about-lcrb/bulletins/bulletin-26-03-licensee-to-licensee-liquor-sales",
+      "article_title": "Licensee-to-licensee sales between licence classes",
+      "source": "liquor_bulletins",
+      "source_label": "Liquor Bulletins",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www2.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": null,
+      "created_at": "2026-05-29T19:55:06.404940",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Food Service, Hotel & Accommodation, Liquor",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 896,
+          "title": "Bars and restaurants can now buy liquor directly from private retailers starting May 29, 2026",
           "source_label": "Liquor Bulletins",
           "is_proposal": false
         }
