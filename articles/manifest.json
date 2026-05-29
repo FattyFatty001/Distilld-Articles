@@ -21,7 +21,7 @@
       "index_path": "Index/bc/index_source_burnaby_council.json"
     },
     "liquor_bulletins": {
-      "generated_at": "2026-05-29T19:55:08.010016+00:00",
+      "generated_at": "2026-05-29T22:00:00.000000+00:00",
       "count": 8,
       "locations": "British Columbia",
       "meeting_types": null,
@@ -31,9 +31,7 @@
       "generated_at": "2026-05-29T19:55:08.010016+00:00",
       "count": 6,
       "locations": "British Columbia, Vancouver, Victoria",
-      "meeting_types": [
-        "regular-council"
-      ],
+      "meeting_types": ["regular-council"],
       "index_path": "Index/bc/index_source_vancouver_council.json"
     },
     "burnaby_bylaws": {
