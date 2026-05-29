@@ -1,7 +1,187 @@
 {
-  "generated_at": "2026-05-28T08:58:01.984842+00:00",
-  "count": 8,
+  "generated_at": "2026-05-29T01:19:21.673103+00:00",
+  "count": 14,
   "articles": [
+    {
+      "article_id": 90,
+      "path": "2026/04/07/90_bc-gazette-part-ii_bc-reg-482026-oic-1202026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n06_48-2026",
+      "article_title": "B.C. Reg. 48/2026 – OIC 120/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-04-07T00:00:00",
+      "created_at": "2026-05-29T01:19:17.592860",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Labour & Employment, Professional Services",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 895,
+          "title": "Sections of BC Attorney General Statutes Amendment Act take effect April 7, 2026",
+          "source_label": "BC Gazette Part II",
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 89,
+      "path": "2026/04/01/89_bc-gazette-part-ii_bc-reg-472026-oic-1092026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n06_47-2026",
+      "article_title": "B.C. Reg. 47/2026 – OIC 109/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-04-01T00:00:00",
+      "created_at": "2026-05-29T01:19:12.767214",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Agriculture, Natural Resources, Transportation & Logistics",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 894,
+          "title": "BC updates greenhouse gas reporting rules for industrial operations",
+          "source_label": "BC Gazette Part II",
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 88,
+      "path": "2026/03/31/88_bc-gazette-part-ii_bc-reg-462026-oic-1082026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n06_46-2026",
+      "article_title": "B.C. Reg. 46/2026 – OIC 108/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-03-31T00:00:00",
+      "created_at": "2026-05-29T01:19:08.304948",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Healthcare",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 893,
+          "title": "BC Medicare Protection Amendment takes effect April 1, 2026",
+          "source_label": "BC Gazette Part II",
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 87,
+      "path": "2026/03/30/87_bc-gazette-part-ii_bc-reg-452026-m1482026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n06_45-2026",
+      "article_title": "B.C. Reg. 45/2026 – M148/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-03-30T00:00:00",
+      "created_at": "2026-05-29T01:19:04.062233",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Healthcare, Professional Services",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 892,
+          "title": "BC private training rules updated for health occupation definitions",
+          "source_label": "BC Gazette Part II",
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 86,
+      "path": "2026/03/27/86_bc-gazette-part-ii_bc-reg-442026-m1472026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n06_44-2026",
+      "article_title": "B.C. Reg. 44/2026 – M147/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-03-27T00:00:00",
+      "created_at": "2026-05-29T01:18:58.975422",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Healthcare",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 891,
+          "title": "Occupational therapists can now perform wound care and suctioning — new BC rules",
+          "source_label": "BC Gazette Part II",
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 85,
+      "path": "2026/03/25/85_bc-gazette-part-ii_bc-reg-432026-oic-1052026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n06_43-2026",
+      "article_title": "B.C. Reg. 43/2026 – OIC 105/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-03-25T00:00:00",
+      "created_at": "2026-05-29T01:18:53.734377",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Food Service, Liquor, Retail",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 890,
+          "title": "BC liquor licence renewal fees change for 2026",
+          "source_label": "BC Gazette Part II",
+          "is_proposal": false
+        }
+      ]
+    },
     {
       "article_id": 68,
       "path": "2026/03/16/68_bc-gazette-part-ii_bc-reg-362026-oic-782026.json",
