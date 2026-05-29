@@ -1,0 +1,52 @@
+{
+  "article_id": 92,
+  "article_url": "https://www2.gov.bc.ca/gov/content/employment-business/business/liquor-regulation-licensing/about-lcrb/bulletins/bulletin-26-03-licensee-to-licensee-liquor-sales",
+  "article_title": "Licensee-to-licensee sales between licence classes",
+  "source": "liquor_bulletins",
+  "source_label": "Liquor Bulletins",
+  "government_level": "Provincial",
+  "source_website_icon": "https://www2.gov.bc.ca",
+  "meeting_type": null,
+  "article_published_at": null,
+  "has_attachments": false,
+  "has_pdf": false,
+  "has_html": false,
+  "has_agenda": false,
+  "has_minutes": true,
+  "agenda_brief_count": 0,
+  "minutes_brief_count": 1,
+  "pdf_urls": null,
+  "body": "",
+  "agenda_briefs": [],
+  "minutes_briefs": [
+    {
+      "id": 896,
+      "title": "Bars and restaurants can now buy liquor directly from private retailers starting May 29, 2026",
+      "summary": "The BC Liquor and Cannabis Regulation Branch (LCRB) has approved a three-year trial that lets eligible private liquor stores sell directly to bars, restaurants, and other hospitality businesses. This change starts May 29, 2026 and runs until June 1, 2029. It gives hospitality licensees more flexibility to source specialty products and restock faster during big events like the FIFA World Cup 2026. No application is needed — the rule takes effect automatically for the listed licence classes. Sellers can deliver orders, but cannot sell liquor below the wholesale price they paid. Each sale must have a receipt showing the seller's name and licence number, the purchaser's name and licence number, the date, and a description of the liquor sold.",
+      "action_required": "No action needed — the change takes effect automatically; just be aware of the new buying and selling rules starting May 29, 2026.",
+      "key_dates": [
+        {
+          "label": "Liquor licensee-to-licensee sales trial starts — BC LCRB",
+          "date": "2026-05-29"
+        },
+        {
+          "label": "Liquor licensee-to-licensee sales trial ends — BC LCRB",
+          "date": "2029-06-01"
+        }
+      ],
+      "industries": "Liquor, Food Service, Hotel & Accommodation",
+      "locations": "British Columbia",
+      "government_level": "Provincial",
+      "is_proposal": false,
+      "item_number": null,
+      "source_body": "These changes apply to the following licence classes. Authorized purchasers: To provide bars and restaurants with more flexibility in sourcing specialty products and to help support high-quality hospitality experiences during major events such as FIFA World Cup 2026™, the Liquor and Cannabis Regulation Branch (LCRB) has authorized a three-year trial allowing eligible private liquor retailers to sell directly to hospitality licensees (licence classes noted above). The trial period will run fromMay 29, 2026, until June 1, 2029, and will give hospitality businesses more choice in where they may purchase products and help them restock more quickly during periods of increased demand. No application is required. This change will automatically take effect for the licence classes noted above. Rural licensee retail store licensees will not need to apply to the LCRB to sell to specific licensees or report these sales to the Liquor Distribution Branch during the trial period. There are no annual limits to selling or purchasing from different licence classes, and liquor sales and purchases between different licence classes will not count toward renewal fees. This change does not affect the current rules for sales and purchases between licensees of the same licence class. The annual limits for those sales and purchases are outlined in each licence class’s terms and conditions and will continue to apply. Authorized sellers may sell liquor to authorized purchasers and may also deliver orders to the purchaser. Liquor must not be sold below the price the seller paid to purchase it. For clarity, this price must not be below the wholesale price set by the Liquor Distribution Branch. To avoid customer confusion, sellers may choose to display authorized purchaser pricing separately from regular shelf pricing, such as at the till or customer service desk. Each transaction receipt must have the following information on it: Authorized purchasers or their employees may purchase liquor directly from authorized sellers. Liquor must not be purchased through a third-party delivery service.",
+      "attachments": [],
+      "article_url": "https://www2.gov.bc.ca/gov/content/employment-business/business/liquor-regulation-licensing/about-lcrb/bulletins/bulletin-26-03-licensee-to-licensee-liquor-sales",
+      "article_title": "Licensee-to-licensee sales between licence classes",
+      "article_published_at": null,
+      "source": "liquor_bulletins",
+      "source_label": "Liquor Bulletins",
+      "created_at": "2026-05-29T19:55:06.404940"
+    }
+  ]
+}
