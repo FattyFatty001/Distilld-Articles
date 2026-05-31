@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T19:55:08.010016+00:00",
+  "generated_at": "2026-05-31T21:20:27.539779+00:00",
   "count": 12,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source": "burnaby_bylaws",
       "source_label": "Burnaby Bylaws",
       "government_level": "Municipal",
-      "source_website_icon": "",
+      "source_website_icon": "https://bylaws.burnaby.ca",
       "meeting_type": null,
       "article_published_at": "2026-05-12T00:00:00",
       "created_at": "2026-05-18T23:11:49.742284",
@@ -28,6 +28,12 @@
           "id": 732,
           "title": "Burnaby 2026 property tax rates set — check your bill",
           "source_label": "Burnaby Bylaws",
+          "key_dates": [
+            {
+              "label": "Burnaby 2026 property tax rates take effect",
+              "date": "2026-01-01"
+            }
+          ],
           "is_proposal": false
         }
       ]
@@ -58,6 +64,7 @@
           "id": 846,
           "title": "Burnaby approves housing agreement for 94 non-market rental units at 5980 Kathleen Avenue",
           "source_label": "Burnaby Bylaws",
+          "key_dates": [],
           "is_proposal": false
         }
       ]
@@ -88,6 +95,12 @@
           "id": 845,
           "title": "Burnaby approves housing agreement for 6616 Telford Avenue rental development",
           "source_label": "Burnaby Bylaws",
+          "key_dates": [
+            {
+              "label": "Burnaby Housing Agreement Bylaw 14790 adopted",
+              "date": "2026-01-27"
+            }
+          ],
           "is_proposal": false
         }
       ]
@@ -118,6 +131,7 @@
           "id": 847,
           "title": "Burnaby housing agreement for 74 rental units at 6479 Selma Avenue approved",
           "source_label": "Burnaby Bylaws",
+          "key_dates": [],
           "is_proposal": false
         }
       ]
@@ -130,7 +144,7 @@
       "source": "burnaby_bylaws",
       "source_label": "Burnaby Bylaws",
       "government_level": "Municipal",
-      "source_website_icon": "",
+      "source_website_icon": "https://bylaws.burnaby.ca",
       "meeting_type": null,
       "article_published_at": "2025-11-25T00:00:00",
       "created_at": "2026-05-09T23:32:15.668044",
@@ -148,6 +162,7 @@
           "id": 2,
           "title": "Burnaby approves housing agreement for 5938 Olive Avenue rental development",
           "source_label": "Burnaby Bylaws",
+          "key_dates": [],
           "is_proposal": false
         }
       ]
@@ -160,7 +175,7 @@
       "source": "burnaby_bylaws",
       "source_label": "Burnaby Bylaws",
       "government_level": "Municipal",
-      "source_website_icon": "",
+      "source_website_icon": "https://bylaws.burnaby.ca",
       "meeting_type": null,
       "article_published_at": "2025-08-26T00:00:00",
       "created_at": "2026-05-15T17:25:31.924032",
@@ -178,6 +193,12 @@
           "id": 723,
           "title": "Burnaby approves housing agreement for 31-storey rental building at 4281 Grange Street",
           "source_label": "Burnaby Bylaws",
+          "key_dates": [
+            {
+              "label": "Burnaby Housing Agreement bylaw adopted",
+              "date": "2025-08-26"
+            }
+          ],
           "is_proposal": false
         }
       ]
@@ -190,7 +211,7 @@
       "source": "burnaby_bylaws",
       "source_label": "Burnaby Bylaws",
       "government_level": "Municipal",
-      "source_website_icon": "",
+      "source_website_icon": "https://bylaws.burnaby.ca",
       "meeting_type": null,
       "article_published_at": "2025-08-26T00:00:00",
       "created_at": "2026-05-12T15:17:24.091563",
@@ -208,6 +229,12 @@
           "id": 424,
           "title": "Burnaby approves housing agreement for 174 non-market rental units at 7786 & 7792 6th Street",
           "source_label": "Burnaby Bylaws",
+          "key_dates": [
+            {
+              "label": "Burnaby Housing Agreement bylaw adopted",
+              "date": "2025-08-26"
+            }
+          ],
           "is_proposal": false
         }
       ]
@@ -220,7 +247,7 @@
       "source": "burnaby_bylaws",
       "source_label": "Burnaby Bylaws",
       "government_level": "Municipal",
-      "source_website_icon": "",
+      "source_website_icon": "https://bylaws.burnaby.ca",
       "meeting_type": null,
       "article_published_at": "2025-07-08T00:00:00",
       "created_at": "2026-05-15T17:25:44.402561",
@@ -238,6 +265,7 @@
           "id": 725,
           "title": "Burnaby approves housing agreement for 49 affordable rental units at 4990 Bennett Street",
           "source_label": "Burnaby Bylaws",
+          "key_dates": [],
           "is_proposal": false
         }
       ]
@@ -250,7 +278,7 @@
       "source": "burnaby_bylaws",
       "source_label": "Burnaby Bylaws",
       "government_level": "Municipal",
-      "source_website_icon": "",
+      "source_website_icon": "https://bylaws.burnaby.ca",
       "meeting_type": null,
       "article_published_at": "2025-07-08T00:00:00",
       "created_at": "2026-05-15T17:25:38.293166",
@@ -268,6 +296,7 @@
           "id": 724,
           "title": "Burnaby approves housing agreement for 5 non-market rental buildings at Lougheed Highway and Alpha Avenue",
           "source_label": "Burnaby Bylaws",
+          "key_dates": [],
           "is_proposal": false
         }
       ]
@@ -298,6 +327,12 @@
           "id": 889,
           "title": "Burnaby Tenant Protection Bylaw 14821 takes effect — new rules for landlords",
           "source_label": "Burnaby Bylaws",
+          "key_dates": [
+            {
+              "label": "Burnaby Tenant Protection Bylaw 14821 takes effect",
+              "date": "2026-01-01"
+            }
+          ],
           "is_proposal": false
         }
       ]
@@ -328,6 +363,7 @@
           "id": 848,
           "title": "Burnaby repeals 1921 bylaw that restricted pig farm locations",
           "source_label": "Burnaby Bylaws",
+          "key_dates": [],
           "is_proposal": false
         }
       ]
@@ -358,6 +394,7 @@
           "id": 844,
           "title": "Burnaby adopts 5-year financial plan (2026–2030) — property taxes are main revenue source",
           "source_label": "Burnaby Bylaws",
+          "key_dates": [],
           "is_proposal": false
         }
       ]
