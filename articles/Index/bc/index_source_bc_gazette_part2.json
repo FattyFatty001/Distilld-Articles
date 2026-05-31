@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T19:55:08.010016+00:00",
+  "generated_at": "2026-05-31T21:20:27.539779+00:00",
   "count": 14,
   "articles": [
     {
@@ -28,6 +28,12 @@
           "id": 895,
           "title": "Sections of BC Attorney General Statutes Amendment Act take effect April 7, 2026",
           "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC Attorney General Statutes Amendment Act sections 5–8 take effect",
+              "date": "2026-04-07"
+            }
+          ],
           "is_proposal": false
         }
       ]
@@ -58,6 +64,12 @@
           "id": 894,
           "title": "BC updates greenhouse gas reporting rules for industrial operations",
           "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC greenhouse gas reporting rule amendments take effect",
+              "date": "2026-04-01"
+            }
+          ],
           "is_proposal": false
         }
       ]
@@ -88,6 +100,12 @@
           "id": 893,
           "title": "BC Medicare Protection Amendment takes effect April 1, 2026",
           "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC Medicare Protection Amendment takes effect",
+              "date": "2026-04-01"
+            }
+          ],
           "is_proposal": false
         }
       ]
@@ -118,6 +136,12 @@
           "id": 892,
           "title": "BC private training rules updated for health occupation definitions",
           "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC Private Training Regulation definition change takes effect",
+              "date": "2026-04-01"
+            }
+          ],
           "is_proposal": false
         }
       ]
@@ -148,6 +172,12 @@
           "id": 891,
           "title": "Occupational therapists can now perform wound care and suctioning — new BC rules",
           "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC occupational therapist scope expansion takes effect",
+              "date": "2026-03-27"
+            }
+          ],
           "is_proposal": false
         }
       ]
@@ -178,6 +208,12 @@
           "id": 890,
           "title": "BC liquor licence renewal fees change for 2026",
           "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "New liquor licence fee rules take effect — BC",
+              "date": "2026-05-01"
+            }
+          ],
           "is_proposal": false
         }
       ]
@@ -190,7 +226,7 @@
       "source": "bc_gazette_part2",
       "source_label": "BC Gazette Part II",
       "government_level": "Provincial",
-      "source_website_icon": "",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
       "meeting_type": null,
       "article_published_at": "2026-03-16T00:00:00",
       "created_at": "2026-05-20T22:37:34.481457",
@@ -208,6 +244,12 @@
           "id": 763,
           "title": "Spongy moth eradication rules updated for BC",
           "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "New spongy moth eradication rules take effect — BC",
+              "date": "2026-03-16"
+            }
+          ],
           "is_proposal": false
         }
       ]
@@ -220,7 +262,7 @@
       "source": "bc_gazette_part2",
       "source_label": "BC Gazette Part II",
       "government_level": "Provincial",
-      "source_website_icon": "",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
       "meeting_type": null,
       "article_published_at": "2026-03-16T00:00:00",
       "created_at": "2026-05-20T22:37:30.920307",
@@ -238,6 +280,16 @@
           "id": 762,
           "title": "BC passenger vehicle accessibility rules updated — new payment and driver rules",
           "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC passenger transportation rule changes take effect",
+              "date": "2026-09-01"
+            },
+            {
+              "label": "Further BC passenger transportation rule changes take effect",
+              "date": "2027-09-01"
+            }
+          ],
           "is_proposal": false
         }
       ]
@@ -250,7 +302,7 @@
       "source": "bc_gazette_part2",
       "source_label": "BC Gazette Part II",
       "government_level": "Provincial",
-      "source_website_icon": "",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
       "meeting_type": null,
       "article_published_at": "2026-03-16T00:00:00",
       "created_at": "2026-05-15T17:25:26.350072",
@@ -268,6 +320,12 @@
           "id": 722,
           "title": "Serious illness or injury leave rules take effect April 1 in BC",
           "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC serious illness or injury leave rules take effect",
+              "date": "2026-04-01"
+            }
+          ],
           "is_proposal": false
         }
       ]
@@ -280,7 +338,7 @@
       "source": "bc_gazette_part2",
       "source_label": "BC Gazette Part II",
       "government_level": "Provincial",
-      "source_website_icon": "",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
       "meeting_type": null,
       "article_published_at": "2026-03-16T00:00:00",
       "created_at": "2026-05-15T17:25:22.108558",
@@ -298,6 +356,12 @@
           "id": 721,
           "title": "Victoria Regional Transit Commission sets 2026 property tax rates for transit funding",
           "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "Victoria Regional Transit Commission 2026 property tax rates take effect",
+              "date": "2026-03-31"
+            }
+          ],
           "is_proposal": false
         }
       ]
@@ -310,7 +374,7 @@
       "source": "bc_gazette_part2",
       "source_label": "BC Gazette Part II",
       "government_level": "Provincial",
-      "source_website_icon": "",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
       "meeting_type": null,
       "article_published_at": "2026-03-13T00:00:00",
       "created_at": "2026-05-15T17:25:17.285371",
@@ -328,6 +392,12 @@
           "id": 720,
           "title": "BC biomass energy rate change takes effect April 1, 2026",
           "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC Biomass Energy Program new rate takes effect",
+              "date": "2026-04-01"
+            }
+          ],
           "is_proposal": false
         }
       ]
@@ -340,7 +410,7 @@
       "source": "bc_gazette_part2",
       "source_label": "BC Gazette Part II",
       "government_level": "Provincial",
-      "source_website_icon": "",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
       "meeting_type": null,
       "article_published_at": "2026-03-13T00:00:00",
       "created_at": "2026-05-15T17:25:12.316593",
@@ -358,6 +428,12 @@
           "id": 719,
           "title": "BC court filing fees increase May 4, 2026 — Small Claims and Supreme Court",
           "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC court fee increases take effect",
+              "date": "2026-05-04"
+            }
+          ],
           "is_proposal": false
         }
       ]
@@ -370,7 +446,7 @@
       "source": "bc_gazette_part2",
       "source_label": "BC Gazette Part II",
       "government_level": "Provincial",
-      "source_website_icon": "",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
       "meeting_type": null,
       "article_published_at": "2026-03-11T00:00:00",
       "created_at": "2026-05-13T20:52:38.784405",
@@ -388,6 +464,12 @@
           "id": 427,
           "title": "Investment dealers must now register with the Canadian Investment Regulatory Organization (CIRO)",
           "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC Instrument 22-502 — CIRO registration rule takes effect",
+              "date": "2026-03-11"
+            }
+          ],
           "is_proposal": false
         }
       ]
@@ -400,7 +482,7 @@
       "source": "bc_gazette_part2",
       "source_label": "BC Gazette Part II",
       "government_level": "Provincial",
-      "source_website_icon": "",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
       "meeting_type": null,
       "article_published_at": "2026-03-11T00:00:00",
       "created_at": "2026-05-13T20:52:34.825917",
@@ -418,6 +500,12 @@
           "id": 426,
           "title": "Clean Energy Act deadline extended to April 1, 2029",
           "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "Clean Energy Act compliance deadline takes effect",
+              "date": "2029-04-01"
+            }
+          ],
           "is_proposal": false
         }
       ]
