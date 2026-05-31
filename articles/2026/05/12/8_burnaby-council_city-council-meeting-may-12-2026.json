@@ -5,7 +5,7 @@
   "source": "burnaby_council",
   "source_label": "Burnaby Council",
   "government_level": "Municipal",
-  "source_website_icon": "https://burnaby.ca"
+  "source_website_icon": "https://burnaby.ca",
   "meeting_type": "regular-council",
   "article_published_at": "2026-05-12T00:00:00",
   "has_attachments": false,
@@ -14,7 +14,7 @@
   "has_agenda": true,
   "has_minutes": true,
   "agenda_brief_count": 25,
-  "minutes_brief_count": 38,
+  "minutes_brief_count": 39,
   "pdf_urls": "{\"_doc\": [{\"url\": \"https://pub-burnaby.escribemeetings.com/FileStream.ashx?DocumentId=89728\", \"title\": \"Agenda (PDF)\"}], \"_inline\": [{\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89650\", \"title\": \"2026.04.27 COTW Minutes DRAFT.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89651\", \"title\": \"2026.04.28 Council Minutes DRAFT.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89656\", \"title\": \"2025 AMR and 2025 AMR Highlights 2026-05-12.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89657\", \"title\": \"Attachment 1 - 2025 Annual Municipal Report 2026-05-12.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89658\", \"title\": \"Attachment 2 - 2025 Annual Municipal Report Highlights 2026-05-12 .pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89652\", \"title\": \"Proposed Repeal and Replacement of Burnaby Development Procedures Bylaw and Rela\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89653\", \"title\": \"Attachment 1 - Proposed Development Procedures Bylaw 2026 2026-05-12_.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89654\", \"title\": \"Attachment 2 - Proposed Amendments to Building Bylaw 2016 2026-05-12.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89655\", \"title\": \"Attachment 3 - Proposed Amendments to Consolidated Fees and Charges Bylaw 2026-0\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89633\", \"title\": \"DAP Program - Phase 3 Final Report 2026-05-12.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89634\", \"title\": \"Attachment 1 - DAP Phase 3 Key Activities, Impacts, and Outcomes 2026-05-12.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89640\", \"title\": \"CA - Mobile Devices and Plans 2026-05-12.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89641\", \"title\": \"CA - Aeration and Overseeding Services 2026-05-12.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89647\", \"title\": \"CA - (CB-3233) Victory St. - Patterson to Jubilee Road Upgrades 2026-05-12.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89642\", \"title\": \"CA - (CA-3299) Sidewalk Package 2026-05-12.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89648\", \"title\": \"CC - (EB-8022) Sidewalk Expansion Program 2026-05-12.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89649\", \"title\": \"Attachment 1 - Contract History (Sidewalk Expansion Program) 2026-05-12.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89635\", \"title\": \"Comment Letters on Proposed Metro 2050 Amendments - City of Maple Ridge (North 2\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89636\", \"title\": \"Attachment 1 - Letter to MVRD - Comments on Metro 2050 Proposed Amendment Bylaw \"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89637\", \"title\": \"Attachment 2 - Letter to MVRD - Comments on Metro 2050 Proposed Amendment - Surr\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89638\", \"title\": \"Attachment 3 - Letter to COB - Maple Ridge - North 256 Street Industrial Land Ar\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89639\", \"title\": \"Attachment 4 - Letter to COB - Surrey - Hazelmere 2026-05-12.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89644\", \"title\": \"COTW - Proposed Works and Services Requirements 2026.05.12.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89659\", \"title\": \"FMC - 2026 Consultant Funding and Budget Reductions 2026-05-12.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89645\", \"title\": \"PRCC - Draft Burnaby Mountain Trail Management Plan 2026.05.12.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89646\", \"title\": \"Attachment 1 - Draft Burnaby Mountain Trail Management Plan 2026.05.12.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89660\", \"title\": \"PRCC - Vancouver Roques Rugby - Bingham Cup 2028 Support Request 2026.05.12.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89632\", \"title\": \"Proposed Non-market Housing Project at 3961 and 3983 Norland Avenue 2026-05-12.p\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89611\", \"title\": \"FMC - SU Significant Civic Projects \\u2013 April 2026 2026-05-12.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89612\", \"title\": \"FMC - SU Major Engineering Projects \\u2013December 2025 to April 2026-05-12.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89613\", \"title\": \"FMC - SU IT Initiatives - January to March 2026 2026-05-12.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89614\", \"title\": \"Attachment 1 - Key IT Initiatives January-March 2026 Status Update 2026-05-12.pd\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89643\", \"title\": \"PRCC - Inclusion, Diversity, Equity and Accesiblity(IDEAs) in PUblic Recreation \"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89615\", \"title\": \"PSC - SU - Burnaby CSWP Progress Report and 2026 Update - 2026-05-12.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89616\", \"title\": \"Attachment 1 - Community Safety and Well-Being Plan Progress Report and 2026 Upd\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89617\", \"title\": \"PSC - SU - Fire Department (February 2026) 2026-05-12.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89618\", \"title\": \"Attachment 1 - Fire Department Status Report 2026-05-12.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89619\", \"title\": \"PSC - SU - RCMP Status Report (December 2025\\u2013January 2026) 2026-05-12.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89620\", \"title\": \"Attachment 1 - RCMP Status Report (December 2025\\u2013January 2026) 2026-05-12.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89621\", \"title\": \"Attachment 2 - APP Quarterly Report (October-December 2025) 2026-05-12.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89622\", \"title\": \"1. 14815 Burnaby Zoning Bylaw 2026.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89623\", \"title\": \"2. Zoning Bylaw 2026 for Legal Bylaw.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89624\", \"title\": \"3. Zoning Bylaw 2026 - Schedule I.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89625\", \"title\": \"4. Zoning Bylaw 2026 - Schedule II.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89626\", \"title\": \"5. Zoning Bylaw 2026 - Schedule III.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89627\", \"title\": \"14816.Bylaw Notice Enforcement Bylaw 2009, Amend Bylaw No. 4, 2026 (Penalties fo\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89628\", \"title\": \"14817 Burnaby Waivers and Reductions of Amenity Cost Charges and Development Cos\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89629\", \"title\": \"14821 Burnaby Tentant Protection Bylaw 2026.docx FINAL.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89630\", \"title\": \"14822.Bylaw Notice Enforcement Bylaw 2009, Amend Bylaw No. 6, 2026 (Tenants Prot\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89631\", \"title\": \"14823 Burnaby Consolidated Fees Charges Bylaw Amendment Bylaw No. 3 2026. mid ye\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89609\", \"title\": \"14811.Burnaby Street and Traffic Bylaw 1961 Amendment Bylaw No. 1 2026 (E-Bike a\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89661\", \"title\": \"14812. Burnaby Parks Regulation Bylaw 1979, Amend Bylaw No. 1 2026 (E-Bike and E\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89610\", \"title\": \"14813 Bylaw Notice Enforcement Bylaw 2009, Amend Bylaw No. 3, 2026 Parks Regulat\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89662\", \"title\": \"14814.Burnaby Rates Bylaw 2026 v2 (FA).pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89608\", \"title\": \"14737 Rez 24-23 (3900 Grand Promenade-9850 Austin Rd-9858 and 9898 Gatineau Pl).\"}]}",
   "body": "",
   "agenda_briefs": [
@@ -990,6 +990,26 @@
       "created_at": "2026-05-27T16:48:12.593550"
     },
     {
+      "id": 1096,
+      "title": "[NOT REACHED] Council did not vote on proposed Burnaby Zoning Bylaw 2026",
+      "summary": "Council was scheduled to consider a proposal to repeal the 1965 Burnaby Zoning Bylaw and replace it with a new Burnaby Zoning Bylaw 2026, including new Development Permit Area Guidelines and zoning district reassignments. However, the agenda item was not reached before the meeting ended, so no vote or decision was made on the proposed bylaw.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "11.1.1",
+      "source_body": "11.1.1\n#14815 - Burnaby Zoning Bylaw 2026\nPurpose: to repeal Burnaby Zoning Bylaw 1965 and replace it with the proposed Burnaby Zoning Bylaw 2026, including new Development Permit Area Guidelines and zoning district reassignment",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=8f8b7575-acb8-4b2f-a5b1-b2e81160aaba&lang=English",
+      "article_title": "City Council Meeting Agenda — May 12, 2026",
+      "article_published_at": "2026-05-12T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-31T21:16:06.733015"
+    },
+    {
       "id": 871,
       "title": "Council approved Bylaw Notice Enforcement Amendment Bylaw No. 4",
       "summary": "Burnaby Council has unanimously approved an amendment to the Bylaw Notice Enforcement Bylaw. This means the city has updated the rules for how bylaw tickets (fines for things like parking or property standards) are issued and enforced. The change is now law.",
@@ -1190,6 +1210,26 @@
       "created_at": "2026-05-27T16:48:12.600704"
     },
     {
+      "id": 876,
+      "title": "Council approved amended Burnaby zoning bylaw for affordable housing",
+      "summary": "Council voted unanimously to amend Bylaw #14815, removing a rule that required all replacement units to become inclusionary (affordable) units if a tenant declined their right of first refusal or moved out. The wording in Part 5, section 1.4 of the Burnaby Zoning Bylaw was reverted to an earlier version. Council also ordered staff to do a financial viability analysis on the amendment approved April 28, 2026. If the analysis shows the rules are not financially workable, staff must report back with options to keep as many affordable housing units as possible while still making the numbers work. The bylaw, as amended, was then given third reading (final approval before becoming law).",
+      "action_required": "No immediate action required — monitor for the financial viability report and any future rule changes that may affect your development or rental property.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt, Tenant",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "11.1 (Bylaw 14815)",
+      "source_body": "MOVED AND SECONDED\nTHAT Bylaw #14815 be AMENDED to remove the changes made to implement\nitem 1 of Resolution No. 2026 -190 adopted at the April 28,  2026 Council\nmeeting, such that the requirement “that all replacement units be converted into\ninclusionary units should an eligible tenant decline their right of first refusal or\nvacate a replacement unit” be removed and the wording in Part 5, section 1.4 of\nthe Burnaby Zoning Bylaw be reverted to the wording presented in Attachment 1\nof the April 28, 2026 report;\nTHAT staff be directed to undertake a financial viability analysis with respect to\nthe amendment approved on April 28, 2026, as part of Item 1 of Resolution No.\n2026 – 190; and\nTHAT if it shown to be financially unviable that staff report back with the\nproposed measures to retain the maximum number of affordable housing units\nwhile maintaining financial viability.\nCARRIED UNANIMOUSLY\n\nMOVED AND SECONDED\nResolution No. 2026 - 245\nTHAT Bylaw No. 14815, be now read a third time, AS AMENDED.\nCARRIED UNANIMOUSLY",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=8f8b7575-acb8-4b2f-a5b1-b2e81160aaba&lang=English",
+      "article_title": "City Council Meeting Minutes — May 12, 2026",
+      "article_published_at": "2026-05-12T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-27T16:48:12.597536"
+    },
+    {
       "id": 882,
       "title": "Council unanimously calls on BC to resume Burnaby Hospital Phase 2",
       "summary": "Burnaby City Council voted unanimously to demand the provincial government immediately resume Phase 2 of the Burnaby Hospital redevelopment. Council is asking the province to confirm that funding for Phase 2 is still protected, and to give residents a clear timeline for when construction will start. Phase 2 would add a new acute care tower, more beds, better emergency and diagnostic services, and a new BC Cancer Centre for Burnaby.",
@@ -1230,6 +1270,31 @@
       "created_at": "2026-05-27T16:48:12.605061"
     },
     {
+      "id": 883,
+      "title": "Council approved four Local Hero Award nominees for 2026",
+      "summary": "Burnaby Council unanimously approved four individuals to receive the 2026 Burnaby Local Hero Awards. The winners are Sarah Fantin Kilgour, Danelle Laidlaw, Grant Withers, and Chizuko Yamanaka. Council voted to announce the approved nominees at the May 12, 2026, Open Council meeting. Staff have been authorized to contact the recipients before the public announcement to let them know they have won.",
+      "action_required": null,
+      "key_dates": [
+        {
+          "label": "Burnaby Local Hero Awards public announcement at Open Council meeting",
+          "date": "2026-05-12"
+        }
+      ],
+      "industries": "",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "14.1 (Local Hero Awards)",
+      "source_body": "14.1 Resolution No. C2026 - 042\nTHAT the nominations of the four (4) following individuals for receipt of Burnaby\nLocal Hero Awards in 2026 be approved:\n• Sarah Fantin Kilgour\n• Danelle Laidlaw\n• Grant Withers\n• Chizuko Yamanaka;\n\nTHAT the approved nominees be announced at the May 12, 2026, Open Council\nmeeting; and\nTHAT staff be authorized to contact recipients to advise them of the award prior\nto the announcement.\nCARRIED UNANIMOUSLY",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=8f8b7575-acb8-4b2f-a5b1-b2e81160aaba&lang=English",
+      "article_title": "City Council Meeting Minutes — May 12, 2026",
+      "article_published_at": "2026-05-12T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-27T16:48:12.601768"
+    },
+    {
       "id": 885,
       "title": "Council approved $150,000 annual grant to Burnaby School District for Michael J. Fox Theatre",
       "summary": "Burnaby Council voted unanimously to give the Burnaby School District a grant of up to $150,000 per year for 2026 and 2027. The money will help keep the Michael J. Fox Theatre open for community use and cover its operating costs. The funds will come from the city's gaming reserve, which is money set aside from gambling revenues.",
@@ -1268,51 +1333,6 @@
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
       "created_at": "2026-05-27T16:48:12.602313"
-    },
-    {
-      "id": 883,
-      "title": "Council approved four Local Hero Award nominees for 2026",
-      "summary": "Burnaby Council unanimously approved four individuals to receive the 2026 Burnaby Local Hero Awards. The winners are Sarah Fantin Kilgour, Danelle Laidlaw, Grant Withers, and Chizuko Yamanaka. Council voted to announce the approved nominees at the May 12, 2026, Open Council meeting. Staff have been authorized to contact the recipients before the public announcement to let them know they have won.",
-      "action_required": null,
-      "key_dates": [
-        {
-          "label": "Burnaby Local Hero Awards public announcement at Open Council meeting",
-          "date": "2026-05-12"
-        }
-      ],
-      "industries": "",
-      "locations": "Burnaby",
-      "government_level": "Municipal",
-      "is_proposal": false,
-      "item_number": "14.1 (Local Hero Awards)",
-      "source_body": "14.1 Resolution No. C2026 - 042\nTHAT the nominations of the four (4) following individuals for receipt of Burnaby\nLocal Hero Awards in 2026 be approved:\n• Sarah Fantin Kilgour\n• Danelle Laidlaw\n• Grant Withers\n• Chizuko Yamanaka;\n\nTHAT the approved nominees be announced at the May 12, 2026, Open Council\nmeeting; and\nTHAT staff be authorized to contact recipients to advise them of the award prior\nto the announcement.\nCARRIED UNANIMOUSLY",
-      "attachments": [],
-      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=8f8b7575-acb8-4b2f-a5b1-b2e81160aaba&lang=English",
-      "article_title": "City Council Meeting Minutes — May 12, 2026",
-      "article_published_at": "2026-05-12T00:00:00",
-      "source": "burnaby_council",
-      "source_label": "Burnaby Council",
-      "created_at": "2026-05-27T16:48:12.601768"
-    },
-    {
-      "id": 876,
-      "title": "Council approved amended Burnaby zoning bylaw for affordable housing",
-      "summary": "Council voted unanimously to amend Bylaw #14815, removing a rule that required all replacement units to become inclusionary (affordable) units if a tenant declined their right of first refusal or moved out. The wording in Part 5, section 1.4 of the Burnaby Zoning Bylaw was reverted to an earlier version. Council also ordered staff to do a financial viability analysis on the amendment approved April 28, 2026. If the analysis shows the rules are not financially workable, staff must report back with options to keep as many affordable housing units as possible while still making the numbers work. The bylaw, as amended, was then given third reading (final approval before becoming law).",
-      "action_required": "No immediate action required — monitor for the financial viability report and any future rule changes that may affect your development or rental property.",
-      "key_dates": [],
-      "industries": "Construction & Development, Landlord & Property Mgmt, Tenant",
-      "locations": "Burnaby",
-      "government_level": "Municipal",
-      "is_proposal": false,
-      "item_number": "11.1 (Bylaw 14815)",
-      "source_body": "MOVED AND SECONDED\nTHAT Bylaw #14815 be AMENDED to remove the changes made to implement\nitem 1 of Resolution No. 2026 -190 adopted at the April 28,  2026 Council\nmeeting, such that the requirement “that all replacement units be converted into\ninclusionary units should an eligible tenant decline their right of first refusal or\nvacate a replacement unit” be removed and the wording in Part 5, section 1.4 of\nthe Burnaby Zoning Bylaw be reverted to the wording presented in Attachment 1\nof the April 28, 2026 report;\nTHAT staff be directed to undertake a financial viability analysis with respect to\nthe amendment approved on April 28, 2026, as part of Item 1 of Resolution No.\n2026 – 190; and\nTHAT if it shown to be financially unviable that staff report back with the\nproposed measures to retain the maximum number of affordable housing units\nwhile maintaining financial viability.\nCARRIED UNANIMOUSLY\n\nMOVED AND SECONDED\nResolution No. 2026 - 245\nTHAT Bylaw No. 14815, be now read a third time, AS AMENDED.\nCARRIED UNANIMOUSLY",
-      "attachments": [],
-      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=8f8b7575-acb8-4b2f-a5b1-b2e81160aaba&lang=English",
-      "article_title": "City Council Meeting Minutes — May 12, 2026",
-      "article_published_at": "2026-05-12T00:00:00",
-      "source": "burnaby_council",
-      "source_label": "Burnaby Council",
-      "created_at": "2026-05-27T16:48:12.597536"
     }
   ]
 }
