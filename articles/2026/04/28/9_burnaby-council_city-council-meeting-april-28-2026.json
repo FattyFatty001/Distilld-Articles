@@ -4,8 +4,8 @@
   "article_title": "City Council Meeting — April 28, 2026",
   "source": "burnaby_council",
   "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
   "government_level": "Municipal",
+  "source_website_icon": "https://burnaby.ca",
   "meeting_type": "regular-council",
   "article_published_at": "2026-04-28T00:00:00",
   "has_attachments": false,
@@ -14,7 +14,7 @@
   "has_agenda": true,
   "has_minutes": true,
   "agenda_brief_count": 29,
-  "minutes_brief_count": 25,
+  "minutes_brief_count": 30,
   "pdf_urls": "{\"_doc\": [{\"url\": \"https://pub-burnaby.escribemeetings.com/FileStream.ashx?DocumentId=89262\", \"title\": \"Agenda (PDF)\"}], \"_inline\": [{\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89303\", \"title\": \"2026.04.14 Council Minutes DRAFT.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89308\", \"title\": \"Burnaby Zoning Bylaw - Proposed Repeal and Replacement 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89309\", \"title\": \"Attachment 1 - Proposed Burnaby Zoning Bylaw 2026 2026-04-28_.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89310\", \"title\": \"Attachment 2 - Proposed Form and Character Development Permit Area Guidelines 20\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89311\", \"title\": \"Attachment 3 - Proposed Streamside Protection and Enhancement Development Permit\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89312\", \"title\": \"Attachment 4 - Proposed Tenant Protection Development Permit Area Guidelines 202\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89313\", \"title\": \"Attachment 5 - Proposed Zone Reassignment Reference Maps 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89314\", \"title\": \"Attachment 6 - Rental Replacement and Inclusionary Requirements Evaluation 2026-\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89315\", \"title\": \"Attachment 7 - Example Inclusionary and Rental Replacement at Occupancy and Seco\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89298\", \"title\": \"BHA 2026 Operating Funding 2026-04-28_.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89299\", \"title\": \"Attachment 1 - BHA Assistance Request for Year 2 Operating Funds 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89301\", \"title\": \"2026 Property Tax rates 2026-04-28__.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89302\", \"title\": \"Attachment 1 - Burnaby Rates Bylaw 2026_2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89283\", \"title\": \"Appointment of Approving Officer 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89288\", \"title\": \"DVP26-01 - 8012 11th Avenue 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89289\", \"title\": \"Attachment 1 - DVP 26-01 - Sketch1 and 2 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89290\", \"title\": \"Attachment 2 - DVP 26-01 - Permit 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89300\", \"title\": \"2026 Insurance Program - Contract Renewals - 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89280\", \"title\": \"2026 Heritage BC Conference 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89324\", \"title\": \"CA - Networking Software Licenses 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89325\", \"title\": \"CA - New Civic Facility Fit-Out 2026-04-28 ___.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89304\", \"title\": \"CC - External Audit Services 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89305\", \"title\": \"Attachment 1 - Contract History (External Audit Services) 2026-04-28 .pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89306\", \"title\": \"CC - BLRC Geotechnical Consulting Services 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89307\", \"title\": \"Attachment 1 - Contract History (BLRC Geotechnical Consulting Services) 2026-04-\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89291\", \"title\": \"ECC - Spring 2026 Community Grant Applications 2026.04.28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89292\", \"title\": \"Appendix A - Recreational Sports Grants 2026.04.28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89293\", \"title\": \"Appendix B - Operating Grants 2026.04.28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89294\", \"title\": \"Appendix C - Initiative Grants 2026.04.28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89295\", \"title\": \"Appendix D - Subsidized Use Grants 2026.04.28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89296\", \"title\": \"Appendix E - Food Security Grants 2026.04.28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89321\", \"title\": \"FMC - Burnaby Consolidated Fees and Charges Bylaw \\u2013 2026 Mid-Year Amendments 202\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89322\", \"title\": \"Attachment 1 - Amendments to Schedule F, Effective June 1, 2026 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89323\", \"title\": \"Attachment 2 - Amendments to Schedule F3, Effective Septembr 1, 2026 2026-04-28.\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89316\", \"title\": \"PDC - Proposed Tenant Protection Framework 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89317\", \"title\": \"Attachment 1 - Proposed Burnaby Tenant Protection Bylaw 2026 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89318\", \"title\": \"Attachment 2 - Key Terms and Changes between TAP and the proposed Burnaby TPB 20\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89319\", \"title\": \"Attachment 3 - Proposed Amendments to Burnaby Bylaw Notice Enforcement Bylaw 202\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89320\", \"title\": \"Attachment 4 - List of in-progress Rezoning Applications subject to TAP 2026-04-\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89266\", \"title\": \"TC - Southeast Bikeway Upgrade Project - Proposed Improvements - 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89267\", \"title\": \"Attachment 1 - Project Scope - Southeast Bikeway 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89268\", \"title\": \"Attachment 2 - Southeast Area Proposed Improvements (bikeway) 2026-04-28 .pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89269\", \"title\": \"Attachment 3 - Big Bend Area Proposed Cross-Sections (bikeway) 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89276\", \"title\": \"TC - Proposed Amendment to the Burnaby Town Centre Design Standards 2026-04-28.p\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89284\", \"title\": \"Brentwood Park SSMUH Motion - Restrictive Covenants and Statutory Building Schem\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89281\", \"title\": \"SU - Building Permit Activity Report No. 03 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89282\", \"title\": \"Attachment 1 - Building Permit Activity Report No. 03 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89271\", \"title\": \"CHC - As-found Report - 3789 Royal Oak Avenue 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89272\", \"title\": \"Attachment 1 - Sketch Map (3789 Royal Oak) 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89273\", \"title\": \"Attachment 2 - As-found report, Forest Lawn Funeral Home Chapel (3789 Royal Oak)\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89274\", \"title\": \"Attachment 3 - As-built drawings, Forest Lawn Funeral Home Chapel (3789 Royal Oa\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89275\", \"title\": \"Attachment 4 - Statement of Significance for Forest Lawn Memorial Pakr (3789 Roy\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89278\", \"title\": \"EC - Solid Waste and Recycling (SWR) 2025 Annual Report 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89279\", \"title\": \"Attachment 1 - Solid Waste and Recycling 2025 Annual Report 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89277\", \"title\": \"EC - SU Enhancing Food Sustainability in Burnaby 2026-04-28.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89270\", \"title\": \"TC - Central Boulevard and Parkade Intersection Safety Improvements - 2026-04-28\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89263\", \"title\": \"14808 Amend No. 7, 2026 REZ 24-23 (Grand Promenade_Austin Rd_Gatineau PL).ACD 20\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89264\", \"title\": \"14809 Amendment No. 8, 2026 REZ 25-09 (6535 Kingsway).CD 2026.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89265\", \"title\": \"14810 Amendment No. 9, 2026 REZ 25-21 (2757 Norland Ave).CD 2026.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89285\", \"title\": \"14811.Burnaby Street and Traffic Bylaw 1961 Amendment Bylaw No. 1 2026 (E-Bike a\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89286\", \"title\": \"14812. Burnaby Parks Regulation Bylaw 1979, Amend Bylaw No. 1 2026 (E-Bike and E\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89287\", \"title\": \"14813 Bylaw Notice Enforcement Bylaw 2009, Amend Bylaw No. 3, 2026 BBY Parks Reg\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89297\", \"title\": \"14814.Burnaby Rates Bylaw 2026 v2.pdf\"}]}",
   "body": "",
   "agenda_briefs": [
@@ -36,7 +36,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:37:04.696259"
     },
     {
@@ -57,7 +56,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:37:04.698644"
     },
     {
@@ -78,7 +76,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:37:04.699171"
     },
     {
@@ -99,7 +96,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:37:04.699757"
     },
     {
@@ -120,7 +116,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:37:04.700248"
     },
     {
@@ -141,7 +136,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:37:04.700748"
     },
     {
@@ -171,7 +165,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:37:04.701230"
     },
     {
@@ -192,7 +185,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:37:04.701701"
     },
     {
@@ -213,7 +205,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:37:04.702193"
     },
     {
@@ -234,7 +225,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:37:04.702668"
     },
     {
@@ -255,7 +245,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:37:04.703150"
     },
     {
@@ -276,7 +265,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:37:04.703618"
     },
     {
@@ -297,7 +285,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:37:04.704105"
     },
     {
@@ -318,7 +305,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:37:04.704569"
     },
     {
@@ -339,7 +325,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:37:04.705134"
     },
     {
@@ -360,7 +345,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:37:04.705675"
     },
     {
@@ -386,7 +370,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:37:04.706189"
     },
     {
@@ -407,7 +390,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:37:04.706688"
     },
     {
@@ -428,7 +410,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:37:04.707165"
     },
     {
@@ -449,7 +430,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:37:04.707662"
     },
     {
@@ -470,7 +450,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:37:04.708136"
     },
     {
@@ -491,7 +470,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:37:04.708625"
     },
     {
@@ -512,7 +490,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:37:04.709100"
     },
     {
@@ -533,7 +510,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:37:04.709566"
     },
     {
@@ -554,7 +530,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:37:04.710051"
     },
     {
@@ -575,7 +550,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:37:04.710519"
     },
     {
@@ -596,7 +570,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:37:04.710995"
     },
     {
@@ -617,7 +590,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:37:04.711482"
     },
     {
@@ -638,7 +610,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:37:04.712086"
     }
   ],
@@ -666,7 +637,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-15T15:59:35.296688"
     },
     {
@@ -687,7 +657,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-15T15:59:35.298543"
     },
     {
@@ -708,7 +677,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-15T15:59:35.299276"
     },
     {
@@ -729,7 +697,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-15T15:59:35.299890"
     },
     {
@@ -750,7 +717,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-15T15:59:35.300470"
     },
     {
@@ -771,7 +737,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-15T15:59:35.301042"
     },
     {
@@ -797,7 +762,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-15T15:59:35.301620"
     },
     {
@@ -818,7 +782,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-15T15:59:35.302182"
     },
     {
@@ -839,7 +802,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-15T15:59:35.302746"
     },
     {
@@ -860,7 +822,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-15T15:59:35.303308"
     },
     {
@@ -881,7 +842,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-15T15:59:35.303869"
     },
     {
@@ -907,7 +867,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-15T15:59:35.304442"
     },
     {
@@ -937,7 +896,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-15T15:59:35.305014"
     },
     {
@@ -958,7 +916,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-15T15:59:35.305730"
     },
     {
@@ -979,7 +936,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-15T15:59:35.306279"
     },
     {
@@ -1000,7 +956,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-15T15:59:35.306810"
     },
     {
@@ -1021,8 +976,107 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-15T15:59:35.307336"
+    },
+    {
+      "id": 1087,
+      "title": "[INFO ONLY] Council received building permit activity report for March 2026",
+      "summary": "Council was presented with a building permit activity report for March 2026. The report was for information only, meaning council was not expected to vote on it. No decision was made because the item was simply a report to keep council informed about construction activity in the city.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development",
+      "locations": "",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "9.2",
+      "source_body": "9.2\nSU: BUILDING PERMIT ACTIVITY REPORT NO. 03 FROM MARCH 1 - MARCH 31, 2026\nPurpose: To provide Council with information on construction activity as reflected by the building permits that have been issued for the subject period.",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=2d97efcf-ac16-41b8-9702-b4c8ab249af9&lang=English",
+      "article_title": "City Council Meeting Agenda — April 28, 2026",
+      "article_published_at": "2026-04-28T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-31T21:15:53.338560"
+    },
+    {
+      "id": 1088,
+      "title": "[INFO ONLY] Council received heritage report for 3789 Royal Oak Avenue",
+      "summary": "Council received an as-found report and Statement of Significance for heritage resources at 3789 Royal Oak Avenue for information only. No decision was made because the item was presented for information, not for a vote. Council did not approve, adopt, or reject any heritage designation — they simply reviewed the report.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "9.3",
+      "source_body": "9.3\nCHC - AS-FOUND REPORT AND STATEMENT OF SIGNIFICANCE FOR HERITAGE RESOURCES AT 3789 ROYAL OAK AVENUE\nPurpose: To provide Council an as-found report and Statement of Significance for heritage resources located at 7389 Royal Oak Avenue for information.",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=2d97efcf-ac16-41b8-9702-b4c8ab249af9&lang=English",
+      "article_title": "City Council Meeting Agenda — April 28, 2026",
+      "article_published_at": "2026-04-28T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-31T21:15:55.073727"
+    },
+    {
+      "id": 1089,
+      "title": "[NOT REACHED] Council did not vote on Burnaby solid waste and recycling 2025 annual report",
+      "summary": "This item was on the agenda for Council to receive a summary of the City of Burnaby's solid waste and recycling collection system performance for 2025. The action verb was 'RECEIVE', which means this was an information-only item — Council was not expected to make a decision or vote on it. No decision was made because the item was simply presented for Council's information and no vote was required.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Professional Services",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "9.4",
+      "source_body": "9.4\nEC - SOLID WASTE AND RECYCLING (SWR) 2025 ANNUAL REPORT\nPurpose: To provide Council with a summary of the City of Burnaby solid waste and recycling collection system performance.",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=2d97efcf-ac16-41b8-9702-b4c8ab249af9&lang=English",
+      "article_title": "City Council Meeting Agenda — April 28, 2026",
+      "article_published_at": "2026-04-28T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-31T21:15:56.569296"
+    },
+    {
+      "id": 1090,
+      "title": "[INFO ONLY] Council received update on food sustainability measures in Burnaby",
+      "summary": "Council received an operational update on proposed food sustainability measures in Burnaby. Because the item was listed for information only (the action verb was 'RECEIVE'), no vote or decision was required or taken. Council simply heard the update and took no further action.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Agriculture, Food Service, Grocery & Food Retail",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "9.5",
+      "source_body": "9.5\nEC - SU: ENHANCING FOOD SUSTAINABILITY IN BURNABY\nPurpose: To provide Council with an operational update on food sustainability measures within the City of Burnaby.",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=2d97efcf-ac16-41b8-9702-b4c8ab249af9&lang=English",
+      "article_title": "City Council Meeting Agenda — April 28, 2026",
+      "article_published_at": "2026-04-28T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-31T21:15:58.348469"
+    },
+    {
+      "id": 1091,
+      "title": "[NOT REACHED] Council did not vote on Central Boulevard safety upgrades",
+      "summary": "Council was scheduled to consider proposed safety improvements at the intersection of Central Boulevard and the Metropolis at Metrotown underground parkade access. The item was listed on the agenda for information and discussion, but council did not reach a vote on it. No decision was made because the meeting ended before this item was called for a vote.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development, Transportation & Logistics",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "9.6",
+      "source_body": "9.6\nTC - CENTRAL BOULEVARD AND PARKADE INERSECTION SAFETY IMPROVEMENTS\nPurpose: To provide Council with an overview of the proposed safety improvements at the intersection of Central Boulevard and Metropolis at Metrotown underground parkade access.",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=2d97efcf-ac16-41b8-9702-b4c8ab249af9&lang=English",
+      "article_title": "City Council Meeting Agenda — April 28, 2026",
+      "article_published_at": "2026-04-28T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-31T21:15:58.349419"
     },
     {
       "id": 692,
@@ -1042,7 +1096,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-15T15:59:35.308895"
     },
     {
@@ -1063,7 +1116,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-15T15:59:35.307858"
     },
     {
@@ -1084,7 +1136,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-15T15:59:35.308375"
     },
     {
@@ -1105,7 +1156,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-15T15:59:35.309409"
     },
     {
@@ -1126,7 +1176,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-15T15:59:35.309904"
     },
     {
@@ -1147,7 +1196,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-15T15:59:35.310430"
     },
     {
@@ -1168,7 +1216,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-15T15:59:35.310931"
     },
     {
@@ -1189,7 +1236,6 @@
       "article_published_at": "2026-04-28T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-15T15:59:35.312894"
     }
   ]
