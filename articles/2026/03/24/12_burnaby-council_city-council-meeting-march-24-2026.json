@@ -4,8 +4,8 @@
   "article_title": "City Council Meeting — March 24, 2026",
   "source": "burnaby_council",
   "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
   "government_level": "Municipal",
+  "source_website_icon": "https://burnaby.ca",
   "meeting_type": "regular-council",
   "article_published_at": "2026-03-24T00:00:00",
   "has_attachments": false,
@@ -14,7 +14,7 @@
   "has_agenda": true,
   "has_minutes": true,
   "agenda_brief_count": 22,
-  "minutes_brief_count": 19,
+  "minutes_brief_count": 23,
   "pdf_urls": "{\"_doc\": [{\"url\": \"https://pub-burnaby.escribemeetings.com/FileStream.ashx?DocumentId=89207\", \"title\": \"Minutes\"}], \"_inline\": [{\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88933\", \"title\": \"2026.03.10 Council Minutes DRAFT.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88939\", \"title\": \"2026.03.12 PTRRP Minutes DRAFT.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88954\", \"title\": \"BHA - 2026-2030 Strategic Plan 2026-03-24.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88955\", \"title\": \"Attachment 1 - BHA 2026-2030 Strategic Plan 2026-03-24_.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88926\", \"title\": \"UBCM 2026 Membership Dues 2026-03-24.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88927\", \"title\": \"Attachment 1 - UBCM 2026 Membership Invoice 2026-03-24.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88928\", \"title\": \"Attachment 2 - Letter from the UBCM President 2026-03-24.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88934\", \"title\": \"CA - Supply and Delivery Water Metering Technology 2026-03-24.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88935\", \"title\": \"Attachment 1 - Universal Water Metering Stragtegy (Updated) (Council 2024-12-02)\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88946\", \"title\": \"CA - Development Modular Housing Four-Plex  8315 14th Ave 2026-03-24.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88956\", \"title\": \"CA - HE Services - All Contractors - 2026-03-24_.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88936\", \"title\": \"CR - Asphalt Paving Services - Engineering Department 2026-03-24.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88937\", \"title\": \"Attachment 1 - Contract History (Asphalt Paving Services - Engineering Departmen\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88938\", \"title\": \"Attachment 2 - Council Report 2025-05-13 (Asphalt Paving Services - Engineering \"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88905\", \"title\": \"PDC - Development Enquiry 3856 and 3870 Carrigan Court 2026-03-24.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88906\", \"title\": \"Attachment 1 - Sketch 1, 2, Site Plan and Site Perspective (3856 and 3870 Carrig\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88907\", \"title\": \"PDC - REZ 24-23 3900 Grand Promenade 2026-03-24.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88908\", \"title\": \"Attachment 1 - Part 1 of 4 - REZ 24-23 - Sketch 1, 2, Site Plan and Phase 1 Site\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88909\", \"title\": \"Attachment 1 - Part 2 of 4 - REZ 24-23 - Subdivision Plan and Shadow Study Plan \"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88910\", \"title\": \"Attachment 1 - Part 3 of 4 - REZ 24-23 - Elevations 2026-03-24.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88911\", \"title\": \"Attachment 1 - Part 4 of 4 - REZ 24-23 - Elevations (2) 2026-03-24.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88912\", \"title\": \"Attachment 2 - REZ 24-23 - Development Statistics 2026-03-24.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88913\", \"title\": \"Attachment 3 - REZ 24-23 - Rezoning Prerequisites 2026-03-24.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88914\", \"title\": \"PDC - REZ 25-09 6535 Kingsway 2026-03-24.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88915\", \"title\": \"Attachment 1 - Part 1 of 3 - PDC - REZ 25-09 - Sketch 1, 2, Subdivision Plan and\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88916\", \"title\": \"Attachment 1 - Part 2 of 3 - REZ 25-09 - Landscape Plans 2026-03-24.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88917\", \"title\": \"Attachment 1 - Part 3 of 3 - REZ 25-09 - Elevations 2026-03-24.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88918\", \"title\": \"Attachment 2 - REZ 25-09 - Development Statistics 2026-03-24.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88919\", \"title\": \"Attachment 3 - REZ 25-09 - Rezoning Prerequisites 2026-03-24.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88920\", \"title\": \"PDC - REZ 25-21 2757 Norland Avenue 2026-03-24.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88921\", \"title\": \"Attachment 1 - Part 1 of 2 - REZ 25-21 - Sketch 1, 2, Draft Subdivision Plan and\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88922\", \"title\": \"Attachment 1 - Part 2 of 2 - REZ 25-21 - Site Plan and Landscape Plan 2026-03-24\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88923\", \"title\": \"Attachment 2 - REZ 25-21 - Development Statistics 2026-03-24.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88924\", \"title\": \"Attachment 3 - REZ 25-21 - Rezoning Prerequisites 2026-03-24.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88929\", \"title\": \"SPC - Burnaby Poverty Reduction Strategy 2026-03-24.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88930\", \"title\": \"Attachment 1 - Burnaby Poverty Reduction Strategy 2026-03-24.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88931\", \"title\": \"Attachment 2 - What We Heard Report (Burnaby Poverty Reduction Strategy) 2026-03\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88932\", \"title\": \"Attachment 3 - BIAC Resolution - Collective Actions to Reducing Poverty in Burna\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88943\", \"title\": \"SU - Building Permit Activity Report No 01 and No 02 2026-03-24.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88944\", \"title\": \"Attachment 1 - Building Permit Activity Report No 01 (January) 2026-03-24.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88945\", \"title\": \"Attachment 2 - Building Permit Activity Report No 02 (February) 2026-03-24.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88940\", \"title\": \"FMC - City Investments \\u2013 2025 Year End Report 2026-03-24.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88941\", \"title\": \"Attachment 1 - COB Investment Limites for 2026 2026-03-24.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88942\", \"title\": \"FMC - SU Significant Civic Projects  \\u2013 March 2026 2026-03-24.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88925\", \"title\": \"PDC - OCP - Burnaby 2050 Implementation Action Plan 2026-03-24.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88902\", \"title\": \"14802 Amend No. 4 2026 REZ 25-13 (5058 Imperial St).ACD 2026.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88903\", \"title\": \"14803 Amendment No. 5 2026 REZ 25-18 (6800 Lougheed Hwy).ACD 2026.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88904\", \"title\": \"14804 Amendment No. 6 2026 REZ 25-20 (2209 and 2255 Springer Ave).CD 2026.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88951\", \"title\": \"14805 Burnaby Parking Meter and Electric Vehicle Charging Meter Bylaw 2019 Amend\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88952\", \"title\": \"14806 Burnaby Consolidated Fees Charges Bylaw Amendment Bylaw No. 2 2026 (FA).pd\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88953\", \"title\": \"14807 Bylaw Notice Enforcement Bylaw 2009, Amend Bylaw No. 2, 2026 Burnaby Parki\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88947\", \"title\": \"Petition - Opposition to REZ 25-13 - 5058 Imperial 2026-03-24.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88948\", \"title\": \"Supplementary letter and petition received March 24, 2026.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88949\", \"title\": \"Attachment 1 - Correspondence re REZ 25-13 - 5058 Imperial Street 2026-03-24.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=88950\", \"title\": \"Attachment 2 - Petition re REZ 25-13 - 5058 Imperial Street 2026-03-24.pdf\"}]}",
   "body": "",
   "agenda_briefs": [
@@ -36,7 +36,6 @@
       "article_published_at": "2026-03-24T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:45:13.350430"
     },
     {
@@ -57,7 +56,6 @@
       "article_published_at": "2026-03-24T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:45:13.352109"
     },
     {
@@ -78,7 +76,6 @@
       "article_published_at": "2026-03-24T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:45:13.352619"
     },
     {
@@ -99,7 +96,6 @@
       "article_published_at": "2026-03-24T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:45:13.353108"
     },
     {
@@ -120,7 +116,6 @@
       "article_published_at": "2026-03-24T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:45:13.353588"
     },
     {
@@ -141,7 +136,6 @@
       "article_published_at": "2026-03-24T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:45:13.354054"
     },
     {
@@ -162,7 +156,6 @@
       "article_published_at": "2026-03-24T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:45:13.354540"
     },
     {
@@ -188,7 +181,6 @@
       "article_published_at": "2026-03-24T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:45:13.355011"
     },
     {
@@ -209,7 +201,6 @@
       "article_published_at": "2026-03-24T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:45:13.355474"
     },
     {
@@ -230,7 +221,6 @@
       "article_published_at": "2026-03-24T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:45:13.355962"
     },
     {
@@ -251,7 +241,6 @@
       "article_published_at": "2026-03-24T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:45:13.356436"
     },
     {
@@ -272,7 +261,6 @@
       "article_published_at": "2026-03-24T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:45:13.356890"
     },
     {
@@ -293,7 +281,6 @@
       "article_published_at": "2026-03-24T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:45:13.357374"
     },
     {
@@ -314,7 +301,6 @@
       "article_published_at": "2026-03-24T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:45:13.357843"
     },
     {
@@ -335,7 +321,6 @@
       "article_published_at": "2026-03-24T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:45:13.358308"
     },
     {
@@ -356,7 +341,6 @@
       "article_published_at": "2026-03-24T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:45:13.358784"
     },
     {
@@ -377,7 +361,6 @@
       "article_published_at": "2026-03-24T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:45:13.359247"
     },
     {
@@ -398,7 +381,6 @@
       "article_published_at": "2026-03-24T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:45:13.359727"
     },
     {
@@ -419,7 +401,6 @@
       "article_published_at": "2026-03-24T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:45:13.360208"
     },
     {
@@ -440,7 +421,6 @@
       "article_published_at": "2026-03-24T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:45:13.360663"
     },
     {
@@ -461,7 +441,6 @@
       "article_published_at": "2026-03-24T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:45:13.361155"
     },
     {
@@ -482,7 +461,6 @@
       "article_published_at": "2026-03-24T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:45:13.361688"
     }
   ],
@@ -505,7 +483,6 @@
       "article_published_at": "2026-03-24T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:47:25.038379"
     },
     {
@@ -526,7 +503,6 @@
       "article_published_at": "2026-03-24T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:47:25.041057"
     },
     {
@@ -547,7 +523,6 @@
       "article_published_at": "2026-03-24T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:47:25.041850"
     },
     {
@@ -568,7 +543,6 @@
       "article_published_at": "2026-03-24T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:47:25.042510"
     },
     {
@@ -589,7 +563,6 @@
       "article_published_at": "2026-03-24T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:47:25.043256"
     },
     {
@@ -610,7 +583,6 @@
       "article_published_at": "2026-03-24T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:47:25.043961"
     },
     {
@@ -631,7 +603,6 @@
       "article_published_at": "2026-03-24T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:47:25.044729"
     },
     {
@@ -652,7 +623,6 @@
       "article_published_at": "2026-03-24T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:47:25.045520"
     },
     {
@@ -673,7 +643,6 @@
       "article_published_at": "2026-03-24T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:47:25.046171"
     },
     {
@@ -694,7 +663,6 @@
       "article_published_at": "2026-03-24T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:47:25.046666"
     },
     {
@@ -715,8 +683,87 @@
       "article_published_at": "2026-03-24T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:47:25.047135"
+    },
+    {
+      "id": 1092,
+      "title": "[INFO ONLY] Council received building permit activity reports for Jan–Feb 2026",
+      "summary": "Council was presented with building permit activity reports for January and February 2026. The purpose of the item was simply to provide information on construction activity, not to make a decision or vote. Because the action verb was 'RECEIVE', this was an information-only item, and no vote was needed or taken.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development",
+      "locations": "",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "9.1",
+      "source_body": "9.1\nSU: BUILDING PERMIT ACTIVITY REPORT NO. 1 FROM JANUARY 1 - JANUARY 31, 2026, AND BUILDING PERMIT ACTIVITY REPORT NO. 2 FROM FEBRUARY 1 - FEBRUARY 28, 2026\nPurpose: To provide Council with information on construction activity as reflected by the building permits that have been issued for the subject period.",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=4840015a-e501-4bb8-bd3a-63209c0245b6&lang=English",
+      "article_title": "City Council Meeting Agenda — March 24, 2026",
+      "article_published_at": "2026-03-24T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-31T21:16:01.733277"
+    },
+    {
+      "id": 1093,
+      "title": "[INFO ONLY] Council received 2025 investment update and 2026 forecast",
+      "summary": "Council was presented with an update on the 2025 Investment Program and a forecast for 2026. Because the action verb was 'RECEIVE', this item was for information only — no vote or decision was required or taken. Council simply acknowledged the report.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Finance & Insurance",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "9.2",
+      "source_body": "9.2\nFMC - CITY INVESTMENTS - 2025 YEAR END REPORT\nPurpose: To provide Council with an update on the 2025 Investment Program and present a forecast for 2026.",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=4840015a-e501-4bb8-bd3a-63209c0245b6&lang=English",
+      "article_title": "City Council Meeting Agenda — March 24, 2026",
+      "article_published_at": "2026-03-24T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-31T21:16:03.198755"
+    },
+    {
+      "id": 1094,
+      "title": "[INFO ONLY] Council received status update on significant civic projects for March 2026",
+      "summary": "Council received a status update on significant civic projects for March 2026. Because the item was for information only (the action verb was 'RECEIVE'), no vote or decision was required or taken. Council simply heard the report and moved on to other business.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "9.3",
+      "source_body": "9.3\nFMC - SU: SIGNIFICANT CIVIC PROJECTS - MARCH 2026\nPurpose: To provide Council with a status update (SU) on significant civic projects.",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=4840015a-e501-4bb8-bd3a-63209c0245b6&lang=English",
+      "article_title": "City Council Meeting Agenda — March 24, 2026",
+      "article_published_at": "2026-03-24T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-31T21:16:04.961097"
+    },
+    {
+      "id": 1095,
+      "title": "[NOT REACHED] Council did not vote on Burnaby 2050 plan next steps",
+      "summary": "This item was on the agenda for council to vote on next steps for the Burnaby 2050 Implementation Action Plan, which is part of the Official Community Plan (OCP). The purpose was to give council an overview of the plan. However, council did not vote on this item. The agenda shows it was proposed but no decision was made, likely because council ran out of time or did not reach this item during the meeting.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "9.4",
+      "source_body": "9.4\nPDC - OCP: BURNABY 2050 IMPLEMENTATION ACTION PLAN PROJECT INITIATION\nPurpose: To provide Council with an overview of the Official Community Plan (OCP) Implementation Action Plan.",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=4840015a-e501-4bb8-bd3a-63209c0245b6&lang=English",
+      "article_title": "City Council Meeting Agenda — March 24, 2026",
+      "article_published_at": "2026-03-24T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-05-31T21:16:04.962005"
     },
     {
       "id": 294,
@@ -736,7 +783,6 @@
       "article_published_at": "2026-03-24T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:47:25.048558"
     },
     {
@@ -757,7 +803,6 @@
       "article_published_at": "2026-03-24T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:47:25.047613"
     },
     {
@@ -778,7 +823,6 @@
       "article_published_at": "2026-03-24T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:47:25.048099"
     },
     {
@@ -799,7 +843,6 @@
       "article_published_at": "2026-03-24T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:47:25.049045"
     },
     {
@@ -820,7 +863,6 @@
       "article_published_at": "2026-03-24T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:47:25.049514"
     },
     {
@@ -841,7 +883,6 @@
       "article_published_at": "2026-03-24T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:47:25.049968"
     },
     {
@@ -862,7 +903,6 @@
       "article_published_at": "2026-03-24T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:47:25.050452"
     },
     {
@@ -888,7 +928,6 @@
       "article_published_at": "2026-03-24T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-10T17:47:25.051019"
     }
   ]
