@@ -1,0 +1,1380 @@
+{
+  "article_id": 100,
+  "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=87e114fb-f9f2-43a6-a227-d9b7a3e49916&lang=English",
+  "article_title": "City Council",
+  "source": "richmond_council",
+  "source_label": "Richmond Council",
+  "government_level": "Municipal",
+  "source_website_icon": "https://www.richmond.ca",
+  "meeting_type": null,
+  "article_published_at": "2026-03-24T00:00:00",
+  "has_attachments": false,
+  "has_pdf": false,
+  "has_html": false,
+  "has_agenda": true,
+  "has_minutes": true,
+  "agenda_brief_count": 14,
+  "minutes_brief_count": 23,
+  "pdf_urls": "{\"_doc\": [{\"url\": \"https://pub-richmond.escribemeetings.com/FileStream.ashx?DocumentId=60779\", \"title\": \"Agenda (PDF)\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/FileStream.ashx?DocumentId=61468\", \"title\": \"Minutes (PDF)\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/FileStream.ashx?DocumentId=60781\", \"title\": \"AGENDA EN ESPANOL\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/FileStream.ashx?DocumentId=60782\", \"title\": \"Written Public Comments Received 3-24-2026\"}], \"_inline\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60742\", \"title\": \"Contract with Bill Whalen and Associates.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60743\", \"title\": \"Attachment 1 \\u2013 November 11, 2024 Agenda Staff Report to Approve Interim Investigator for CPRC.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60744\", \"title\": \"Attachment 2 \\u2013 Bill Whalen and Associates Contract.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60745\", \"title\": \"Attachment 3 \\u2013 Bill Whalen and Associates Contract (proposed).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60732\", \"title\": \"2024-09-10(sr)Records Retention Schedules Update.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60733\", \"title\": \"Attachment 1 - Resolution Records Retention Schedules Update 2026 - DRAFT for 3-17-26-ja(65864.1).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60734\", \"title\": \"Attachment 2 - ALL Records Retention Schedules EXCEPT POLICE 2026-02-10.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60759\", \"title\": \"CC24Feb2026 - Draft - JC.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60760\", \"title\": \"CC03Mar2026 - Draft - SL.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60707\", \"title\": \"Create and Implement Blue Envelope Program in Richmond.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60749\", \"title\": \"Stop Iran War Resolution .pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60750\", \"title\": \"Attachment 1 \\u2013 Resolution STOP IRAN WAR .pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60751\", \"title\": \"Attachment 2 - Graphic Images_Viewer Discretion Advised_war-related destruction in civilian sites in Iran.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60735\", \"title\": \"Resolution Establishing a Commitment to Caste Equity and the Prevention of Caste-Based Discrimination.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60736\", \"title\": \"Attachment 1 - Formatted Resolution Establishing a Commitment to Caste Equity.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60764\", \"title\": \"Change Cesar Chavez Day to United Farm Workers Day.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60765\", \"title\": \"Attachment 1 - United Farm Worker Holiday Resolution.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60708\", \"title\": \"Proposed Rezoning to add -L, Landmark Overlay District to the John Haley Studio House at 771 Ocean Avenue.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60709\", \"title\": \"Attachment 1 - Proposed Ordinance.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60710\", \"title\": \"Attachment 2 - Proposed Zoning Map Amendment.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60711\", \"title\": \"Attachment 3 - Statement.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60712\", \"title\": \"Attachment 4 - DPR 523 Form.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60713\", \"title\": \"Attachment 5 - Planning Commission Resolution No. 26-01.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60724\", \"title\": \"Proclamation for American Muslim Appreciation and Awareness Month 2026.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60725\", \"title\": \"American Muslim Appreciation and Awareness Month Proclamation.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60714\", \"title\": \"Arts and Culture Commission Application - Kaelen Van Cura.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60715\", \"title\": \"2026-01-30(app)(Kaelen Van Cura)(CCO)ArtsandCultureCommision_Redacted.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60716\", \"title\": \"Design Review Board - Ben Kellman.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60717\", \"title\": \"2026-02-09(app)(Ben Kellman)(CCO)Design Review Board_Redacted - Copy.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60718\", \"title\": \"Economic Development Commission - Asfar Ali.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60719\", \"title\": \"2026-01-26(app)(Afsar Ali)(CCO)Economic Development Commission_Redacted_Copy.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60720\", \"title\": \"Macdonald Avenue Corridor Task Force - Florence Wiley.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60721\", \"title\": \"2026-01-07app)(Florene Wiley)(CCO)Macdonald Avenue Corridor Task Force_Redacted_copy.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60726\", \"title\": \"Recreation and Parks Commission - Vivian Gomez.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60727\", \"title\": \"2026-01-29(app)(Vivian Gomez)(CCO)Recreation and Parks Commission_Redacted.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60728\", \"title\": \"RFCY Oversight Board - Michelle Bailey-.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60729\", \"title\": \"2026-02-05(app)(Michelle Bailey-Vaughn)(CCO)Fund Children Youth Oversight Board_Redacted.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60730\", \"title\": \"Richmond Youth City Council - Gabriel Saeyang.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60731\", \"title\": \"2026-01-23(app)(Gabriel Saeyang)(CCO)Youth Council_Redacted.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60722\", \"title\": \"Planning Commission - Diana Benitez.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60723\", \"title\": \"2026-03-10(app)(Diana Benitez)(CCO)Planning Commission_Redacted_.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60752\", \"title\": \"2026 03 24 (sr)(amdmt) SR.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60753\", \"title\": \"Attachment 1 - Project Location.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60754\", \"title\": \"Attachment 2 - Site Plan.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60755\", \"title\": \"Attachment 3 - Azul Construction Agreement.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60756\", \"title\": \"Attachment 4 - Azul Amendment 1.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60757\", \"title\": \"Attachment 5 - Azul Amendment 2.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60758\", \"title\": \"Attachment 6 - Resolution.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60746\", \"title\": \"2026 3 24 (sr)(res) Accept the 2024 Paving Project  Slurry Seal Complete.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60747\", \"title\": \"Attachment 1 - As-Built Map of Slurry Locations.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60748\", \"title\": \"Attachment 2 - Resolution Accept 2024 Paving Project Slurry Seal Complete_rda.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60761\", \"title\": \"2026 03 24(sr)(res)(cntrct) ATF Enterprise Rent A Car.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60762\", \"title\": \"Attachment 1 - Proposed Contract - Enterprise Rent A Car. CAO Comments(67337.1).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60763\", \"title\": \"Attachment 2 - Invoices  Enterprise Rent A Car. CAO Comments(67337.1).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60766\", \"title\": \"2026-03-17(sr)(cmo)(council)RFCY Renewal Discussion and Policy Direction.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60767\", \"title\": \"Attachment 1 - Article 15 - Richmond Fund for Children _Youth (Kids First).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60768\", \"title\": \"Attachment 2 - Richmond Kids First (Measure E) (1).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60769\", \"title\": \"Attachment 3 - Richmond Kids First Amendment (Measure K).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60770\", \"title\": \"Attachment 4 - Documentary Transfer Tax Initiative (Measure H).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60771\", \"title\": \"Attachment 5 -2020 RFCY Community Needs Assessment Report.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60772\", \"title\": \"Attachment 6 - 2024 RFCY Community Needs Assessment Report.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60773\", \"title\": \"Attachment 7 - RFCY 2021-2024 Strategic Investment Plan.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60774\", \"title\": \"Attachment 8 - RFCY 2025-2028 Strategic Investment Plan.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60775\", \"title\": \"Attachment 9 - Evaulation 2021-2024 RFCY_Report.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60737\", \"title\": \"2026-03-17(sr)(ord)Fire - 2025 California Fire Code and 2025 Wildland-Urban Interface With Local Amendment.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60738\", \"title\": \"Attachment 1 - RMC Article VIII Chapter 8.16 (Jan 2023).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60739\", \"title\": \"Attachment 2 - RMC Article VIII Chapter 8.16 (Tracked Changes).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60740\", \"title\": \"Attachment 3 - RMC Article VIII Chapter 8.16 (Revised).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60741\", \"title\": \"Attachment 4 - Ordinance.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60697\", \"title\": \"3-3-2025(sr) Update Regarding the City\\u2019s Ongoing and Planned Efforts Related to Immigration Enforcement Actions.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60698\", \"title\": \"Attachment 1 - Ordinance   29-90 Policies for providing information to Immigration and Naturalization Service U.S. DoJ.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60699\", \"title\": \"Attachment 2 - Sanctuary City Contracting and Investment Ordinance 12-18NS_2018.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60700\", \"title\": \"Attachment 3 - 08-25 N.S. limiting the use of resources for Federal immigration enforcement - CONFORMED - Adopted 3-25-25.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60701\", \"title\": \"Attachment 4 - RPD Policy 414.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60702\", \"title\": \"Attachment 5 - Presentation - Safeguard Richmond .pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60703\", \"title\": \"Continued from 3-3, Cheese Parke (La Moine) Improvements.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60704\", \"title\": \"Attachment 1 - Resolution to Improve Cheese Park  01272026.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60705\", \"title\": \"Attachment 2 - Community park characteristics La Moine Park.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60706\", \"title\": \"Attachment 3 - Photo of current conditions and volunteer repainting work La Moine Park.pdf\"}], \"_items\": {\"N.1\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60742\", \"title\": \"Contract with Bill Whalen and Associates.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60743\", \"title\": \"Attachment 1 \\u2013 November 11, 2024 Agenda Staff Report to Approve Interim Investigator for CPRC.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60744\", \"title\": \"Attachment 2 \\u2013 Bill Whalen and Associates Contract.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60745\", \"title\": \"Attachment 3 \\u2013 Bill Whalen and Associates Contract (proposed).pdf\"}], \"N.1.a\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60742\", \"title\": \"Contract with Bill Whalen and Associates.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60743\", \"title\": \"Attachment 1 \\u2013 November 11, 2024 Agenda Staff Report to Approve Interim Investigator for CPRC.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60744\", \"title\": \"Attachment 2 \\u2013 Bill Whalen and Associates Contract.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60745\", \"title\": \"Attachment 3 \\u2013 Bill Whalen and Associates Contract (proposed).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60732\", \"title\": \"2024-09-10(sr)Records Retention Schedules Update.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60733\", \"title\": \"Attachment 1 - Resolution Records Retention Schedules Update 2026 - DRAFT for 3-17-26-ja(65864.1).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60734\", \"title\": \"Attachment 2 - ALL Records Retention Schedules EXCEPT POLICE 2026-02-10.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60759\", \"title\": \"CC24Feb2026 - Draft - JC.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60760\", \"title\": \"CC03Mar2026 - Draft - SL.pdf\"}], \"N.2\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60732\", \"title\": \"2024-09-10(sr)Records Retention Schedules Update.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60733\", \"title\": \"Attachment 1 - Resolution Records Retention Schedules Update 2026 - DRAFT for 3-17-26-ja(65864.1).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60734\", \"title\": \"Attachment 2 - ALL Records Retention Schedules EXCEPT POLICE 2026-02-10.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60759\", \"title\": \"CC24Feb2026 - Draft - JC.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60760\", \"title\": \"CC03Mar2026 - Draft - SL.pdf\"}], \"N.2.a\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60732\", \"title\": \"2024-09-10(sr)Records Retention Schedules Update.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60733\", \"title\": \"Attachment 1 - Resolution Records Retention Schedules Update 2026 - DRAFT for 3-17-26-ja(65864.1).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60734\", \"title\": \"Attachment 2 - ALL Records Retention Schedules EXCEPT POLICE 2026-02-10.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60759\", \"title\": \"CC24Feb2026 - Draft - JC.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60760\", \"title\": \"CC03Mar2026 - Draft - SL.pdf\"}], \"N.2.b\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60759\", \"title\": \"CC24Feb2026 - Draft - JC.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60760\", \"title\": \"CC03Mar2026 - Draft - SL.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60707\", \"title\": \"Create and Implement Blue Envelope Program in Richmond.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60749\", \"title\": \"Stop Iran War Resolution .pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60750\", \"title\": \"Attachment 1 \\u2013 Resolution STOP IRAN WAR .pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60751\", \"title\": \"Attachment 2 - Graphic Images_Viewer Discretion Advised_war-related destruction in civilian sites in Iran.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60735\", \"title\": \"Resolution Establishing a Commitment to Caste Equity and the Prevention of Caste-Based Discrimination.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60736\", \"title\": \"Attachment 1 - Formatted Resolution Establishing a Commitment to Caste Equity.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60764\", \"title\": \"Change Cesar Chavez Day to United Farm Workers Day.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60765\", \"title\": \"Attachment 1 - United Farm Worker Holiday Resolution.pdf\"}], \"N.3\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60707\", \"title\": \"Create and Implement Blue Envelope Program in Richmond.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60749\", \"title\": \"Stop Iran War Resolution .pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60750\", \"title\": \"Attachment 1 \\u2013 Resolution STOP IRAN WAR .pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60751\", \"title\": \"Attachment 2 - Graphic Images_Viewer Discretion Advised_war-related destruction in civilian sites in Iran.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60735\", \"title\": \"Resolution Establishing a Commitment to Caste Equity and the Prevention of Caste-Based Discrimination.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60736\", \"title\": \"Attachment 1 - Formatted Resolution Establishing a Commitment to Caste Equity.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60764\", \"title\": \"Change Cesar Chavez Day to United Farm Workers Day.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60765\", \"title\": \"Attachment 1 - United Farm Worker Holiday Resolution.pdf\"}], \"N.3.a\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60707\", \"title\": \"Create and Implement Blue Envelope Program in Richmond.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60749\", \"title\": \"Stop Iran War Resolution .pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60750\", \"title\": \"Attachment 1 \\u2013 Resolution STOP IRAN WAR .pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60751\", \"title\": \"Attachment 2 - Graphic Images_Viewer Discretion Advised_war-related destruction in civilian sites in Iran.pdf\"}], \"N.3.b\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60749\", \"title\": \"Stop Iran War Resolution .pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60750\", \"title\": \"Attachment 1 \\u2013 Resolution STOP IRAN WAR .pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60751\", \"title\": \"Attachment 2 - Graphic Images_Viewer Discretion Advised_war-related destruction in civilian sites in Iran.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60735\", \"title\": \"Resolution Establishing a Commitment to Caste Equity and the Prevention of Caste-Based Discrimination.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60736\", \"title\": \"Attachment 1 - Formatted Resolution Establishing a Commitment to Caste Equity.pdf\"}], \"N.3.c\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60735\", \"title\": \"Resolution Establishing a Commitment to Caste Equity and the Prevention of Caste-Based Discrimination.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60736\", \"title\": \"Attachment 1 - Formatted Resolution Establishing a Commitment to Caste Equity.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60764\", \"title\": \"Change Cesar Chavez Day to United Farm Workers Day.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60765\", \"title\": \"Attachment 1 - United Farm Worker Holiday Resolution.pdf\"}], \"N.3.d\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60764\", \"title\": \"Change Cesar Chavez Day to United Farm Workers Day.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60765\", \"title\": \"Attachment 1 - United Farm Worker Holiday Resolution.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60708\", \"title\": \"Proposed Rezoning to add -L, Landmark Overlay District to the John Haley Studio House at 771 Ocean Avenue.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60709\", \"title\": \"Attachment 1 - Proposed Ordinance.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60710\", \"title\": \"Attachment 2 - Proposed Zoning Map Amendment.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60711\", \"title\": \"Attachment 3 - Statement.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60712\", \"title\": \"Attachment 4 - DPR 523 Form.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60713\", \"title\": \"Attachment 5 - Planning Commission Resolution No. 26-01.pdf\"}], \"N.4\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60708\", \"title\": \"Proposed Rezoning to add -L, Landmark Overlay District to the John Haley Studio House at 771 Ocean Avenue.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60709\", \"title\": \"Attachment 1 - Proposed Ordinance.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60710\", \"title\": \"Attachment 2 - Proposed Zoning Map Amendment.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60711\", \"title\": \"Attachment 3 - Statement.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60712\", \"title\": \"Attachment 4 - DPR 523 Form.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60713\", \"title\": \"Attachment 5 - Planning Commission Resolution No. 26-01.pdf\"}], \"N.4.a\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60708\", \"title\": \"Proposed Rezoning to add -L, Landmark Overlay District to the John Haley Studio House at 771 Ocean Avenue.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60709\", \"title\": \"Attachment 1 - Proposed Ordinance.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60710\", \"title\": \"Attachment 2 - Proposed Zoning Map Amendment.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60711\", \"title\": \"Attachment 3 - Statement.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60712\", \"title\": \"Attachment 4 - DPR 523 Form.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60713\", \"title\": \"Attachment 5 - Planning Commission Resolution No. 26-01.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60724\", \"title\": \"Proclamation for American Muslim Appreciation and Awareness Month 2026.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60725\", \"title\": \"American Muslim Appreciation and Awareness Month Proclamation.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60714\", \"title\": \"Arts and Culture Commission Application - Kaelen Van Cura.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60715\", \"title\": \"2026-01-30(app)(Kaelen Van Cura)(CCO)ArtsandCultureCommision_Redacted.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60716\", \"title\": \"Design Review Board - Ben Kellman.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60717\", \"title\": \"2026-02-09(app)(Ben Kellman)(CCO)Design Review Board_Redacted - Copy.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60718\", \"title\": \"Economic Development Commission - Asfar Ali.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60719\", \"title\": \"2026-01-26(app)(Afsar Ali)(CCO)Economic Development Commission_Redacted_Copy.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60720\", \"title\": \"Macdonald Avenue Corridor Task Force - Florence Wiley.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60721\", \"title\": \"2026-01-07app)(Florene Wiley)(CCO)Macdonald Avenue Corridor Task Force_Redacted_copy.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60726\", \"title\": \"Recreation and Parks Commission - Vivian Gomez.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60727\", \"title\": \"2026-01-29(app)(Vivian Gomez)(CCO)Recreation and Parks Commission_Redacted.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60728\", \"title\": \"RFCY Oversight Board - Michelle Bailey-.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60729\", \"title\": \"2026-02-05(app)(Michelle Bailey-Vaughn)(CCO)Fund Children Youth Oversight Board_Redacted.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60730\", \"title\": \"Richmond Youth City Council - Gabriel Saeyang.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60731\", \"title\": \"2026-01-23(app)(Gabriel Saeyang)(CCO)Youth Council_Redacted.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60722\", \"title\": \"Planning Commission - Diana Benitez.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60723\", \"title\": \"2026-03-10(app)(Diana Benitez)(CCO)Planning Commission_Redacted_.pdf\"}], \"N.5\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60724\", \"title\": \"Proclamation for American Muslim Appreciation and Awareness Month 2026.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60725\", \"title\": \"American Muslim Appreciation and Awareness Month Proclamation.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60714\", \"title\": \"Arts and Culture Commission Application - Kaelen Van Cura.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60715\", \"title\": \"2026-01-30(app)(Kaelen Van Cura)(CCO)ArtsandCultureCommision_Redacted.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60716\", \"title\": \"Design Review Board - Ben Kellman.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60717\", \"title\": \"2026-02-09(app)(Ben Kellman)(CCO)Design Review Board_Redacted - Copy.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60718\", \"title\": \"Economic Development Commission - Asfar Ali.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60719\", \"title\": \"2026-01-26(app)(Afsar Ali)(CCO)Economic Development Commission_Redacted_Copy.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60720\", \"title\": \"Macdonald Avenue Corridor Task Force - Florence Wiley.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60721\", \"title\": \"2026-01-07app)(Florene Wiley)(CCO)Macdonald Avenue Corridor Task Force_Redacted_copy.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60726\", \"title\": \"Recreation and Parks Commission - Vivian Gomez.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60727\", \"title\": \"2026-01-29(app)(Vivian Gomez)(CCO)Recreation and Parks Commission_Redacted.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60728\", \"title\": \"RFCY Oversight Board - Michelle Bailey-.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60729\", \"title\": \"2026-02-05(app)(Michelle Bailey-Vaughn)(CCO)Fund Children Youth Oversight Board_Redacted.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60730\", \"title\": \"Richmond Youth City Council - Gabriel Saeyang.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60731\", \"title\": \"2026-01-23(app)(Gabriel Saeyang)(CCO)Youth Council_Redacted.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60722\", \"title\": \"Planning Commission - Diana Benitez.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60723\", \"title\": \"2026-03-10(app)(Diana Benitez)(CCO)Planning Commission_Redacted_.pdf\"}], \"N.5.a\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60724\", \"title\": \"Proclamation for American Muslim Appreciation and Awareness Month 2026.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60725\", \"title\": \"American Muslim Appreciation and Awareness Month Proclamation.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60714\", \"title\": \"Arts and Culture Commission Application - Kaelen Van Cura.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60715\", \"title\": \"2026-01-30(app)(Kaelen Van Cura)(CCO)ArtsandCultureCommision_Redacted.pdf\"}], \"N.5.b\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60714\", \"title\": \"Arts and Culture Commission Application - Kaelen Van Cura.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60715\", \"title\": \"2026-01-30(app)(Kaelen Van Cura)(CCO)ArtsandCultureCommision_Redacted.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60716\", \"title\": \"Design Review Board - Ben Kellman.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60717\", \"title\": \"2026-02-09(app)(Ben Kellman)(CCO)Design Review Board_Redacted - Copy.pdf\"}], \"N.5.c\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60716\", \"title\": \"Design Review Board - Ben Kellman.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60717\", \"title\": \"2026-02-09(app)(Ben Kellman)(CCO)Design Review Board_Redacted - Copy.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60718\", \"title\": \"Economic Development Commission - Asfar Ali.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60719\", \"title\": \"2026-01-26(app)(Afsar Ali)(CCO)Economic Development Commission_Redacted_Copy.pdf\"}], \"N.5.d\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60718\", \"title\": \"Economic Development Commission - Asfar Ali.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60719\", \"title\": \"2026-01-26(app)(Afsar Ali)(CCO)Economic Development Commission_Redacted_Copy.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60720\", \"title\": \"Macdonald Avenue Corridor Task Force - Florence Wiley.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60721\", \"title\": \"2026-01-07app)(Florene Wiley)(CCO)Macdonald Avenue Corridor Task Force_Redacted_copy.pdf\"}], \"N.5.e\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60720\", \"title\": \"Macdonald Avenue Corridor Task Force - Florence Wiley.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60721\", \"title\": \"2026-01-07app)(Florene Wiley)(CCO)Macdonald Avenue Corridor Task Force_Redacted_copy.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60726\", \"title\": \"Recreation and Parks Commission - Vivian Gomez.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60727\", \"title\": \"2026-01-29(app)(Vivian Gomez)(CCO)Recreation and Parks Commission_Redacted.pdf\"}], \"N.5.f\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60726\", \"title\": \"Recreation and Parks Commission - Vivian Gomez.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60727\", \"title\": \"2026-01-29(app)(Vivian Gomez)(CCO)Recreation and Parks Commission_Redacted.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60728\", \"title\": \"RFCY Oversight Board - Michelle Bailey-.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60729\", \"title\": \"2026-02-05(app)(Michelle Bailey-Vaughn)(CCO)Fund Children Youth Oversight Board_Redacted.pdf\"}], \"N.5.g\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60728\", \"title\": \"RFCY Oversight Board - Michelle Bailey-.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60729\", \"title\": \"2026-02-05(app)(Michelle Bailey-Vaughn)(CCO)Fund Children Youth Oversight Board_Redacted.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60730\", \"title\": \"Richmond Youth City Council - Gabriel Saeyang.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60731\", \"title\": \"2026-01-23(app)(Gabriel Saeyang)(CCO)Youth Council_Redacted.pdf\"}], \"N.5.h\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60730\", \"title\": \"Richmond Youth City Council - Gabriel Saeyang.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60731\", \"title\": \"2026-01-23(app)(Gabriel Saeyang)(CCO)Youth Council_Redacted.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60722\", \"title\": \"Planning Commission - Diana Benitez.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60723\", \"title\": \"2026-03-10(app)(Diana Benitez)(CCO)Planning Commission_Redacted_.pdf\"}], \"N.5.i\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60722\", \"title\": \"Planning Commission - Diana Benitez.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60723\", \"title\": \"2026-03-10(app)(Diana Benitez)(CCO)Planning Commission_Redacted_.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60752\", \"title\": \"2026 03 24 (sr)(amdmt) SR.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60753\", \"title\": \"Attachment 1 - Project Location.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60754\", \"title\": \"Attachment 2 - Site Plan.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60755\", \"title\": \"Attachment 3 - Azul Construction Agreement.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60756\", \"title\": \"Attachment 4 - Azul Amendment 1.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60757\", \"title\": \"Attachment 5 - Azul Amendment 2.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60758\", \"title\": \"Attachment 6 - Resolution.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60746\", \"title\": \"2026 3 24 (sr)(res) Accept the 2024 Paving Project  Slurry Seal Complete.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60747\", \"title\": \"Attachment 1 - As-Built Map of Slurry Locations.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60748\", \"title\": \"Attachment 2 - Resolution Accept 2024 Paving Project Slurry Seal Complete_rda.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60761\", \"title\": \"2026 03 24(sr)(res)(cntrct) ATF Enterprise Rent A Car.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60762\", \"title\": \"Attachment 1 - Proposed Contract - Enterprise Rent A Car. CAO Comments(67337.1).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60763\", \"title\": \"Attachment 2 - Invoices  Enterprise Rent A Car. CAO Comments(67337.1).pdf\"}], \"N.6\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60752\", \"title\": \"2026 03 24 (sr)(amdmt) SR.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60753\", \"title\": \"Attachment 1 - Project Location.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60754\", \"title\": \"Attachment 2 - Site Plan.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60755\", \"title\": \"Attachment 3 - Azul Construction Agreement.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60756\", \"title\": \"Attachment 4 - Azul Amendment 1.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60757\", \"title\": \"Attachment 5 - Azul Amendment 2.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60758\", \"title\": \"Attachment 6 - Resolution.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60746\", \"title\": \"2026 3 24 (sr)(res) Accept the 2024 Paving Project  Slurry Seal Complete.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60747\", \"title\": \"Attachment 1 - As-Built Map of Slurry Locations.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60748\", \"title\": \"Attachment 2 - Resolution Accept 2024 Paving Project Slurry Seal Complete_rda.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60761\", \"title\": \"2026 03 24(sr)(res)(cntrct) ATF Enterprise Rent A Car.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60762\", \"title\": \"Attachment 1 - Proposed Contract - Enterprise Rent A Car. CAO Comments(67337.1).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60763\", \"title\": \"Attachment 2 - Invoices  Enterprise Rent A Car. CAO Comments(67337.1).pdf\"}], \"N.6.a\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60752\", \"title\": \"2026 03 24 (sr)(amdmt) SR.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60753\", \"title\": \"Attachment 1 - Project Location.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60754\", \"title\": \"Attachment 2 - Site Plan.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60755\", \"title\": \"Attachment 3 - Azul Construction Agreement.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60756\", \"title\": \"Attachment 4 - Azul Amendment 1.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60757\", \"title\": \"Attachment 5 - Azul Amendment 2.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60758\", \"title\": \"Attachment 6 - Resolution.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60746\", \"title\": \"2026 3 24 (sr)(res) Accept the 2024 Paving Project  Slurry Seal Complete.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60747\", \"title\": \"Attachment 1 - As-Built Map of Slurry Locations.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60748\", \"title\": \"Attachment 2 - Resolution Accept 2024 Paving Project Slurry Seal Complete_rda.pdf\"}], \"N.6.b\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60746\", \"title\": \"2026 3 24 (sr)(res) Accept the 2024 Paving Project  Slurry Seal Complete.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60747\", \"title\": \"Attachment 1 - As-Built Map of Slurry Locations.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60748\", \"title\": \"Attachment 2 - Resolution Accept 2024 Paving Project Slurry Seal Complete_rda.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60761\", \"title\": \"2026 03 24(sr)(res)(cntrct) ATF Enterprise Rent A Car.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60762\", \"title\": \"Attachment 1 - Proposed Contract - Enterprise Rent A Car. CAO Comments(67337.1).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60763\", \"title\": \"Attachment 2 - Invoices  Enterprise Rent A Car. CAO Comments(67337.1).pdf\"}], \"N.6.c\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60761\", \"title\": \"2026 03 24(sr)(res)(cntrct) ATF Enterprise Rent A Car.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60762\", \"title\": \"Attachment 1 - Proposed Contract - Enterprise Rent A Car. CAO Comments(67337.1).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60763\", \"title\": \"Attachment 2 - Invoices  Enterprise Rent A Car. CAO Comments(67337.1).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60766\", \"title\": \"2026-03-17(sr)(cmo)(council)RFCY Renewal Discussion and Policy Direction.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60767\", \"title\": \"Attachment 1 - Article 15 - Richmond Fund for Children _Youth (Kids First).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60768\", \"title\": \"Attachment 2 - Richmond Kids First (Measure E) (1).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60769\", \"title\": \"Attachment 3 - Richmond Kids First Amendment (Measure K).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60770\", \"title\": \"Attachment 4 - Documentary Transfer Tax Initiative (Measure H).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60771\", \"title\": \"Attachment 5 -2020 RFCY Community Needs Assessment Report.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60772\", \"title\": \"Attachment 6 - 2024 RFCY Community Needs Assessment Report.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60773\", \"title\": \"Attachment 7 - RFCY 2021-2024 Strategic Investment Plan.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60774\", \"title\": \"Attachment 8 - RFCY 2025-2028 Strategic Investment Plan.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60775\", \"title\": \"Attachment 9 - Evaulation 2021-2024 RFCY_Report.pdf\"}], \"O.1\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60766\", \"title\": \"2026-03-17(sr)(cmo)(council)RFCY Renewal Discussion and Policy Direction.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60767\", \"title\": \"Attachment 1 - Article 15 - Richmond Fund for Children _Youth (Kids First).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60768\", \"title\": \"Attachment 2 - Richmond Kids First (Measure E) (1).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60769\", \"title\": \"Attachment 3 - Richmond Kids First Amendment (Measure K).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60770\", \"title\": \"Attachment 4 - Documentary Transfer Tax Initiative (Measure H).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60771\", \"title\": \"Attachment 5 -2020 RFCY Community Needs Assessment Report.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60772\", \"title\": \"Attachment 6 - 2024 RFCY Community Needs Assessment Report.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60773\", \"title\": \"Attachment 7 - RFCY 2021-2024 Strategic Investment Plan.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60774\", \"title\": \"Attachment 8 - RFCY 2025-2028 Strategic Investment Plan.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60775\", \"title\": \"Attachment 9 - Evaulation 2021-2024 RFCY_Report.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60737\", \"title\": \"2026-03-17(sr)(ord)Fire - 2025 California Fire Code and 2025 Wildland-Urban Interface With Local Amendment.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60738\", \"title\": \"Attachment 1 - RMC Article VIII Chapter 8.16 (Jan 2023).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60739\", \"title\": \"Attachment 2 - RMC Article VIII Chapter 8.16 (Tracked Changes).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60740\", \"title\": \"Attachment 3 - RMC Article VIII Chapter 8.16 (Revised).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60741\", \"title\": \"Attachment 4 - Ordinance.pdf\"}], \"P.1\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60737\", \"title\": \"2026-03-17(sr)(ord)Fire - 2025 California Fire Code and 2025 Wildland-Urban Interface With Local Amendment.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60738\", \"title\": \"Attachment 1 - RMC Article VIII Chapter 8.16 (Jan 2023).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60739\", \"title\": \"Attachment 2 - RMC Article VIII Chapter 8.16 (Tracked Changes).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60740\", \"title\": \"Attachment 3 - RMC Article VIII Chapter 8.16 (Revised).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60741\", \"title\": \"Attachment 4 - Ordinance.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60697\", \"title\": \"3-3-2025(sr) Update Regarding the City\\u2019s Ongoing and Planned Efforts Related to Immigration Enforcement Actions.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60698\", \"title\": \"Attachment 1 - Ordinance   29-90 Policies for providing information to Immigration and Naturalization Service U.S. DoJ.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60699\", \"title\": \"Attachment 2 - Sanctuary City Contracting and Investment Ordinance 12-18NS_2018.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60700\", \"title\": \"Attachment 3 - 08-25 N.S. limiting the use of resources for Federal immigration enforcement - CONFORMED - Adopted 3-25-25.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60701\", \"title\": \"Attachment 4 - RPD Policy 414.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60702\", \"title\": \"Attachment 5 - Presentation - Safeguard Richmond .pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60703\", \"title\": \"Continued from 3-3, Cheese Parke (La Moine) Improvements.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60704\", \"title\": \"Attachment 1 - Resolution to Improve Cheese Park  01272026.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60705\", \"title\": \"Attachment 2 - Community park characteristics La Moine Park.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60706\", \"title\": \"Attachment 3 - Photo of current conditions and volunteer repainting work La Moine Park.pdf\"}], \"Q.1\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60697\", \"title\": \"3-3-2025(sr) Update Regarding the City\\u2019s Ongoing and Planned Efforts Related to Immigration Enforcement Actions.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60698\", \"title\": \"Attachment 1 - Ordinance   29-90 Policies for providing information to Immigration and Naturalization Service U.S. DoJ.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60699\", \"title\": \"Attachment 2 - Sanctuary City Contracting and Investment Ordinance 12-18NS_2018.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60700\", \"title\": \"Attachment 3 - 08-25 N.S. limiting the use of resources for Federal immigration enforcement - CONFORMED - Adopted 3-25-25.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60701\", \"title\": \"Attachment 4 - RPD Policy 414.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60702\", \"title\": \"Attachment 5 - Presentation - Safeguard Richmond .pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60703\", \"title\": \"Continued from 3-3, Cheese Parke (La Moine) Improvements.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60704\", \"title\": \"Attachment 1 - Resolution to Improve Cheese Park  01272026.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60705\", \"title\": \"Attachment 2 - Community park characteristics La Moine Park.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60706\", \"title\": \"Attachment 3 - Photo of current conditions and volunteer repainting work La Moine Park.pdf\"}], \"Q.2\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60703\", \"title\": \"Continued from 3-3, Cheese Parke (La Moine) Improvements.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60704\", \"title\": \"Attachment 1 - Resolution to Improve Cheese Park  01272026.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60705\", \"title\": \"Attachment 2 - Community park characteristics La Moine Park.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60706\", \"title\": \"Attachment 3 - Photo of current conditions and volunteer repainting work La Moine Park.pdf\"}]}}",
+  "body": "",
+  "agenda_briefs": [
+    {
+      "id": 1053,
+      "title": "Proposed: Richmond council to vote on $100K contract for police investigations",
+      "summary": "Council is set to vote on a proposed contract with Bill Whalen and Associates to conduct confidential investigations for the Community Police Review Commission. If approved, the contract would be worth up to $100,000 and run from February 1, 2026, to June 30, 2026. The CPRC currently has 36 pending complaints. This is not yet approved — the decision is upcoming.",
+      "action_required": "Watch for the council vote — if approved, this contract could affect how police complaints are investigated in Richmond.",
+      "key_dates": [
+        {
+          "label": "Proposed contract start date — Bill Whalen and Associates investigations",
+          "date": "2026-02-01"
+        },
+        {
+          "label": "Proposed contract end date — Bill Whalen and Associates investigations",
+          "date": "2026-06-30"
+        }
+      ],
+      "industries": "Professional Services",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "N.1.a",
+      "source_body": "N.1.a\nContract with Bill Whalen and Associates to Conduct Confidential Investigations\nAPPROVE a contract with Bill Whalen and Associates to conduct confidential investigations for the Community Police Review Commission in an amount not to exceed $100,000, for the term of February 1, 2026, through June 30, 2026 – Community Police Review Commission (Alex Seraphin 510-620-5505/Shannon Moore 510-620-6509).",
+      "attachments": [
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60742",
+          "title": "Contract with Bill Whalen and Associates.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60743",
+          "title": "Attachment 1 – November 11, 2024 Agenda Staff Report to Approve Interim Investigator for CPRC.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60744",
+          "title": "Attachment 2 – Bill Whalen and Associates Contract.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60745",
+          "title": "Attachment 3 – Bill Whalen and Associates Contract (proposed).pdf"
+        }
+      ],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=87e114fb-f9f2-43a6-a227-d9b7a3e49916&lang=English",
+      "article_title": "City Council Agenda",
+      "article_published_at": "2026-03-24T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:14:54.041083"
+    },
+    {
+      "id": 1054,
+      "title": "Proposed: City-wide records retention schedule update (excluding police)",
+      "summary": "Council will vote on a resolution to adopt updated city-wide records retention and destruction schedules, repealing the 1999 schedule. The new schedules set specific retention periods for all city records (excluding police) and authorize destruction after the period expires with written consent from the department head, city clerk, and city attorney. Updates to the schedule can be made without further council action with consent of the department head, city clerk, city attorney, and city manager. The resolution takes effect immediately upon passage.",
+      "action_required": "No immediate action needed — monitor council decision and any future updates that may affect how you submit records to the city.",
+      "key_dates": [
+        {
+          "label": "Council vote on records retention schedule update",
+          "date": "2026-03-24"
+        }
+      ],
+      "industries": "Professional Services",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "N.2.a",
+      "source_body": "N.2.a\nRecords Retention and Destruction Schedule Update\nADOPT a resolution to make updates to the City-wide Records Retention and Destruction Schedules, excluding the Police Department which will be brought back to City Council for adoption at a later date – City Clerk’s Office (Pamela Christian 510-620-6513).",
+      "attachments": [
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60732",
+          "title": "2024-09-10(sr)Records Retention Schedules Update.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60733",
+          "title": "Attachment 1 - Resolution Records Retention Schedules Update 2026 - DRAFT for 3-17-26-ja(65864.1).pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60734",
+          "title": "Attachment 2 - ALL Records Retention Schedules EXCEPT POLICE 2026-02-10.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60759",
+          "title": "CC24Feb2026 - Draft - JC.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60760",
+          "title": "CC03Mar2026 - Draft - SL.pdf"
+        }
+      ],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=87e114fb-f9f2-43a6-a227-d9b7a3e49916&lang=English",
+      "article_title": "City Council Agenda",
+      "article_published_at": "2026-03-24T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:14:54.044189"
+    },
+    {
+      "id": 1055,
+      "title": "Proposed: Richmond Blue Envelope Program for residents with disabilities",
+      "summary": "Council will consider directing staff to create and implement a Blue Envelope Program for Richmond residents. The program is designed to help drivers with autism, dementia, anxiety, deafness, cerebral palsy, epilepsy, or other intellectual/developmental disabilities during police traffic stops. A blue envelope would hold the driver's licence, registration, and insurance, and signal to officers that the driver may need extra time or a different way to communicate. If approved, the city would also run a campaign to train police and first responders on how the program works. Staff would report back to council once the program is running. The program is voluntary, free, and self-implemented. Materials (envelopes, brochures, lanyards, decals, seatbelt covers, keychains, bracelets, stickers) would be available at the Police Department, ROCK vans, and other designated locations.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Professional Services",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "N.3.a",
+      "source_body": "N.3.a\nCreate and Implement Blue Envelope Program in Richmond\nDIRECT the city manager or their designee to create and implement a Blue Envelope Program for residents, including a promotional campaign to inform police officers and first responders of the new program and how to participate; staff will provide a presentation to the council once the program is up and running - Councilmember Cesar Zepeda (510-620-6593).",
+      "attachments": [
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60707",
+          "title": "Create and Implement Blue Envelope Program in Richmond.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60749",
+          "title": "Stop Iran War Resolution .pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60750",
+          "title": "Attachment 1 – Resolution STOP IRAN WAR .pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60751",
+          "title": "Attachment 2 - Graphic Images_Viewer Discretion Advised_war-related destruction in civilian sites in Iran.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60735",
+          "title": "Resolution Establishing a Commitment to Caste Equity and the Prevention of Caste-Based Discrimination.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60736",
+          "title": "Attachment 1 - Formatted Resolution Establishing a Commitment to Caste Equity.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60764",
+          "title": "Change Cesar Chavez Day to United Farm Workers Day.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60765",
+          "title": "Attachment 1 - United Farm Worker Holiday Resolution.pdf"
+        }
+      ],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=87e114fb-f9f2-43a6-a227-d9b7a3e49916&lang=English",
+      "article_title": "City Council Agenda",
+      "article_published_at": "2026-03-24T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:14:54.045089"
+    },
+    {
+      "id": 1056,
+      "title": "Proposed: Richmond Council resolution opposing U.S. war on Iran",
+      "summary": "Council will consider a resolution that opposes the U.S. war on Iran, condemns attacks by the United States and Israel on civilians and civilian infrastructure in Iran, calls for immediate de-escalation and diplomacy, urges the U.S. Congress to use its constitutional war powers, and calls for an arms embargo on Israel. This is a proposed resolution — it has not been approved yet and is up for a vote at an upcoming council meeting.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "N.3.b",
+      "source_body": "N.3.b\nStop Iran War Resolution\nADOPT a resolution opposing the U.S. war on Iran, condemning attacks by the United States and Israel on civilians and civilian infrastructure in Iran, calling for immediate de-escalation and diplomacy, urging Congress to exercise its constitutional war powers, and calling for an arms embargo on Israel - Councilmember Soheila Bana (510-672-3490).",
+      "attachments": [
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60707",
+          "title": "Create and Implement Blue Envelope Program in Richmond.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60749",
+          "title": "Stop Iran War Resolution .pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60750",
+          "title": "Attachment 1 – Resolution STOP IRAN WAR .pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60751",
+          "title": "Attachment 2 - Graphic Images_Viewer Discretion Advised_war-related destruction in civilian sites in Iran.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60735",
+          "title": "Resolution Establishing a Commitment to Caste Equity and the Prevention of Caste-Based Discrimination.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60736",
+          "title": "Attachment 1 - Formatted Resolution Establishing a Commitment to Caste Equity.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60764",
+          "title": "Change Cesar Chavez Day to United Farm Workers Day.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60765",
+          "title": "Attachment 1 - United Farm Worker Holiday Resolution.pdf"
+        }
+      ],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=87e114fb-f9f2-43a6-a227-d9b7a3e49916&lang=English",
+      "article_title": "City Council Agenda",
+      "article_published_at": "2026-03-24T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:14:54.045721"
+    },
+    {
+      "id": 1057,
+      "title": "Proposed: Richmond council to vote on adding caste to anti-discrimination rules",
+      "summary": "Council will consider a resolution that would add caste as a protected category under the city's Human Rights and Human Relations Commission rules. If approved, the City Attorney's Office would be directed to amend Richmond Municipal Code Chapter 3.58.060(a)(3) to include caste-based discrimination and return to council for approval within 45 days. The resolution also empowers the Commission to conduct training programs for city employees, law enforcement, and community leaders, and to establish reporting and enforcement mechanisms for caste-based discrimination complaints. Costs would be covered by existing FY 2025-2026 diversity, equity, and inclusion program budgets.",
+      "action_required": "Watch for the council decision — if passed, this could affect your workplace policies, hiring practices, and require staff training on caste equity.",
+      "key_dates": [
+        {
+          "label": "Council vote on caste equity resolution — Richmond",
+          "date": "2025-05-13"
+        },
+        {
+          "label": "City Attorney must return amended code to council for approval — Richmond",
+          "date": "2025-06-27"
+        }
+      ],
+      "industries": "Labour & Employment, Professional Services, Retail",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "N.3.c",
+      "source_body": "N.3.c\nEstablishing a Commitment to Caste Equity and the Prevention of Caste-Based Discrimination\nADOPT a resolution that establishes a commitment to caste equity and the prevention of caste-based discrimination and DIRECT the City Attorney’s Office to add caste as a protected category under Richmond Municipal Code Chapter 3.58.060(a)(3) to be included within the purview of the City’s Human Rights and Human Relations Commission, and RETURN to City Council for approval within 45 days - Councilmembers Soheila Bana (510-672-3490), Jamelia Brown (510-412-2050), and Sue Wilson (510-609-2111).",
+      "attachments": [
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60707",
+          "title": "Create and Implement Blue Envelope Program in Richmond.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60749",
+          "title": "Stop Iran War Resolution .pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60750",
+          "title": "Attachment 1 – Resolution STOP IRAN WAR .pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60751",
+          "title": "Attachment 2 - Graphic Images_Viewer Discretion Advised_war-related destruction in civilian sites in Iran.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60735",
+          "title": "Resolution Establishing a Commitment to Caste Equity and the Prevention of Caste-Based Discrimination.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60736",
+          "title": "Attachment 1 - Formatted Resolution Establishing a Commitment to Caste Equity.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60764",
+          "title": "Change Cesar Chavez Day to United Farm Workers Day.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60765",
+          "title": "Attachment 1 - United Farm Worker Holiday Resolution.pdf"
+        }
+      ],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=87e114fb-f9f2-43a6-a227-d9b7a3e49916&lang=English",
+      "article_title": "City Council Agenda",
+      "article_published_at": "2026-03-24T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:14:54.046294"
+    },
+    {
+      "id": 1058,
+      "title": "Proposed: Richmond council to rename Cesar Chavez Day to United Farm Workers Day",
+      "summary": "Council will consider a resolution to change the city's holiday schedule, replacing 'Cesar Chavez Day' with 'United Farm Workers Day'. The holiday will continue to be observed annually on March 31 as a paid holiday for eligible employees with no reduction in benefits. If approved, staff would also be directed to bring a future agenda item to discuss sexual harassment, sexual abuse, and sexual assault, and the need to protect survivors. This is a proposed change and has not yet been voted on.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Agriculture, Labour & Employment",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "N.3.d",
+      "source_body": "N.3.d\nChange Cesar Chavez Day to United Farm Workers Day\nADOPT a resolution that directs staff to update the City’s holiday schedule to reflect “United Farm Workers Day” instead of Cesar Chavez Day and DIRECT staff to bring a future agenda item to have further discussion around sexual harassment, sexual abuse, and sexual assault and the urgent need to protect and support survivors - Councilmember Cesar Zepeda (510-620-6593).",
+      "attachments": [
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60707",
+          "title": "Create and Implement Blue Envelope Program in Richmond.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60749",
+          "title": "Stop Iran War Resolution .pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60750",
+          "title": "Attachment 1 – Resolution STOP IRAN WAR .pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60751",
+          "title": "Attachment 2 - Graphic Images_Viewer Discretion Advised_war-related destruction in civilian sites in Iran.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60735",
+          "title": "Resolution Establishing a Commitment to Caste Equity and the Prevention of Caste-Based Discrimination.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60736",
+          "title": "Attachment 1 - Formatted Resolution Establishing a Commitment to Caste Equity.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60764",
+          "title": "Change Cesar Chavez Day to United Farm Workers Day.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60765",
+          "title": "Attachment 1 - United Farm Worker Holiday Resolution.pdf"
+        }
+      ],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=87e114fb-f9f2-43a6-a227-d9b7a3e49916&lang=English",
+      "article_title": "City Council Agenda",
+      "article_published_at": "2026-03-24T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:14:54.046901"
+    },
+    {
+      "id": 1059,
+      "title": "Proposed: Rezoning John Haley Studio at 771 Ocean Avenue for historic landmark status",
+      "summary": "Council will consider a proposed ordinance to rezone the John Haley Studio/House at 771 Ocean Avenue, Richmond, CA. The plan would add a 'Landmark Overlay District' (a special zoning label that gives extra protection to historic buildings) to the property's current RL1 base zoning (single-family residential). This change is needed to list the building on the Richmond Historic Register. The proposal is up for a second reading and vote at the next council meeting. It has not been approved yet.",
+      "action_required": "No action required from you at this time. Watch for the council's decision on this rezoning proposal.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "N.4.a",
+      "source_body": "N.4.a\nOrdinance Rezoning the John Haley Studio at 771 Ocean Avenue\nADOPT an ordinance (second reading) rezoning to add a -L, Landmark Overlay District to the RL1 base zoning district to the John Haley Studio/House located at 771 Ocean Avenue, Richmond, CA 94801 for the purpose of listing the property on the Richmond Historic Register - Community Development Department (Lina Velasco/Avery Stark 510-620-6714).",
+      "attachments": [
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60708",
+          "title": "Proposed Rezoning to add -L, Landmark Overlay District to the John Haley Studio House at 771 Ocean Avenue.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60709",
+          "title": "Attachment 1 - Proposed Ordinance.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60710",
+          "title": "Attachment 2 - Proposed Zoning Map Amendment.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60711",
+          "title": "Attachment 3 - Statement.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60712",
+          "title": "Attachment 4 - DPR 523 Form.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60713",
+          "title": "Attachment 5 - Planning Commission Resolution No. 26-01.pdf"
+        }
+      ],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=87e114fb-f9f2-43a6-a227-d9b7a3e49916&lang=English",
+      "article_title": "City Council Agenda",
+      "article_published_at": "2026-03-24T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:14:54.047483"
+    },
+    {
+      "id": 1060,
+      "title": "Proposed: $400K increase for Shields-Reid Community Centre construction contract",
+      "summary": "Council will consider approving a second amendment to the construction agreement with Azul Works Inc. that would increase the contract's maximum amount by $400,000, bringing the total not-to-exceed amount to $5,297,064.31. This extra money is needed to finish maintenance-related improvements at the Shields-Reid Community Center, including painting, roof repairs, gutter installation, and entry/sidewalk repairs, as part of the larger Shields-Reid Park and Community Center Project. The decision has not been made yet — it is up for approval at an upcoming council meeting.",
+      "action_required": "Watch for the council vote — if approved, this contract increase could affect project timelines and local park users.",
+      "key_dates": [
+        {
+          "label": "Council vote on Shields-Reid contract amendment",
+          "date": "2026-03-24"
+        }
+      ],
+      "industries": "Construction & Development",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "N.6.a",
+      "source_body": "N.6.a\nConstruction Agreement with Azul Works Inc. for the Shields-Reid Park and Community Center Projects\nADOPT a resolution to APPROVE a second amendment to the construction agreement with Azul Works, Inc. to increase the not-to-exceed amount by $400,000, for a revised not-to-exceed total contract amount of $5,297,064.31, to complete maintenance-related improvements to the Shields-Reid Community Center as part of the Shields-Reid Park and Community Center Project – Public Works Department (Darcie DeLashmutt 510-672-3944/Robert Armijo 510-620-5477).",
+      "attachments": [
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60752",
+          "title": "2026 03 24 (sr)(amdmt) SR.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60753",
+          "title": "Attachment 1 - Project Location.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60754",
+          "title": "Attachment 2 - Site Plan.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60755",
+          "title": "Attachment 3 - Azul Construction Agreement.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60756",
+          "title": "Attachment 4 - Azul Amendment 1.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60757",
+          "title": "Attachment 5 - Azul Amendment 2.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60758",
+          "title": "Attachment 6 - Resolution.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60746",
+          "title": "2026 3 24 (sr)(res) Accept the 2024 Paving Project  Slurry Seal Complete.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60747",
+          "title": "Attachment 1 - As-Built Map of Slurry Locations.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60748",
+          "title": "Attachment 2 - Resolution Accept 2024 Paving Project Slurry Seal Complete_rda.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60761",
+          "title": "2026 03 24(sr)(res)(cntrct) ATF Enterprise Rent A Car.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60762",
+          "title": "Attachment 1 - Proposed Contract - Enterprise Rent A Car. CAO Comments(67337.1).pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60763",
+          "title": "Attachment 2 - Invoices  Enterprise Rent A Car. CAO Comments(67337.1).pdf"
+        }
+      ],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=87e114fb-f9f2-43a6-a227-d9b7a3e49916&lang=English",
+      "article_title": "City Council Agenda",
+      "article_published_at": "2026-03-24T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:14:54.048084"
+    },
+    {
+      "id": 1061,
+      "title": "Proposed: Council to accept 2024 Slurry Seal paving project as complete",
+      "summary": "Council will consider a resolution to formally accept the 2024 Paving Project – Slurry Seal as finished. The total project cost was $3,398,308, including a $2,957,768 construction contract with Pavement Coatings Co., $191,234 in change orders, and $249,306 in design/management costs. The project applied slurry seal to approximately 23 miles of roadways, extending pavement life by an estimated four to seven years. If approved, the city clerk will record a Notice of Completion and the contractor's bonds and retention payment will be released.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "N.6.b",
+      "source_body": "N.6.b\nAccept the 2024 Paving Project – Slurry Seal as Complete\nADOPT a resolution to ACCEPT the 2024 Paving Project – Slurry Seal as complete; DIRECT the city clerk to record the Notice of Completion with the Contra Costa County Recorder; and AUTHORIZE the release of the contractor’s bonds and retention payment – Public Works Department (Dan Santos 620-6645/Robert Armijo 620-5477).",
+      "attachments": [
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60752",
+          "title": "2026 03 24 (sr)(amdmt) SR.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60753",
+          "title": "Attachment 1 - Project Location.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60754",
+          "title": "Attachment 2 - Site Plan.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60755",
+          "title": "Attachment 3 - Azul Construction Agreement.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60756",
+          "title": "Attachment 4 - Azul Amendment 1.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60757",
+          "title": "Attachment 5 - Azul Amendment 2.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60758",
+          "title": "Attachment 6 - Resolution.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60746",
+          "title": "2026 3 24 (sr)(res) Accept the 2024 Paving Project  Slurry Seal Complete.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60747",
+          "title": "Attachment 1 - As-Built Map of Slurry Locations.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60748",
+          "title": "Attachment 2 - Resolution Accept 2024 Paving Project Slurry Seal Complete_rda.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60761",
+          "title": "2026 03 24(sr)(res)(cntrct) ATF Enterprise Rent A Car.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60762",
+          "title": "Attachment 1 - Proposed Contract - Enterprise Rent A Car. CAO Comments(67337.1).pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60763",
+          "title": "Attachment 2 - Invoices  Enterprise Rent A Car. CAO Comments(67337.1).pdf"
+        }
+      ],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=87e114fb-f9f2-43a6-a227-d9b7a3e49916&lang=English",
+      "article_title": "City Council Agenda",
+      "article_published_at": "2026-03-24T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:14:54.048667"
+    },
+    {
+      "id": 1062,
+      "title": "Proposed: Council to vote on $90,000 van rental contract with Enterprise",
+      "summary": "Richmond Council is set to vote on a proposed contract with Enterprise Rent-A-Car for passenger van rentals. If approved, the contract would cover up to $90,000 in costs for van rentals used by Recreation programs. This would pay for outstanding invoices from July 1, 2025, to now, plus projected rental costs through June 30, 2026. The contract is being brought forward by the Public Works and Community Services departments. This is not yet approved — Council will decide at an upcoming meeting.",
+      "action_required": "No action needed from business owners — this is an internal city contract. Watch for the council decision if you work with Recreation programs.",
+      "key_dates": [],
+      "industries": "Transportation & Logistics",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "N.6.c",
+      "source_body": "N.6.c\nContract with Enterprise Rent-A-Car for Passenger Van Rentals Supporting Recreation Programs\nAPPROVE a contract with Enterprise Rent-A-Car in an amount not-to-exceed $90,000 to cover outstanding passenger van rental invoices from July 1, 2025, to present and projected van rental costs through June 30, 2026, for Recreation programming – Public Works Department/Community Services Department (Daniel Chavarria 510-620-5478/Darin Fitzpatrick 510-231-3044).",
+      "attachments": [
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60752",
+          "title": "2026 03 24 (sr)(amdmt) SR.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60753",
+          "title": "Attachment 1 - Project Location.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60754",
+          "title": "Attachment 2 - Site Plan.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60755",
+          "title": "Attachment 3 - Azul Construction Agreement.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60756",
+          "title": "Attachment 4 - Azul Amendment 1.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60757",
+          "title": "Attachment 5 - Azul Amendment 2.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60758",
+          "title": "Attachment 6 - Resolution.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60746",
+          "title": "2026 3 24 (sr)(res) Accept the 2024 Paving Project  Slurry Seal Complete.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60747",
+          "title": "Attachment 1 - As-Built Map of Slurry Locations.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60748",
+          "title": "Attachment 2 - Resolution Accept 2024 Paving Project Slurry Seal Complete_rda.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60761",
+          "title": "2026 03 24(sr)(res)(cntrct) ATF Enterprise Rent A Car.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60762",
+          "title": "Attachment 1 - Proposed Contract - Enterprise Rent A Car. CAO Comments(67337.1).pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60763",
+          "title": "Attachment 2 - Invoices  Enterprise Rent A Car. CAO Comments(67337.1).pdf"
+        }
+      ],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=87e114fb-f9f2-43a6-a227-d9b7a3e49916&lang=English",
+      "article_title": "City Council Agenda",
+      "article_published_at": "2026-03-24T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:14:54.049288"
+    },
+    {
+      "id": 1063,
+      "title": "Council to consider renewing Richmond Fund for Children and Youth",
+      "summary": "Richmond City Council will hear a presentation on Article 15 of the City Charter, which governs the Richmond Fund for Children and Youth. Council will then discuss and provide direction on whether to renew the fund and what the renewal options should be. This is a proposed decision — nothing has been approved yet. The fund supports programs and services for children and youth in Richmond. The fund currently receives an annual allocation equal to 3% of unrestricted General Fund revenues, totaling approximately $99 million over a ten-year period (FY 2028-29 through FY 2037-38). Council must act by December 31, 2027 to extend the fund for an additional ten-year term by majority vote.",
+      "action_required": null,
+      "key_dates": [
+        {
+          "label": "Council must act to renew RFCY by December 31, 2027",
+          "date": "2027-12-31"
+        }
+      ],
+      "industries": "Professional Services",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "O.1",
+      "source_body": "O.1\nCharter Article 15 Review – Richmond Fund for Children and Youth Review\nRECEIVE a presentation on Article 15 of the Charter regarding the Richmond Fund for Children and Youth and PROVIDE DIRECTION regarding renewal provisions and options – City Manager’s Office/Finance Department (Shasa Curl/Patrick Seals 510-620-6512/Emily Combs/Antonio Banuelos 510-620-6542).",
+      "attachments": [
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60766",
+          "title": "2026-03-17(sr)(cmo)(council)RFCY Renewal Discussion and Policy Direction.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60767",
+          "title": "Attachment 1 - Article 15 - Richmond Fund for Children _Youth (Kids First).pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60768",
+          "title": "Attachment 2 - Richmond Kids First (Measure E) (1).pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60769",
+          "title": "Attachment 3 - Richmond Kids First Amendment (Measure K).pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60770",
+          "title": "Attachment 4 - Documentary Transfer Tax Initiative (Measure H).pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60771",
+          "title": "Attachment 5 -2020 RFCY Community Needs Assessment Report.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60772",
+          "title": "Attachment 6 - 2024 RFCY Community Needs Assessment Report.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60773",
+          "title": "Attachment 7 - RFCY 2021-2024 Strategic Investment Plan.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60774",
+          "title": "Attachment 8 - RFCY 2025-2028 Strategic Investment Plan.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60775",
+          "title": "Attachment 9 - Evaulation 2021-2024 RFCY_Report.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60737",
+          "title": "2026-03-17(sr)(ord)Fire - 2025 California Fire Code and 2025 Wildland-Urban Interface With Local Amendment.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60738",
+          "title": "Attachment 1 - RMC Article VIII Chapter 8.16 (Jan 2023).pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60739",
+          "title": "Attachment 2 - RMC Article VIII Chapter 8.16 (Tracked Changes).pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60740",
+          "title": "Attachment 3 - RMC Article VIII Chapter 8.16 (Revised).pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60741",
+          "title": "Attachment 4 - Ordinance.pdf"
+        }
+      ],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=87e114fb-f9f2-43a6-a227-d9b7a3e49916&lang=English",
+      "article_title": "City Council Agenda",
+      "article_published_at": "2026-03-24T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:14:54.049916"
+    },
+    {
+      "id": 1064,
+      "title": "Proposed: Richmond to adopt 2025 California Fire Code with local changes",
+      "summary": "Council will hold a public hearing and consider a proposed bylaw to adopt the 2025 California Fire Code and the 2025 California Wildland-Urban Interface Code, with local amendments. The state codes took effect January 1, 2026. Local amendments address Richmond-specific risks: high summer temperatures (up to 103°F), seismic faults (Hayward, San Andreas, Calaveras), narrow winding streets, and industrial sites. The new Wildland-Urban Interface Code consolidates wildfire provisions from multiple codes into Part 7 of Title 24. Appendix chapters adopted include B, C, D, F, H, I, J, K, and P (replacing previous appendices A–K).",
+      "action_required": "Attend the public hearing on June 10, 2025 to voice support or concerns about the proposed fire code changes.",
+      "key_dates": [
+        {
+          "label": "Public hearing — proposed 2025 California Fire Code adoption (Richmond)",
+          "date": "2025-06-10"
+        }
+      ],
+      "industries": "Construction & Development, Landlord & Property Mgmt, Retail",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "P.1",
+      "source_body": "P.1\n2025 California Fire Code with Local Amendments and 2025 California Wildland-Urban Interface with Local Amendments\nHOLD a public hearing to INTRODUCE an ordinance (first reading) amending the Richmond Municipal Code (RMC) Article VIII (Fire) Chapter 8.16 (Fire Prevention Code) to adopt the 2025 California Fire Code with local amendments and to adopt the 2025 California Wildland-Urban Interface Code with local amendments – Fire Department (Chief Aaron Osorio 510-307-8021/Fire Marshal Dante J. Wiley 510-307-8090).",
+      "attachments": [
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60737",
+          "title": "2026-03-17(sr)(ord)Fire - 2025 California Fire Code and 2025 Wildland-Urban Interface With Local Amendment.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60738",
+          "title": "Attachment 1 - RMC Article VIII Chapter 8.16 (Jan 2023).pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60739",
+          "title": "Attachment 2 - RMC Article VIII Chapter 8.16 (Tracked Changes).pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60740",
+          "title": "Attachment 3 - RMC Article VIII Chapter 8.16 (Revised).pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60741",
+          "title": "Attachment 4 - Ordinance.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60697",
+          "title": "3-3-2025(sr) Update Regarding the City’s Ongoing and Planned Efforts Related to Immigration Enforcement Actions.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60698",
+          "title": "Attachment 1 - Ordinance   29-90 Policies for providing information to Immigration and Naturalization Service U.S. DoJ.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60699",
+          "title": "Attachment 2 - Sanctuary City Contracting and Investment Ordinance 12-18NS_2018.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60700",
+          "title": "Attachment 3 - 08-25 N.S. limiting the use of resources for Federal immigration enforcement - CONFORMED - Adopted 3-25-25.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60701",
+          "title": "Attachment 4 - RPD Policy 414.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60702",
+          "title": "Attachment 5 - Presentation - Safeguard Richmond .pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60703",
+          "title": "Continued from 3-3, Cheese Parke (La Moine) Improvements.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60704",
+          "title": "Attachment 1 - Resolution to Improve Cheese Park  01272026.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60705",
+          "title": "Attachment 2 - Community park characteristics La Moine Park.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60706",
+          "title": "Attachment 3 - Photo of current conditions and volunteer repainting work La Moine Park.pdf"
+        }
+      ],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=87e114fb-f9f2-43a6-a227-d9b7a3e49916&lang=English",
+      "article_title": "City Council Agenda",
+      "article_published_at": "2026-03-24T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:14:54.050628"
+    },
+    {
+      "id": 1065,
+      "title": "Proposed: Richmond Council to consider report on protecting residents from ICE raids",
+      "summary": "Council will receive an initial report on the City's ongoing and planned efforts to safeguard residents from federal U.S. immigration enforcement actions, including ICE raids. The report details existing protections under Ordinance 08-25 (RMC Chapter 2.30), which limits use of City resources for immigration enforcement, restricts collection/disclosure of immigration status, and limits compliance with civil detainers absent a judicial warrant. A Limited Assistance Protocol with signage and QR-code guidance for employees is in place. Staff will propose amendments to RMC Chapter 2.30 in late March/early April 2026 to further strengthen limitations. A draft Safeguard Richmond Coordinated Response Plan and community communication plan are being developed, with community meetings to be held for feedback.",
+      "action_required": null,
+      "key_dates": [
+        {
+          "label": "Proposed RMC Chapter 2.30 amendments — late March/early April 2026",
+          "date": "2026-04-30"
+        }
+      ],
+      "industries": "Labour & Employment, Professional Services",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "Q.1",
+      "source_body": "Q.1\nUpdate Regarding the City’s Ongoing and Planned Efforts Related to Immigration Enforcement Actions\nRECEIVE an initial report regarding the City’s ongoing and planned efforts related to safeguarding residents from federal civil immigration enforcement actions, including U.S. Customs and Immigration Enforcement (ICE) raids – City Manager’s Office/City Attorney’s Office (Shasa Curl/Shannon Moore 510-620-6512).",
+      "attachments": [
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60697",
+          "title": "3-3-2025(sr) Update Regarding the City’s Ongoing and Planned Efforts Related to Immigration Enforcement Actions.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60698",
+          "title": "Attachment 1 - Ordinance   29-90 Policies for providing information to Immigration and Naturalization Service U.S. DoJ.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60699",
+          "title": "Attachment 2 - Sanctuary City Contracting and Investment Ordinance 12-18NS_2018.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60700",
+          "title": "Attachment 3 - 08-25 N.S. limiting the use of resources for Federal immigration enforcement - CONFORMED - Adopted 3-25-25.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60701",
+          "title": "Attachment 4 - RPD Policy 414.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60702",
+          "title": "Attachment 5 - Presentation - Safeguard Richmond .pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60703",
+          "title": "Continued from 3-3, Cheese Parke (La Moine) Improvements.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60704",
+          "title": "Attachment 1 - Resolution to Improve Cheese Park  01272026.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60705",
+          "title": "Attachment 2 - Community park characteristics La Moine Park.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60706",
+          "title": "Attachment 3 - Photo of current conditions and volunteer repainting work La Moine Park.pdf"
+        }
+      ],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=87e114fb-f9f2-43a6-a227-d9b7a3e49916&lang=English",
+      "article_title": "City Council Agenda",
+      "article_published_at": "2026-03-24T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:14:54.051671"
+    },
+    {
+      "id": 1066,
+      "title": "Proposed: Cheese Park upgrades — restrooms, playground, fencing, bike garden",
+      "summary": "Council will consider a resolution to direct staff to create a work plan for Cheese Park (La Moine Park) improvements, including permanent ADA-accessible restrooms, a drinking fountain with bottle-filler, playground restoration, safety fencing around the toddler area (addressing wildlife concerns including a mountain lion sighting), completion of volunteer-led repainting with durable materials, design of sports courts, senior/teen spaces and exercise equipment, and drainage fixes for the soccer field. Staff must identify funding sources in the FY 2026–27 Capital Improvement Program and operating budget. This is a proposal — not yet approved.",
+      "action_required": "Contact Councilmembers Soheila Bana (510-672-3490) or Claudia Jimenez (510-620-6565) to share support or concerns before the vote.",
+      "key_dates": [],
+      "industries": "Construction & Development",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "Q.2",
+      "source_body": "Q.2\nCheese Park (La Moine Park) Improvements—Permanent Restrooms, Drinking Fountain, Playground Safety, Toddler-Area Fencing, Children’s Bike Garden, and Completion of Volunteer-Led Repainting\nADOPT a resolution to DIRECT City staff to prepare a comprehensive work plan for improvements at Cheese Park (La Moine Park), including permanent restrooms, a drinking water fountain, playground restoration, safety fencing around the toddler area, completion of repainting started by volunteers, a design of park facilities that include sports courts, senior activity spaces, teen activity areas, and exercise/fitness amenities in consultation with the community, and improving the drainage for the area adjacent to the park that has historically been used as a soccer field, to restore its usability for soccer and other active recreation; and IDENTIFY feasible funding sources in Fiscal Year 2026–27 Capital Improvement Program and operating budget process - Councilmember Soheila Bana (510-672-3490)/Councilmember Claudia Jimenez (510-620-6565).",
+      "attachments": [
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60703",
+          "title": "Continued from 3-3, Cheese Parke (La Moine) Improvements.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60704",
+          "title": "Attachment 1 - Resolution to Improve Cheese Park  01272026.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60705",
+          "title": "Attachment 2 - Community park characteristics La Moine Park.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60706",
+          "title": "Attachment 3 - Photo of current conditions and volunteer repainting work La Moine Park.pdf"
+        }
+      ],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=87e114fb-f9f2-43a6-a227-d9b7a3e49916&lang=English",
+      "article_title": "City Council Agenda",
+      "article_published_at": "2026-03-24T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:14:54.052482"
+    }
+  ],
+  "minutes_briefs": [
+    {
+      "id": 1067,
+      "title": "Council approved $100,000 contract for police review investigations",
+      "summary": "Richmond Council approved a $100,000 contract with Bill Whalen and Associates to conduct confidential investigations for the Community Police Review Commission. The contract runs from February 1, 2026, through June 30, 2026. This means the city has hired an outside investigator to look into complaints about police conduct, which could affect how police interactions are handled in the community.",
+      "action_required": null,
+      "key_dates": [
+        {
+          "label": "Contract start date — police review investigations",
+          "date": "2026-02-01"
+        },
+        {
+          "label": "Contract end date — police review investigations",
+          "date": "2026-06-30"
+        }
+      ],
+      "industries": "Professional Services",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "N.1.a",
+      "source_body": "N.1.a Contract with Bill Whalen and Associates to Conduct Confidential Investigations\nAPPROVE a contract with Bill Whalen and Associates to conduct confidential investigations for the Community Police Review Commission in an amount not to exceed $100,000, for the term of February 1, 2026, through June 30, 2026 – Community Police Review Commission (Alex Seraphin 510-620-5505/Shannon Moore 510-620-6509).",
+      "attachments": [],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=87e114fb-f9f2-43a6-a227-d9b7a3e49916&lang=English",
+      "article_title": "City Council Minutes",
+      "article_published_at": "2026-03-24T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:15:50.265477"
+    },
+    {
+      "id": 1106,
+      "title": "[NOT REACHED] Council did not vote on city-wide records retention schedule update",
+      "summary": "Council was scheduled to vote on adopting an updated city-wide records retention and destruction schedule, which sets rules for how long the city keeps different types of documents before destroying them. The Police Department's schedule was excluded and will be brought back separately. However, council never voted on this item — it was listed on the agenda but was not reached before the meeting ended, so no decision was made.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Professional Services",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "N.2.a",
+      "source_body": "N.2.a\nRecords Retention and Destruction Schedule Update\nADOPT a resolution to make updates to the City-wide Records Retention and Destruction Schedules, excluding the Police Department which will be brought back to City Council for adoption at a later date – City Clerk’s Office (Pamela Christian 510-620-6513).",
+      "attachments": [],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=87e114fb-f9f2-43a6-a227-d9b7a3e49916&lang=English",
+      "article_title": "City Council Agenda",
+      "article_published_at": "2026-03-24T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:16:26.564940"
+    },
+    {
+      "id": 1068,
+      "title": "Council approved Blue Envelope Program for Richmond residents",
+      "summary": "Richmond City Council has directed the city manager to create and implement a Blue Envelope Program for residents. The program is designed to help people with autism, dementia, or other cognitive conditions communicate more easily with police and first responders during traffic stops or emergencies. A promotional campaign will also be launched to inform police officers and first responders about the new program and how to participate. Once the program is up and running, staff will provide a presentation to council. This decision was finalized at the council meeting after being continued from earlier meetings in March 2026.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Healthcare, Professional Services",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "N.3.a",
+      "source_body": "N.3.a Create and Implement Blue Envelope Program in Richmond\nDIRECT the city manager or their designee to create and implement a Blue Envelope Program for residents, including a promotional campaign to inform police officers and first responders of the new program and how to participate; staff will provide a presentation to the council once the program is up and running - Councilmember Cesar Zepeda (510-620-6593). This item was continued from the March 3, and March 17, 2026, meetings.",
+      "attachments": [],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=87e114fb-f9f2-43a6-a227-d9b7a3e49916&lang=English",
+      "article_title": "City Council Minutes",
+      "article_published_at": "2026-03-24T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:15:50.268155"
+    },
+    {
+      "id": 1069,
+      "title": "Richmond council adopted resolution opposing U.S. war on Iran",
+      "summary": "Richmond City Council adopted a resolution opposing the U.S. war on Iran. The resolution condemns attacks by the United States and Israel on civilians and civilian infrastructure in Iran. It calls for immediate de-escalation and diplomacy, urges the U.S. Congress to use its constitutional war powers, and calls for an arms embargo on Israel. This is a formal statement of council's position; it does not create new local laws or regulations for businesses.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "N.3.b",
+      "source_body": "N.3.b Stop Iran War Resolution\nADOPT a resolution opposing the U.S. war on Iran, condemning attacks by the United States and Israel on civilians and civilian infrastructure in Iran, calling for immediate de-escalation and diplomacy, urging Congress to exercise its constitutional war powers, and calling for an arms embargo on Israel - Councilmember Soheila Bana (510-672-3490).\nAdopted Resolution No. 35-26",
+      "attachments": [],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=87e114fb-f9f2-43a6-a227-d9b7a3e49916&lang=English",
+      "article_title": "City Council Minutes",
+      "article_published_at": "2026-03-24T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:15:50.269030"
+    },
+    {
+      "id": 1070,
+      "title": "Council approved adding caste as a protected category in Richmond's human rights code",
+      "summary": "Richmond City Council adopted a resolution to add caste as a protected category under the city's Municipal Code, making caste-based discrimination illegal in housing, employment, and public services. The City Attorney's Office must return with the final bylaw language within 45 days for council approval. This means businesses and landlords in Richmond cannot discriminate based on caste, and the Human Rights and Human Relations Commission will handle complaints.",
+      "action_required": "Review your workplace and housing policies to ensure they prohibit caste-based discrimination before the bylaw takes effect.",
+      "key_dates": [
+        {
+          "label": "City Attorney returns with final bylaw language for council approval",
+          "date": "2025-05-15"
+        }
+      ],
+      "industries": "Labour & Employment, Landlord & Property Mgmt, Professional Services",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "N.3.c",
+      "source_body": "N.3.c Establishing a Commitment to Caste Equity and the Prevention of Caste-Based Discrimination\nADOPT a resolution that establishes a commitment to caste equity and the prevention of caste-based discrimination and DIRECT the City Attorney’s Office to add caste as a protected category under Richmond Municipal Code Chapter 3.58.060(a)(3) to be included within the purview of the City’s Human Rights and Human Relations Commission, and RETURN to City Council for approval within 45 days - Councilmembers Soheila Bana (510-672-3490), Jamelia Brown (510-412-2050), and Sue Wilson (510-609-2111).\nAdopted Resolution No. 36-26",
+      "attachments": [],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=87e114fb-f9f2-43a6-a227-d9b7a3e49916&lang=English",
+      "article_title": "City Council Minutes",
+      "article_published_at": "2026-03-24T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:15:50.269846"
+    },
+    {
+      "id": 1071,
+      "title": "Council approved renaming Cesar Chavez Day to Farm Workers Movement Day",
+      "summary": "Richmond City Council voted 6 to 1 to adopt a resolution changing the city's official holiday schedule. The holiday formerly known as Cesar Chavez Day will now be called Farm Workers Movement Day. Council also directed staff to bring a future agenda item to discuss sexual harassment, sexual abuse, and sexual assault, and the urgent need to protect and support survivors. The resolution was adopted as Resolution No. 37-26.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Agriculture, Labour & Employment",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "N.3.d",
+      "source_body": "N.3.d Change Cesar Chavez Day to United Farm Workers Day\nADOPT a resolution that directs staff to update the City’s holiday schedule to reflect “United Farm Workers Day” instead of Cesar Chavez Day and DIRECT staff to bring a future agenda item to have further discussion around sexual harassment, sexual abuse, and sexual assault and the urgent need to protect and support survivors - Councilmember Cesar Zepeda (510-620-6593).\nCouncilmember Zepeda introduced the matter.  Deborah Small gave comments in person.  Discussion ensued.\nMain Motion by Councilmember Wilson\nSeconded by Mayor Martinez\nTo adopt an amended resolution changing the city holiday schedule to reflect \"Farm Workers Movement Day\" instead of Cesar Chavez Day.\nAyes (6): Councilmember Bana, Councilmember Jimenez, Councilmember Wilson, Councilmember Zepeda, Vice Mayor Robinson, and Mayor Martinez.\nAbsent (1): Councilmember Brown.\nPassed 6 to 1\nAdopted Resolution No. 37-26",
+      "attachments": [],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=87e114fb-f9f2-43a6-a227-d9b7a3e49916&lang=English",
+      "article_title": "City Council Minutes",
+      "article_published_at": "2026-03-24T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:15:50.270665"
+    },
+    {
+      "id": 1072,
+      "title": "Council approved historic landmark overlay for John Haley Studio in Richmond",
+      "summary": "Richmond City Council adopted Ordinance No. 03-26 N.S., rezoning the John Haley Studio/House at 771 Ocean Avenue to add a Landmark Overlay District (-L) to its existing RL1 base zoning. This means the property is now listed on the Richmond Historic Register, which gives it special protections and may affect future renovations or development. The decision is final.",
+      "action_required": "If you own or manage this property, review the new historic designation rules before planning any exterior changes or renovations.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "N.4.a",
+      "source_body": "N.4.a Ordinance Rezoning the John Haley Studio at 771 Ocean Avenue\nADOPT an ordinance (second reading) rezoning to add a -L, Landmark Overlay District to the RL1 base zoning district to the John Haley Studio/House located at 771 Ocean Avenue, Richmond, CA 94801 for the purpose of listing the property on the Richmond Historic Register - Community Development Department (Lina Velasco/Avery Stark 510-620-6714).\nAdopted Ordinance No. 03-26 N.S.",
+      "attachments": [],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=87e114fb-f9f2-43a6-a227-d9b7a3e49916&lang=English",
+      "article_title": "City Council Minutes",
+      "article_published_at": "2026-03-24T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:15:50.271443"
+    },
+    {
+      "id": 1073,
+      "title": "Council approved April as American Muslim Appreciation Month in Richmond",
+      "summary": "Richmond City Council voted to recognize April as American Muslim Appreciation and Awareness Month. This is a symbolic proclamation that shows the city's support for the American Muslim community. It does not create any new rules, fees, or requirements for businesses.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "N.5.a",
+      "source_body": "N.5.a Proclamation for American Muslim Appreciation and Awareness Month\nPROCLAMATION recognizing April as American Muslim Appreciation and Awareness Month in the City of Richmond – Mayor’s Office (Mayor Eduardo Martinez 510-620-6503) and Councilmember Soheila Bana (510-672-3490).",
+      "attachments": [],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=87e114fb-f9f2-43a6-a227-d9b7a3e49916&lang=English",
+      "article_title": "City Council Minutes",
+      "article_published_at": "2026-03-24T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:15:50.272278"
+    },
+    {
+      "id": 1074,
+      "title": "Council appointed Kaelen Van Cura to the Arts & Culture Commission",
+      "summary": "Richmond City Council has appointed Kaelen Van Cura to the Arts & Culture Commission. Her term will run until January 31, 2030. The appointment was made by the Mayor's Office.",
+      "action_required": null,
+      "key_dates": [
+        {
+          "label": "Kaelen Van Cura's term on Arts & Culture Commission expires",
+          "date": "2030-01-31"
+        }
+      ],
+      "industries": "Professional Services",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "N.5.b",
+      "source_body": "N.5.b Appointment of Kaelen Van Cura to the Arts & Culture Commission\nAPPOINT Kaelen Van Cura to the Arts and Culture Commission with the term that expires on January 31, 2030 – Mayor’s Office (Mayor Eduardo Martinez 510-620-6503)",
+      "attachments": [],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=87e114fb-f9f2-43a6-a227-d9b7a3e49916&lang=English",
+      "article_title": "City Council Minutes",
+      "article_published_at": "2026-03-24T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:15:50.273258"
+    },
+    {
+      "id": 1075,
+      "title": "Council reappointed Ben Kellman to Design Review Board",
+      "summary": "Richmond City Council voted to reappoint Ben Kellman to the Design Review Board. His new term will expire on March 17, 2028. The Design Review Board reviews building and development projects to make sure they fit with the city's design guidelines.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "N.5.c",
+      "source_body": "N.5.c Reappointment of Ben Kellman to the Design Review Board\nREAPPOINT Ben Kellman to the Design Review Board with a term that expires on March 17, 2028 – Mayor’s Office (Mayor Eduardo Martinez 510-620-6503)",
+      "attachments": [],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=87e114fb-f9f2-43a6-a227-d9b7a3e49916&lang=English",
+      "article_title": "City Council Minutes",
+      "article_published_at": "2026-03-24T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:15:50.273896"
+    },
+    {
+      "id": 1076,
+      "title": "Council appointed Asfar Ali to the Economic Development Commission",
+      "summary": "Richmond City Council has appointed Asfar Ali to fill a vacant seat on the Economic Development Commission. His term will run until March 30, 2029. The Economic Development Commission advises Council on ways to support local businesses and attract new investment to the city.",
+      "action_required": null,
+      "key_dates": [
+        {
+          "label": "Asfar Ali's term on Economic Development Commission ends",
+          "date": "2029-03-30"
+        }
+      ],
+      "industries": "Professional Services",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "N.5.d",
+      "source_body": "N.5.d Appointment of Asfar Ali to the Economic Development Commission\nAPPOINT Asfar Ali to a vacant seat on the Economic Development Commission with a term that expires on March 30, 2029 – Mayor’s Office (Mayor Eduardo Martinez 510-620-6503)",
+      "attachments": [],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=87e114fb-f9f2-43a6-a227-d9b7a3e49916&lang=English",
+      "article_title": "City Council Minutes",
+      "article_published_at": "2026-03-24T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:15:50.274678"
+    },
+    {
+      "id": 1077,
+      "title": "Council appointed Florence Wiley to Macdonald Avenue Corridor Task Force",
+      "summary": "Richmond Council has appointed Florence Wiley to the Macdonald Avenue Corridor Task Force. Her term will run until December 31, 2026. The task force is a group that looks at ways to improve the Macdonald Avenue area, including things like traffic, business, and community spaces. This appointment was made by the Mayor's Office.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development, Retail, Landlord & Property Mgmt",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "N.5.e",
+      "source_body": "N.5.e Appointment to Florence Wiley for the Macdonald Avenue Corridor Task Force\nAPPOINT Florence Wiley to the Macdonald Avenue Corridor Task Force with a term that expires on December 31, 2026 – Mayor’s Office (Mayor Eduardo Martinez 510-620-6503)",
+      "attachments": [],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=87e114fb-f9f2-43a6-a227-d9b7a3e49916&lang=English",
+      "article_title": "City Council Minutes",
+      "article_published_at": "2026-03-24T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:15:50.275510"
+    },
+    {
+      "id": 1078,
+      "title": "Council appointed Vivian Gomez to the Recreation and Parks Commission",
+      "summary": "Richmond City Council has appointed Vivian Gomez to the Recreation and Parks Commission. Her term will expire on October 26, 2029. This decision is final and was approved by council.",
+      "action_required": null,
+      "key_dates": [
+        {
+          "label": "Vivian Gomez's term on Recreation and Parks Commission expires",
+          "date": "2029-10-26"
+        }
+      ],
+      "industries": "Professional Services",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "N.5.f",
+      "source_body": "N.5.f Appointment of Vivian Gomez to the Recreation and Parks Commission\nAPPOINT Vivian Gomez to the Recreation and Parks Commission with a term that expires on October 26, 2029– Mayor’s Office (Mayor Eduardo Martinez 510-620-6503)",
+      "attachments": [],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=87e114fb-f9f2-43a6-a227-d9b7a3e49916&lang=English",
+      "article_title": "City Council Minutes",
+      "article_published_at": "2026-03-24T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:15:50.276311"
+    },
+    {
+      "id": 1079,
+      "title": "Council appointed Michelle Bailey-Vaughn to RFCY Oversight Board",
+      "summary": "Richmond City Council has appointed Michelle Bailey-Vaughn to the RFCY Oversight Board. Her term will expire on December 2, 2028. The RFCY Oversight Board oversees programs and services for Richmond's youth. This appointment was made by the Mayor's Office.",
+      "action_required": null,
+      "key_dates": [
+        {
+          "label": "RFCY Oversight Board term expires",
+          "date": "2028-12-02"
+        }
+      ],
+      "industries": "Professional Services",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "N.5.g",
+      "source_body": "N.5.g Appointment of Michelle Bailey-Vaughn to the RFCY Oversight Board\nAPPOINT Michelle Bailey-Vaughn to the RFCY Oversight Board with the term that expires on December 2, 2028 – Mayor’s Office (Mayor Eduardo Martinez 510-620-6503)",
+      "attachments": [],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=87e114fb-f9f2-43a6-a227-d9b7a3e49916&lang=English",
+      "article_title": "City Council Minutes",
+      "article_published_at": "2026-03-24T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:15:50.277086"
+    },
+    {
+      "id": 1080,
+      "title": "Council appointed Gabriel Saeyang to Richmond Youth Council",
+      "summary": "Richmond City Council has appointed Gabriel Saeyang to fill an unexpired term on the Richmond Youth Council. His term will run until October 1, 2026. The appointment was made by the Mayor's Office.",
+      "action_required": null,
+      "key_dates": [
+        {
+          "label": "Gabriel Saeyang's term on Richmond Youth Council expires",
+          "date": "2026-10-01"
+        }
+      ],
+      "industries": "",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "N.5.h",
+      "source_body": "N.5.h Appointment Gabriel Saeyang to the Richmond Youth Council\nAPPOINT Gabriel Saeyang to an unexpired term on the Richmond Youth Council, term expires on October 1, 2026 – Mayor’s Office (Mayor Eduardo Martinez 510-620-6503)",
+      "attachments": [],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=87e114fb-f9f2-43a6-a227-d9b7a3e49916&lang=English",
+      "article_title": "City Council Minutes",
+      "article_published_at": "2026-03-24T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:15:50.277882"
+    },
+    {
+      "id": 1081,
+      "title": "Council appointed Diana Benitez to Richmond Planning Commission",
+      "summary": "Richmond City Council has appointed Diana Benitez to the Planning Commission. Her term will run until June 30, 2028. The Planning Commission reviews and makes recommendations on land use, zoning, and development applications. This appointment fills a vacancy on the commission and ensures the board has a full membership to handle upcoming development and planning matters.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "N.5.i",
+      "source_body": "N.5.i APPOINT Diana Benitez to the Planning Commission\nAPPOINT Diana Benitez to the Planning Commission with a term that expires on June 30, 2028 – Mayor’s Office (Mayor Eduardo Martinez 510-620-6503)",
+      "attachments": [],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=87e114fb-f9f2-43a6-a227-d9b7a3e49916&lang=English",
+      "article_title": "City Council Minutes",
+      "article_published_at": "2026-03-24T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:15:50.278661"
+    },
+    {
+      "id": 1082,
+      "title": "Council approved $400,000 increase for Shields-Reid Park construction",
+      "summary": "Richmond Council approved a second amendment to the construction agreement with Azul Works Inc., increasing the contract by $400,000 for a new total of $5,297,064.31. This money will complete maintenance-related improvements to the Shields-Reid Community Center as part of the Shields-Reid Park and Community Center Project. The decision was adopted as Resolution No. 38-26.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "N.6.a",
+      "source_body": "N.6.a Construction Agreement with Azul Works Inc. for the Shields-Reid Park and Community Center Projects\nADOPT a resolution to APPROVE a second amendment to the construction agreement with Azul Works, Inc. to increase the not-to-exceed amount by $400,000, for a revised not-to-exceed total contract amount of $5,297,064.31, to complete maintenance-related improvements to the Shields-Reid Community Center as part of the Shields-Reid Park and Community Center Project – Public Works Department (Darcie DeLashmutt 510-672-3944/Robert Armijo 510-620-5477).\nAdopted Resolution No. 38-26",
+      "attachments": [],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=87e114fb-f9f2-43a6-a227-d9b7a3e49916&lang=English",
+      "article_title": "City Council Minutes",
+      "article_published_at": "2026-03-24T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:15:50.279274"
+    },
+    {
+      "id": 1083,
+      "title": "Council accepted the 2024 Slurry Seal Paving Project as complete.",
+      "summary": "Richmond City Council voted to accept the 2024 Slurry Seal Paving Project as finished. They directed the city clerk to record a Notice of Completion with the county recorder and authorized the release of the contractor's bonds and retention payment. This means the paving work is officially approved and the contractor can now be paid in full.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "N.6.b",
+      "source_body": "N.6.b Accept the 2024 Paving Project – Slurry Seal as Complete\nADOPT a resolution to ACCEPT the 2024 Paving Project – Slurry Seal as complete; DIRECT the city clerk to record the Notice of Completion with the Contra Costa County Recorder; and AUTHORIZE the release of the contractor’s bonds and retention payment – Public Works Department (Dan Santos 620-6645/Robert Armijo 620-5477).\nAdopted Resolution No. 39-26",
+      "attachments": [],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=87e114fb-f9f2-43a6-a227-d9b7a3e49916&lang=English",
+      "article_title": "City Council Minutes",
+      "article_published_at": "2026-03-24T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:15:50.279836"
+    },
+    {
+      "id": 1084,
+      "title": "Council approved $90,000 van rental contract for recreation programs",
+      "summary": "Richmond Council approved a contract with Enterprise Rent-A-Car for up to $90,000 to cover passenger van rental costs for Recreation programming. The contract covers outstanding invoices from July 1, 2025, to present and projected costs through June 30, 2026. The Public Works and Community Services departments will manage the rentals.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Transportation & Logistics",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "N.6.c",
+      "source_body": "N.6.c Contract with Enterprise Rent-A-Car for Passenger Van Rentals Supporting Recreation Programs\nAPPROVE a contract with Enterprise Rent-A-Car in an amount not-to-exceed $90,000 to cover outstanding passenger van rental invoices from July 1, 2025, to present and projected van rental costs through June 30, 2026, for Recreation programming – Public Works Department/Community Services Department (Daniel Chavarria 510-620-5478/Darin Fitzpatrick 510-231-3044).",
+      "attachments": [],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=87e114fb-f9f2-43a6-a227-d9b7a3e49916&lang=English",
+      "article_title": "City Council Minutes",
+      "article_published_at": "2026-03-24T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:15:50.280484"
+    },
+    {
+      "id": 1107,
+      "title": "[INFO ONLY] Council received presentation on Richmond Fund for Children and Youth renewal",
+      "summary": "Council received a presentation on Article 15 of the Charter regarding the Richmond Fund for Children and Youth. The item was for information and direction only — no vote was taken. Council was asked to provide direction on renewal provisions and options, but no decision was made.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Professional Services",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "O.1",
+      "source_body": "O.1\nCharter Article 15 Review – Richmond Fund for Children and Youth Review\nRECEIVE a presentation on Article 15 of the Charter regarding the Richmond Fund for Children and Youth and PROVIDE DIRECTION regarding renewal provisions and options – City Manager’s Office/Finance Department (Shasa Curl/Patrick Seals 510-620-6512/Emily Combs/Antonio Banuelos 510-620-6542).",
+      "attachments": [],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=87e114fb-f9f2-43a6-a227-d9b7a3e49916&lang=English",
+      "article_title": "City Council Agenda",
+      "article_published_at": "2026-03-24T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:16:28.146048"
+    },
+    {
+      "id": 1085,
+      "title": "Council approved 2025 California Fire Code with local amendments",
+      "summary": "Richmond City Council voted 6-1 to adopt the 2025 California Fire Code and the 2025 California Wildland-Urban Interface Code, both with local amendments. This means new fire safety rules are now in effect for buildings and properties in Richmond. The ordinance updates the city's Fire Prevention Code (Chapter 8.16 of the Richmond Municipal Code). Business owners should check if their property or operations are affected by the new fire code requirements.",
+      "action_required": "Review the new 2025 California Fire Code amendments to ensure your property or business complies with updated fire safety rules.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt, Retail",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "P.1",
+      "source_body": "P.1 2025 California Fire Code with Local Amendments and 2025 California Wildland-Urban Interface with Local Amendments\nHOLD a public hearing to INTRODUCE an ordinance (first reading) amending the Richmond Municipal Code (RMC) Article VIII (Fire) Chapter 8.16 (Fire Prevention Code) to adopt the 2025 California Fire Code with local amendments and to adopt the 2025 California Wildland-Urban Interface Code with local amendments – Fire Department (Chief Aaron Osorio 510-307-8021/Fire Marshal Dante J. Wiley 510-307-8090).\nMotion by Councilmember Bana\nSeconded by Councilmember Jimenez\nTo introduce said ordinance for first reading and lay over for two weeks for the second reading.\nAyes (6): Councilmember Bana, Councilmember Jimenez, Councilmember Wilson, Councilmember Zepeda, Vice Mayor Robinson, and Mayor Martinez.\nAbsent (1): Councilmember Brown.\nPassed 6 to 1",
+      "attachments": [],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=87e114fb-f9f2-43a6-a227-d9b7a3e49916&lang=English",
+      "article_title": "City Council Minutes",
+      "article_published_at": "2026-03-24T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:15:50.281078"
+    },
+    {
+      "id": 1108,
+      "title": "[INFO ONLY] Richmond Council received report on protecting residents from ICE raids",
+      "summary": "Richmond Council received an initial report on the city's ongoing and planned efforts to safeguard residents from federal civil immigration enforcement actions, including ICE raids. Because the action verb was 'RECEIVE', this item was for information only and did not require a council vote or decision.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Labour & Employment, Professional Services",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "Q.1",
+      "source_body": "Q.1\nUpdate Regarding the City’s Ongoing and Planned Efforts Related to Immigration Enforcement Actions\nRECEIVE an initial report regarding the City’s ongoing and planned efforts related to safeguarding residents from federal civil immigration enforcement actions, including U.S. Customs and Immigration Enforcement (ICE) raids – City Manager’s Office/City Attorney’s Office (Shasa Curl/Shannon Moore 510-620-6512).",
+      "attachments": [],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=87e114fb-f9f2-43a6-a227-d9b7a3e49916&lang=English",
+      "article_title": "City Council Agenda",
+      "article_published_at": "2026-03-24T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:16:28.146965"
+    },
+    {
+      "id": 1086,
+      "title": "Council approved work plan for Cheese Park improvements including restrooms and fencing",
+      "summary": "Richmond City Council voted 6-1 to direct staff to prepare a comprehensive work plan for improvements at Cheese Park (La Moine Park). The approved plan includes building permanent restrooms, a drinking water fountain, playground restoration, safety fencing around the toddler area, completing volunteer-started repainting, and designing park facilities with sports courts, senior spaces, teen areas, and exercise amenities in consultation with the community. Council also directed staff to improve drainage for the adjacent soccer field area to restore it for active recreation, and to identify funding sources in the 2026-27 Capital Improvement Program and operating budget. The decision is final.",
+      "action_required": "No immediate action required from business owners. Monitor City of Richmond for public consultation opportunities on park design.",
+      "key_dates": [],
+      "industries": "Construction & Development, Professional Services",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "Q.2",
+      "source_body": "Q.2 Cheese Park (La Moine Park) Improvements—Permanent Restrooms, Drinking Fountain, Playground Safety, Toddler-Area Fencing, Children’s Bike Garden, and Completion of Volunteer-Led Repainting\nADOPT a resolution to DIRECT City staff to prepare a comprehensive work plan for improvements at Cheese Park (La Moine Park), including permanent restrooms, a drinking water fountain, playground restoration, safety fencing around the toddler area, completion of repainting started by volunteers, a design of park facilities that include sports courts, senior activity spaces, teen activity areas, and exercise/fitness amenities in consultation with the community, and improving the drainage for the area adjacent to the park that has historically been used as a soccer field, to restore its usability for soccer and other active recreation; and IDENTIFY feasible funding sources in Fiscal Year 2026–27 Capital Improvement Program and operating budget process - Councilmember Soheila Bana (510-672-3490)/Councilmember Claudia Jimenez (510-620-6565).\nFirst Substitute Motion by Vice Mayor Robinson\nSeconded by Councilmember Wilson\nTo add Cheese Park to the CIP list formerly and have it start by going through the process of being assessed using the assessment system that the city has; request the parks team to come back to give a report out on the Facilities and Parks Assessment status and next steps; and similarly, review and give an update on the programmatic approach and how it may affect moving the CIP forward.\nAyes (6): Councilmember Bana, Councilmember Jimenez, Councilmember Wilson, Councilmember Zepeda, Vice Mayor Robinson, and Mayor Martinez.\nAbsent (1): Councilmember Brown.\nPassed 6 to 1",
+      "attachments": [],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=87e114fb-f9f2-43a6-a227-d9b7a3e49916&lang=English",
+      "article_title": "City Council Minutes",
+      "article_published_at": "2026-03-24T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:15:50.281739"
+    }
+  ]
+}
