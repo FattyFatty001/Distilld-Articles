@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T19:55:08.010016+00:00",
+  "generated_at": "2026-05-31T21:20:27.539779+00:00",
   "count": 8,
   "articles": [
     {
@@ -10,7 +10,7 @@
       "source": "liquor_bulletins",
       "source_label": "Liquor Bulletins",
       "government_level": "Provincial",
-      "source_website_icon": "",
+      "source_website_icon": "https://www2.gov.bc.ca",
       "meeting_type": null,
       "article_published_at": "2026-05-21T00:00:00",
       "created_at": "2026-05-21T18:33:39.787892",
@@ -28,6 +28,12 @@
           "id": 764,
           "title": "Risk-based security screening starts for new BC cannabis licence applicants",
           "source_label": "Liquor Bulletins",
+          "key_dates": [
+            {
+              "label": "BC LCRB risk-based cannabis screening takes effect",
+              "date": "2026-05-21"
+            }
+          ],
           "is_proposal": false
         }
       ]
@@ -40,7 +46,7 @@
       "source": "liquor_bulletins",
       "source_label": "Liquor Bulletins",
       "government_level": "Provincial",
-      "source_website_icon": "",
+      "source_website_icon": "https://www2.gov.bc.ca",
       "meeting_type": null,
       "article_published_at": "2025-11-28T00:00:00",
       "created_at": "2026-05-15T17:26:02.770284",
@@ -58,6 +64,7 @@
           "id": 729,
           "title": "BC liquor manufacturers can now make soda and non-alcoholic drinks in their licensed facilities",
           "source_label": "Liquor Bulletins",
+          "key_dates": [],
           "is_proposal": false
         }
       ]
@@ -70,7 +77,7 @@
       "source": "liquor_bulletins",
       "source_label": "Liquor Bulletins",
       "government_level": "Provincial",
-      "source_website_icon": "",
+      "source_website_icon": "https://www2.gov.bc.ca",
       "meeting_type": null,
       "article_published_at": "2025-11-28T00:00:00",
       "created_at": "2026-05-13T20:52:43.311793",
@@ -88,6 +95,16 @@
           "id": 428,
           "title": "Liquor licence renewal fees rising May 1, 2026 — first increase since 2010",
           "source_label": "Liquor Bulletins",
+          "key_dates": [
+            {
+              "label": "Liquor licence renewal fee increase takes effect — BC LCRB",
+              "date": "2026-05-01"
+            },
+            {
+              "label": "Serving It Right and Special Event Server fee increase takes effect — BC LCRB",
+              "date": "2026-05-01"
+            }
+          ],
           "is_proposal": false
         }
       ]
@@ -100,7 +117,7 @@
       "source": "liquor_bulletins",
       "source_label": "Liquor Bulletins",
       "government_level": "Provincial",
-      "source_website_icon": "",
+      "source_website_icon": "https://www2.gov.bc.ca",
       "meeting_type": null,
       "article_published_at": "2025-09-18T00:00:00",
       "created_at": "2026-05-15T17:25:58.195046",
@@ -118,6 +135,7 @@
           "id": 728,
           "title": "Tied house rules now include directors and officers — new reporting required",
           "source_label": "Liquor Bulletins",
+          "key_dates": [],
           "is_proposal": false
         }
       ]
@@ -130,7 +148,7 @@
       "source": "liquor_bulletins",
       "source_label": "Liquor Bulletins",
       "government_level": "Provincial",
-      "source_website_icon": "",
+      "source_website_icon": "https://www2.gov.bc.ca",
       "meeting_type": null,
       "article_published_at": "2025-05-23T00:00:00",
       "created_at": "2026-05-15T17:25:53.025250",
@@ -148,6 +166,12 @@
           "id": 727,
           "title": "BC liquor manufacturers can deliver directly to customers until June 30, 2027",
           "source_label": "Liquor Bulletins",
+          "key_dates": [
+            {
+              "label": "BC liquor manufacturer direct delivery authorization expires",
+              "date": "2027-06-30"
+            }
+          ],
           "is_proposal": false
         }
       ]
@@ -160,7 +184,7 @@
       "source": "liquor_bulletins",
       "source_label": "Liquor Bulletins",
       "government_level": "Provincial",
-      "source_website_icon": "",
+      "source_website_icon": "https://www2.gov.bc.ca",
       "meeting_type": null,
       "article_published_at": "2025-01-16T00:00:00",
       "created_at": "2026-05-15T17:25:48.455799",
@@ -178,6 +202,7 @@
           "id": 726,
           "title": "Outdoor event venues can now get a permanent liquor licence instead of multiple permits",
           "source_label": "Liquor Bulletins",
+          "key_dates": [],
           "is_proposal": false
         }
       ]
@@ -190,7 +215,7 @@
       "source": "liquor_bulletins",
       "source_label": "Liquor Bulletins",
       "government_level": "Provincial",
-      "source_website_icon": "",
+      "source_website_icon": "https://www2.gov.bc.ca",
       "meeting_type": null,
       "article_published_at": "2025-01-16T00:00:00",
       "created_at": "2026-05-13T20:52:46.737588",
@@ -208,6 +233,7 @@
           "id": 429,
           "title": "Liquor Primary bars can now offer bottle service with new rules",
           "source_label": "Liquor Bulletins",
+          "key_dates": [],
           "is_proposal": false
         }
       ]
