@@ -1,0 +1,974 @@
+{
+  "article_id": 98,
+  "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=50ef5b26-cb41-4f9f-a579-db367a823d2f&lang=English",
+  "article_title": "City Council",
+  "source": "richmond_council",
+  "source_label": "Richmond Council",
+  "government_level": "Municipal",
+  "source_website_icon": "https://www.richmond.ca",
+  "meeting_type": null,
+  "article_published_at": "2026-04-21T00:00:00",
+  "has_attachments": false,
+  "has_pdf": false,
+  "has_html": false,
+  "has_agenda": true,
+  "has_minutes": false,
+  "agenda_brief_count": 16,
+  "minutes_brief_count": 0,
+  "pdf_urls": "{\"_doc\": [{\"url\": \"https://pub-richmond.escribemeetings.com/FileStream.ashx?DocumentId=60959\", \"title\": \"Agenda (PDF)\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/FileStream.ashx?DocumentId=60962\", \"title\": \"ITEM P.2 - UPDATED RESOLUTION\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/FileStream.ashx?DocumentId=60963\", \"title\": \"Written Public Comments Received 4-21-2026\"}], \"_inline\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60934\", \"title\": \"2026-04-21 Staff Report - 2026 APWA Norcal Best Project Award - F2B2G Project.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60931\", \"title\": \"ADOPT a resolution establishing a Commitment to Caste Equity and the Prevention of Caste-Based Discrimination .pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60932\", \"title\": \"Attachment 1 - Resolution Establishing a Commitment to Caste Equity .pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60933\", \"title\": \"Attachment 2 - Ordinance Amending Sections 3.58.010, 3.58.020, and 3.58.060 of RMC.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60893\", \"title\": \"Ordinance amending RMC Code Ch 2.30 to clarify limitations on use of City resources for fed immigration enforcement acts.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60894\", \"title\": \"Attachment 1 - Proposed Ordinance (Redline).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60895\", \"title\": \"Attachment 2 - Proposed Ordinance (Clean).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60940\", \"title\": \"Continued from 4-7, Records Retention Schedule Update.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60941\", \"title\": \"Attachment 1 - Resolution Records Retention Schedules Update 2026 - DRAFT for 3-17-26-ja(65864.1).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60942\", \"title\": \"Attachment 2 - EXHIBIT A - ALL Records Retention Schedules EXCEPT POLICE 2026-02-10 (updated).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60925\", \"title\": \"Letter to Governor Gavin Newsom re stopping the illicit importation of illegal fireworks from Nevada.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60926\", \"title\": \"Attachment 1- Resolution.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60927\", \"title\": \"Attachment 2-Draft Letter to CA Gov Gavin Newsom to Stop Illegal Fireworks- Final.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60928\", \"title\": \"Attachment 3-ILLEGAL FIREWORKS WHITE PAPER .pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60943\", \"title\": \"Support for Mother\\u2019s Day event at the Richmond Memorial Auditorium.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60944\", \"title\": \"Attachment 1 - Permit R3510- cost estimate_Redacted.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60897\", \"title\": \"Resolution of Support Senate Bill 959 Local Fire Agency Authority and School Safety Measures During Wildfire Emergencies.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60898\", \"title\": \"Attachment 1 Resolution Support for Senate Bill 959 Local Fire Agency Authority During Wildfire Emergencies .pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60899\", \"title\": \"Attachment 2 SENATE BILL No. 959.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60896\", \"title\": \"Data Center Moratorium.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60921\", \"title\": \"2026-04-21(sr)(cntrt)Ed Fund-Achieve Grant.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60922\", \"title\": \"Attachment 1 - Contract_Ed Fund for Achieve Program_FY25-27.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60923\", \"title\": \"Attachment 2 - RFCY Grant Service Agreement.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60924\", \"title\": \"Attachment 3 - CY 2025-27 RFCY Grant Awards - CONFORMED.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60913\", \"title\": \"2026(sr)(reso)Accept and Appropriate a California State Library Grant to Bring Free Books to Summer Lunch Sites.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60914\", \"title\": \"Attachment 1 - Resolution.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60915\", \"title\": \"Attachment 2 - Lunch at the Library Memo - October 23, 2025.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60916\", \"title\": \"Attachment 3 - Letter from Greg Lucas, California State Librarian - February 10, 2026.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60917\", \"title\": \"Attachment 4 - Lunch at the Library Program, Financial Certification.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60918\", \"title\": \"Attachment 5 - CA State Library Award Agreement and Certificate.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60935\", \"title\": \"2026 04 21 (sr) (IO) Sanctuary City Contracting and Investment Policy Ordinance.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60936\", \"title\": \"Attachment 1 - City of Richmond Ordinance 12-18 - Sanctuary City Contracting and Investment Policy Ordinance.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60937\", \"title\": \"Attachment 2 \\u2013 Departmental Sanctuary City Compliance Statement.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60938\", \"title\": \"Attachment 3 \\u2013 Vendor Sanctuary City Compliance Statement.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60929\", \"title\": \"2026-04-21 Staff Report - 7th St Bike Lane Improvement Project Closeout.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60930\", \"title\": \"Attachment 1 - Resolution - 7th St(66735.1)MO-ja(68600.1)MO.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60906\", \"title\": \"Purchase of K-Rails and Natural Stone Boulders.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60907\", \"title\": \"Attachment 1 - K-Rail and Boulders RFQ.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60908\", \"title\": \"Attachment 2 - BidSummary134762 (1).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60909\", \"title\": \"Attachment 3 - First Vanguard Pricing Schedule.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60910\", \"title\": \"Attachment 4 - Blue Angel International LLC Pricing Schedule.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60911\", \"title\": \"Attachment 5 - K-rail and Boulders Scoring Matrix.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60912\", \"title\": \"Attachment 6 - Resolution - K-rail and Boulder Purchasing.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60919\", \"title\": \"March - 2026 Abatement Presentation.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60920\", \"title\": \"Attachment 1 - DRAFT March 2026 Abatement Presentation.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60900\", \"title\": \"Award a Contract to LWA for Wastewater and Stormwater Regulatory Compliance Support.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60901\", \"title\": \"Attachment 1 -  Resolution.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60902\", \"title\": \"Attachment 2 - Proposed Professional Services Contract with Larry Walker and Associates Inc.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60903\", \"title\": \"Attachment 3 - Approved Sole Source Form.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60904\", \"title\": \"Attachment 4 - Current Professional Services Contract wtih Larry Walker Associates Inc.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60905\", \"title\": \"RLO with all attachments for eSCRIBE.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60939\", \"title\": \"2026-04-21(sr)(drst)(Regular Calendar) Revenue Enhancement and Financing Recommendations for ALS.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60945\", \"title\": \"Craneway Analysis and Proposal for Donation .pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60946\", \"title\": \"Attachment 1- Resolution(1).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60947\", \"title\": \"Attachment 2 \\u2013 Donation Agreement.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60948\", \"title\": \"Attachment 3 \\u2013 Summary of Geologica Phase I Report.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60949\", \"title\": \"Attachment 4 \\u2013 Summary of Geologica Groundwater Report.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60950\", \"title\": \"Attachment 5 -  RDH Facility Condition Assessment \\u2013 Craneway.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60951\", \"title\": \"Attachment 6 \\u2013 SCI Direct City Operation Cost Study \\u2013 Craneway.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60952\", \"title\": \"Attachment 7 \\u2013 Land Econ Group Economic Analysis \\u2013 Craneway.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60953\", \"title\": \"Attachment 8 - Ford Assembly Building - Section 33433 Summary Report.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60954\", \"title\": \"Attachment 9 - Disposition and Development Agreement RDA and Orton Development, Inc.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60955\", \"title\": \"Attachment 10 - First Amendment to Disposition and Development Agreement.pdf\"}], \"_items\": {\"M.1\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60934\", \"title\": \"2026-04-21 Staff Report - 2026 APWA Norcal Best Project Award - F2B2G Project.pdf\"}], \"O.1\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60931\", \"title\": \"ADOPT a resolution establishing a Commitment to Caste Equity and the Prevention of Caste-Based Discrimination .pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60932\", \"title\": \"Attachment 1 - Resolution Establishing a Commitment to Caste Equity .pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60933\", \"title\": \"Attachment 2 - Ordinance Amending Sections 3.58.010, 3.58.020, and 3.58.060 of RMC.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60893\", \"title\": \"Ordinance amending RMC Code Ch 2.30 to clarify limitations on use of City resources for fed immigration enforcement acts.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60894\", \"title\": \"Attachment 1 - Proposed Ordinance (Redline).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60895\", \"title\": \"Attachment 2 - Proposed Ordinance (Clean).pdf\"}], \"O.1.a\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60931\", \"title\": \"ADOPT a resolution establishing a Commitment to Caste Equity and the Prevention of Caste-Based Discrimination .pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60932\", \"title\": \"Attachment 1 - Resolution Establishing a Commitment to Caste Equity .pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60933\", \"title\": \"Attachment 2 - Ordinance Amending Sections 3.58.010, 3.58.020, and 3.58.060 of RMC.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60893\", \"title\": \"Ordinance amending RMC Code Ch 2.30 to clarify limitations on use of City resources for fed immigration enforcement acts.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60894\", \"title\": \"Attachment 1 - Proposed Ordinance (Redline).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60895\", \"title\": \"Attachment 2 - Proposed Ordinance (Clean).pdf\"}], \"O.1.b\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60893\", \"title\": \"Ordinance amending RMC Code Ch 2.30 to clarify limitations on use of City resources for fed immigration enforcement acts.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60894\", \"title\": \"Attachment 1 - Proposed Ordinance (Redline).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60895\", \"title\": \"Attachment 2 - Proposed Ordinance (Clean).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60940\", \"title\": \"Continued from 4-7, Records Retention Schedule Update.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60941\", \"title\": \"Attachment 1 - Resolution Records Retention Schedules Update 2026 - DRAFT for 3-17-26-ja(65864.1).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60942\", \"title\": \"Attachment 2 - EXHIBIT A - ALL Records Retention Schedules EXCEPT POLICE 2026-02-10 (updated).pdf\"}], \"O.2\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60940\", \"title\": \"Continued from 4-7, Records Retention Schedule Update.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60941\", \"title\": \"Attachment 1 - Resolution Records Retention Schedules Update 2026 - DRAFT for 3-17-26-ja(65864.1).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60942\", \"title\": \"Attachment 2 - EXHIBIT A - ALL Records Retention Schedules EXCEPT POLICE 2026-02-10 (updated).pdf\"}], \"O.2.a\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60940\", \"title\": \"Continued from 4-7, Records Retention Schedule Update.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60941\", \"title\": \"Attachment 1 - Resolution Records Retention Schedules Update 2026 - DRAFT for 3-17-26-ja(65864.1).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60942\", \"title\": \"Attachment 2 - EXHIBIT A - ALL Records Retention Schedules EXCEPT POLICE 2026-02-10 (updated).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60925\", \"title\": \"Letter to Governor Gavin Newsom re stopping the illicit importation of illegal fireworks from Nevada.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60926\", \"title\": \"Attachment 1- Resolution.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60927\", \"title\": \"Attachment 2-Draft Letter to CA Gov Gavin Newsom to Stop Illegal Fireworks- Final.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60928\", \"title\": \"Attachment 3-ILLEGAL FIREWORKS WHITE PAPER .pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60943\", \"title\": \"Support for Mother\\u2019s Day event at the Richmond Memorial Auditorium.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60944\", \"title\": \"Attachment 1 - Permit R3510- cost estimate_Redacted.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60897\", \"title\": \"Resolution of Support Senate Bill 959 Local Fire Agency Authority and School Safety Measures During Wildfire Emergencies.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60898\", \"title\": \"Attachment 1 Resolution Support for Senate Bill 959 Local Fire Agency Authority During Wildfire Emergencies .pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60899\", \"title\": \"Attachment 2 SENATE BILL No. 959.pdf\"}], \"O.3\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60925\", \"title\": \"Letter to Governor Gavin Newsom re stopping the illicit importation of illegal fireworks from Nevada.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60926\", \"title\": \"Attachment 1- Resolution.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60927\", \"title\": \"Attachment 2-Draft Letter to CA Gov Gavin Newsom to Stop Illegal Fireworks- Final.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60928\", \"title\": \"Attachment 3-ILLEGAL FIREWORKS WHITE PAPER .pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60943\", \"title\": \"Support for Mother\\u2019s Day event at the Richmond Memorial Auditorium.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60944\", \"title\": \"Attachment 1 - Permit R3510- cost estimate_Redacted.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60897\", \"title\": \"Resolution of Support Senate Bill 959 Local Fire Agency Authority and School Safety Measures During Wildfire Emergencies.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60898\", \"title\": \"Attachment 1 Resolution Support for Senate Bill 959 Local Fire Agency Authority During Wildfire Emergencies .pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60899\", \"title\": \"Attachment 2 SENATE BILL No. 959.pdf\"}], \"O.3.a\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60925\", \"title\": \"Letter to Governor Gavin Newsom re stopping the illicit importation of illegal fireworks from Nevada.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60926\", \"title\": \"Attachment 1- Resolution.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60927\", \"title\": \"Attachment 2-Draft Letter to CA Gov Gavin Newsom to Stop Illegal Fireworks- Final.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60928\", \"title\": \"Attachment 3-ILLEGAL FIREWORKS WHITE PAPER .pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60943\", \"title\": \"Support for Mother\\u2019s Day event at the Richmond Memorial Auditorium.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60944\", \"title\": \"Attachment 1 - Permit R3510- cost estimate_Redacted.pdf\"}], \"O.3.b\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60943\", \"title\": \"Support for Mother\\u2019s Day event at the Richmond Memorial Auditorium.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60944\", \"title\": \"Attachment 1 - Permit R3510- cost estimate_Redacted.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60897\", \"title\": \"Resolution of Support Senate Bill 959 Local Fire Agency Authority and School Safety Measures During Wildfire Emergencies.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60898\", \"title\": \"Attachment 1 Resolution Support for Senate Bill 959 Local Fire Agency Authority During Wildfire Emergencies .pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60899\", \"title\": \"Attachment 2 SENATE BILL No. 959.pdf\"}], \"O.3.c\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60897\", \"title\": \"Resolution of Support Senate Bill 959 Local Fire Agency Authority and School Safety Measures During Wildfire Emergencies.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60898\", \"title\": \"Attachment 1 Resolution Support for Senate Bill 959 Local Fire Agency Authority During Wildfire Emergencies .pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60899\", \"title\": \"Attachment 2 SENATE BILL No. 959.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60896\", \"title\": \"Data Center Moratorium.pdf\"}], \"O.4\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60896\", \"title\": \"Data Center Moratorium.pdf\"}], \"O.4.a\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60896\", \"title\": \"Data Center Moratorium.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60921\", \"title\": \"2026-04-21(sr)(cntrt)Ed Fund-Achieve Grant.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60922\", \"title\": \"Attachment 1 - Contract_Ed Fund for Achieve Program_FY25-27.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60923\", \"title\": \"Attachment 2 - RFCY Grant Service Agreement.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60924\", \"title\": \"Attachment 3 - CY 2025-27 RFCY Grant Awards - CONFORMED.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60913\", \"title\": \"2026(sr)(reso)Accept and Appropriate a California State Library Grant to Bring Free Books to Summer Lunch Sites.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60914\", \"title\": \"Attachment 1 - Resolution.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60915\", \"title\": \"Attachment 2 - Lunch at the Library Memo - October 23, 2025.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60916\", \"title\": \"Attachment 3 - Letter from Greg Lucas, California State Librarian - February 10, 2026.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60917\", \"title\": \"Attachment 4 - Lunch at the Library Program, Financial Certification.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60918\", \"title\": \"Attachment 5 - CA State Library Award Agreement and Certificate.pdf\"}], \"O.5\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60921\", \"title\": \"2026-04-21(sr)(cntrt)Ed Fund-Achieve Grant.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60922\", \"title\": \"Attachment 1 - Contract_Ed Fund for Achieve Program_FY25-27.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60923\", \"title\": \"Attachment 2 - RFCY Grant Service Agreement.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60924\", \"title\": \"Attachment 3 - CY 2025-27 RFCY Grant Awards - CONFORMED.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60913\", \"title\": \"2026(sr)(reso)Accept and Appropriate a California State Library Grant to Bring Free Books to Summer Lunch Sites.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60914\", \"title\": \"Attachment 1 - Resolution.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60915\", \"title\": \"Attachment 2 - Lunch at the Library Memo - October 23, 2025.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60916\", \"title\": \"Attachment 3 - Letter from Greg Lucas, California State Librarian - February 10, 2026.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60917\", \"title\": \"Attachment 4 - Lunch at the Library Program, Financial Certification.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60918\", \"title\": \"Attachment 5 - CA State Library Award Agreement and Certificate.pdf\"}], \"O.5.a\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60921\", \"title\": \"2026-04-21(sr)(cntrt)Ed Fund-Achieve Grant.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60922\", \"title\": \"Attachment 1 - Contract_Ed Fund for Achieve Program_FY25-27.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60923\", \"title\": \"Attachment 2 - RFCY Grant Service Agreement.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60924\", \"title\": \"Attachment 3 - CY 2025-27 RFCY Grant Awards - CONFORMED.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60913\", \"title\": \"2026(sr)(reso)Accept and Appropriate a California State Library Grant to Bring Free Books to Summer Lunch Sites.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60914\", \"title\": \"Attachment 1 - Resolution.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60915\", \"title\": \"Attachment 2 - Lunch at the Library Memo - October 23, 2025.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60916\", \"title\": \"Attachment 3 - Letter from Greg Lucas, California State Librarian - February 10, 2026.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60917\", \"title\": \"Attachment 4 - Lunch at the Library Program, Financial Certification.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60918\", \"title\": \"Attachment 5 - CA State Library Award Agreement and Certificate.pdf\"}], \"O.5.b\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60913\", \"title\": \"2026(sr)(reso)Accept and Appropriate a California State Library Grant to Bring Free Books to Summer Lunch Sites.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60914\", \"title\": \"Attachment 1 - Resolution.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60915\", \"title\": \"Attachment 2 - Lunch at the Library Memo - October 23, 2025.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60916\", \"title\": \"Attachment 3 - Letter from Greg Lucas, California State Librarian - February 10, 2026.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60917\", \"title\": \"Attachment 4 - Lunch at the Library Program, Financial Certification.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60918\", \"title\": \"Attachment 5 - CA State Library Award Agreement and Certificate.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60935\", \"title\": \"2026 04 21 (sr) (IO) Sanctuary City Contracting and Investment Policy Ordinance.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60936\", \"title\": \"Attachment 1 - City of Richmond Ordinance 12-18 - Sanctuary City Contracting and Investment Policy Ordinance.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60937\", \"title\": \"Attachment 2 \\u2013 Departmental Sanctuary City Compliance Statement.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60938\", \"title\": \"Attachment 3 \\u2013 Vendor Sanctuary City Compliance Statement.pdf\"}], \"O.6\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60935\", \"title\": \"2026 04 21 (sr) (IO) Sanctuary City Contracting and Investment Policy Ordinance.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60936\", \"title\": \"Attachment 1 - City of Richmond Ordinance 12-18 - Sanctuary City Contracting and Investment Policy Ordinance.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60937\", \"title\": \"Attachment 2 \\u2013 Departmental Sanctuary City Compliance Statement.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60938\", \"title\": \"Attachment 3 \\u2013 Vendor Sanctuary City Compliance Statement.pdf\"}], \"O.6.a\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60935\", \"title\": \"2026 04 21 (sr) (IO) Sanctuary City Contracting and Investment Policy Ordinance.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60936\", \"title\": \"Attachment 1 - City of Richmond Ordinance 12-18 - Sanctuary City Contracting and Investment Policy Ordinance.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60937\", \"title\": \"Attachment 2 \\u2013 Departmental Sanctuary City Compliance Statement.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60938\", \"title\": \"Attachment 3 \\u2013 Vendor Sanctuary City Compliance Statement.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60929\", \"title\": \"2026-04-21 Staff Report - 7th St Bike Lane Improvement Project Closeout.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60930\", \"title\": \"Attachment 1 - Resolution - 7th St(66735.1)MO-ja(68600.1)MO.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60906\", \"title\": \"Purchase of K-Rails and Natural Stone Boulders.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60907\", \"title\": \"Attachment 1 - K-Rail and Boulders RFQ.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60908\", \"title\": \"Attachment 2 - BidSummary134762 (1).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60909\", \"title\": \"Attachment 3 - First Vanguard Pricing Schedule.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60910\", \"title\": \"Attachment 4 - Blue Angel International LLC Pricing Schedule.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60911\", \"title\": \"Attachment 5 - K-rail and Boulders Scoring Matrix.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60912\", \"title\": \"Attachment 6 - Resolution - K-rail and Boulder Purchasing.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60919\", \"title\": \"March - 2026 Abatement Presentation.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60920\", \"title\": \"Attachment 1 - DRAFT March 2026 Abatement Presentation.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60900\", \"title\": \"Award a Contract to LWA for Wastewater and Stormwater Regulatory Compliance Support.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60901\", \"title\": \"Attachment 1 -  Resolution.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60902\", \"title\": \"Attachment 2 - Proposed Professional Services Contract with Larry Walker and Associates Inc.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60903\", \"title\": \"Attachment 3 - Approved Sole Source Form.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60904\", \"title\": \"Attachment 4 - Current Professional Services Contract wtih Larry Walker Associates Inc.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60905\", \"title\": \"RLO with all attachments for eSCRIBE.pdf\"}], \"O.7\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60929\", \"title\": \"2026-04-21 Staff Report - 7th St Bike Lane Improvement Project Closeout.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60930\", \"title\": \"Attachment 1 - Resolution - 7th St(66735.1)MO-ja(68600.1)MO.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60906\", \"title\": \"Purchase of K-Rails and Natural Stone Boulders.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60907\", \"title\": \"Attachment 1 - K-Rail and Boulders RFQ.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60908\", \"title\": \"Attachment 2 - BidSummary134762 (1).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60909\", \"title\": \"Attachment 3 - First Vanguard Pricing Schedule.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60910\", \"title\": \"Attachment 4 - Blue Angel International LLC Pricing Schedule.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60911\", \"title\": \"Attachment 5 - K-rail and Boulders Scoring Matrix.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60912\", \"title\": \"Attachment 6 - Resolution - K-rail and Boulder Purchasing.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60919\", \"title\": \"March - 2026 Abatement Presentation.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60920\", \"title\": \"Attachment 1 - DRAFT March 2026 Abatement Presentation.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60900\", \"title\": \"Award a Contract to LWA for Wastewater and Stormwater Regulatory Compliance Support.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60901\", \"title\": \"Attachment 1 -  Resolution.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60902\", \"title\": \"Attachment 2 - Proposed Professional Services Contract with Larry Walker and Associates Inc.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60903\", \"title\": \"Attachment 3 - Approved Sole Source Form.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60904\", \"title\": \"Attachment 4 - Current Professional Services Contract wtih Larry Walker Associates Inc.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60905\", \"title\": \"RLO with all attachments for eSCRIBE.pdf\"}], \"O.7.a\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60929\", \"title\": \"2026-04-21 Staff Report - 7th St Bike Lane Improvement Project Closeout.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60930\", \"title\": \"Attachment 1 - Resolution - 7th St(66735.1)MO-ja(68600.1)MO.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60906\", \"title\": \"Purchase of K-Rails and Natural Stone Boulders.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60907\", \"title\": \"Attachment 1 - K-Rail and Boulders RFQ.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60908\", \"title\": \"Attachment 2 - BidSummary134762 (1).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60909\", \"title\": \"Attachment 3 - First Vanguard Pricing Schedule.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60910\", \"title\": \"Attachment 4 - Blue Angel International LLC Pricing Schedule.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60911\", \"title\": \"Attachment 5 - K-rail and Boulders Scoring Matrix.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60912\", \"title\": \"Attachment 6 - Resolution - K-rail and Boulder Purchasing.pdf\"}], \"O.7.b\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60906\", \"title\": \"Purchase of K-Rails and Natural Stone Boulders.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60907\", \"title\": \"Attachment 1 - K-Rail and Boulders RFQ.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60908\", \"title\": \"Attachment 2 - BidSummary134762 (1).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60909\", \"title\": \"Attachment 3 - First Vanguard Pricing Schedule.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60910\", \"title\": \"Attachment 4 - Blue Angel International LLC Pricing Schedule.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60911\", \"title\": \"Attachment 5 - K-rail and Boulders Scoring Matrix.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60912\", \"title\": \"Attachment 6 - Resolution - K-rail and Boulder Purchasing.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60919\", \"title\": \"March - 2026 Abatement Presentation.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60920\", \"title\": \"Attachment 1 - DRAFT March 2026 Abatement Presentation.pdf\"}], \"O.7.c\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60919\", \"title\": \"March - 2026 Abatement Presentation.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60920\", \"title\": \"Attachment 1 - DRAFT March 2026 Abatement Presentation.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60900\", \"title\": \"Award a Contract to LWA for Wastewater and Stormwater Regulatory Compliance Support.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60901\", \"title\": \"Attachment 1 -  Resolution.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60902\", \"title\": \"Attachment 2 - Proposed Professional Services Contract with Larry Walker and Associates Inc.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60903\", \"title\": \"Attachment 3 - Approved Sole Source Form.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60904\", \"title\": \"Attachment 4 - Current Professional Services Contract wtih Larry Walker Associates Inc.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60905\", \"title\": \"RLO with all attachments for eSCRIBE.pdf\"}], \"O.7.d\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60900\", \"title\": \"Award a Contract to LWA for Wastewater and Stormwater Regulatory Compliance Support.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60901\", \"title\": \"Attachment 1 -  Resolution.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60902\", \"title\": \"Attachment 2 - Proposed Professional Services Contract with Larry Walker and Associates Inc.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60903\", \"title\": \"Attachment 3 - Approved Sole Source Form.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60904\", \"title\": \"Attachment 4 - Current Professional Services Contract wtih Larry Walker Associates Inc.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60905\", \"title\": \"RLO with all attachments for eSCRIBE.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60939\", \"title\": \"2026-04-21(sr)(drst)(Regular Calendar) Revenue Enhancement and Financing Recommendations for ALS.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60945\", \"title\": \"Craneway Analysis and Proposal for Donation .pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60946\", \"title\": \"Attachment 1- Resolution(1).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60947\", \"title\": \"Attachment 2 \\u2013 Donation Agreement.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60948\", \"title\": \"Attachment 3 \\u2013 Summary of Geologica Phase I Report.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60949\", \"title\": \"Attachment 4 \\u2013 Summary of Geologica Groundwater Report.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60950\", \"title\": \"Attachment 5 -  RDH Facility Condition Assessment \\u2013 Craneway.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60951\", \"title\": \"Attachment 6 \\u2013 SCI Direct City Operation Cost Study \\u2013 Craneway.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60952\", \"title\": \"Attachment 7 \\u2013 Land Econ Group Economic Analysis \\u2013 Craneway.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60953\", \"title\": \"Attachment 8 - Ford Assembly Building - Section 33433 Summary Report.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60954\", \"title\": \"Attachment 9 - Disposition and Development Agreement RDA and Orton Development, Inc.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60955\", \"title\": \"Attachment 10 - First Amendment to Disposition and Development Agreement.pdf\"}], \"P.1\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60939\", \"title\": \"2026-04-21(sr)(drst)(Regular Calendar) Revenue Enhancement and Financing Recommendations for ALS.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60945\", \"title\": \"Craneway Analysis and Proposal for Donation .pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60946\", \"title\": \"Attachment 1- Resolution(1).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60947\", \"title\": \"Attachment 2 \\u2013 Donation Agreement.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60948\", \"title\": \"Attachment 3 \\u2013 Summary of Geologica Phase I Report.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60949\", \"title\": \"Attachment 4 \\u2013 Summary of Geologica Groundwater Report.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60950\", \"title\": \"Attachment 5 -  RDH Facility Condition Assessment \\u2013 Craneway.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60951\", \"title\": \"Attachment 6 \\u2013 SCI Direct City Operation Cost Study \\u2013 Craneway.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60952\", \"title\": \"Attachment 7 \\u2013 Land Econ Group Economic Analysis \\u2013 Craneway.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60953\", \"title\": \"Attachment 8 - Ford Assembly Building - Section 33433 Summary Report.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60954\", \"title\": \"Attachment 9 - Disposition and Development Agreement RDA and Orton Development, Inc.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60955\", \"title\": \"Attachment 10 - First Amendment to Disposition and Development Agreement.pdf\"}], \"P.2\": [{\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60945\", \"title\": \"Craneway Analysis and Proposal for Donation .pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60946\", \"title\": \"Attachment 1- Resolution(1).pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60947\", \"title\": \"Attachment 2 \\u2013 Donation Agreement.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60948\", \"title\": \"Attachment 3 \\u2013 Summary of Geologica Phase I Report.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60949\", \"title\": \"Attachment 4 \\u2013 Summary of Geologica Groundwater Report.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60950\", \"title\": \"Attachment 5 -  RDH Facility Condition Assessment \\u2013 Craneway.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60951\", \"title\": \"Attachment 6 \\u2013 SCI Direct City Operation Cost Study \\u2013 Craneway.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60952\", \"title\": \"Attachment 7 \\u2013 Land Econ Group Economic Analysis \\u2013 Craneway.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60953\", \"title\": \"Attachment 8 - Ford Assembly Building - Section 33433 Summary Report.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60954\", \"title\": \"Attachment 9 - Disposition and Development Agreement RDA and Orton Development, Inc.pdf\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60955\", \"title\": \"Attachment 10 - First Amendment to Disposition and Development Agreement.pdf\"}]}}",
+  "body": "",
+  "agenda_briefs": [
+    {
+      "id": 1013,
+      "title": "Proposed: Richmond to add caste as protected category in city code",
+      "summary": "Council will consider a resolution and first-reading ordinance to add caste as a protected category in the Richmond Municipal Code, amending sections 3.58.010, 3.58.020, and 3.58.060. If approved, caste-based discrimination would be treated the same as discrimination based on race, religion, or gender under the Human Rights and Human Relations Commission. The HRHR Commission unanimously recommended adoption on January 26, 2026. Modest costs for staff training and reporting mechanisms would be absorbed into existing DEI budgets.",
+      "action_required": "Watch for the council meeting date and attend or submit comments if you want to have a say on this proposed change.",
+      "key_dates": [],
+      "industries": "Labour & Employment, Professional Services, Retail",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "O.1.a",
+      "source_body": "O.1.a\nEstablishing a Commitment to Caste Equity and the Prevention of Caste-Based Discrimination\nADOPT a resolution establishing a Commitment to Caste Equity and the Prevention of Caste-Based Discrimination and INTRODUCE an ordinance (first reading) amending sections 3.58.010, 3.58.020, and 3.58.060 of the Richmond Municipal Code to add caste as a protected category within the jurisdiction of the City’s Human Rights and Human Relations Commission – City Attorney’s Office (Shannon Moore 510-620-6505/Dallae Chin 510-620-5517/Brandi Robinson 510-620-5518).",
+      "attachments": [
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60931",
+          "title": "ADOPT a resolution establishing a Commitment to Caste Equity and the Prevention of Caste-Based Discrimination .pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60932",
+          "title": "Attachment 1 - Resolution Establishing a Commitment to Caste Equity .pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60933",
+          "title": "Attachment 2 - Ordinance Amending Sections 3.58.010, 3.58.020, and 3.58.060 of RMC.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60893",
+          "title": "Ordinance amending RMC Code Ch 2.30 to clarify limitations on use of City resources for fed immigration enforcement acts.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60894",
+          "title": "Attachment 1 - Proposed Ordinance (Redline).pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60895",
+          "title": "Attachment 2 - Proposed Ordinance (Clean).pdf"
+        }
+      ],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=50ef5b26-cb41-4f9f-a579-db367a823d2f&lang=English",
+      "article_title": "City Council Agenda",
+      "article_published_at": "2026-04-21T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:09:36.614323"
+    },
+    {
+      "id": 1014,
+      "title": "Proposed: Richmond to limit city resources for federal immigration enforcement",
+      "summary": "Council will vote on second reading of an ordinance amending RMC Chapter 2.30 to prohibit use of city property as staging areas, processing locations, or operational bases for federal civil immigration enforcement. The ordinance also requires staff training, a community communications plan, and reporting requirements. If approved, it takes effect May 28, 2026.",
+      "action_required": "Watch for the council vote on April 28, 2026 — if passed, the ordinance takes effect May 28, 2026.",
+      "key_dates": [
+        {
+          "label": "Second reading vote — Richmond immigration enforcement ordinance",
+          "date": "2026-04-28"
+        },
+        {
+          "label": "Ordinance takes effect — Richmond immigration enforcement limits",
+          "date": "2026-05-28"
+        }
+      ],
+      "industries": "Professional Services, Hotel & Accommodation, Food Service",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "O.1.b",
+      "source_body": "O.1.b\nAmending Richmond Municipal Code Chapter 2.30 regarding Use of City Resources for Civil Immigration Enforcement\nADOPT an ordinance (second reading) amending Richmond Municipal Code Chapter 2.30 to clarify limitations on the use of city property, personnel, and resources for civil immigration enforcement and develop implementation procedures, including communications plans, and reporting requirements – City Attorney’s Office (Shannon Moore 510-620-5509/Kimberly Chin 510-620-6709).",
+      "attachments": [
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60931",
+          "title": "ADOPT a resolution establishing a Commitment to Caste Equity and the Prevention of Caste-Based Discrimination .pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60932",
+          "title": "Attachment 1 - Resolution Establishing a Commitment to Caste Equity .pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60933",
+          "title": "Attachment 2 - Ordinance Amending Sections 3.58.010, 3.58.020, and 3.58.060 of RMC.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60893",
+          "title": "Ordinance amending RMC Code Ch 2.30 to clarify limitations on use of City resources for fed immigration enforcement acts.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60894",
+          "title": "Attachment 1 - Proposed Ordinance (Redline).pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60895",
+          "title": "Attachment 2 - Proposed Ordinance (Clean).pdf"
+        }
+      ],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=50ef5b26-cb41-4f9f-a579-db367a823d2f&lang=English",
+      "article_title": "City Council Agenda",
+      "article_published_at": "2026-04-21T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:09:36.616113"
+    },
+    {
+      "id": 1015,
+      "title": "Proposed: City-wide records retention schedule updates up for council vote",
+      "summary": "Council will vote on a resolution to adopt updated city-wide records retention and destruction schedules (excluding police). The new schedules set clear retention periods for all city records (permits, licences, financial documents, emails, etc.) and authorize destruction after the period expires with written consent from the department head, city clerk, and city attorney. Future updates to the schedule can be made without further council action. The resolution repeals the previous 1999 schedule.",
+      "action_required": "No action required from businesses — the change affects how the city manages its own records, not your recordkeeping obligations.",
+      "key_dates": [
+        {
+          "label": "Council vote on records retention schedule update — Richmond",
+          "date": "2026-04-21"
+        }
+      ],
+      "industries": "Professional Services",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "O.2.a",
+      "source_body": "O.2.a\nRecords Retention and Destruction Schedule Update\nADOPT a resolution approving updates to the City-wide Records Retention and Destruction Schedules, excluding the Police Department, which will be brought back to City Council for adoption at a later date – City Clerk’s Office (Pamela Christian 510-620-5413).",
+      "attachments": [
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60940",
+          "title": "Continued from 4-7, Records Retention Schedule Update.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60941",
+          "title": "Attachment 1 - Resolution Records Retention Schedules Update 2026 - DRAFT for 3-17-26-ja(65864.1).pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60942",
+          "title": "Attachment 2 - EXHIBIT A - ALL Records Retention Schedules EXCEPT POLICE 2026-02-10 (updated).pdf"
+        }
+      ],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=50ef5b26-cb41-4f9f-a579-db367a823d2f&lang=English",
+      "article_title": "City Council Agenda",
+      "article_published_at": "2026-04-21T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:09:36.616764"
+    },
+    {
+      "id": 1016,
+      "title": "Proposed: Richmond council to send letter to California governor on illegal fireworks",
+      "summary": "Richmond City Council is set to vote on a resolution directing the city clerk to send a letter to California Governor Gavin Newsom supporting a joint task force of fire and law enforcement agencies from California and Nevada, and an interstate compact requiring Nevada fireworks retailers to download sales records into a secure state website accessible to fire/law enforcement agencies and ATF. The letter cites 13 Nevada stores (6 in Pahrump, 7 northeast of Reno) accounting for 65-75% of illegal fireworks used in California, and notes over 600,000 pounds of illegal fireworks were seized last year.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Retail",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "O.3.a",
+      "source_body": "O.3.a\nLetter to Governor Gavin Newsom to Stop the Illicit Importation of Illegal Fireworks from Nevada\nADOPT a resolution to DIRECT the city clerk to send a letter to California State Governor Gavin Newsom in support of developing a task force to explore an interstate compact between California and Nevada to stop the illicit importation of illegal fireworks from Nevada into California via a shared database of recorded sales - Councilmembers Claudia Jimenez (510-620-6565) and Sue Wilson (510-609-2111).",
+      "attachments": [
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60925",
+          "title": "Letter to Governor Gavin Newsom re stopping the illicit importation of illegal fireworks from Nevada.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60926",
+          "title": "Attachment 1- Resolution.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60927",
+          "title": "Attachment 2-Draft Letter to CA Gov Gavin Newsom to Stop Illegal Fireworks- Final.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60928",
+          "title": "Attachment 3-ILLEGAL FIREWORKS WHITE PAPER .pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60943",
+          "title": "Support for Mother’s Day event at the Richmond Memorial Auditorium.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60944",
+          "title": "Attachment 1 - Permit R3510- cost estimate_Redacted.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60897",
+          "title": "Resolution of Support Senate Bill 959 Local Fire Agency Authority and School Safety Measures During Wildfire Emergencies.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60898",
+          "title": "Attachment 1 Resolution Support for Senate Bill 959 Local Fire Agency Authority During Wildfire Emergencies .pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60899",
+          "title": "Attachment 2 SENATE BILL No. 959.pdf"
+        }
+      ],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=50ef5b26-cb41-4f9f-a579-db367a823d2f&lang=English",
+      "article_title": "City Council Agenda",
+      "article_published_at": "2026-04-21T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:09:36.617341"
+    },
+    {
+      "id": 1017,
+      "title": "Proposed: Fee waiver and co-sponsorship for Mother's Day event",
+      "summary": "Council will consider approving a co-sponsorship and one-time fee waiver for the Richmond Memorial Auditorium to support a community-led Mother's Day event on May 9, 2026. The event is organized by the United Business Organization and backed by Vice Mayor Doria Robinson, Councilmember Soheila Bana, and Mayor Eduardo Martinez. If approved, the city would waive the usual rental fee of $5,199.50 plus a $3,081 deposit (total $8,280.50), reducing costs for the organizers. This is a proposed decision — it has not been finalized yet.",
+      "action_required": null,
+      "key_dates": [
+        {
+          "label": "Council vote on Mother's Day event fee waiver",
+          "date": "2026-05-09"
+        }
+      ],
+      "industries": "Professional Services",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "O.3.b",
+      "source_body": "O.3.b\nSupport for 2026 Mother’s Day event at the Richmond Memorial Auditorium\nAPPROVE the co-sponsorship of the May 9, 2026, Mother's Day event, and AUTHORIZE the one-time use and fee waiver of the Richmond Auditorium to support a community-led Mother’s Day Event celebration organized by the United Business Organization - Vice Mayor Doria Robinson (510-620-6568), Councilmember Soheila Bana (510-672-3490), and Mayor Eduardo Martinez (510-620-6503).",
+      "attachments": [
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60925",
+          "title": "Letter to Governor Gavin Newsom re stopping the illicit importation of illegal fireworks from Nevada.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60926",
+          "title": "Attachment 1- Resolution.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60927",
+          "title": "Attachment 2-Draft Letter to CA Gov Gavin Newsom to Stop Illegal Fireworks- Final.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60928",
+          "title": "Attachment 3-ILLEGAL FIREWORKS WHITE PAPER .pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60943",
+          "title": "Support for Mother’s Day event at the Richmond Memorial Auditorium.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60944",
+          "title": "Attachment 1 - Permit R3510- cost estimate_Redacted.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60897",
+          "title": "Resolution of Support Senate Bill 959 Local Fire Agency Authority and School Safety Measures During Wildfire Emergencies.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60898",
+          "title": "Attachment 1 Resolution Support for Senate Bill 959 Local Fire Agency Authority During Wildfire Emergencies .pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60899",
+          "title": "Attachment 2 SENATE BILL No. 959.pdf"
+        }
+      ],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=50ef5b26-cb41-4f9f-a579-db367a823d2f&lang=English",
+      "article_title": "City Council Agenda",
+      "article_published_at": "2026-04-21T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:09:36.617893"
+    },
+    {
+      "id": 1018,
+      "title": "Proposed: Richmond Council to support California fire agency bill",
+      "summary": "Richmond City Council will consider a resolution supporting California Senate Bill 959 (Grayson/Arreguín). The bill would amend Education Code Section 46392 to allow a local fire agency to determine the imminence of a major safety hazard during extreme wildfire emergencies. If a school district, charter school, or county office of education closes or attendance drops due to that determination, state funding tied to Average Daily Attendance (ADA) would be protected. The resolution directs the city clerk to send copies to Governor Newsom, Senators Grayson and Arreguín, Assemblymember Wicks, the California Fire Chiefs Association, and the West Contra Costa Unified School District Board.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Labour & Employment",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "O.3.c",
+      "source_body": "O.3.c\nSupport for Senate Bill 959 Regarding Local Fire Agency Authority and School Safety Measures During Wildfire Emergencies\nADOPT a resolution supporting California Senate Bill 959 to empower local fire agencies to determine major safety hazards and protect school funding during extreme wildfire emergencies - Councilmember Soheila Bana (510-672-3490).",
+      "attachments": [
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60925",
+          "title": "Letter to Governor Gavin Newsom re stopping the illicit importation of illegal fireworks from Nevada.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60926",
+          "title": "Attachment 1- Resolution.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60927",
+          "title": "Attachment 2-Draft Letter to CA Gov Gavin Newsom to Stop Illegal Fireworks- Final.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60928",
+          "title": "Attachment 3-ILLEGAL FIREWORKS WHITE PAPER .pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60943",
+          "title": "Support for Mother’s Day event at the Richmond Memorial Auditorium.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60944",
+          "title": "Attachment 1 - Permit R3510- cost estimate_Redacted.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60897",
+          "title": "Resolution of Support Senate Bill 959 Local Fire Agency Authority and School Safety Measures During Wildfire Emergencies.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60898",
+          "title": "Attachment 1 Resolution Support for Senate Bill 959 Local Fire Agency Authority During Wildfire Emergencies .pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60899",
+          "title": "Attachment 2 SENATE BILL No. 959.pdf"
+        }
+      ],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=50ef5b26-cb41-4f9f-a579-db367a823d2f&lang=English",
+      "article_title": "City Council Agenda",
+      "article_published_at": "2026-04-21T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:09:36.618460"
+    },
+    {
+      "id": 1019,
+      "title": "Proposed: Richmond council to consider moratorium on data centres",
+      "summary": "Richmond City Council will vote on a proposal to direct the city manager and city attorney to work with planning staff to develop a proposed moratorium on new data centres. The moratorium would temporarily pause approvals while the city studies impacts on the electrical grid, water use, land use, noise, and the environment. There are currently no pending applications or approved proposals for data centre development in the city.",
+      "action_required": "Watch for the council decision — if approved, a temporary ban on new data centre permits could follow.",
+      "key_dates": [],
+      "industries": "Technology, Construction & Development",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "O.4.a",
+      "source_body": "O.4.a\nPotential Moratorium on Data Centers\nDIRECT the city manager and city attorney to work with Planning staff to develop and bring forward a proposed moratorium on data centers – City Manager’s Office/Community Development Department/City Attorney’s Office (Shasa Curl 510-620-6512/Lina Velasco 510-620-6841/Shannon Moore 510-620-6509).",
+      "attachments": [
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60896",
+          "title": "Data Center Moratorium.pdf"
+        }
+      ],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=50ef5b26-cb41-4f9f-a579-db367a823d2f&lang=English",
+      "article_title": "City Council Agenda",
+      "article_published_at": "2026-04-21T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:09:36.619009"
+    },
+    {
+      "id": 1020,
+      "title": "Proposed: $600,000 contract for free youth summer camp program",
+      "summary": "Council will consider approving a $600,000 contract with the West Contra Costa Public Education Fund to run a free, 8-week summer camp for youth. The proposed contract would run from January 1, 2025, through December 31, 2027. The program would be offered in partnership with the Community Services–Recreation department. This is a proposed decision and has not yet been approved.",
+      "action_required": "Watch for the council vote — if approved, this could create partnership or referral opportunities for youth-focused businesses.",
+      "key_dates": [
+        {
+          "label": "Council vote on proposed summer camp contract",
+          "date": "2025-01-01"
+        }
+      ],
+      "industries": "Professional Services",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "O.5.a",
+      "source_body": "O.5.a\nContract with West Contra Costa Public Education Fund for Free Youth Achieve Summer Camp Program\nAPPROVE a contract with West Contra Costa Public Education Fund to offer the Achieve Summer Camp Program, providing free programs to youth through an 8-week summer camp in partnership with Community Services–Recreation, for the term of January 1, 2025, through December 31, 2027, in an amount not to exceed $600,000 – Community Services Department (Troy Porter/Ranjana Maharaj/LaShonda White 510-620-6793).",
+      "attachments": [
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60921",
+          "title": "2026-04-21(sr)(cntrt)Ed Fund-Achieve Grant.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60922",
+          "title": "Attachment 1 - Contract_Ed Fund for Achieve Program_FY25-27.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60923",
+          "title": "Attachment 2 - RFCY Grant Service Agreement.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60924",
+          "title": "Attachment 3 - CY 2025-27 RFCY Grant Awards - CONFORMED.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60913",
+          "title": "2026(sr)(reso)Accept and Appropriate a California State Library Grant to Bring Free Books to Summer Lunch Sites.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60914",
+          "title": "Attachment 1 - Resolution.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60915",
+          "title": "Attachment 2 - Lunch at the Library Memo - October 23, 2025.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60916",
+          "title": "Attachment 3 - Letter from Greg Lucas, California State Librarian - February 10, 2026.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60917",
+          "title": "Attachment 4 - Lunch at the Library Program, Financial Certification.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60918",
+          "title": "Attachment 5 - CA State Library Award Agreement and Certificate.pdf"
+        }
+      ],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=50ef5b26-cb41-4f9f-a579-db367a823d2f&lang=English",
+      "article_title": "City Council Agenda",
+      "article_published_at": "2026-04-21T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:09:36.619554"
+    },
+    {
+      "id": 1021,
+      "title": "Proposed: Council to accept $9,000 grant for free books at lunch sites",
+      "summary": "Council will consider accepting a $9,000 grant from the California State Library for the 'Lunch at the Library' program. If approved, this funding would be added to the Library's 2025-2026 budget and used to provide free books at lunch sites. The city manager would also be authorized to sign grant agreements and submit required reports. This is a proposed decision that has not yet been voted on.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Food Service, Retail",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "O.5.b",
+      "source_body": "O.5.b\nCalifornia State Library – Lunch at the Library Grant\nACCEPT $9,000 in California State Library grant funding and APPROPRIATE the funds into the Library’s Fiscal Year 2025-2026 operating budget; and AUTHORIZE the city manager or their designee, to execute grant agreements and certify grant reports - Community Services Department (Christopher Larsen 510-620-5524/Kate Eppler 510-620-5452).",
+      "attachments": [
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60921",
+          "title": "2026-04-21(sr)(cntrt)Ed Fund-Achieve Grant.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60922",
+          "title": "Attachment 1 - Contract_Ed Fund for Achieve Program_FY25-27.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60923",
+          "title": "Attachment 2 - RFCY Grant Service Agreement.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60924",
+          "title": "Attachment 3 - CY 2025-27 RFCY Grant Awards - CONFORMED.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60913",
+          "title": "2026(sr)(reso)Accept and Appropriate a California State Library Grant to Bring Free Books to Summer Lunch Sites.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60914",
+          "title": "Attachment 1 - Resolution.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60915",
+          "title": "Attachment 2 - Lunch at the Library Memo - October 23, 2025.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60916",
+          "title": "Attachment 3 - Letter from Greg Lucas, California State Librarian - February 10, 2026.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60917",
+          "title": "Attachment 4 - Lunch at the Library Program, Financial Certification.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60918",
+          "title": "Attachment 5 - CA State Library Award Agreement and Certificate.pdf"
+        }
+      ],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=50ef5b26-cb41-4f9f-a579-db367a823d2f&lang=English",
+      "article_title": "City Council Agenda",
+      "article_published_at": "2026-04-21T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:09:36.620179"
+    },
+    {
+      "id": 1022,
+      "title": "Council to consider update on Richmond's Sanctuary City contracting policy",
+      "summary": "Richmond City Council received a written update on compliance with Ordinance No. 12-18 N.S., which prohibits the city from contracting with any person or entity that provides Data Broker or Extreme Vetting services to ICE. All contractors must submit a Sanctuary City Compliance Statement with their bid or proposal before contract execution. Violations constitute material default, may result in contract termination and a five-year ban from bidding, and knowingly supplying false information is a misdemeanor subject to a $1,000 fine.",
+      "action_required": "Include the Sanctuary City Compliance Statement with all bids, proposals, or RFPs submitted to the City of Richmond.",
+      "key_dates": [],
+      "industries": "Professional Services, Construction & Development, Retail",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "O.6.a",
+      "source_body": "O.6.a\nUpdate on the Sanctuary City Contracting and Investment Policy Ordinance\nRECEIVE a written update regarding the steps taken to ensure compliance with the Sanctuary City Contracting and Investment Policy Ordinance – Finance Department (Emily Combs, Mubeen Qader, Antonio Banuelos, Ofelia Alvarez 510-620-6699).",
+      "attachments": [
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60935",
+          "title": "2026 04 21 (sr) (IO) Sanctuary City Contracting and Investment Policy Ordinance.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60936",
+          "title": "Attachment 1 - City of Richmond Ordinance 12-18 - Sanctuary City Contracting and Investment Policy Ordinance.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60937",
+          "title": "Attachment 2 – Departmental Sanctuary City Compliance Statement.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60938",
+          "title": "Attachment 3 – Vendor Sanctuary City Compliance Statement.pdf"
+        }
+      ],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=50ef5b26-cb41-4f9f-a579-db367a823d2f&lang=English",
+      "article_title": "City Council Agenda",
+      "article_published_at": "2026-04-21T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:09:36.620811"
+    },
+    {
+      "id": 1023,
+      "title": "Proposed: Richmond council to accept 7th Street bike lane project, amend contract",
+      "summary": "Richmond City Council is set to vote on a proposal to accept the 7th Street Bike Lane Improvement Project as complete. If approved, the council would also amend the construction contract with Rapid Grading, increasing the payment limit by $121,202.70 for a new total not to exceed $420,038.73. The proposal would also direct the city clerk to record a Notice of Completion (a formal document that marks the project as finished) and authorize the city engineer to release applicable bonds and retention (money held back to ensure the work is done properly). This is a proposed decision and has not yet been approved.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "O.7.a",
+      "source_body": "O.7.a\nAccept the 7th Street Bike Lane Improvement Project as Complete\nADOPT a resolution to ACCEPT the 7th Street Bike Lane Improvement Project as complete, AMEND the construction contract with Rapid Grading increasing the payment limit in the amount of $121,202.70 for an amount not to exceed $420,038.73, DIRECT the city clerk to record the Notice of Completion, and AUTHORIZE the city engineer to release applicable bonds and retention – Public Works Department (Hillal Hamdan 510-621-1612/Robert Armijo 510-620-5477).",
+      "attachments": [
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60921",
+          "title": "2026-04-21(sr)(cntrt)Ed Fund-Achieve Grant.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60922",
+          "title": "Attachment 1 - Contract_Ed Fund for Achieve Program_FY25-27.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60923",
+          "title": "Attachment 2 - RFCY Grant Service Agreement.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60924",
+          "title": "Attachment 3 - CY 2025-27 RFCY Grant Awards - CONFORMED.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60913",
+          "title": "2026(sr)(reso)Accept and Appropriate a California State Library Grant to Bring Free Books to Summer Lunch Sites.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60914",
+          "title": "Attachment 1 - Resolution.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60915",
+          "title": "Attachment 2 - Lunch at the Library Memo - October 23, 2025.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60916",
+          "title": "Attachment 3 - Letter from Greg Lucas, California State Librarian - February 10, 2026.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60917",
+          "title": "Attachment 4 - Lunch at the Library Program, Financial Certification.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60918",
+          "title": "Attachment 5 - CA State Library Award Agreement and Certificate.pdf"
+        }
+      ],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=50ef5b26-cb41-4f9f-a579-db367a823d2f&lang=English",
+      "article_title": "City Council Agenda",
+      "article_published_at": "2026-04-21T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:09:36.621589"
+    },
+    {
+      "id": 1024,
+      "title": "Proposed: Council to vote on $450,000 K-rail and boulder purchase for encampment mitigation",
+      "summary": "Richmond City Council is set to vote on a proposal to spend up to $450,000 per vendor over three years to buy K-rails (10-ft and 20-ft reinforced concrete barriers meeting Caltrans standards) and natural stone boulders (1–3 tons each, angular granite/basalt). The contract would be with First Vanguard Rentals & Sales, Inc. and Blue Angel International LLC, with optional two one-year extensions at up to $150,000 per year per vendor (total potential $750,000 per vendor). The city anticipates spending approximately $100,000 annually. This is a proposed decision — it has not been approved yet.",
+      "action_required": "No action required from business owners at this time, but watch for the council decision — it could affect access near your property.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt, Retail",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "O.7.b",
+      "source_body": "O.7.b\nPurchase of K-Rails and Natural Stone Boulders from First Vanguard Rentals & Sales, Inc. and Blue Angel International, LLC\nADOPT a resolution to APPROVE the purchase of K-rails and natural stone boulders for City-wide encampment mitigation, right-of-way protection, and site hardening efforts from First Vanguard Rentals & Sales, Inc. and Blue Angel International LLC, each for a three-year term in an amount not to exceed $450,000, with the option to extend for two additional one-year terms in an amount not to exceed $150,000 per year, subject to city manager approval – Public Works Department (Daniel Chavarria 510-620-5478/ Darin Fitzpatrick 510-231-3044).",
+      "attachments": [
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60929",
+          "title": "2026-04-21 Staff Report - 7th St Bike Lane Improvement Project Closeout.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60930",
+          "title": "Attachment 1 - Resolution - 7th St(66735.1)MO-ja(68600.1)MO.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60906",
+          "title": "Purchase of K-Rails and Natural Stone Boulders.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60907",
+          "title": "Attachment 1 - K-Rail and Boulders RFQ.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60908",
+          "title": "Attachment 2 - BidSummary134762 (1).pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60909",
+          "title": "Attachment 3 - First Vanguard Pricing Schedule.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60910",
+          "title": "Attachment 4 - Blue Angel International LLC Pricing Schedule.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60911",
+          "title": "Attachment 5 - K-rail and Boulders Scoring Matrix.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60912",
+          "title": "Attachment 6 - Resolution - K-rail and Boulder Purchasing.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60919",
+          "title": "March - 2026 Abatement Presentation.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60920",
+          "title": "Attachment 1 - DRAFT March 2026 Abatement Presentation.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60900",
+          "title": "Award a Contract to LWA for Wastewater and Stormwater Regulatory Compliance Support.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60901",
+          "title": "Attachment 1 -  Resolution.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60902",
+          "title": "Attachment 2 - Proposed Professional Services Contract with Larry Walker and Associates Inc.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60903",
+          "title": "Attachment 3 - Approved Sole Source Form.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60904",
+          "title": "Attachment 4 - Current Professional Services Contract wtih Larry Walker Associates Inc.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60905",
+          "title": "RLO with all attachments for eSCRIBE.pdf"
+        }
+      ],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=50ef5b26-cb41-4f9f-a579-db367a823d2f&lang=English",
+      "article_title": "City Council Agenda",
+      "article_published_at": "2026-04-21T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:09:36.622258"
+    },
+    {
+      "id": 1025,
+      "title": "Council to receive report on March 2026 abatement activities",
+      "summary": "Richmond City Council received the March 2026 Abatement Report from Public Works. Activities included removal of 198.89 tons of illegally dumped material (including 258 mattresses, 254 tires, 132 gallons of paint/oil), abatement of 19 encampment locations (17.01 tons of debris), removal of 222 graffiti tags, and 28 neighborhood dumpster days assisting 90 seniors/disabled residents. Total illegal dumping cost for March was approximately $124,000.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "O.7.c",
+      "source_body": "O.7.c\nMarch 2026 Abatement Report\nRECEIVE a report on the March 2026 abatement activities – Public Works Department (Daniel Chavarria 510-620-5478/Darin Fitzpatrick 510-231-3044/Hugo Mendoza 510-231-3030).",
+      "attachments": [
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60929",
+          "title": "2026-04-21 Staff Report - 7th St Bike Lane Improvement Project Closeout.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60930",
+          "title": "Attachment 1 - Resolution - 7th St(66735.1)MO-ja(68600.1)MO.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60906",
+          "title": "Purchase of K-Rails and Natural Stone Boulders.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60907",
+          "title": "Attachment 1 - K-Rail and Boulders RFQ.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60908",
+          "title": "Attachment 2 - BidSummary134762 (1).pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60909",
+          "title": "Attachment 3 - First Vanguard Pricing Schedule.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60910",
+          "title": "Attachment 4 - Blue Angel International LLC Pricing Schedule.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60911",
+          "title": "Attachment 5 - K-rail and Boulders Scoring Matrix.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60912",
+          "title": "Attachment 6 - Resolution - K-rail and Boulder Purchasing.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60919",
+          "title": "March - 2026 Abatement Presentation.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60920",
+          "title": "Attachment 1 - DRAFT March 2026 Abatement Presentation.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60900",
+          "title": "Award a Contract to LWA for Wastewater and Stormwater Regulatory Compliance Support.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60901",
+          "title": "Attachment 1 -  Resolution.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60902",
+          "title": "Attachment 2 - Proposed Professional Services Contract with Larry Walker and Associates Inc.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60903",
+          "title": "Attachment 3 - Approved Sole Source Form.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60904",
+          "title": "Attachment 4 - Current Professional Services Contract wtih Larry Walker Associates Inc.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60905",
+          "title": "RLO with all attachments for eSCRIBE.pdf"
+        }
+      ],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=50ef5b26-cb41-4f9f-a579-db367a823d2f&lang=English",
+      "article_title": "City Council Agenda",
+      "article_published_at": "2026-04-21T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:09:36.622861"
+    },
+    {
+      "id": 1026,
+      "title": "Proposed: $900,000 sole-source contract for wastewater compliance support",
+      "summary": "Council will consider approving a sole-source contract with Larry Walker & Associates, Inc. for wastewater and stormwater regulatory compliance support. The contract would be for three years, from April 22, 2026, to April 21, 2029, and would not exceed $900,000. This amount includes $806,400 in expected costs plus an 11.6% contingency fund for unexpected regulatory responses. A 'sole-source' contract means the city would hire this company without bidding it out to other firms. This is a proposed decision that has not yet been approved.",
+      "action_required": null,
+      "key_dates": [
+        {
+          "label": "Proposed contract start date — wastewater compliance support",
+          "date": "2026-04-22"
+        },
+        {
+          "label": "Proposed contract end date — wastewater compliance support",
+          "date": "2029-04-21"
+        }
+      ],
+      "industries": "Construction & Development, Professional Services",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "O.7.d",
+      "source_body": "O.7.d\nContract with Larry Walker & Associates for Wastewater and Stormwater Regulatory Compliance Support\nADOPT a resolution to APPROVE a sole-source contract with Larry Walker & Associates, Inc., to provide wastewater and stormwater regulatory compliance support services, in an amount not to exceed $900,000 ($806,400 in anticipated costs plus an 11.6% contingency for unanticipated regulatory responses) for a three-year term from April 22, 2026, through April 21, 2029, and AUTHORIZE the city manager to execute the contract and any related documents – Public Works Department (Daniel Chavarria 510-620-5478/Robert Armijo 510-620-5477/Tawfic Halaby 510-620-5482/Bradley Harms 510-307-8094).",
+      "attachments": [
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60921",
+          "title": "2026-04-21(sr)(cntrt)Ed Fund-Achieve Grant.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60922",
+          "title": "Attachment 1 - Contract_Ed Fund for Achieve Program_FY25-27.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60923",
+          "title": "Attachment 2 - RFCY Grant Service Agreement.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60924",
+          "title": "Attachment 3 - CY 2025-27 RFCY Grant Awards - CONFORMED.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60913",
+          "title": "2026(sr)(reso)Accept and Appropriate a California State Library Grant to Bring Free Books to Summer Lunch Sites.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60914",
+          "title": "Attachment 1 - Resolution.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60915",
+          "title": "Attachment 2 - Lunch at the Library Memo - October 23, 2025.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60916",
+          "title": "Attachment 3 - Letter from Greg Lucas, California State Librarian - February 10, 2026.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60917",
+          "title": "Attachment 4 - Lunch at the Library Program, Financial Certification.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60918",
+          "title": "Attachment 5 - CA State Library Award Agreement and Certificate.pdf"
+        }
+      ],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=50ef5b26-cb41-4f9f-a579-db367a823d2f&lang=English",
+      "article_title": "City Council Agenda",
+      "article_published_at": "2026-04-21T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:09:36.623442"
+    },
+    {
+      "id": 1027,
+      "title": "Proposed: Richmond Council to consider ALS funding and fire station upgrade financing",
+      "summary": "Richmond City Council is set to receive a report on options for raising money to support Advanced Life Support (ALS) First Responder Services and to pay for fire station upgrades and replacements. Council will then give direction to the city manager on which funding path to pursue, including whether to start preparing for a potential funding measure that could go to voters in November 2026. This is a proposed decision — nothing has been approved yet.",
+      "action_required": "Watch for the council decision — if a funding measure moves forward, it could affect property taxes or other fees for your business.",
+      "key_dates": [
+        {
+          "label": "Potential November 2026 funding measure — Richmond ALS and fire station upgrades",
+          "date": "2026-11-03"
+        }
+      ],
+      "industries": "Healthcare, Construction & Development, Professional Services",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "P.1",
+      "source_body": "P.1\nRevenue Enhancement and Financing Recommendations for Advanced Life Support (ALS) First Responder Services and Fire Station Upgrades\nRECEIVE a report on revenue enhancement and financing options to support Advanced Life Support (ALS) First Responder Services and fire station upgrades and replacements, and PROVIDE DIRECTION to the city manager on preferred revenue and financing pathways, including whether to proceed with preparation for a potential November 2026 funding measure – Fire Department/Finance Department/City Manager’s Office (Chief Aaron Osorio 510-307-8021/Emily Combs 510-890-5534/Shasa Curl 510-620-6512).",
+      "attachments": [
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60921",
+          "title": "2026-04-21(sr)(cntrt)Ed Fund-Achieve Grant.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60922",
+          "title": "Attachment 1 - Contract_Ed Fund for Achieve Program_FY25-27.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60923",
+          "title": "Attachment 2 - RFCY Grant Service Agreement.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60924",
+          "title": "Attachment 3 - CY 2025-27 RFCY Grant Awards - CONFORMED.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60913",
+          "title": "2026(sr)(reso)Accept and Appropriate a California State Library Grant to Bring Free Books to Summer Lunch Sites.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60914",
+          "title": "Attachment 1 - Resolution.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60915",
+          "title": "Attachment 2 - Lunch at the Library Memo - October 23, 2025.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60916",
+          "title": "Attachment 3 - Letter from Greg Lucas, California State Librarian - February 10, 2026.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60917",
+          "title": "Attachment 4 - Lunch at the Library Program, Financial Certification.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60918",
+          "title": "Attachment 5 - CA State Library Award Agreement and Certificate.pdf"
+        }
+      ],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=50ef5b26-cb41-4f9f-a579-db367a823d2f&lang=English",
+      "article_title": "City Council Agenda",
+      "article_published_at": "2026-04-21T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:09:36.624013"
+    },
+    {
+      "id": 1028,
+      "title": "Proposed: Richmond council to vote on Craneway property donation deal",
+      "summary": "Council will vote on accepting a donation of leasehold interests at 1414–1422 Harbor Way South (Craneway property) from Orton Entertainment, LLC. The city would receive $80,000 at closing but face estimated annual operating costs of $1.3–$2.5 million (not including $12.7 million in long-term capital needs). Escrow would open within days of approval and close by May 1, 2026.",
+      "action_required": null,
+      "key_dates": [
+        {
+          "label": "Council vote on Craneway donation agreement",
+          "date": "2026-04-21"
+        },
+        {
+          "label": "Escrow closing deadline for Craneway property donation",
+          "date": "2026-05-01"
+        }
+      ],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "P.2",
+      "source_body": "P.2\nApproval of the Donation Agreement for Leasehold Interests and Joint Escrow Instructions for Craneway Property.\nADOPT a  resolution approving a Donation Agreement between the City of Richmond and Orton Entertainment, LLC for the donation of said leasehold interests and related personal property located at 1414–1422 Harbor Way South, and authorizing the Mayor or designee to execute the agreement and all necessary documents, including escrow instructions, and to take all actions necessary to complete the transaction – Special Counsel, Dave Aleshire (949) 223-1170.",
+      "attachments": [
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60945",
+          "title": "Craneway Analysis and Proposal for Donation .pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60946",
+          "title": "Attachment 1- Resolution(1).pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60947",
+          "title": "Attachment 2 – Donation Agreement.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60948",
+          "title": "Attachment 3 – Summary of Geologica Phase I Report.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60949",
+          "title": "Attachment 4 – Summary of Geologica Groundwater Report.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60950",
+          "title": "Attachment 5 -  RDH Facility Condition Assessment – Craneway.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60951",
+          "title": "Attachment 6 – SCI Direct City Operation Cost Study – Craneway.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60952",
+          "title": "Attachment 7 – Land Econ Group Economic Analysis – Craneway.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60953",
+          "title": "Attachment 8 - Ford Assembly Building - Section 33433 Summary Report.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60954",
+          "title": "Attachment 9 - Disposition and Development Agreement RDA and Orton Development, Inc.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=60955",
+          "title": "Attachment 10 - First Amendment to Disposition and Development Agreement.pdf"
+        }
+      ],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=50ef5b26-cb41-4f9f-a579-db367a823d2f&lang=English",
+      "article_title": "City Council Agenda",
+      "article_published_at": "2026-04-21T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-05-31T21:09:36.624747"
+    }
+  ],
+  "minutes_briefs": []
+}
