@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T00:10:50.623350+00:00",
+  "generated_at": "2026-06-02T21:16:10.332924+00:00",
   "count": 22,
   "articles": [
     {
@@ -1378,14 +1378,14 @@
       "source_website_icon": "https://burnaby.ca",
       "meeting_type": "executive",
       "article_published_at": "2026-05-05T00:00:00",
-      "created_at": "2026-05-11T02:06:46.991597",
+      "created_at": "2026-06-02T21:16:08.628940",
       "has_attachments": false,
       "has_pdf": false,
       "has_html": false,
       "has_agenda": true,
-      "has_minutes": false,
+      "has_minutes": true,
       "agenda_brief_count": 2,
-      "minutes_brief_count": 0,
+      "minutes_brief_count": 2,
       "industries": "Professional Services",
       "locations": "Burnaby",
       "briefs": [
@@ -1402,6 +1402,20 @@
           "source_label": "Burnaby Council",
           "key_dates": [],
           "is_proposal": true
+        },
+        {
+          "id": 1301,
+          "title": "Council approved $1,000 grant to Tsleil-Waututh Nation Community Society",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1300,
+          "title": "Council approved $127,400 in Festivals Burnaby grants for spring 2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
         }
       ]
     },
