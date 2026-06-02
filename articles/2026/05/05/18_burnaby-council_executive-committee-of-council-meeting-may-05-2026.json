@@ -4,17 +4,17 @@
   "article_title": "Executive Committee of Council Meeting — May 05, 2026",
   "source": "burnaby_council",
   "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
   "government_level": "Municipal",
+  "source_website_icon": "https://burnaby.ca",
   "meeting_type": "executive",
   "article_published_at": "2026-05-05T00:00:00",
   "has_attachments": false,
   "has_pdf": false,
   "has_html": false,
   "has_agenda": true,
-  "has_minutes": false,
+  "has_minutes": true,
   "agenda_brief_count": 2,
-  "minutes_brief_count": 0,
+  "minutes_brief_count": 2,
   "pdf_urls": "{\"_doc\": [{\"url\": \"https://pub-burnaby.escribemeetings.com/FileStream.ashx?DocumentId=89573\", \"title\": \"Agenda (PDF)\"}], \"_inline\": [{\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89569\", \"title\": \"2026.4.07 ECC Minutes DRAFT(1).pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89566\", \"title\": \"Festivals Burnaby Grant - 2026.05.05_pdf.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89567\", \"title\": \"Attachment 1  - Applications Summary Spring Intake - 2026.05.05.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89568\", \"title\": \"Attachment 2 - Summary Chart Spring Intake - 2026.05.05.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89563\", \"title\": \"Tsleil-Waututh Nation Community Society - Giving Circles Donation Request.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89564\", \"title\": \"Attachment 1 - TWN Community Society - Request for Giving Circles  Donation .pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89565\", \"title\": \"Attachment 2 - TWN Community Society Impact Update.pdf\"}]}",
   "body": "",
   "agenda_briefs": [
@@ -36,7 +36,6 @@
       "article_published_at": "2026-05-05T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-11T02:06:46.987694"
     },
     {
@@ -57,9 +56,49 @@
       "article_published_at": "2026-05-05T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-11T02:06:46.991597"
     }
   ],
-  "minutes_briefs": []
+  "minutes_briefs": [
+    {
+      "id": 1300,
+      "title": "Council approved $127,400 in Festivals Burnaby grants for spring 2026",
+      "summary": "Burnaby Council unanimously approved the disbursement of up to $127,400 through the Festivals Burnaby Grant Program for the spring 2026 intake. This funding will support local festivals and community events in Burnaby. The decision was made at a council meeting on May 5, 2026, based on a report from the General Manager of Parks, Recreation and Culture. The specific grant recipients and amounts are listed in Attachment 2 of that report.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Professional Services",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "6.1",
+      "source_body": "6.1 FESTIVALS BURNABY GRANT PROGRAM -  SPRING 2026 INTAKE\n\nThe General Manager, Parks, Recreation and Culture submitted a report seeking Council approval for Festivals Burnaby Grant Program, spring intake recommendation.  \n\n\nMOVED AND SECONDED\nTHAT the disbursement of the Festivals Burnaby Grant totaling up to $127,400  for the spring intake, as outlined in Attachment 2 of the report titled “Festivals Burnaby Grant Program - Spring 2026 Intake”, dated May 5, 2026, be approved.\nCARRIED UNANIMOUSLY",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=6dae2e63-0077-4ff5-9a6f-d79e45f1a9c0&lang=English",
+      "article_title": "Executive Committee of Council Meeting Minutes — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-06-02T21:16:08.624698"
+    },
+    {
+      "id": 1301,
+      "title": "Council approved $1,000 grant to Tsleil-Waututh Nation Community Society",
+      "summary": "Burnaby Council voted unanimously to give a $1,000 grant to the Tsleil-Waututh Nation Community Society. The money will support their Giving Circles program. This is a completed decision — the grant has been approved and will be distributed.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Professional Services",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "6.2",
+      "source_body": "6.2 TSLEIL-WAUTUTH NATION COMMUNITY SOCIETY - GIVING CIRCLES DONATION REQUEST\n\nThe Director of Indigenous Relations and Reconciliation submitted a report seeking approval to provide a grant for $1,000 to Tsleil-Waututh Nation Community Society to support their Giving Circles.\nMOVED AND SECONDED\nTHAT a grant donation of $1,000 be approved for distribution to the Tsleil-Waututh Nation Community Society in support of their Giving Circles as outlined in the report titled “Tsleil-Waututh Nation Community Society – Giving Circles Donation Request,” dated May 5, 2026.\nCARRIED UNANIMOUSLY",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=6dae2e63-0077-4ff5-9a6f-d79e45f1a9c0&lang=English",
+      "article_title": "Executive Committee of Council Meeting Minutes — May 05, 2026",
+      "article_published_at": "2026-05-05T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-06-02T21:16:08.628940"
+    }
+  ]
 }
