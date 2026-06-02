@@ -1,0 +1,2062 @@
+{
+  "article_id": 103,
+  "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+  "article_title": "Revised Regular Council — June 02, 2026",
+  "source": "vancouver_council",
+  "source_label": "Vancouver Council",
+  "government_level": "Municipal",
+  "source_website_icon": "https://vancouver.ca",
+  "meeting_type": "regular-council",
+  "article_published_at": "2026-06-02T00:00:00",
+  "has_attachments": false,
+  "has_pdf": false,
+  "has_html": false,
+  "has_agenda": true,
+  "has_minutes": false,
+  "agenda_brief_count": 79,
+  "minutes_brief_count": 0,
+  "pdf_urls": "{\"_doc\": [{\"url\": \"https://council.vancouver.ca/20260506/documents/pspc20260506min.pdf\", \"title\": \"Minutes\"}, {\"url\": \"https://council.vancouver.ca/20260507/documents/agc20260507min.pdf\", \"title\": \"Minutes\"}, {\"url\": \"https://council.vancouver.ca/20260512/documents/blhe20260512min.pdf\", \"title\": \"Minutes\"}, {\"url\": \"https://council.vancouver.ca/20260519/documents/regu20260519min.pdf\", \"title\": \"Minutes\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r1.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r2.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r3.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r4.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r5.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r6.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r7.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r8.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r9.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r10.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r11.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r12.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r12draftbylaw.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/3731-3743-W-4th-Ave-and-1975-alma-st/application-booklet.pdf#page=30\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r13.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r13draftbylaw.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/2170-w-3-ave/application-booklet.pdf#page=47\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r14.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r14draftbylaw.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/2245-2283-w-broadway/revised-application-booklet.pdf#page=16\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r15.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r15draftbylaw.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/1668-w-broadway/application-booklet-4.pdf#page=24\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r16.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r16draftbylaw.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/1230-w-12th-ave/application-booklet.pdf#page=49\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r17.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r17draftbylaw.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/602-644-kingsway-and-603-617-e-16th-ave/application-booklet.pdf#page=111\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r18.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r18draftbylaw.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/1827-w-5-ave/application-booklet.pdf#page=16\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r19.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r19draftbylaw.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/1030-1056-burnaby-st/application-booklet.pdf#page=30\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r20.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r20draftbylaw.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/4338-4362-cambie-st/application-booklet.pdf#page=43\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r21.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r21draftbylaw.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/file:///https%7C//rezoning.vancouver.ca/applications/1188-cardero-st/application-booklet.pdf#page=1%20\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r22.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r22draftbylaw.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/360-e-14-ave/application-booklet.pdf#page=30\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r23.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r23draftbylaw.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r23draftbylaw_streetsrequiringlandscapedsetbacks.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/1220-station-st/application-booklet.pdf#page=56\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r24.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r24draftbylaw.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r24draftbylaw_cd1402.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r25.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r25draftbylaw.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://rezoning.vancouver.ca/applications/1500-1588-w-3rd-ave/application-booklet2.pdf#page=52\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/rr1.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/rr2.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/rr3.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/rr4.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/rr5.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/rr6.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/rr7.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/rr8.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/rr9.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/rr10.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/rr11.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/bylaws1to20.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/bylaws21to42.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/a1.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/regu20260602ag.pdf\", \"title\": \"Agenda\"}], \"_inline\": [{\"url\": \"https://council.vancouver.ca/20260506/documents/pspc20260506min.pdf\", \"title\": \"Get involved and stay informed \\u2014 Council (Policy and Strategic Priorities) \\u2013 May 6, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260507/documents/agc20260507min.pdf\", \"title\": \"Get involved and stay informed \\u2014 Auditor General Committee \\u2013 May 7, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260512/documents/blhe20260512min.pdf\", \"title\": \"Get involved and stay informed \\u2014 Special Council (Business Licence Hearing) \\u2013 May 12, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260519/documents/regu20260519min.pdf\", \"title\": \"Get involved and stay informed \\u2014 Council \\u2013 May 19, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r1.pdf\", \"title\": \"1.\\tDecision Re: Integrity Commissioner Investigation Report \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r2.pdf\", \"title\": \"2.\\tBuildings Seismic Risk Reduction Action Plan \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r3.pdf\", \"title\": \"3.\\tVision Zero Safe Mobility Plan \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r4.pdf\", \"title\": \"4.\\tSign By-law Amendment \\u2013 677 Davie Street (The Dance Centre) \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r5.pdf\", \"title\": \"5.\\tProposed Amendments to the Election By-law \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r6.pdf\", \"title\": \"6.\\t2026 Cultural Grants (Projects, Capacity, Cultural Spaces) and SRO Upgrading Grant \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r7.pdf\", \"title\": \"7.\\tTheatre Rental Grant Allocations \\u2013 Fall 2026 and Spring 2027 \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r8.pdf\", \"title\": \"8.\\tMetro West Inter-Municipal Business Licence (IMBL) - Expanding to include the Township of Langley \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r9.pdf\", \"title\": \"9.\\tBelow Market Lease and Grant to Rising Star Housing Co-op at 1556 East 5th Avenue \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r10.pdf\", \"title\": \"10.\\tMaintaining the Fairness & Effectiveness of the Empty Homes Tax \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r11.pdf\", \"title\": \"11.\\tAuditor General Committee Recommendations Transmittal Report \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r12.pdf\", \"title\": \"12.\\tCD-1 Rezoning: 3731-3743 West 4th Avenue and 1975 Alma Street \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r12draftbylaw.pdf\", \"title\": \"12.\\tCD-1 Rezoning: 3731-3743 West 4th Avenue and 1975 Alma Street \\u2014 Draft By-law\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r13.pdf\", \"title\": \"13.\\tCD-1 Rezoning: 2170 West 3rd Avenue \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r13draftbylaw.pdf\", \"title\": \"13.\\tCD-1 Rezoning: 2170 West 3rd Avenue \\u2014 Draft By-law\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r14.pdf\", \"title\": \"14.\\tCD-1 Rezoning: 2245-2283 West Broadway \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r14draftbylaw.pdf\", \"title\": \"14.\\tCD-1 Rezoning: 2245-2283 West Broadway \\u2014 Draft By-law\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r15.pdf\", \"title\": \"15.\\tCD-1 Rezoning: 1668 West Broadway \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r15draftbylaw.pdf\", \"title\": \"15.\\tCD-1 Rezoning: 1668 West Broadway \\u2014 Draft By-law\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r16.pdf\", \"title\": \"16.\\tCD-1 Rezoning: 1230 West 12th Avenue \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r16draftbylaw.pdf\", \"title\": \"16.\\tCD-1 Rezoning: 1230 West 12th Avenue \\u2014 Draft By-law\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r17.pdf\", \"title\": \"17.\\tCD-1 Rezoning: 602-646 Kingsway and 603-619 East 16th Avenue \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r17draftbylaw.pdf\", \"title\": \"17.\\tCD-1 Rezoning: 602-646 Kingsway and 603-619 East 16th Avenue \\u2014 Draft By-law\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r18.pdf\", \"title\": \"18.\\tCD-1 Rezoning: 1827 West 5th Avenue \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r18draftbylaw.pdf\", \"title\": \"18.\\tCD-1 Rezoning: 1827 West 5th Avenue \\u2014 Draft By-law\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r19.pdf\", \"title\": \"19.\\tCD-1 Rezoning: 1030 and 1056 Burnaby Street \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r19draftbylaw.pdf\", \"title\": \"19.\\tCD-1 Rezoning: 1030 and 1056 Burnaby Street \\u2014 Draft By-law\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r20.pdf\", \"title\": \"20.\\tCD-1 Rezoning: 4338 and 4362 Cambie Street \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r20draftbylaw.pdf\", \"title\": \"20.\\tCD-1 Rezoning: 4338 and 4362 Cambie Street \\u2014 Draft By-law\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r21.pdf\", \"title\": \"21.\\tCD-1 Rezoning: 1188 Cardero Street \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r21draftbylaw.pdf\", \"title\": \"21.\\tCD-1 Rezoning: 1188 Cardero Street \\u2014 Draft By-law\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r22.pdf\", \"title\": \"22.\\tCD-1 Rezoning: 360 East 14th Avenue \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r22draftbylaw.pdf\", \"title\": \"22.\\tCD-1 Rezoning: 360 East 14th Avenue \\u2014 Draft By-law\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r23.pdf\", \"title\": \"23.\\tCD-1 Rezoning: 1220 Station Street and 201-213 Terminal Avenue \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r23draftbylaw.pdf\", \"title\": \"23.\\tCD-1 Rezoning: 1220 Station Street and 201-213 Terminal Avenue \\u2014 Draft By-law - CD-1\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r23draftbylaw_streetsrequiringlandscapedsetbacks.pdf\", \"title\": \"23.\\tCD-1 Rezoning: 1220 Station Street and 201-213 Terminal Avenue \\u2014 Draft By-law - Regarding Streets Requiring Landscaped Setbacks\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r24.pdf\", \"title\": \"24.\\tCD-1 Rezoning: 455-485 Great Northern Way, Portion of 565 Great Northern Way and 1850 Thornton Street \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r24draftbylaw.pdf\", \"title\": \"24.\\tCD-1 Rezoning: 455-485 Great Northern Way, Portion of 565 Great Northern Way and 1850 Thornton Street \\u2014 Draft By-law - CD-1\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r24draftbylaw_cd1402.pdf\", \"title\": \"24.\\tCD-1 Rezoning: 455-485 Great Northern Way, Portion of 565 Great Northern Way and 1850 Thornton Street \\u2014 Draft By-law - CD-1 (402)\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r25.pdf\", \"title\": \"25.\\tCD-1 Rezoning: 1500-1580 West 3rd Avenue \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r25draftbylaw.pdf\", \"title\": \"25.\\tCD-1 Rezoning: 1500-1580 West 3rd Avenue \\u2014 Draft By-law\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/rr1.pdf\", \"title\": \"1.\\tVillages Planning Program \\u2013 Villages Plan, City-initiated Rezoning and Vancouver Official Development Plan Amendments \\u2014 Referral Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/rr2.pdf\", \"title\": \"2.\\tVancouver Official Development Plan and Regional Context Statement Amendments for Former Molson Brewery Site \\u2014 Referral Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/rr3.pdf\", \"title\": \"3.\\tVancouver ODP Amendment and CD-1 Rezoning: 6333-6369 Yukon Street \\u2014 Referral Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/rr4.pdf\", \"title\": \"4.\\tCD-1(59) Text Amendment: Vancouver General Hospital \\u2014 Referral Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/rr5.pdf\", \"title\": \"5.\\tVancouver ODP Amendment and CD-1 Rezoning: 1683-1691 East Pender Street and 485 Commercial Drive \\u2014 Referral Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/rr6.pdf\", \"title\": \"6.\\tVancouver ODP Amendment and CD-1 Rezoning: 2396-2400 Kingsway and 2441-2493 East 33rd Avenue \\u2014 Referral Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/rr7.pdf\", \"title\": \"7.\\tVancouver ODP Amendment and CD-1 (285) Amendment: 940-950 West 41st Avenue (Jewish Community Centre) \\u2014 Referral Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/rr8.pdf\", \"title\": \"8.\\tVancouver ODP Amendment and CD-1 Rezoning: 809 West 41st Avenue \\u2014 Referral Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/rr9.pdf\", \"title\": \"9.\\tCD-1 Rezoning: 75 East 8th Avenue \\u2014 Referral Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/rr10.pdf\", \"title\": \"10.\\tModification to Conditions of Approval and By-law Enactment for 450-496 Prior Street, 550 Malkin Avenue, 1002 Station Street and 1050 Gore Avenue \"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/rr11.pdf\", \"title\": \"11.\\tCD-1 Rezoning: 1905 Ogden Avenue \\u2014 Referral Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/bylaws1to20.pdf\", \"title\": \"11.\\tCD-1 Rezoning: 1905 Ogden Avenue \\u2014 By-laws 1 to 20\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/bylaws21to42.pdf\", \"title\": \"11.\\tCD-1 Rezoning: 1905 Ogden Avenue \\u2014 By-laws 21 to 42\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/a1.pdf\", \"title\": \"1.\\tFast-Tracking Rental Housing \\u2013 Updates to Residential Rental Districts \\u2014 Motion\"}], \"_items\": {\"Get involved and stay informed\": [{\"url\": \"https://council.vancouver.ca/20260506/documents/pspc20260506min.pdf\", \"title\": \"Get involved and stay informed \\u2014 Council (Policy and Strategic Priorities) \\u2013 May 6, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260507/documents/agc20260507min.pdf\", \"title\": \"Get involved and stay informed \\u2014 Auditor General Committee \\u2013 May 7, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260512/documents/blhe20260512min.pdf\", \"title\": \"Get involved and stay informed \\u2014 Special Council (Business Licence Hearing) \\u2013 May 12, 2026\"}, {\"url\": \"https://council.vancouver.ca/20260519/documents/regu20260519min.pdf\", \"title\": \"Get involved and stay informed \\u2014 Council \\u2013 May 19, 2026\"}], \"1.\\tDecision Re: Integrity Commissioner Investigation Report\": [{\"url\": \"https://council.vancouver.ca/20260602/documents/r1.pdf\", \"title\": \"1.\\tDecision Re: Integrity Commissioner Investigation Report \\u2014 Report\"}], \"2.\\tBuildings Seismic Risk Reduction Action Plan\": [{\"url\": \"https://council.vancouver.ca/20260602/documents/r2.pdf\", \"title\": \"2.\\tBuildings Seismic Risk Reduction Action Plan \\u2014 Report\"}], \"3.\\tVision Zero Safe Mobility Plan\": [{\"url\": \"https://council.vancouver.ca/20260602/documents/r3.pdf\", \"title\": \"3.\\tVision Zero Safe Mobility Plan \\u2014 Report\"}], \"4.\\tSign By-law Amendment \\u2013 677 Davie Street (The Dance Centre)\": [{\"url\": \"https://council.vancouver.ca/20260602/documents/r4.pdf\", \"title\": \"4.\\tSign By-law Amendment \\u2013 677 Davie Street (The Dance Centre) \\u2014 Report\"}], \"5.\\tProposed Amendments to the Election By-law\": [{\"url\": \"https://council.vancouver.ca/20260602/documents/r5.pdf\", \"title\": \"5.\\tProposed Amendments to the Election By-law \\u2014 Report\"}], \"6.\\t2026 Cultural Grants (Projects, Capacity, Cultural Spaces) and SRO Upgrading Grant\": [{\"url\": \"https://council.vancouver.ca/20260602/documents/r6.pdf\", \"title\": \"6.\\t2026 Cultural Grants (Projects, Capacity, Cultural Spaces) and SRO Upgrading Grant \\u2014 Report\"}], \"7.\\tTheatre Rental Grant Allocations \\u2013 Fall 2026 and Spring 2027\": [{\"url\": \"https://council.vancouver.ca/20260602/documents/r7.pdf\", \"title\": \"7.\\tTheatre Rental Grant Allocations \\u2013 Fall 2026 and Spring 2027 \\u2014 Report\"}], \"8.\\tMetro West Inter-Municipal Business Licence (IMBL) - Expanding to include the Township of Langley\": [{\"url\": \"https://council.vancouver.ca/20260602/documents/r8.pdf\", \"title\": \"8.\\tMetro West Inter-Municipal Business Licence (IMBL) - Expanding to include the Township of Langley \\u2014 Report\"}], \"9.\\tBelow Market Lease and Grant to Rising Star Housing Co-op at 1556 East 5th Avenue\": [{\"url\": \"https://council.vancouver.ca/20260602/documents/r9.pdf\", \"title\": \"9.\\tBelow Market Lease and Grant to Rising Star Housing Co-op at 1556 East 5th Avenue \\u2014 Report\"}], \"10.\\tMaintaining the Fairness & Effectiveness of the Empty Homes Tax\": [{\"url\": \"https://council.vancouver.ca/20260602/documents/r10.pdf\", \"title\": \"10.\\tMaintaining the Fairness & Effectiveness of the Empty Homes Tax \\u2014 Report\"}], \"11.\\tAuditor General Committee Recommendations Transmittal Report\": [{\"url\": \"https://council.vancouver.ca/20260602/documents/r11.pdf\", \"title\": \"11.\\tAuditor General Committee Recommendations Transmittal Report \\u2014 Report\"}], \"12.\\tCD-1 Rezoning: 3731-3743 West 4th Avenue and 1975 Alma Street\": [{\"url\": \"https://council.vancouver.ca/20260602/documents/r12.pdf\", \"title\": \"12.\\tCD-1 Rezoning: 3731-3743 West 4th Avenue and 1975 Alma Street \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r12draftbylaw.pdf\", \"title\": \"12.\\tCD-1 Rezoning: 3731-3743 West 4th Avenue and 1975 Alma Street \\u2014 Draft By-law\"}], \"13.\\tCD-1 Rezoning: 2170 West 3rd Avenue\": [{\"url\": \"https://council.vancouver.ca/20260602/documents/r13.pdf\", \"title\": \"13.\\tCD-1 Rezoning: 2170 West 3rd Avenue \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r13draftbylaw.pdf\", \"title\": \"13.\\tCD-1 Rezoning: 2170 West 3rd Avenue \\u2014 Draft By-law\"}], \"14.\\tCD-1 Rezoning: 2245-2283 West Broadway\": [{\"url\": \"https://council.vancouver.ca/20260602/documents/r14.pdf\", \"title\": \"14.\\tCD-1 Rezoning: 2245-2283 West Broadway \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r14draftbylaw.pdf\", \"title\": \"14.\\tCD-1 Rezoning: 2245-2283 West Broadway \\u2014 Draft By-law\"}], \"15.\\tCD-1 Rezoning: 1668 West Broadway\": [{\"url\": \"https://council.vancouver.ca/20260602/documents/r15.pdf\", \"title\": \"15.\\tCD-1 Rezoning: 1668 West Broadway \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r15draftbylaw.pdf\", \"title\": \"15.\\tCD-1 Rezoning: 1668 West Broadway \\u2014 Draft By-law\"}], \"16.\\tCD-1 Rezoning: 1230 West 12th Avenue\": [{\"url\": \"https://council.vancouver.ca/20260602/documents/r16.pdf\", \"title\": \"16.\\tCD-1 Rezoning: 1230 West 12th Avenue \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r16draftbylaw.pdf\", \"title\": \"16.\\tCD-1 Rezoning: 1230 West 12th Avenue \\u2014 Draft By-law\"}], \"17.\\tCD-1 Rezoning: 602-646 Kingsway and 603-619 East 16th Avenue\": [{\"url\": \"https://council.vancouver.ca/20260602/documents/r17.pdf\", \"title\": \"17.\\tCD-1 Rezoning: 602-646 Kingsway and 603-619 East 16th Avenue \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r17draftbylaw.pdf\", \"title\": \"17.\\tCD-1 Rezoning: 602-646 Kingsway and 603-619 East 16th Avenue \\u2014 Draft By-law\"}], \"18.\\tCD-1 Rezoning: 1827 West 5th Avenue\": [{\"url\": \"https://council.vancouver.ca/20260602/documents/r18.pdf\", \"title\": \"18.\\tCD-1 Rezoning: 1827 West 5th Avenue \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r18draftbylaw.pdf\", \"title\": \"18.\\tCD-1 Rezoning: 1827 West 5th Avenue \\u2014 Draft By-law\"}], \"19.\\tCD-1 Rezoning: 1030 and 1056 Burnaby Street\": [{\"url\": \"https://council.vancouver.ca/20260602/documents/r19.pdf\", \"title\": \"19.\\tCD-1 Rezoning: 1030 and 1056 Burnaby Street \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r19draftbylaw.pdf\", \"title\": \"19.\\tCD-1 Rezoning: 1030 and 1056 Burnaby Street \\u2014 Draft By-law\"}], \"20.\\tCD-1 Rezoning: 4338 and 4362 Cambie Street\": [{\"url\": \"https://council.vancouver.ca/20260602/documents/r20.pdf\", \"title\": \"20.\\tCD-1 Rezoning: 4338 and 4362 Cambie Street \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r20draftbylaw.pdf\", \"title\": \"20.\\tCD-1 Rezoning: 4338 and 4362 Cambie Street \\u2014 Draft By-law\"}], \"21.\\tCD-1 Rezoning: 1188 Cardero Street\": [{\"url\": \"https://council.vancouver.ca/20260602/documents/r21.pdf\", \"title\": \"21.\\tCD-1 Rezoning: 1188 Cardero Street \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r21draftbylaw.pdf\", \"title\": \"21.\\tCD-1 Rezoning: 1188 Cardero Street \\u2014 Draft By-law\"}], \"22.\\tCD-1 Rezoning: 360 East 14th Avenue\": [{\"url\": \"https://council.vancouver.ca/20260602/documents/r22.pdf\", \"title\": \"22.\\tCD-1 Rezoning: 360 East 14th Avenue \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r22draftbylaw.pdf\", \"title\": \"22.\\tCD-1 Rezoning: 360 East 14th Avenue \\u2014 Draft By-law\"}], \"23.\\tCD-1 Rezoning: 1220 Station Street and 201-213 Terminal Avenue\": [{\"url\": \"https://council.vancouver.ca/20260602/documents/r23.pdf\", \"title\": \"23.\\tCD-1 Rezoning: 1220 Station Street and 201-213 Terminal Avenue \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r23draftbylaw.pdf\", \"title\": \"23.\\tCD-1 Rezoning: 1220 Station Street and 201-213 Terminal Avenue \\u2014 Draft By-law - CD-1\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r23draftbylaw_streetsrequiringlandscapedsetbacks.pdf\", \"title\": \"23.\\tCD-1 Rezoning: 1220 Station Street and 201-213 Terminal Avenue \\u2014 Draft By-law - Regarding Streets Requiring Landscaped Setbacks\"}], \"24.\\tCD-1 Rezoning: 455-485 Great Northern Way, Portion of 565 Great Northern Way and 1850 Thornton Street\": [{\"url\": \"https://council.vancouver.ca/20260602/documents/r24.pdf\", \"title\": \"24.\\tCD-1 Rezoning: 455-485 Great Northern Way, Portion of 565 Great Northern Way and 1850 Thornton Street \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r24draftbylaw.pdf\", \"title\": \"24.\\tCD-1 Rezoning: 455-485 Great Northern Way, Portion of 565 Great Northern Way and 1850 Thornton Street \\u2014 Draft By-law - CD-1\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r24draftbylaw_cd1402.pdf\", \"title\": \"24.\\tCD-1 Rezoning: 455-485 Great Northern Way, Portion of 565 Great Northern Way and 1850 Thornton Street \\u2014 Draft By-law - CD-1 (402)\"}], \"25.\\tCD-1 Rezoning: 1500-1580 West 3rd Avenue\": [{\"url\": \"https://council.vancouver.ca/20260602/documents/r25.pdf\", \"title\": \"25.\\tCD-1 Rezoning: 1500-1580 West 3rd Avenue \\u2014 Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/r25draftbylaw.pdf\", \"title\": \"25.\\tCD-1 Rezoning: 1500-1580 West 3rd Avenue \\u2014 Draft By-law\"}], \"1.\\tVillages Planning Program \\u2013 Villages Plan, City-initiated Rezoning and Vancouver Official Development Plan Amendments\": [{\"url\": \"https://council.vancouver.ca/20260602/documents/rr1.pdf\", \"title\": \"1.\\tVillages Planning Program \\u2013 Villages Plan, City-initiated Rezoning and Vancouver Official Development Plan Amendments \\u2014 Referral Report\"}], \"2.\\tVancouver Official Development Plan and Regional Context Statement Amendments for Former Molson Brewery Site\": [{\"url\": \"https://council.vancouver.ca/20260602/documents/rr2.pdf\", \"title\": \"2.\\tVancouver Official Development Plan and Regional Context Statement Amendments for Former Molson Brewery Site \\u2014 Referral Report\"}], \"3.\\tVancouver ODP Amendment and CD-1 Rezoning: 6333-6369 Yukon Street\": [{\"url\": \"https://council.vancouver.ca/20260602/documents/rr3.pdf\", \"title\": \"3.\\tVancouver ODP Amendment and CD-1 Rezoning: 6333-6369 Yukon Street \\u2014 Referral Report\"}], \"4.\\tCD-1(59) Text Amendment: Vancouver General Hospital\": [{\"url\": \"https://council.vancouver.ca/20260602/documents/rr4.pdf\", \"title\": \"4.\\tCD-1(59) Text Amendment: Vancouver General Hospital \\u2014 Referral Report\"}], \"5.\\tVancouver ODP Amendment and CD-1 Rezoning: 1683-1691 East Pender Street and 485 Commercial Drive\": [{\"url\": \"https://council.vancouver.ca/20260602/documents/rr5.pdf\", \"title\": \"5.\\tVancouver ODP Amendment and CD-1 Rezoning: 1683-1691 East Pender Street and 485 Commercial Drive \\u2014 Referral Report\"}], \"6.\\tVancouver ODP Amendment and CD-1 Rezoning: 2396-2400 Kingsway and 2441-2493 East 33rd Avenue\": [{\"url\": \"https://council.vancouver.ca/20260602/documents/rr6.pdf\", \"title\": \"6.\\tVancouver ODP Amendment and CD-1 Rezoning: 2396-2400 Kingsway and 2441-2493 East 33rd Avenue \\u2014 Referral Report\"}], \"7.\\tVancouver ODP Amendment and CD-1 (285) Amendment: 940-950 West 41st Avenue (Jewish Community Centre)\": [{\"url\": \"https://council.vancouver.ca/20260602/documents/rr7.pdf\", \"title\": \"7.\\tVancouver ODP Amendment and CD-1 (285) Amendment: 940-950 West 41st Avenue (Jewish Community Centre) \\u2014 Referral Report\"}], \"8.\\tVancouver ODP Amendment and CD-1 Rezoning: 809 West 41st Avenue\": [{\"url\": \"https://council.vancouver.ca/20260602/documents/rr8.pdf\", \"title\": \"8.\\tVancouver ODP Amendment and CD-1 Rezoning: 809 West 41st Avenue \\u2014 Referral Report\"}], \"9.\\tCD-1 Rezoning: 75 East 8th Avenue\": [{\"url\": \"https://council.vancouver.ca/20260602/documents/rr9.pdf\", \"title\": \"9.\\tCD-1 Rezoning: 75 East 8th Avenue \\u2014 Referral Report\"}], \"10.\\tModification to Conditions of Approval and By-law Enactment for 450-496 Prior Street, 550 Malkin Avenue, 1002 Station Street and 1050 Gore Avenue\": [{\"url\": \"https://council.vancouver.ca/20260602/documents/rr10.pdf\", \"title\": \"10.\\tModification to Conditions of Approval and By-law Enactment for 450-496 Prior Street, 550 Malkin Avenue, 1002 Station Street and 1050 Gore Avenue \"}], \"11.\\tCD-1 Rezoning: 1905 Ogden Avenue\": [{\"url\": \"https://council.vancouver.ca/20260602/documents/rr11.pdf\", \"title\": \"11.\\tCD-1 Rezoning: 1905 Ogden Avenue \\u2014 Referral Report\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/bylaws1to20.pdf\", \"title\": \"11.\\tCD-1 Rezoning: 1905 Ogden Avenue \\u2014 By-laws 1 to 20\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/bylaws21to42.pdf\", \"title\": \"11.\\tCD-1 Rezoning: 1905 Ogden Avenue \\u2014 By-laws 21 to 42\"}], \"1.\\tFast-Tracking Rental Housing \\u2013 Updates to Residential Rental Districts\": [{\"url\": \"https://council.vancouver.ca/20260602/documents/a1.pdf\", \"title\": \"1.\\tFast-Tracking Rental Housing \\u2013 Updates to Residential Rental Districts \\u2014 Motion\"}, {\"url\": \"https://council.vancouver.ca/20260602/documents/regu20260602ag.pdf\", \"title\": \"1.\\tFast-Tracking Rental Housing \\u2013 Updates to Residential Rental Districts \\u2014 Download the agenda\"}]}}",
+  "body": "",
+  "agenda_briefs": [
+    {
+      "id": 1221,
+      "title": "Council to vote on Integrity Commissioner report — possible speaker limits",
+      "summary": "Vancouver City Council will vote on whether to accept sanctions against Mayor Ken Sim for alleged Code of Conduct breaches. A two-thirds majority vote of Council members present is required to suspend public speakers during debate. Council must decide on sanctions within 30 days of the May 11, 2026 investigation report.",
+      "action_required": "Contact the City Clerk's office to confirm speaker rules before the June 2, 2026 Council meeting if you wish to address this matter.",
+      "key_dates": [
+        {
+          "label": "Council vote on Integrity Commissioner sanctions — Vancouver",
+          "date": "2026-06-02"
+        }
+      ],
+      "industries": "Professional Services",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "1",
+      "source_body": "1.\tDecision Re: Integrity Commissioner Investigation Report\nNOTE: Recommendation A of the above-noted Report recommends that Council resolve by a 2/3 vote not to hear from speakers on the report recommendations.\nReport",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/r1.pdf",
+          "title": "1.\tDecision Re: Integrity Commissioner Investigation Report — Report"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.745767"
+    },
+    {
+      "id": 1222,
+      "title": "Proposed: Vancouver Buildings Seismic Risk Reduction Action Plan",
+      "summary": "Council will vote June 2, 2026 on a 5-year Buildings Seismic Risk Reduction Action Plan targeting older buildings. The plan focuses on concrete residential/commercial towers, wood apartments, unreinforced masonry residential buildings, and small commercial buildings. Over 65% of citywide risk is concentrated in six neighbourhoods. A magnitude 7.2 earthquake could cause 1,370 severe injuries/fatalities, displace 365,340 people, and cause $17B in direct losses in Vancouver.",
+      "action_required": "Watch for council decision and public hearing dates — this could affect your building's compliance requirements.",
+      "key_dates": [
+        {
+          "label": "Council vote on Buildings Seismic Risk Reduction Action Plan",
+          "date": "2026-06-02"
+        }
+      ],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "2",
+      "source_body": "2.\tBuildings Seismic Risk Reduction Action Plan\nReport",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/r2.pdf",
+          "title": "2.\tBuildings Seismic Risk Reduction Action Plan — Report"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.747499"
+    },
+    {
+      "id": 1223,
+      "title": "Council to vote on Vancouver's Vision Zero Safe Mobility Plan",
+      "summary": "Vancouver City Council will vote on June 2, 2026 to approve the Vision Zero Safe Mobility Plan, which sets a target to reduce traffic fatalities and serious injuries by at least 5% annually until zero is reached before 2050. The plan includes near-term actions over the next five years, such as lower speed limits on arterial and collector streets, redesigned intersections, and more bike lanes. Between 2015 and 2024, over 130 people died and more than 90,000 were injured on Vancouver streets.",
+      "action_required": "Watch for the council decision on June 2, 2026 — this could affect your delivery routes, parking, or customer access.",
+      "key_dates": [
+        {
+          "label": "Council vote on Vision Zero Safe Mobility Plan",
+          "date": "2026-06-02"
+        }
+      ],
+      "industries": "Transportation & Logistics, Retail, Construction & Development",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "3",
+      "source_body": "3.\tVision Zero Safe Mobility Plan\nReport",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/r3.pdf",
+          "title": "3.\tVision Zero Safe Mobility Plan — Report"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.748381"
+    },
+    {
+      "id": 1224,
+      "title": "Proposed: Sign bylaw amendment for The Dance Centre at 677 Davie Street",
+      "summary": "Vancouver City Council will vote June 2, 2026 on a Sign Bylaw amendment to allow Pattison Outdoor Advertising to install a large-format electronic static image sign (digital, no video) with third-party advertising on The Dance Centre at 677 Davie Street. The sign requires Council approval because it exceeds current rules on size, proximity to residences and traffic signals. If approved, the applicant must work with staff at permit time to add design details reflecting Granville Street's historic neon theme.",
+      "action_required": "No action required from you at this time. Watch for the council decision if you own a business nearby.",
+      "key_dates": [
+        {
+          "label": "Council vote on Sign Bylaw amendment — 677 Davie Street",
+          "date": "2026-06-02"
+        }
+      ],
+      "industries": "Professional Services",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "4",
+      "source_body": "4.\tSign By-law Amendment – 677 Davie Street (The Dance Centre)\nReport",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/r4.pdf",
+          "title": "4.\tSign By-law Amendment – 677 Davie Street (The Dance Centre) — Report"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.748998"
+    },
+    {
+      "id": 1225,
+      "title": "Proposed: Vancouver Council to vote on election bylaw amendments",
+      "summary": "Council will vote June 2, 2026 on proposed amendments to Vancouver's Election By-law. Changes include: allowing election staff to review and process mail ballot applications before the 18th day before general voting day (ballots still issued only after ballot form is finalized); permitting voters who need an assisted voting device to cast their ballot at the Election Office; and updating the City Clerk's disclosure statement posting method. If approved, these rules apply to the 2026 municipal election.",
+      "action_required": "Watch for council decision on June 2, 2026 — changes affect mail ballot processing and assisted voting locations for the next Vancouver election.",
+      "key_dates": [
+        {
+          "label": "Council vote on Vancouver election bylaw amendments",
+          "date": "2026-06-02"
+        }
+      ],
+      "industries": "Labour & Employment",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "5",
+      "source_body": "5.\tProposed Amendments to the Election By-law\nReport",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/r5.pdf",
+          "title": "5.\tProposed Amendments to the Election By-law — Report"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.749614"
+    },
+    {
+      "id": 1226,
+      "title": "Proposed: 2026 Cultural Grants and SRO Upgrading Funding",
+      "summary": "Council will consider approving $2,645,533 in total grants: $525,533 in Communities and Artists Shifting Culture (CASC) grants to 61 organizations, $335,000 in Affordable Spaces Grants to 25 organizations, $1,607,000 in Cultural Infrastructure and Small Grants for Cultural Spaces, an $8,000 Capacity Building grant to Vantage Point Strategies Society, and a $170,000 SRO Upgrading Grant to Yin Ping Benevolent Society for capital upgrades at 414 Columbia Street. The bylaw requires a 2/3 affirmative vote of all council members under Section 206(1) of the Vancouver Charter.",
+      "action_required": "Watch for the council vote on June 2, 2026 — if you run a listed cultural organization or own an SRO, this funding could affect your operations.",
+      "key_dates": [
+        {
+          "label": "Council vote on 2026 Cultural Grants and SRO Upgrading Grant",
+          "date": "2026-06-02"
+        }
+      ],
+      "industries": "Landlord & Property Mgmt, Professional Services",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "6",
+      "source_body": "6.\t2026 Cultural Grants (Projects, Capacity, Cultural Spaces) and SRO Upgrading Grant\nRecommendations A to E require at least 2/3 affirmative votes of all Council members under Section 206(1) of the Vancouver Charter\nReport",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/r6.pdf",
+          "title": "6.\t2026 Cultural Grants (Projects, Capacity, Cultural Spaces) and SRO Upgrading Grant — Report"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.750207"
+    },
+    {
+      "id": 1227,
+      "title": "Proposed: Theatre Rental Grant Allocations for Fall 2026 and Spring 2027",
+      "summary": "Council will consider approving theatre rental grants totaling $3,057,105 for non-profit arts groups: $1,152,410 for 46 organizations for Fall 2026 (Sept 1–Dec 31, 2026) and $1,904,695 for 53 organizations for Spring 2027 (Jan 1–Aug 31, 2027). Recommendations A, B, and D require a special two-thirds majority vote of all Council members under Section 206(1) of the Vancouver Charter. This is a proposed funding decision, not yet approved.",
+      "action_required": "If you run a non-profit theatre group, watch for the council vote on June 2, 2026 — this could affect your rental costs for those seasons.",
+      "key_dates": [
+        {
+          "label": "Council vote on theatre rental grants",
+          "date": "2026-06-02"
+        },
+        {
+          "label": "Fall 2026 grant period begins",
+          "date": "2026-09-01"
+        },
+        {
+          "label": "Spring 2027 grant period begins",
+          "date": "2027-01-01"
+        }
+      ],
+      "industries": "Professional Services",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "7",
+      "source_body": "7.\tTheatre Rental Grant Allocations – Fall 2026 and Spring 2027\nRecommendations A, B and D require at least 2/3 affirmative votes of all Council members under Section 206(1) of the Vancouver Charter\nReport",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/r7.pdf",
+          "title": "7.\tTheatre Rental Grant Allocations – Fall 2026 and Spring 2027 — Report"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.750805"
+    },
+    {
+      "id": 1228,
+      "title": "Proposed: Metro West business licence expansion to include Langley",
+      "summary": "Vancouver City Council will vote on June 2, 2026 on adding the Township of Langley to the Metro West Inter-Municipal Business Licence (IMBL) programme. If all seven partner councils approve by October 15, 2026, the expanded IMBL takes effect January 1, 2027. Eligible businesses are construction, building repair/maintenance, and in-home health care professionals. Existing IMBL holders renewing for 2027 will automatically be authorized to operate in Langley; no additional application needed. The IMBL fee is $300.",
+      "action_required": "Watch for Vancouver council's decision on June 2, 2026 — if approved, no action needed for existing IMBL holders; new applicants can apply for the expanded licence starting January 1, 2027.",
+      "key_dates": [
+        {
+          "label": "Vancouver council vote on Metro West IMBL expansion to Langley",
+          "date": "2026-06-02"
+        },
+        {
+          "label": "Deadline for all partner councils to approve expansion",
+          "date": "2026-10-15"
+        },
+        {
+          "label": "Expanded Metro West IMBL takes effect",
+          "date": "2027-01-01"
+        }
+      ],
+      "industries": "Construction & Development, Healthcare, Professional Services",
+      "locations": "Vancouver, Langley, Burnaby, Delta, New Westminster, Richmond, Surrey",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "8",
+      "source_body": "8.\tMetro West Inter-Municipal Business Licence (IMBL) - Expanding to include the Township of Langley\nReport",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/r8.pdf",
+          "title": "8.\tMetro West Inter-Municipal Business Licence (IMBL) - Expanding to include the Township of Langley — Report"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.751378"
+    },
+    {
+      "id": 1229,
+      "title": "Proposed: Below-market lease and grant for Rising Star Housing Co-op at 1556 East 5th Ave",
+      "summary": "Vancouver City Council is set to vote on a proposal to give a below-market ground lease (up to 40 years, with a 20-year extension option) and a 10-year transition grant to Rising Star Housing Co-op at 1556 East 5th Avenue. The lease would replace the current lease expiring September 30, 2026. Year 1 indicative land rent is $258,203, based on the Co-op Lease Methodology. The decision requires at least 8 affirmative votes under Section 206(1) of the Vancouver Charter.",
+      "action_required": "No action needed from you right now. Watch for the council vote on June 2, 2026 — if approved, it could affect nearby property values or development plans.",
+      "key_dates": [
+        {
+          "label": "Council vote on below-market lease and grant for Rising Star Housing Co-op",
+          "date": "2026-06-02"
+        },
+        {
+          "label": "Current lease expires — Rising Star Housing Co-op",
+          "date": "2026-09-30"
+        }
+      ],
+      "industries": "Landlord & Property Mgmt, Construction & Development",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "9",
+      "source_body": "9.\tBelow Market Lease and Grant to Rising Star Housing Co-op at 1556 East 5th Avenue\nRecommendation A requires at least 2/3 affirmative votes of all Council members under Section 206(1) of the Vancouver Charter\nReport",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/r9.pdf",
+          "title": "9.\tBelow Market Lease and Grant to Rising Star Housing Co-op at 1556 East 5th Avenue — Report"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.751968"
+    },
+    {
+      "id": 1230,
+      "title": "Proposed: Vancouver Empty Homes Tax rule changes up for council vote",
+      "summary": "Vancouver City Council will vote June 2, 2026 on expanding the Vacant New Inventory exemption under the Empty Homes Tax (EHT) from developments of 5+ units to include developments of 2+ units (duplexes and multiplexes). Currently, only projects with 5+ residential properties qualify; this change would exempt unsold new units in smaller multi-unit projects from the 3% tax on assessed value until sold or occupied. Vacant New Inventory declarations rose from 261 in 2024 to 597 in 2025.",
+      "action_required": "If you own or develop a duplex or multiplex in Vancouver, watch for the council vote on June 2, 2026 — approval would reduce your EHT exposure on unsold new units.",
+      "key_dates": [
+        {
+          "label": "Council vote on EHT Vacant New Inventory exemption expansion",
+          "date": "2026-06-02"
+        }
+      ],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "10",
+      "source_body": "10.\tMaintaining the Fairness & Effectiveness of the Empty Homes Tax\nReport",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/r10.pdf",
+          "title": "10.\tMaintaining the Fairness & Effectiveness of the Empty Homes Tax — Report"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.752555"
+    },
+    {
+      "id": 1231,
+      "title": "Council to consider Auditor General committee recommendations",
+      "summary": "Vancouver City Council will consider endorsing 10 recommendations from the Auditor General's April 30, 2026 audit of Community Grants. If approved, staff must report back by Spring 2027 on implementation, including changes to align grants with Council priorities, mid-term reviews, efficiency metrics, time-bound grant streams, and publishing evaluation criteria for transparency. Businesses that apply for or receive City community grants may see changes to application processes and transparency requirements.",
+      "action_required": null,
+      "key_dates": [
+        {
+          "label": "Council vote on Auditor General Committee recommendations",
+          "date": "2026-06-02"
+        },
+        {
+          "label": "Staff report back on Community Grants implementation due",
+          "date": "2027-03-31"
+        }
+      ],
+      "industries": "Professional Services",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "11",
+      "source_body": "11.\tAuditor General Committee Recommendations Transmittal Report\nReport",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/r11.pdf",
+          "title": "11.\tAuditor General Committee Recommendations Transmittal Report — Report"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.753135"
+    },
+    {
+      "id": 1232,
+      "title": "Proposed: CD-1 Rezoning at 3731-3743 West 4th Avenue and 1975 Alma Street",
+      "summary": "Vancouver City Council will vote June 2, 2026 on a rezoning to CD-1 for three parcels at 3731-3743 West 4th Avenue and 1975 Alma Street. If approved, the site would increase from C-2A (max 3.5–3.7 FSR) and RM-3A (1.0 FSR) to a uniform 3.9 FSR, and building height from 23.0 m and 10.7 m to 24.0 m, permitting a six-storey mixed-use building with 100 rental units and ground-floor commercial space. The existing 37 rental units would be replaced.",
+      "action_required": "Watch for the council decision on June 2, 2026 — this rezoning could affect nearby property values and development opportunities.",
+      "key_dates": [
+        {
+          "label": "Council vote on CD-1 rezoning — 3731-3743 W 4th Ave & 1975 Alma St",
+          "date": "2026-06-02"
+        }
+      ],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "12",
+      "source_body": "12.\tCD-1 Rezoning: 3731-3743 West 4th Avenue and 1975 Alma Street\n(no speakers per section 7.2(b) of the Procedure By-law)\nReport\nDraft By-law\nLink to renderings",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/r12.pdf",
+          "title": "12.\tCD-1 Rezoning: 3731-3743 West 4th Avenue and 1975 Alma Street — Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/r12draftbylaw.pdf",
+          "title": "12.\tCD-1 Rezoning: 3731-3743 West 4th Avenue and 1975 Alma Street — Draft By-law"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.753731"
+    },
+    {
+      "id": 1233,
+      "title": "Proposed: CD-1 Rezoning at 2170 West 3rd Avenue",
+      "summary": "Vancouver City Council will vote June 2, 2026 on a proposed CD-1 rezoning for 2170 West 3rd Avenue. The draft bylaw would allow a 19-storey residential building with 166 rental units, a maximum floor space ratio of 6.5, and a maximum height of 62.5 m. At least 20% of total dwelling unit area must be below-market rental units. At least 35% of below-market and other units must be family-sized (2+ bedrooms), with at least 25% of total units being 2-bedroom and at least 10% being 3-bedroom. The site area is 1,672.6 m².",
+      "action_required": null,
+      "key_dates": [
+        {
+          "label": "Council vote on CD-1 rezoning at 2170 West 3rd Ave",
+          "date": "2026-06-02"
+        }
+      ],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "13",
+      "source_body": "13.\tCD-1 Rezoning: 2170 West 3rd Avenue\n(no speakers per section 7.2(b) of the Procedure By-law)\nReport\nDraft By-law\nLink to renderings",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/r13.pdf",
+          "title": "13.\tCD-1 Rezoning: 2170 West 3rd Avenue — Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/r13draftbylaw.pdf",
+          "title": "13.\tCD-1 Rezoning: 2170 West 3rd Avenue — Draft By-law"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.754303"
+    },
+    {
+      "id": 1234,
+      "title": "Proposed: CD-1 Rezoning at 2245-2283 West Broadway",
+      "summary": "Council will vote on rezoning 2245-2283 West Broadway from C-3A to CD-1 to allow a 25-storey mixed-use building with 198 rental units, commercial space (minimum 1,701 m²), and a child day care facility. Maximum FSR increases from 3.0 to 9.06; maximum height from 9.2 m to 82 m. At least 35% of units must be family housing (25% two-bedroom, 10% three-bedroom). The first 10.7 m of the front storey cannot be residential.",
+      "action_required": null,
+      "key_dates": [
+        {
+          "label": "Council vote on CD-1 rezoning at 2245-2283 West Broadway",
+          "date": "2026-06-02"
+        }
+      ],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "14",
+      "source_body": "14.\tCD-1 Rezoning: 2245-2283 West Broadway\n(no speakers per section 7.2(b) of the Procedure By-law)\nReport\nDraft By-law\nLink to renderings",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/r14.pdf",
+          "title": "14.\tCD-1 Rezoning: 2245-2283 West Broadway — Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/r14draftbylaw.pdf",
+          "title": "14.\tCD-1 Rezoning: 2245-2283 West Broadway — Draft By-law"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.754907"
+    },
+    {
+      "id": 1235,
+      "title": "Proposed: CD-1 Rezoning at 1668 West Broadway",
+      "summary": "Council will vote on a CD-1 rezoning for 1668 West Broadway that would increase maximum floor space ratio from 3.0 to 8.7 and building height from 30 ft to 274 ft, permitting a 26-storey building with 208 rental units, ground-floor commercial, and second-floor office space. At least 35% of units must be family housing (25% two-bedroom, 10% three-bedroom). No public hearing will be held as the proposal is consistent with the Broadway Plan.",
+      "action_required": "Watch for the council decision on June 2, 2026 — this rezoning could affect nearby property values and development potential.",
+      "key_dates": [
+        {
+          "label": "Council vote on CD-1 rezoning at 1668 West Broadway",
+          "date": "2026-06-02"
+        }
+      ],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "15",
+      "source_body": "15.\tCD-1 Rezoning: 1668 West Broadway\n(no speakers per section 7.2(b) of the Procedure By-law)\nReport\nDraft By-law\nLink to renderings",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/r15.pdf",
+          "title": "15.\tCD-1 Rezoning: 1668 West Broadway — Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/r15draftbylaw.pdf",
+          "title": "15.\tCD-1 Rezoning: 1668 West Broadway — Draft By-law"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.755483"
+    },
+    {
+      "id": 1236,
+      "title": "Proposed: CD-1 Rezoning at 1230 West 12th Avenue",
+      "summary": "Council will vote on a proposed rezoning of 1230 West 12th Avenue from R3-3 to CD-1 to permit a 20-storey residential building with 110 rental units. The maximum FSR would increase from 2.4 to 6.56, and maximum building height from 27.5 m to 63 m. At least 20% of residential floor area must be below-market rental units. The draft bylaw requires at least 25% of total units to be 2-bedroom and at least 10% to be 3-bedroom. The site is 1,161.2 sq. m. The public hearing is prohibited as the proposal is consistent with the Vancouver Official Development Plan and Broadway Plan.",
+      "action_required": null,
+      "key_dates": [
+        {
+          "label": "Council vote on CD-1 rezoning at 1230 West 12th Avenue",
+          "date": "2026-06-02"
+        }
+      ],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "16",
+      "source_body": "16.\tCD-1 Rezoning: 1230 West 12th Avenue\n(no speakers per section 7.2(b) of the Procedure By-law)\nReport\nDraft By-law\nLink to renderings",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/r16.pdf",
+          "title": "16.\tCD-1 Rezoning: 1230 West 12th Avenue — Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/r16draftbylaw.pdf",
+          "title": "16.\tCD-1 Rezoning: 1230 West 12th Avenue — Draft By-law"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.757134"
+    },
+    {
+      "id": 1237,
+      "title": "Proposed: CD-1 Rezoning at 602-646 Kingsway and 603-619 East 16th Avenue",
+      "summary": "Council will vote June 2, 2026 on a bylaw to rezone 602-646 Kingsway and 603-619 East 16th Avenue from C-2A to CD-1, allowing two mixed-use buildings of 14 and 25 storeys. The proposal includes 330 rental units (20% of residential floor area secured as below-market), ground-floor commercial space, a private 20-space childcare facility, and public open space. Maximum FSR would increase from 3.7 to 8.6; building height from 23.0 m to 46.3 m and 79.3 m.",
+      "action_required": null,
+      "key_dates": [
+        {
+          "label": "Council vote on CD-1 rezoning — 602-646 Kingsway",
+          "date": "2026-06-02"
+        }
+      ],
+      "industries": "Construction & Development",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "17",
+      "source_body": "17.\tCD-1 Rezoning: 602-646 Kingsway and 603-619 East 16th Avenue\n(no speakers per section 7.2(b) of the Procedure By-law)\nReport\nDraft By-law\nLink to renderings",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/r17.pdf",
+          "title": "17.\tCD-1 Rezoning: 602-646 Kingsway and 603-619 East 16th Avenue — Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/r17draftbylaw.pdf",
+          "title": "17.\tCD-1 Rezoning: 602-646 Kingsway and 603-619 East 16th Avenue — Draft By-law"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.758734"
+    },
+    {
+      "id": 1238,
+      "title": "Proposed: CD-1 Rezoning at 1827 West 5th Avenue",
+      "summary": "Council is set to vote on a proposed rezoning for 1827 West 5th Avenue. The draft bylaw would create a CD-1 district allowing mixed-use residential, retail, office, and other uses. Key details: maximum building height of 40.7m, floor space ratio of 4.5, minimum 146.7 m² of commercial space, and at least 35% of dwelling units must be family housing (25% two-bedroom, 10% three-bedroom). This is a first step — the decision has not been made yet.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "18",
+      "source_body": "18.\tCD-1 Rezoning: 1827 West 5th Avenue\n(no speakers per section 7.2(b) of the Procedure By-law)\nReport\nDraft By-law\nLink to renderings",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/r18.pdf",
+          "title": "18.\tCD-1 Rezoning: 1827 West 5th Avenue — Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/r18draftbylaw.pdf",
+          "title": "18.\tCD-1 Rezoning: 1827 West 5th Avenue — Draft By-law"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.760260"
+    },
+    {
+      "id": 1239,
+      "title": "Proposed: CD-1 Rezoning at 1030 and 1056 Burnaby Street",
+      "summary": "Council will consider a bylaw to rezone 1030 and 1056 Burnaby Street to CD-1, permitting a six-storey building with 90 rental units (20% of residential floor area below-market) and retaining an existing 215-unit seniors building. Total floor area capped at 15,075.9 m²; heights up to 22.0 m (Sub-area A) and 40.9 m (Sub-area B). At least 35% of below-market and other units must have 2+ bedrooms. No public hearing is allowed under the Vancouver Charter.",
+      "action_required": "Watch for council decision on June 2, 2026 — rezoning could affect nearby property values and development plans.",
+      "key_dates": [
+        {
+          "label": "Council decision on CD-1 rezoning — 1030 & 1056 Burnaby St",
+          "date": "2026-06-02"
+        }
+      ],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "19",
+      "source_body": "19.\tCD-1 Rezoning: 1030 and 1056 Burnaby Street\n(no speakers per section 7.2(b) of the Procedure By-law)\nReport\nDraft By-law\nLink to renderings",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/r19.pdf",
+          "title": "19.\tCD-1 Rezoning: 1030 and 1056 Burnaby Street — Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/r19draftbylaw.pdf",
+          "title": "19.\tCD-1 Rezoning: 1030 and 1056 Burnaby Street — Draft By-law"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.761751"
+    },
+    {
+      "id": 1240,
+      "title": "Proposed: CD-1 Rezoning at 4338 and 4362 Cambie Street",
+      "summary": "Council will vote on a proposed rezoning to CD-1 for 4338 and 4362 Cambie Street. If approved, the bylaw would allow a 12-storey mixed-use building with 101 strata residential units, ground-floor commercial space (minimum 458.9 m²), a floor space ratio of 5.4, and a maximum height of 43.9 m. At least 35% of units must be family housing (25% two-bedroom, 10% three-bedroom). The proposal is consistent with the Vancouver Official Development Plan and Transit-Oriented Area Policy but departs from density and affordable housing expectations.",
+      "action_required": "Attend the public hearing or submit written comments to Council before the vote on June 2, 2026.",
+      "key_dates": [
+        {
+          "label": "Council vote on CD-1 rezoning — 4338 and 4362 Cambie Street",
+          "date": "2026-06-02"
+        }
+      ],
+      "industries": "Construction & Development",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "20",
+      "source_body": "20.\tCD-1 Rezoning: 4338 and 4362 Cambie Street\n(no speakers per section 7.2(b) of the Procedure By-law)\nReport\nDraft By-law\nLink to renderings",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/r20.pdf",
+          "title": "20.\tCD-1 Rezoning: 4338 and 4362 Cambie Street — Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/r20draftbylaw.pdf",
+          "title": "20.\tCD-1 Rezoning: 4338 and 4362 Cambie Street — Draft By-law"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.763246"
+    },
+    {
+      "id": 1241,
+      "title": "Proposed: CD-1 Rezoning at 1188 Cardero Street, Vancouver",
+      "summary": "Vancouver City Council will vote June 2, 2026 on a proposed CD-1 rezoning for 1188 Cardero Street. The draft bylaw would allow a 24-storey rental building with 221 units, a floor space ratio of 8.83, and a maximum height of 75 m. At least 20% of total dwelling unit area must be below-market rental units, and 35% of both below-market and other units must have 2+ bedrooms. No public hearing is required.",
+      "action_required": "No immediate action required — monitor council's June 2, 2026 decision for potential impacts on nearby development or property values.",
+      "key_dates": [
+        {
+          "label": "Council vote on CD-1 rezoning at 1188 Cardero Street",
+          "date": "2026-06-02"
+        }
+      ],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "21",
+      "source_body": "21.\tCD-1 Rezoning: 1188 Cardero Street\n(no speakers per section 7.2(b) of the Procedure By-law)\nReport\nDraft By-law\nLink to renderings",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/r21.pdf",
+          "title": "21.\tCD-1 Rezoning: 1188 Cardero Street — Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/r21draftbylaw.pdf",
+          "title": "21.\tCD-1 Rezoning: 1188 Cardero Street — Draft By-law"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.764734"
+    },
+    {
+      "id": 1242,
+      "title": "Proposed: CD-1 Rezoning at 360 East 14th Avenue, Vancouver",
+      "summary": "Council is set to vote on a proposed rezoning for 360 East 14th Avenue. If approved, the site would be rezoned from R3-3 to CD-1, allowing an 18-storey rental building with 137 units. The maximum floor space ratio would increase from 2.70 to 6.50 FSR, and maximum building height from 23 m to 56.9 m. At least 20% of total dwelling unit area must be below-market rental units. At least 35% of below-market units and 35% of other units must be family housing (2+ bedrooms), with at least 25% of total units being 2-bedroom and at least 10% being 3-bedroom. No public hearing is scheduled.",
+      "action_required": "Watch for the council decision on June 2, 2026 — this rezoning could affect nearby property values and development potential.",
+      "key_dates": [
+        {
+          "label": "Council vote on CD-1 rezoning at 360 East 14th Avenue",
+          "date": "2026-06-02"
+        }
+      ],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "22",
+      "source_body": "22.\tCD-1 Rezoning: 360 East 14th Avenue\n(no speakers per section 7.2(b) of the Procedure By-law)\nReport\nDraft By-law\nLink to renderings",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/r22.pdf",
+          "title": "22.\tCD-1 Rezoning: 360 East 14th Avenue — Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/r22draftbylaw.pdf",
+          "title": "22.\tCD-1 Rezoning: 360 East 14th Avenue — Draft By-law"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.766216"
+    },
+    {
+      "id": 1243,
+      "title": "Proposed: CD-1 Rezoning at 1220 Station Street and 201-213 Terminal Avenue",
+      "summary": "Council will consider a bylaw to rezone 1220 Station Street and 201-213 Terminal Avenue from FC-2 to CD-1, allowing two towers (28 and 36 storeys) with an eight-storey podium, 470 rental units (20% of residential floor area below-market), commercial and office uses. Maximum FSR increases from 7.0 to 11.2; maximum height from 22.9 m to 111 m. At least 35% of market and below-market units must have 2+ bedrooms. Non-residential floor area minimum is 7,550 m². The landscaped setback requirement on Terminal Avenue is adjusted to start 93.23 m east of Thornton Park.",
+      "action_required": null,
+      "key_dates": [
+        {
+          "label": "CD-1 Rezoning public hearing — Vancouver City Council",
+          "date": "2026-06-02"
+        }
+      ],
+      "industries": "Construction & Development",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "23",
+      "source_body": "23.\tCD-1 Rezoning: 1220 Station Street and 201-213 Terminal Avenue\n(no speakers per section 7.2(b) of the Procedure By-law)\nReport\nDraft By-law - CD-1\nDraft By-law - Regarding Streets Requiring Landscaped Setbacks\nLink to renderings",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/r23.pdf",
+          "title": "23.\tCD-1 Rezoning: 1220 Station Street and 201-213 Terminal Avenue — Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/r23draftbylaw.pdf",
+          "title": "23.\tCD-1 Rezoning: 1220 Station Street and 201-213 Terminal Avenue — Draft By-law - CD-1"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/r23draftbylaw_streetsrequiringlandscapedsetbacks.pdf",
+          "title": "23.\tCD-1 Rezoning: 1220 Station Street and 201-213 Terminal Avenue — Draft By-law - Regarding Streets Requiring Landscaped Setbacks"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.767705"
+    },
+    {
+      "id": 1244,
+      "title": "Proposed: CD-1 Rezoning at 455-485 Great Northern Way and 1850 Thornton Street",
+      "summary": "Vancouver City Council is set to vote on a proposed rezoning for properties at 455-485 Great Northern Way, a portion of 565 Great Northern Way, and 1850 Thornton Street. The draft bylaw would remove 37,160 m² of total floor area from the existing CD-1 (402) district, with specific subtractions of 11,612 m² from Row 1, 20,903 m² from Row 2, and 4,645 m² from Row 4 of Table 1. The bylaw takes effect upon enactment.",
+      "action_required": "Watch for the council decision date — this rezoning could affect nearby property values and development plans.",
+      "key_dates": [
+        {
+          "label": "CD-1 rezoning bylaw enactment date",
+          "date": "2026-01-01"
+        }
+      ],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "24",
+      "source_body": "24.\tCD-1 Rezoning: 455-485 Great Northern Way, Portion of 565 Great Northern Way and 1850 Thornton Street\n(no speakers per section 7.2(b) of the Procedure By-law)\nReport\nDraft By-law - CD-1\nDraft By-law - CD-1 (402)\nLink to renderings",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/r24.pdf",
+          "title": "24.\tCD-1 Rezoning: 455-485 Great Northern Way, Portion of 565 Great Northern Way and 1850 Thornton Street — Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/r24draftbylaw.pdf",
+          "title": "24.\tCD-1 Rezoning: 455-485 Great Northern Way, Portion of 565 Great Northern Way and 1850 Thornton Street — Draft By-law - CD-1"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/r24draftbylaw_cd1402.pdf",
+          "title": "24.\tCD-1 Rezoning: 455-485 Great Northern Way, Portion of 565 Great Northern Way and 1850 Thornton Street — Draft By-law - CD-1 (402)"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.769209"
+    },
+    {
+      "id": 1245,
+      "title": "Proposed: CD-1 Rezoning at 1500-1580 West 3rd Avenue, Vancouver",
+      "summary": "Council will vote on June 2, 2026 on a proposed rezoning of 1500-1580 West 3rd Avenue from IC-2 (Industrial) to CD-1 (Comprehensive Development). The draft bylaw would allow a 17-storey building with 160 hotel units, a maximum floor space ratio of 16.4, and a maximum building height of 53.6 m (176 ft.). The site is 557.2 sq. m (5,998 sq. ft.) and located within 400 m of Granville Island and 600 m of the future South Granville SkyTrain Station. The proposal is consistent with the Broadway Plan and Hotel Development Policy.",
+      "action_required": "Monitor the June 2, 2026 council meeting for the rezoning vote outcome.",
+      "key_dates": [
+        {
+          "label": "Council vote on CD-1 rezoning at 1500-1580 West 3rd Avenue",
+          "date": "2026-06-02"
+        }
+      ],
+      "industries": "Construction & Development, Hotel & Accommodation, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "25",
+      "source_body": "25.\tCD-1 Rezoning: 1500-1580 West 3rd Avenue\nReferred to Council at the Council meeting on May 19, 2026\n(no speakers per section 7.2(b) of the Procedure By-law)\nReport\nDraft By-law\nLink to renderings",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/r25.pdf",
+          "title": "25.\tCD-1 Rezoning: 1500-1580 West 3rd Avenue — Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/r25draftbylaw.pdf",
+          "title": "25.\tCD-1 Rezoning: 1500-1580 West 3rd Avenue — Draft By-law"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.770730"
+    },
+    {
+      "id": 1299,
+      "title": "Proposed: Vancouver council to fast-track rental housing in residential zones",
+      "summary": "Vancouver City Council has enacted amendments to the Secured Rental Policy and related bylaws, effective June 2, 2026. The changes permit 6-storey 100% market rental developments in low-density transition areas (East and West Areas). Projects in the West Area must include a minimum 20% of residential floor area as below-market units, with starting rents set at 10% below CMHC averages for 100% residential buildings or 20% below for mixed-use buildings. Rent escalation between tenancies may be re-indexed to current CMHC averages at the same discount rate.",
+      "action_required": "Review the updated Secured Rental Policy and eligibility maps (East/West Areas) to determine if your property qualifies for 6-storey rental development under the new RR-3C or RR-3B district schedules.",
+      "key_dates": [
+        {
+          "label": "New RR-3C rental rules take effect — Vancouver",
+          "date": "2026-06-02"
+        }
+      ],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "Admin Motion 1",
+      "source_body": "1.\tFast-Tracking Rental Housing – Updates to Residential Rental Districts\nMotion",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/a1.pdf",
+          "title": "1.\tFast-Tracking Rental Housing – Updates to Residential Rental Districts — Motion"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/regu20260602ag.pdf",
+          "title": "1.\tFast-Tracking Rental Housing – Updates to Residential Rental Districts — Download the agenda"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.850885"
+    },
+    {
+      "id": 1298,
+      "title": "Proposed: New levy rates for Yaletown Business Improvement Area",
+      "summary": "Council will consider a proposed bylaw that would set new levy rates on qualifying real property in the Yaletown Business Improvement Area (BIA). A levy is a special property tax that property owners in the BIA pay to fund local improvements like street cleaning, marketing, and events. If approved, this bylaw would determine how much property owners in Yaletown must contribute for the upcoming year.",
+      "action_required": "Watch for the council decision — this could affect your property tax bill if you own commercial property in Yaletown.",
+      "key_dates": [],
+      "industries": "Landlord & Property Mgmt, Retail, Food Service",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "By-law 42",
+      "source_body": "42.\tA By-law to levy rates on qualifying real property in the Yaletown Business Improvement Area",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.848643"
+    },
+    {
+      "id": 1297,
+      "title": "Proposed: New levy rates for West End Business Improvement Area",
+      "summary": "Council will consider a proposed bylaw that would set new levy rates on qualifying real property (commercial properties that pay into the Business Improvement Area) in Vancouver's West End. A Business Improvement Area (BIA) is a local group of businesses that pay extra property taxes to fund improvements like street cleaning, marketing, and events in their neighbourhood. If approved, this bylaw would change how much property owners in the West End BIA must pay. The decision has not been made yet — Council is set to vote on this proposal at an upcoming meeting.",
+      "action_required": "Watch for the council meeting date and consider attending to have your say on the proposed levy rates.",
+      "key_dates": [],
+      "industries": "Retail, Landlord & Property Mgmt, Professional Services",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "By-law 41",
+      "source_body": "41.\tA By-law to levy rates on qualifying real property in the West End Business Improvement Area",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.847233"
+    },
+    {
+      "id": 1296,
+      "title": "Proposed: New levy rates for West Broadway Business Improvement Area",
+      "summary": "Council will consider a proposed bylaw that would set new levy rates on qualifying real property (commercial and industrial properties) in the West Broadway Business Improvement Area (BIA). A BIA is a defined business district where property owners pay an extra levy to fund local improvements like street cleaning, marketing, and events. If approved, this bylaw would determine how much property owners in that area must pay. The decision is not final — Council is set to vote on it at an upcoming meeting.",
+      "action_required": "Watch for the council meeting date and consider attending or submitting comments if you own property in the West Broadway BIA.",
+      "key_dates": [],
+      "industries": "Retail, Landlord & Property Mgmt, Professional Services",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "By-law 40",
+      "source_body": "40.\tA By-law to levy rates on qualifying real property in the West Broadway Business Improvement Area",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.845831"
+    },
+    {
+      "id": 1295,
+      "title": "Proposed: Victoria Drive BIA levy rates up for council vote",
+      "summary": "Council will consider a bylaw that would set new levy rates for properties in the Victoria Drive Business Improvement Area (BIA). A BIA is a zone where local businesses pay an extra property levy to fund improvements like street cleaning, marketing, and events. If approved, this bylaw would set the rate that qualifying commercial and industrial properties in the Victoria Drive area must pay for the coming year. The proposed rates are listed in the bylaw document. Council is set to vote on this at an upcoming meeting.",
+      "action_required": "Check if your property is in the Victoria Drive BIA and review the proposed levy rates before the council vote.",
+      "key_dates": [],
+      "industries": "Retail, Food Service, Professional Services",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "By-law 39",
+      "source_body": "39.\tA By-law to levy rates on qualifying real property in the Victoria Drive Business Improvement Area",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.844405"
+    },
+    {
+      "id": 1294,
+      "title": "Proposed: Strathcona Business Improvement Area levy rates",
+      "summary": "Council will consider a bylaw that would set new levy rates on commercial properties in the Strathcona Business Improvement Area (BIA). A BIA is a defined area where local businesses pay an extra property levy to fund improvements like street cleaning, marketing, and events. If approved, this bylaw would determine how much property owners in Strathcona must pay for the upcoming year. The proposed rates are not yet final — Council is set to vote on the bylaw at an upcoming meeting.",
+      "action_required": "Watch for the council meeting date — if you own property in Strathcona, this levy will affect your property taxes.",
+      "key_dates": [],
+      "industries": "Retail, Landlord & Property Mgmt, Professional Services",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "By-law 38",
+      "source_body": "38.\tA By-law to levy rates on qualifying real property in the Strathcona Business Improvement Area",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.843003"
+    },
+    {
+      "id": 1293,
+      "title": "Proposed: New levy rates for South Granville Business Improvement Area",
+      "summary": "Council will consider a proposed bylaw to set new levy rates on qualifying real property in the South Granville Business Improvement Area (BIA). A levy is a special property tax that property owners in the BIA pay to fund local improvements like street cleaning, marketing, and events. This proposed bylaw would set the rates for the upcoming year. The decision has not been made yet — Council is set to vote on it at an upcoming meeting.",
+      "action_required": "Watch for the council meeting date and attend or submit comments if you own property in the South Granville BIA.",
+      "key_dates": [],
+      "industries": "Retail, Landlord & Property Mgmt, Food Service",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "By-law 37",
+      "source_body": "37.\tA By-law to levy rates on qualifying real property in the South Granville Business Improvement Area",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.841575"
+    },
+    {
+      "id": 1292,
+      "title": "Proposed: New levy rates for Robson Street Business Improvement Area",
+      "summary": "Council will consider a proposed bylaw that would set new levy rates on qualifying real property (commercial properties) in the Robson Street Business Improvement Area (BIA). A BIA is a defined area where local businesses pay an extra property levy to fund improvements like street cleaning, marketing, and events. If approved, this bylaw would change how much property owners in the Robson Street BIA must pay. The decision has not been made yet — Council is set to vote on this proposal at an upcoming meeting.",
+      "action_required": "Watch for the council decision — this could affect your property levy if you own or lease commercial space in the Robson Street BIA.",
+      "key_dates": [],
+      "industries": "Retail, Landlord & Property Mgmt, Food Service",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "By-law 36",
+      "source_body": "36.\tA By-law to levy rates on qualifying real property in the Robson Street Business Improvement Area",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.840165"
+    },
+    {
+      "id": 1291,
+      "title": "Proposed: New levy rates for Point Grey Village businesses",
+      "summary": "Council will consider a bylaw that would set new levy rates on commercial properties in the Point Grey Village Business Improvement Area (BIA). A BIA is a zone where local property owners pay an extra fee (a levy) to fund improvements like street cleaning, marketing, and events. If approved, this bylaw would change how much each qualifying property in the area must pay. The proposed bylaw is up for a vote at an upcoming council meeting.",
+      "action_required": "Watch for the council vote — if passed, this levy will affect your property taxes.",
+      "key_dates": [],
+      "industries": "Retail, Food Service, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "By-law 35",
+      "source_body": "35.\tA By-law to levy rates on qualifying real property in the Point Grey Village Business Improvement Area",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.838732"
+    },
+    {
+      "id": 1290,
+      "title": "Proposed: New levy rates for Mount Pleasant Business Improvement Area",
+      "summary": "Council will consider a proposed bylaw that would set new levy rates on qualifying real property in the Mount Pleasant Business Improvement Area (BIA). A levy is a special fee that property owners in the BIA pay to fund local improvements like street cleaning, marketing, and events. This is not yet approved — the bylaw is up for a vote at an upcoming council meeting.",
+      "action_required": "Watch for the council decision — if approved, this levy will affect property owners in the Mount Pleasant BIA.",
+      "key_dates": [],
+      "industries": "Retail, Landlord & Property Mgmt, Professional Services",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "By-law 34",
+      "source_body": "34.\tA By-law to levy rates on qualifying real property in the Mount Pleasant Business Improvement Area",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.837260"
+    },
+    {
+      "id": 1289,
+      "title": "Proposed: Marpole BIA levy rates up for council vote",
+      "summary": "Vancouver City Council is set to vote on a proposed bylaw that would set new levy rates for properties in the Marpole Business Improvement Area (BIA). A BIA is a defined area where local businesses pay an extra property levy to fund improvements like street cleaning, marketing, and events. If approved, this bylaw would set the rate that qualifying commercial and industrial properties in Marpole must pay. The decision has not been made yet — council will consider the proposal at an upcoming meeting.",
+      "action_required": "Watch for the council decision — if approved, this levy will apply to your property tax bill.",
+      "key_dates": [],
+      "industries": "Retail, Professional Services, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "By-law 33",
+      "source_body": "33.\tA By-law to levy rates on qualifying real property in the Marpole Business Improvement Area",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.835681"
+    },
+    {
+      "id": 1288,
+      "title": "Proposed: New levy rates for Kitsilano 4th Avenue businesses",
+      "summary": "Council will consider a proposed bylaw (a local law) that would set new levy rates for businesses in the Kitsilano 4th Avenue Business Improvement Area (BIA). A BIA is a zone where local businesses pay an extra property levy to fund improvements like street cleaning, marketing, and events. This proposed bylaw would set the rates that qualifying property owners in that area would have to pay. The decision has not been made yet — it is up for approval at an upcoming council meeting.",
+      "action_required": "Watch for the council decision — if approved, this levy will affect property owners in the Kitsilano 4th Avenue BIA.",
+      "key_dates": [],
+      "industries": "Retail, Food Service, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "By-law 32",
+      "source_body": "32.\tA By-law to levy rates on qualifying real property in the Kitsilano 4th Avenue Business Improvement Area",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.834193"
+    },
+    {
+      "id": 1287,
+      "title": "Proposed: New levy rates for Kerrisdale Business Improvement Area",
+      "summary": "Council is set to vote on a proposed bylaw that would levy (charge) new rates on qualifying real property in the Kerrisdale Business Improvement Area (BIA). If approved, this bylaw would require property owners within the BIA to pay a special levy to fund local improvements and services. The decision has not been made yet — this is an upcoming vote at a Vancouver Council meeting.",
+      "action_required": "Watch for the council decision — if approved, property owners in the Kerrisdale BIA will need to budget for the new levy.",
+      "key_dates": [],
+      "industries": "Landlord & Property Mgmt, Retail",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "By-law 31",
+      "source_body": "31.\tA By-law to levy rates on qualifying real property in the Kerrisdale Business Improvement Area",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.832712"
+    },
+    {
+      "id": 1286,
+      "title": "Proposed: New levy rates for Hastings North Business Improvement Area",
+      "summary": "Council will consider a proposed bylaw that would set new levy rates on qualifying real property (commercial and industrial properties) in the Hastings North Business Improvement Area (BIA). A BIA is a defined business district where property owners pay an extra levy to fund local improvements like marketing, street cleaning, and events. This bylaw would set the rates for the upcoming year. The decision has not been made yet — it is up for approval at a future council meeting.",
+      "action_required": "Watch for the council meeting date and attend or submit comments if you own property in the Hastings North BIA.",
+      "key_dates": [],
+      "industries": "Retail, Landlord & Property Mgmt, Professional Services",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "By-law 30",
+      "source_body": "30.\tA By-law to levy rates on qualifying real property in the Hastings North Business Improvement Area",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.831191"
+    },
+    {
+      "id": 1285,
+      "title": "Proposed: New levy rates for Hastings Crossing Business Improvement Area",
+      "summary": "Council will consider a proposed bylaw that would set new levy rates on commercial properties in the Hastings Crossing Business Improvement Area (BIA). A BIA is a defined business district where property owners pay an extra levy (a special tax) to fund local improvements like street cleaning, marketing, and events. This proposed bylaw would set the rates for the upcoming year. The decision has not been made yet — council is set to vote on it at an upcoming meeting.",
+      "action_required": "If you own commercial property in the Hastings Crossing BIA, watch for the council vote — this could affect your property tax levy.",
+      "key_dates": [],
+      "industries": "Retail, Landlord & Property Mgmt, Professional Services",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "By-law 29",
+      "source_body": "29.\tA By-law to levy rates on qualifying real property in the Hastings Crossing Business Improvement Area",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.829598"
+    },
+    {
+      "id": 1284,
+      "title": "Proposed: New levy rates for Gastown Business Improvement Area",
+      "summary": "Council will consider a proposed bylaw that would set new levy rates on qualifying real property (commercial and residential properties that pay property taxes) in the Gastown Business Improvement Area (BIA). A BIA is a defined neighbourhood where local property owners pay an extra levy to fund improvements like street cleaning, safety, and marketing. This proposed bylaw would set the rates for the upcoming year. The decision has not been made yet — Council is set to vote on it at an upcoming meeting.",
+      "action_required": "Watch for the council meeting date and consider attending or submitting comments if you own property in the Gastown BIA.",
+      "key_dates": [],
+      "industries": "Retail, Landlord & Property Mgmt, Hotel & Accommodation",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "By-law 28",
+      "source_body": "28.\tA By-law to levy rates on qualifying real property in the Gastown Business Improvement Area",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.828184"
+    },
+    {
+      "id": 1283,
+      "title": "Proposed: New levy rates for Fraser Street Business Improvement Area",
+      "summary": "Council will consider a proposed bylaw that would set new levy rates on commercial properties in the Fraser Street Business Improvement Area (BIA). A BIA is a defined business district where property owners pay an extra levy (a special tax) to fund local improvements like street cleaning, marketing, and events. If approved, this bylaw would set the rates that property owners in this area must pay for the upcoming year. The decision has not been made yet — Council is set to vote on this proposal at an upcoming meeting.",
+      "action_required": "Watch for the council decision — if approved, this levy will apply to your property tax bill.",
+      "key_dates": [],
+      "industries": "Retail, Landlord & Property Mgmt, Food Service",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "By-law 27",
+      "source_body": "27.\tA By-law to levy rates on qualifying real property in the Fraser Street Business Improvement Area",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.826760"
+    },
+    {
+      "id": 1282,
+      "title": "Proposed: New levy rates for Dunbar Village businesses",
+      "summary": "Council will consider a bylaw that would set new levy rates on commercial properties in the Dunbar Village Business Improvement Area (BIA). A BIA is a zone where local businesses pay an extra property levy to fund improvements like street cleaning, marketing, and events. If approved, this bylaw would change how much property owners in Dunbar Village pay into the BIA. The exact new rates are not yet set — council will vote on the proposed bylaw at an upcoming meeting.",
+      "action_required": "Watch for the council meeting date and attend or submit comments if you own property in Dunbar Village.",
+      "key_dates": [],
+      "industries": "Retail, Food Service, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "By-law 26",
+      "source_body": "26.\tA By-law to levy rates on qualifying real property in the Dunbar Village Business Improvement Area",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.825319"
+    },
+    {
+      "id": 1281,
+      "title": "Proposed: New levy rates for Downtown Vancouver Business Improvement Area",
+      "summary": "Council will consider a proposed bylaw that would set new levy rates on qualifying real property (commercial and industrial properties) in the Downtown Vancouver Business Improvement Area (BIA). If approved, property owners in this area would pay a new rate based on their property's assessed value. This is not yet in effect — it is up for a vote at an upcoming council meeting.",
+      "action_required": "Watch for the council decision — if approved, this levy will apply to your property. No action needed now.",
+      "key_dates": [],
+      "industries": "Landlord & Property Mgmt, Retail, Professional Services",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "By-law 25",
+      "source_body": "25.\tA By-law to levy rates on qualifying real property in the Downtown Vancouver Business Improvement Area",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.823874"
+    },
+    {
+      "id": 1280,
+      "title": "Proposed: New levy rates for Commercial Drive businesses",
+      "summary": "Council will consider a proposed bylaw that would set new levy rates on qualifying properties in the Commercial Drive Business Improvement Area (BIA). A BIA is a special zone where local property owners pay an extra levy (a type of tax) to fund improvements like street cleaning, marketing, and events. If approved, this bylaw would change how much property owners in the Commercial Drive BIA must pay. The exact new rates are not specified in the agenda item, but the decision is up for a vote at an upcoming council meeting.",
+      "action_required": "Watch for the council meeting date and attend or submit comments if you own property in the Commercial Drive BIA.",
+      "key_dates": [],
+      "industries": "Retail, Landlord & Property Mgmt, Food Service",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "By-law 24",
+      "source_body": "24.\tA By-law to levy rates on qualifying real property in the Commercial Drive Business Improvement Area",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.822397"
+    },
+    {
+      "id": 1279,
+      "title": "Proposed: New levy rates for Collingwood Business Improvement Area",
+      "summary": "Council will consider a bylaw that would set new levy rates on qualifying real property (commercial and industrial properties) in the Collingwood Business Improvement Area (BIA). If approved, property owners in the BIA would pay these new rates to fund local improvements and services. The decision is up for a vote at an upcoming council meeting.",
+      "action_required": "Watch for the council vote — if approved, your property levy could change. Contact your BIA for details.",
+      "key_dates": [],
+      "industries": "Retail, Landlord & Property Mgmt, Professional Services",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "By-law 23",
+      "source_body": "23.\tA By-law to levy rates on qualifying real property in the Collingwood Business Improvement Area",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.820858"
+    },
+    {
+      "id": 1278,
+      "title": "Proposed: New levy rates for Chinatown Business Improvement Area",
+      "summary": "Council will consider a proposed bylaw that would set new levy rates on qualifying real property (commercial and residential buildings that pay property tax) in Vancouver's Chinatown Business Improvement Area (BIA). A BIA is a defined area where local property owners pay an extra levy to fund improvements like street cleaning, marketing, and safety programs. If approved, this bylaw would determine how much property owners in Chinatown must pay for the upcoming year. The decision has not been made yet — council is set to vote on this at an upcoming meeting.",
+      "action_required": "Watch for the council vote — if approved, this bylaw will set your property levy rate for the year.",
+      "key_dates": [],
+      "industries": "Landlord & Property Mgmt, Retail, Food Service",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "By-law 22",
+      "source_body": "22.\tA By-law to levy rates on qualifying real property in the Chinatown Business Improvement Area",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.819410"
+    },
+    {
+      "id": 1277,
+      "title": "Proposed: New levy rates for Cambie Village businesses",
+      "summary": "Council will consider a bylaw that would set new levy rates on commercial properties in the Cambie Village Business Improvement Area (BIA). A BIA is a zone where local businesses pay an extra property levy to fund improvements like street cleaning, marketing, and events. If approved, this bylaw would change how much property owners in Cambie Village pay into the BIA. The proposed rates are not yet in effect — Council must vote on the bylaw first.",
+      "action_required": "Watch for the Council vote — if approved, the new levy rates will apply to your property tax bill.",
+      "key_dates": [],
+      "industries": "Retail, Food Service, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "By-law 21",
+      "source_body": "21.\tA By-law to levy rates on qualifying real property in the Cambie Village Business Improvement Area",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.817983"
+    },
+    {
+      "id": 1276,
+      "title": "Proposed: Housing agreement for 1770 West 12th Avenue",
+      "summary": "Council will consider a proposed bylaw to enact a Housing Agreement for the property at 1770 West 12th Avenue. A Housing Agreement is a legal contract between the city and a property owner that locks in certain conditions — in this case, it would likely require the owner to keep the housing affordable or meet specific rental rules for a set number of years. This is not yet approved; council is set to vote on it at an upcoming meeting.",
+      "action_required": "Watch for the council decision — if approved, this agreement could affect property owners or developers with similar sites in Vancouver.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "By-law 20",
+      "source_body": "20.\tA By-law to enact a Housing Agreement 1770 West 12th Avenue",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.816551"
+    },
+    {
+      "id": 1275,
+      "title": "Proposed: Housing agreement for 4975-4997 Joyce Street",
+      "summary": "Council will consider a bylaw to enact a Housing Agreement for the properties at 4975-4997 Joyce Street. A Housing Agreement is a legal contract between the city and a property owner that locks in certain conditions — in this case, it would likely require that the housing units built on this site remain affordable or be used for specific types of housing. This is a proposed decision and has not been approved yet.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "By-law 19",
+      "source_body": "19.\tA By-law to enact a Housing Agreement for 4975 – 4997 Joyce Street",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.815129"
+    },
+    {
+      "id": 1274,
+      "title": "Proposed: Housing agreement for Vanness and Clive Avenue properties",
+      "summary": "Council will consider enacting a Housing Agreement for properties at 3362-3384 Vanness Avenue and 3347 Clive Avenue. A Housing Agreement is a legal contract between the city and a property owner that locks in affordable rental rates or other housing commitments for a set period. This proposed bylaw would make those requirements official. The decision has not been made yet — it is up for approval at an upcoming council meeting.",
+      "action_required": "Watch for the council meeting date — if you live or own property nearby, you may want to attend or submit comments.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "By-law 18",
+      "source_body": "18.\tA By-law to enact a Housing Agreement for 3362-3384 Vanness Avenue and 3347 Clive Avenue",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.813696"
+    },
+    {
+      "id": 1273,
+      "title": "Proposed: Vancouver noise bylaw changes for new RR-3C district",
+      "summary": "Council is set to vote on a proposed bylaw that would remove the old RR-2C district and create a new RR-3C district. This change would update the Noise Control Bylaw (No. 6555) to match the new zoning rules. If approved, businesses and residents in the affected area would need to follow different noise rules. The exact boundaries and new noise limits are not yet public, but the proposal signals a shift in how the city manages noise in this zone.",
+      "action_required": "Watch for the council decision and any public hearing dates — this could change noise rules for your property or business.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt, Retail",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "By-law 17",
+      "source_body": "17.\tA By-law to amend Noise Control By-law No. 6555 regarding the repeal of the RR-2C district and the enactment of a new RR-3C district",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.812284"
+    },
+    {
+      "id": 1272,
+      "title": "Proposed: Vancouver to repeal RR-2C, create new RR-3C district",
+      "summary": "Council is set to vote on a proposed bylaw that would repeal the existing RR-2C district and replace it with a new RR-3C district. This change affects how land in these areas can be subdivided — meaning how a property can be split into smaller lots. If approved, the new RR-3C rules would apply instead of the old RR-2C rules. The exact details of what changes in the new district are not listed in this agenda item, so property owners in affected areas should watch for more information before the vote.",
+      "action_required": "Watch for the council meeting date and any public hearing notice — this could affect how you can subdivide your property.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "By-law 16",
+      "source_body": "16.\tA By-law to amend Subdivision By-law No. 5208 regarding the repeal of the RR-2C district and the enactment of a new RR-3C district",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.810865"
+    },
+    {
+      "id": 1271,
+      "title": "Proposed: Vancouver sign bylaw changes for new RR-3C district",
+      "summary": "Council will consider a proposed bylaw that would update Vancouver's Sign By-law. The change would remove the old RR-2C district and create a new RR-3C district with its own sign rules. This is a zoning-related update that could affect what signs businesses and properties in the new district are allowed to display. The decision has not been made yet — it is up for approval at a future council meeting.",
+      "action_required": "Watch for the council decision — this could affect sign rules for properties in the new RR-3C district.",
+      "key_dates": [],
+      "industries": "Construction & Development, Retail, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "By-law 15",
+      "source_body": "15.\tA By-law to amend Sign By-law No.11879 regarding the repeal of the RR-2C district and the enactment of a new RR-3C district",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.809450"
+    },
+    {
+      "id": 1270,
+      "title": "Proposed: Vancouver parking bylaw changes for new RR-3C zone",
+      "summary": "Council will consider a proposed bylaw that would repeal the existing RR-2C parking district and replace it with a new RR-3C district. This change would update parking requirements for properties in this zone. The decision has not been made yet — it is up for approval at a future council meeting.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "By-law 14",
+      "source_body": "14.\tA By-law to amend Parking By-law No. 6059 regarding the repeal of the RR-2C district and the enactment of a new RR-3C district",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.808020"
+    },
+    {
+      "id": 1269,
+      "title": "Proposed: Vancouver to replace RR-2C zoning with new RR-3C district",
+      "summary": "Council is set to vote on a proposed bylaw that would repeal the existing RR-2C zoning district and replace it with a new RR-3C district in Vancouver's Zoning and Development By-law. A zoning bylaw is the set of rules that controls what you can build and how you can use your property. If approved, this change would update the rules for properties currently in the RR-2C zone. The exact details of what would change are not yet public, but property owners in affected areas should watch for the council decision.",
+      "action_required": "Watch for the council vote date and review the proposed bylaw details to see if your property is affected.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "By-law 13",
+      "source_body": "13.\tA By-law to amend the Zoning and Development By-law No. 3575 regarding the repeal of the RR-2C district and the enactment of a new RR-3C district",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.806573"
+    },
+    {
+      "id": 1268,
+      "title": "Proposed: Vancouver to amend development approval procedure bylaw",
+      "summary": "Council is set to vote on a proposed bylaw that would make miscellaneous amendments to the Development Approval Procedure By-law No. 14357. This bylaw sets the rules for how development applications are processed in Vancouver. The proposed changes are described as 'miscellaneous amendments,' meaning they are small, housekeeping updates rather than a major overhaul. If approved, these changes could affect how developers and property owners submit and get approvals for building or renovation projects. The exact details of the amendments are not specified in the agenda item, so business owners should watch for the full bylaw text before the vote.",
+      "action_required": "Watch for the full text of the proposed bylaw before the council vote — it may contain changes that affect your development application process.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "By-law 12",
+      "source_body": "12.\tA By-law to amend Development Approval Procedure By-law No.14357 regarding miscellaneous amendments",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.805084"
+    },
+    {
+      "id": 1267,
+      "title": "Proposed: Vancouver vacancy tax change for new condo inventory",
+      "summary": "Council is set to vote on a proposed bylaw that would change the Vacancy Tax By-law. The change would create a new exemption for vacant new inventory — meaning newly built condos or homes that are unsold could be exempt from the empty homes tax. This is not yet approved. The decision is up for approval at a future council meeting, subject to a report being approved first.",
+      "action_required": "Watch for the council decision — if approved, this could affect developers and owners of new unsold units.",
+      "key_dates": [],
+      "industries": "Landlord & Property Mgmt, Construction & Development",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "By-law 11",
+      "source_body": "11.\tA By-law to amend the Vacancy Tax By-law No. 11674 regarding amendment to vacant new inventory exemption\nSubject to approval of Report 9",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.803668"
+    },
+    {
+      "id": 1266,
+      "title": "Proposed: Amend CD-1 zoning bylaw for Arbutus and Yew Street properties",
+      "summary": "Council will consider a bylaw to amend the Comprehensive Development (CD-1) Bylaw No. 4078 for properties at 4615 and 4683-4701 Arbutus Street, 4620-4676 Yew Street, and 2105 West 32nd Avenue. A CD-1 bylaw is a special zoning rule for a specific site. This proposed change would update the rules for that area. The vote is tied to approval of another bylaw (By-law 9). The decision has not been made yet.",
+      "action_required": "Watch for the council vote — if approved, this could affect development or land use on these properties.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "By-law 10",
+      "source_body": "10.\tA By-law to amend CD-1 (26) By-law No. 4078 (4615 and 4683-4701 Arbutus Street 4620-4676 Yew Street, and 2105 West 32nd Avenue)\nSubject to approval of By-law 9\n(All Council members eligible to vote)",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.802231"
+    },
+    {
+      "id": 1265,
+      "title": "Proposed: Rezone 4615 Arbutus Street from CD-1 (26) to RR-3B",
+      "summary": "Council will consider a proposed bylaw to rezone the property at 4615 Arbutus Street. The change would switch the zoning from CD-1 (26), which is a special 'Comprehensive Development' zone with its own unique rules, to RR-3B, a standard 'Residential' zone. This is a proposed change only — it has not been approved yet. All Council members are eligible to vote on this item.",
+      "action_required": "If you own or operate a business near 4615 Arbutus Street, watch for the council vote — this rezoning could affect future development or property use in the area.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "By-law 9",
+      "source_body": "9.\tA By-law to amend Zoning and Development By-law No. 3575 to rezone an area from CD-1 (26) to RR-3B (4615 Arbutus Street)\n(All Council members eligible to vote)",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.800798"
+    },
+    {
+      "id": 1264,
+      "title": "Proposed: Vancouver council to amend CD-1 bylaw for 133-159 West 49th Avenue",
+      "summary": "Vancouver City Council is set to vote on a proposed bylaw that would amend the existing Comprehensive Development (CD-1) zoning for the property at 133-159 West 49th Avenue (formerly 131-163 West 49th Avenue). A CD-1 bylaw is a special zoning rule created for a specific development site. This amendment would change the rules for what can be built or done on that property. The decision has not been made yet — council will consider the proposal at an upcoming meeting.",
+      "action_required": "If you own or operate a business at this address, attend the council meeting or public hearing to learn how the changes could affect your property.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "By-law 8",
+      "source_body": "8.\tA By-law to amend CD-1 (847) By-law No. 13626 (133-159 West 49th Avenue (Formerly 131-163 West 49th Avenue)",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.799299"
+    },
+    {
+      "id": 1263,
+      "title": "Proposed: Vancouver council to vote on CD-1 bylaw amendment for Prior Street and Malkin Avenue",
+      "summary": "Council is set to vote on a proposed bylaw that would amend the existing CD-1 (915) zoning bylaw for properties at 450-492 Prior Street, 510-550 Malkin Avenue, 1002 Station Street, and 1050 Gore Avenue in Vancouver. This is a proposed change — it has not been approved yet. The amendment would alter the rules for what can be built or done on these specific properties. If passed, it could affect development plans or property use in this area.",
+      "action_required": "Watch for the council vote date — this decision could affect development or property use at these addresses.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "By-law 7",
+      "source_body": "7.\tA By-law to amend CD-1 (915) By-law No. 14566 (450-492 Prior Street, 510-550 Malkin  Avenue, 1002 Station Street and 1050 Gore Avenue)\n(Councillors Bligh, Fry, Kirby-Yung and Mayor Sim will need to review the proceedings to be eligible to vote)",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.797815"
+    },
+    {
+      "id": 1262,
+      "title": "Proposed: Rezone 2158-2170 West 1st Avenue to CD-1",
+      "summary": "Council is set to vote on a proposed bylaw that would rezone two properties at 2158-2170 West 1st Avenue to a Comprehensive Development (CD-1) zone. A CD-1 zone is a custom zoning district created for a specific development project, rather than following standard city-wide rules. This means the owner of these properties is asking for special permission to build something that doesn't fit the current zoning. The decision has not been made yet — Council will consider and vote on this proposal at an upcoming meeting.",
+      "action_required": "Attend the public hearing or submit a written comment to Council before the vote to have your say on this rezoning.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "By-law 6",
+      "source_body": "6.\tA By-law to amend Zoning and Development By-law No. 3575 to rezone an area to CD-1 (2158-2170 West 1st Avenue)\n(Councillor Bligh will need to review the proceedings to be eligible to vote)",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.796300"
+    },
+    {
+      "id": 1261,
+      "title": "Proposed: Rezone Granville Street properties from R1-1 to RR-2B",
+      "summary": "Council is set to vote on a proposed bylaw that would rezone 5238-5262 Granville Street and 1495 West 37th Avenue from R1-1 (single-family) to RR-2B (a different residential zone). This is a proposed change only — it has not been approved yet. If passed, the new zoning could allow different types of housing or development on these properties. The vote is open to all Council members.",
+      "action_required": "Watch for the council decision — this rezoning could affect property use and development options at this location.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "By-law 5",
+      "source_body": "5.\tA By-law to amend Zoning and Development By-law No. 3575 to rezone an area from R1-1 to RR-2B (5238-5262 Granville Street and 1495 West 37th Avenue)\n(All Council members eligible to vote)",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.794826"
+    },
+    {
+      "id": 1260,
+      "title": "Proposed: Vancouver council to repeal housing agreement for Heather Lands Parcel F",
+      "summary": "Vancouver City Council is set to vote on a proposed bylaw that would repeal an existing housing agreement for a property known as Parcel F, located at 4949-5255 Heather Street and 657-707 West 37th Avenue. A housing agreement is a legal contract that sets rules for how a property can be used, often requiring it to be used for affordable housing. If approved, this repeal would remove those rules, potentially allowing the developer to change the use of the land. This is a proposed decision only — it has not been approved yet.",
+      "action_required": "Watch for the council vote on this proposed bylaw — the outcome could affect future development and housing on this site.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "By-law 4",
+      "source_body": "4.\tA By-law to repeal By-law No. 14173 authorizing a Housing Agreement for 4949 - 5255 Heather Street and 657 – 707 West 37th Avenue – Parcel F\nSubject to approval of By-law 1",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.793347"
+    },
+    {
+      "id": 1259,
+      "title": "Proposed: Vancouver council to repeal housing agreement for Heather Lands Parcel B",
+      "summary": "Vancouver City Council is set to vote on a proposed bylaw that would repeal an existing housing agreement for a property known as Parcel B, located at 4949-5255 Heather Street and 657-707 West 37th Avenue. A housing agreement is a legal contract that sets rules about how a property can be used, often requiring affordable housing. If approved, this repeal would remove those rules for this specific parcel, potentially changing what can be built or how the land is used. This is a proposed decision — it has not been approved yet.",
+      "action_required": "Watch for the council decision — this could affect development plans for the Heather Lands site.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "By-law 3",
+      "source_body": "3.\tA By-law to repeal By-law No. 14172 authorizing a Housing Agreement for 4949 - 5255 Heather Street and 657 – 707 West 37th Avenue – Parcel B\nSubject to approval of By-law 1",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.791841"
+    },
+    {
+      "id": 1258,
+      "title": "Proposed: Repeal of CD-1 (881) bylaw for Heather Lands development",
+      "summary": "Vancouver City Council is set to vote on a proposed bylaw that would repeal the existing Comprehensive Development (CD-1) zoning bylaw for the Heather Lands site at 4949-5255 Heather Street and 657 West 37th Avenue. A CD-1 bylaw is a special zoning rule that allows a specific development plan. Repealing it would remove the current development permissions for this site. This is a proposed change only — it has not been approved yet. Council will consider this repeal alongside another related bylaw.",
+      "action_required": "Watch for the council vote — this decision could affect development plans for the Heather Lands site.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "By-law 2",
+      "source_body": "2.\tA By-law to Repeal CD-1 (881) By-law No. 14247 (4949-5255 Heather Street and 657 West 37th Avenue)\nSubject to approval of By-law 1\n(All Council members eligible to vote)",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.790331"
+    },
+    {
+      "id": 1257,
+      "title": "Proposed: Rezone Heather Lands (South) to CD-1 in Vancouver",
+      "summary": "Council is set to vote on a proposed bylaw that would rezone a large area of land in Vancouver (4911-5255 Heather Street, 637-657 West 37th Avenue, and 620-689 West 35th Avenue) to a Comprehensive Development (CD-1) zone. A CD-1 zone is a custom zoning category that allows the city to set specific rules for a particular site, rather than using standard zoning. This proposal is not yet approved — it is up for a vote by all eligible Council members.",
+      "action_required": "Watch for the council vote — if approved, this could affect future development or property use in the area.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "By-law 1",
+      "source_body": "1.\tA By-law to amend Zoning and Development By-law No. 3575 to rezone an area to CD-1 (Heather Lands (South): 4911-5255 Heather Street, 637-657 West 37th Avenue, and 620-689 West 35th Avenue)\n(All Council members eligible to vote)",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.788774"
+    },
+    {
+      "id": 1256,
+      "title": "Proposed: CD-1 Rezoning at 1905 Ogden Avenue",
+      "summary": "Council will consider referring a rezoning application for 1905 Ogden Avenue to a public hearing. The proposal would rezone the site from R1-1 to CD-1 to allow a museum/archive use for the existing Vancouver Maritime Museum and a beauty and wellness centre on a floating barge (870 sq. m, 12.1 m height above water line) at Heritage Harbour Marina. The maximum building height would increase from 11.5 m to 27.0 m. The application is by the City of Vancouver as registered owner.",
+      "action_required": "Attend the public hearing on June 2, 2026, to provide input on the proposed rezoning.",
+      "key_dates": [
+        {
+          "label": "Public hearing — CD-1 rezoning at 1905 Ogden Avenue",
+          "date": "2026-06-02"
+        }
+      ],
+      "industries": "Construction & Development, Landlord & Property Mgmt, Spa & Wellness",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "Referral 11",
+      "source_body": "11.\tCD-1 Rezoning: 1905 Ogden Avenue\nReferral Report",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/rr11.pdf",
+          "title": "11.\tCD-1 Rezoning: 1905 Ogden Avenue — Referral Report"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/bylaws1to20.pdf",
+          "title": "11.\tCD-1 Rezoning: 1905 Ogden Avenue — By-laws 1 to 20"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/bylaws21to42.pdf",
+          "title": "11.\tCD-1 Rezoning: 1905 Ogden Avenue — By-laws 21 to 42"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.787210"
+    },
+    {
+      "id": 1255,
+      "title": "Proposed: Council to vote on conditions for 450-496 Prior Street development",
+      "summary": "Vancouver City Council will consider a proposal to replace the previously secured 6,500 sq. ft. light industrial artist production space (valued at $5M) with a $5M cash Community Amenity Contribution for the 450-496 Prior Street development. The cash CAC must be paid by August 7, 2026. If approved, the cultural space would be converted to commercial/retail uses. The proposal is referred to a Public Hearing for June 2, 2026.",
+      "action_required": "Watch for the Public Hearing date and council decision — this could affect development plans for these properties.",
+      "key_dates": [
+        {
+          "label": "Public Hearing — proposed CAC modification for 450-496 Prior Street",
+          "date": "2026-06-02"
+        },
+        {
+          "label": "Cash CAC payment deadline if approved",
+          "date": "2026-08-07"
+        }
+      ],
+      "industries": "Construction & Development",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "Referral 10",
+      "source_body": "10.\tModification to Conditions of Approval and By-law Enactment for 450-496 Prior Street, 550 Malkin Avenue, 1002 Station Street and 1050 Gore Avenue\nReferral Report\n*\n(revised May 29, 2026)",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/rr10.pdf",
+          "title": "10.\tModification to Conditions of Approval and By-law Enactment for 450-496 Prior Street, 550 Malkin Avenue, 1002 Station Street and 1050 Gore Avenue "
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.785742"
+    },
+    {
+      "id": 1254,
+      "title": "Proposed: CD-1 Rezoning at 75 East 8th Avenue",
+      "summary": "Council will consider a proposed rezoning at 75 East 8th Avenue from I-1 (Industrial) to CD-1 (Comprehensive Development) to allow a 21-storey mixed-use hotel with 190 hotel units and two storeys of industrial space. The maximum floor space ratio would increase from 3.0 to 12.1 and maximum building height from 30.5 m (100 ft.) to 72.0 m (236 ft.). The application by Musson Cattell Mackey Partnership on behalf of MacGyver Manor Holdings Ltd. has been recommended for referral to a Public Hearing.",
+      "action_required": "Watch for the public hearing date if you own or plan to develop this property — this is your chance to have a say.",
+      "key_dates": [
+        {
+          "label": "Council meeting to consider referral to public hearing",
+          "date": "2026-06-02"
+        }
+      ],
+      "industries": "Construction & Development, Landlord & Property Mgmt, Hotel & Accommodation",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "Referral 9",
+      "source_body": "9.\tCD-1 Rezoning: 75 East 8th Avenue\nReferral Report",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/rr9.pdf",
+          "title": "9.\tCD-1 Rezoning: 75 East 8th Avenue — Referral Report"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.784252"
+    },
+    {
+      "id": 1253,
+      "title": "Proposed: Rezoning and ODP amendment at 809 West 41st Avenue",
+      "summary": "Vancouver City Council referred a proposal to public hearing to rezone 809 West 41st Avenue and amend the Official Development Plan. The plan would allow a 32-storey mixed-use building with 305 rental units (20% below-market), ground-floor commercial, seventh-floor office and childcare space, a floor space ratio of 14.32, and a height of 102.2 m (335 ft). The proposal has not been approved yet.",
+      "action_required": "Watch for the public hearing date — this rezoning could affect nearby property values and development potential.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "Referral 8",
+      "source_body": "8.\tVancouver ODP Amendment and CD-1 Rezoning: 809 West 41st Avenue\nReferral Report",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/rr8.pdf",
+          "title": "8.\tVancouver ODP Amendment and CD-1 Rezoning: 809 West 41st Avenue — Referral Report"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.782770"
+    },
+    {
+      "id": 1252,
+      "title": "Proposed: Vancouver ODP and CD-1 amendment for Jewish Community Centre",
+      "summary": "Council will consider referring a proposed amendment to the Official Development Plan (ODP) and CD-1 (285) zoning for 940-950 West 41st Avenue to public hearing. The proposal would increase maximum floor space ratio from 4.49 to 5.77 and maximum building height from 289 ft. to 446 ft., permitting two towers (39 and 37 storeys) with 630 rental units (at least 20% non-profit operated), a private childcare, a private school, and a replacement Jewish Community Centre. The decision has not been made yet.",
+      "action_required": "Watch for the council decision on June 2, 2026 and any upcoming public hearing dates — this could affect development plans in the area.",
+      "key_dates": [
+        {
+          "label": "Vancouver City Council referral vote — ODP and CD-1 amendment",
+          "date": "2026-06-02"
+        }
+      ],
+      "industries": "Construction & Development",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "Referral 7",
+      "source_body": "7.\tVancouver ODP Amendment and CD-1 (285) Amendment: 940-950 West 41st Avenue (Jewish Community Centre)\nReferral Report",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/rr7.pdf",
+          "title": "7.\tVancouver ODP Amendment and CD-1 (285) Amendment: 940-950 West 41st Avenue (Jewish Community Centre) — Referral Report"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.781282"
+    },
+    {
+      "id": 1251,
+      "title": "Proposed: Rezoning for mixed-use development at Kingsway and East 33rd",
+      "summary": "Vancouver City Council is set to vote on a proposed rezoning and Official Development Plan (ODP) amendment for properties at 2396-2400 Kingsway and 2441-2493 East 33rd Avenue. The proposal would change the land-use rules to allow a mixed-use development with four residential towers, a maximum floor area of 68,150 sq. m (733,560 sq. ft.), a maximum building height of 97 m (318 ft.), 863 secured rental units, ground-floor commercial space, a social service centre, and a childcare facility. The existing 2400 Motel heritage sign would be added to the Vancouver Heritage Register. This is not yet approved — Council will consider the plan at a public hearing.",
+      "action_required": "Attend the public hearing or submit written comments to Council before the vote to share your support or concerns.",
+      "key_dates": [
+        {
+          "label": "Council vote on Kingsway rezoning proposal",
+          "date": "2025-06-17"
+        }
+      ],
+      "industries": "Construction & Development, Retail, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "Referral 6",
+      "source_body": "6.\tVancouver ODP Amendment and CD-1 Rezoning: 2396-2400 Kingsway and 2441-2493 East 33rd Avenue\nReferral Report",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/rr6.pdf",
+          "title": "6.\tVancouver ODP Amendment and CD-1 Rezoning: 2396-2400 Kingsway and 2441-2493 East 33rd Avenue — Referral Report"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.779787"
+    },
+    {
+      "id": 1250,
+      "title": "Proposed: Rezoning at 1683-1691 East Pender and 485 Commercial Drive",
+      "summary": "Vancouver City Council is set to vote on a proposed Official Development Plan (ODP) amendment and rezoning for 1683-1691 East Pender Street and 485 Commercial Drive. The proposal would change the land-use designation to Residential High-Rise 1 and rezone from MC-1 (Industrial) to CD-1 (Comprehensive Development) to allow a 21-storey residential rental building with 236 rental units (14,326 sq. m) and a six-storey mixed-use building with 40 social housing units and a social service centre (3,585 sq. m). The site would be subdivided for separate ownership.",
+      "action_required": "Attend the public hearing or submit your comments to Council before the vote.",
+      "key_dates": [
+        {
+          "label": "Public hearing — proposed ODP amendment and rezoning at 1683-1691 East Pender and 485 Commercial Drive",
+          "date": "2026-06-02"
+        }
+      ],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "Referral 5",
+      "source_body": "5.\tVancouver ODP Amendment and CD-1 Rezoning: 1683-1691 East Pender Street and 485 Commercial Drive\nReferral Report",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/rr5.pdf",
+          "title": "5.\tVancouver ODP Amendment and CD-1 Rezoning: 1683-1691 East Pender Street and 485 Commercial Drive — Referral Report"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.778310"
+    },
+    {
+      "id": 1249,
+      "title": "Proposed: Vancouver General Hospital zoning text amendment",
+      "summary": "Council will consider a text amendment to CD-1(59) zoning for Vancouver General Hospital to increase maximum floor space ratio from 2.60 to 2.65, increase maximum site coverage from 55% to 60%, amend FSR exclusions, and update parking requirements. This would permit an 11-storey institutional building (approx. 34,000 sq. m) with new emergency and inpatient care at 818-990 West 10th Ave and 803-899 West 12th Ave, plus a temporary cycling centre at 2785 Ash St. The amendment has not been approved yet.",
+      "action_required": "Watch for the council decision on this zoning amendment — it could affect future development or contracts near Vancouver General Hospital.",
+      "key_dates": [
+        {
+          "label": "VGH zoning amendment council meeting",
+          "date": "2026-06-02"
+        }
+      ],
+      "industries": "Healthcare, Construction & Development",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "Referral 4",
+      "source_body": "4.\tCD-1(59) Text Amendment: Vancouver General Hospital\nReferral Report",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/rr4.pdf",
+          "title": "4.\tCD-1(59) Text Amendment: Vancouver General Hospital — Referral Report"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.776813"
+    },
+    {
+      "id": 1248,
+      "title": "Proposed: Rezoning and ODP amendment at 6333-6369 Yukon Street, Vancouver",
+      "summary": "Vancouver City Council is set to vote on a proposal to amend the Official Development Plan (ODP) and rezone the properties at 6333-6369 Yukon Street from R1-1 (Residential) to CD-1 (Comprehensive Development) District. The proposal would increase the maximum floor space ratio from 0.6 to 6.55 and maximum building height from 11.5 m (37.72 ft.) to 70 m (230 ft.) to permit a 23-storey residential building with 276 rental units. This is a referral report; council is considering whether to move the proposal to a Public Hearing. The decision has not been made yet.",
+      "action_required": null,
+      "key_dates": [
+        {
+          "label": "Vancouver City Council vote on referral to Public Hearing — 6333-6369 Yukon Street rezoning",
+          "date": "2026-06-02"
+        }
+      ],
+      "industries": "Construction & Development",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "Referral 3",
+      "source_body": "3.\tVancouver ODP Amendment and CD-1 Rezoning: 6333-6369 Yukon Street\nReferral Report",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/rr3.pdf",
+          "title": "3.\tVancouver ODP Amendment and CD-1 Rezoning: 6333-6369 Yukon Street — Referral Report"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.775307"
+    },
+    {
+      "id": 1247,
+      "title": "Proposed: Vancouver council to vote on Molson Brewery site redevelopment plan",
+      "summary": "Vancouver City Council will vote on June 2, 2026 on a staff recommendation to rezone the former Molson Brewery site (1550 Burrard Street and 1655 West 1st Avenue) from Industrial and Employment to Mixed-Use High-Rise 2, and to change its regional designation from Industrial to General Urban. If approved, the change would allow a future rezoning application for mixed-use redevelopment including new job space, residential uses, and public amenities. The site is no longer considered suitable for heavy industrial use due to proximity to the Sen̓áḵw development and lack of truck/rail access.",
+      "action_required": "Attend the public hearing or submit written comments before council votes on June 2, 2026.",
+      "key_dates": [
+        {
+          "label": "Council vote on Molson Brewery site ODP amendments — Vancouver",
+          "date": "2026-06-02"
+        }
+      ],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "Referral 2",
+      "source_body": "2.\tVancouver Official Development Plan and Regional Context Statement Amendments for Former Molson Brewery Site\nReferral Report",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/rr2.pdf",
+          "title": "2.\tVancouver Official Development Plan and Regional Context Statement Amendments for Former Molson Brewery Site — Referral Report"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.773749"
+    },
+    {
+      "id": 1246,
+      "title": "Proposed: Vancouver Villages Plan and rezoning rules up for council vote",
+      "summary": "Council will consider a proposed 'Villages Planning Program' that would create new plans and zoning rules for Vancouver's village areas. A proposed bylaw would change the Official Development Plan (the city's main planning document) and rezone certain properties. If approved, this could affect what types of businesses are allowed, building heights, and development rules in these neighbourhoods. The decision has not been made yet — council is set to vote on the referral report at an upcoming meeting.",
+      "action_required": "Watch for the public hearing date — this could affect your property or business if you are in a designated village area.",
+      "key_dates": [],
+      "industries": "Construction & Development, Retail, Food Service",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "Referral 1",
+      "source_body": "1.\tVillages Planning Program – Villages Plan, City-initiated Rezoning and Vancouver Official Development Plan Amendments\nReferral Report",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260602/documents/rr1.pdf",
+          "title": "1.\tVillages Planning Program – Villages Plan, City-initiated Rezoning and Vancouver Official Development Plan Amendments — Referral Report"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260602/regu20260602ag.htm",
+      "article_title": "Revised Regular Council Revised Agenda — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-02T00:10:48.772239"
+    }
+  ],
+  "minutes_briefs": []
+}
