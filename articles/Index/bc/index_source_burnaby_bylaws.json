@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-02T21:16:10.332924+00:00",
-  "count": 12,
+  "generated_at": "2026-06-03T08:58:09.652766+00:00",
+  "count": 13,
   "articles": [
     {
       "article_id": 64,
@@ -297,6 +297,42 @@
           "title": "Burnaby approves housing agreement for 5 non-market rental buildings at Lougheed Highway and Alpha Avenue",
           "source_label": "Burnaby Bylaws",
           "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 105,
+      "path": "2026/06/03/105_burnaby-bylaws_bylaw-14797-business-improvement-area-burnaby-nort.json",
+      "article_url": "https://bylaws.burnaby.ca/en/permalink/bylaw26108",
+      "article_title": "Bylaw 14797 — Business Improvement Area (Burnaby North Road) Bylaw 2026",
+      "source": "burnaby_bylaws",
+      "source_label": "Burnaby Bylaws",
+      "government_level": "Municipal",
+      "source_website_icon": "https://bylaws.burnaby.ca",
+      "meeting_type": null,
+      "article_published_at": null,
+      "created_at": "2026-06-03T08:58:07.954576",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Food Service, Professional Services, Retail",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 1302,
+          "title": "Burnaby North Road Business Improvement Area (BIA) created — new levy for local businesses",
+          "source_label": "Burnaby Bylaws",
+          "key_dates": [
+            {
+              "label": "Burnaby North Road BIA levy takes effect",
+              "date": "2026-01-01"
+            }
+          ],
           "is_proposal": false
         }
       ]
