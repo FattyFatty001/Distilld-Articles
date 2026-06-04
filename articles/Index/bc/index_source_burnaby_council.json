@@ -1,131 +1,7 @@
 {
-  "generated_at": "2026-06-04T19:04:17.037275+00:00",
+  "generated_at": "2026-06-04T22:38:26.439277+00:00",
   "count": 24,
   "articles": [
-    {
-      "article_id": 107,
-      "path": "2026/06/09/107_burnaby-council_council-correspondence-and-public-notice-submissio.json",
-      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=dafa4248-cade-42eb-b4c4-bc40b6690f20&lang=English",
-      "article_title": "Council Correspondence and Public Notice Submissions — June 09, 2026",
-      "source": "burnaby_council",
-      "source_label": "Burnaby Council",
-      "government_level": "Municipal",
-      "source_website_icon": "https://burnaby.ca",
-      "meeting_type": "correspondence",
-      "article_published_at": "2026-06-09T00:00:00",
-      "created_at": "2026-06-04T19:04:14.727842",
-      "has_attachments": false,
-      "has_pdf": false,
-      "has_html": false,
-      "has_agenda": true,
-      "has_minutes": false,
-      "agenda_brief_count": 11,
-      "minutes_brief_count": 0,
-      "industries": "Construction & Development, Food Service, Hotel & Accommodation, Labour & Employment, Landlord & Property Mgmt, Natural Resources, Professional Services, Recreation & Leisure, Retail",
-      "locations": "British Columbia, Burnaby, Delta, Langley, Surrey, Victoria",
-      "briefs": [
-        {
-          "id": 1336,
-          "title": "Proposed: Temporary Use Permit for Southside Community Church at 7375 Kingsway",
-          "source_label": "Burnaby Council",
-          "key_dates": [
-            {
-              "label": "Comment deadline for TUP #26-06 — Burnaby",
-              "date": "2026-05-25"
-            },
-            {
-              "label": "Council meeting for TUP #26-06 — Burnaby",
-              "date": "2026-05-26"
-            }
-          ],
-          "is_proposal": true
-        },
-        {
-          "id": 1335,
-          "title": "Proposed: Council to vote on rejecting Chemtrade Logistics Inc. proposal",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 1334,
-          "title": "Proposed: Burnaby Council to vote on Michael J. Fox Theatre closure",
-          "source_label": "Burnaby Council",
-          "key_dates": [
-            {
-              "label": "Burnaby Council meeting — Michael J. Fox Theatre closure vote",
-              "date": "2025-05-12"
-            }
-          ],
-          "is_proposal": true
-        },
-        {
-          "id": 1333,
-          "title": "Proposed: Burnaby Council to consider aircraft noise over North Burnaby",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 1332,
-          "title": "Proposed: Saanich to consider Local Government Climate Action Program funding",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 1331,
-          "title": "Proposed: Central Saanich letter to Minister on housing and municipal affairs",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 1330,
-          "title": "Proposed: Metro Vancouver wastewater rule changes for South of Fraser",
-          "source_label": "Burnaby Council",
-          "key_dates": [
-            {
-              "label": "Comment period closes for proposed Metro 2050 amendment",
-              "date": "2026-07-10"
-            },
-            {
-              "label": "Deadline for member jurisdictions to request new SSAs",
-              "date": "2027-12-31"
-            }
-          ],
-          "is_proposal": true
-        },
-        {
-          "id": 1329,
-          "title": "Proposed: BC Budget 2027 consultation — have your say",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 1328,
-          "title": "Proposed: Daycare access, parking, and FIFA impacts at Christine Sinclair Community Centre",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 1327,
-          "title": "Proposed: Scheduling changes at Kensington Outdoor Pool in Burnaby",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 1326,
-          "title": "Proposed: Burnaby Council to consider oversized developments in North Burnaby",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        }
-      ]
-    },
     {
       "article_id": 106,
       "path": "2026/06/09/106_burnaby-council_city-council-meeting-june-09-2026.json",
@@ -137,17 +13,38 @@
       "source_website_icon": "https://burnaby.ca",
       "meeting_type": "regular-council",
       "article_published_at": "2026-06-09T00:00:00",
-      "created_at": "2026-06-04T19:02:30.254263",
+      "created_at": "2026-06-04T22:38:24.676380",
       "has_attachments": false,
       "has_pdf": false,
       "has_html": false,
       "has_agenda": true,
       "has_minutes": false,
-      "agenda_brief_count": 23,
+      "agenda_brief_count": 26,
       "minutes_brief_count": 0,
       "industries": "Construction & Development, Food Service, Landlord & Property Mgmt, Professional Services, Retail, Technology, Transportation & Logistics",
       "locations": "Burnaby",
       "briefs": [
+        {
+          "id": 1339,
+          "title": "Proposed: Burnaby housing agreement for non-market rental at Marine/Byrnepark",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1338,
+          "title": "Proposed: Housing agreement for non-market rental at Newcombe St",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1337,
+          "title": "Proposed: Burnaby to vote on fee changes for development procedures",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
         {
           "id": 1325,
           "title": "Proposed: Housing agreement for non-market rental at 6203 Marine & 6292 Byrnepark",
@@ -328,6 +225,130 @@
         {
           "id": 1303,
           "title": "Proposed: New Burnaby Sign Bylaw and enforcement amendments",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        }
+      ]
+    },
+    {
+      "article_id": 107,
+      "path": "2026/06/09/107_burnaby-council_council-correspondence-and-public-notice-submissio.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=dafa4248-cade-42eb-b4c4-bc40b6690f20&lang=English",
+      "article_title": "Council Correspondence and Public Notice Submissions — June 09, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://burnaby.ca",
+      "meeting_type": "correspondence",
+      "article_published_at": "2026-06-09T00:00:00",
+      "created_at": "2026-06-04T19:04:14.727842",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 11,
+      "minutes_brief_count": 0,
+      "industries": "Construction & Development, Food Service, Hotel & Accommodation, Labour & Employment, Landlord & Property Mgmt, Natural Resources, Professional Services, Recreation & Leisure, Retail",
+      "locations": "British Columbia, Burnaby, Delta, Langley, Surrey, Victoria",
+      "briefs": [
+        {
+          "id": 1336,
+          "title": "Proposed: Temporary Use Permit for Southside Community Church at 7375 Kingsway",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Comment deadline for TUP #26-06 — Burnaby",
+              "date": "2026-05-25"
+            },
+            {
+              "label": "Council meeting for TUP #26-06 — Burnaby",
+              "date": "2026-05-26"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1335,
+          "title": "Proposed: Council to vote on rejecting Chemtrade Logistics Inc. proposal",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1334,
+          "title": "Proposed: Burnaby Council to vote on Michael J. Fox Theatre closure",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council meeting — Michael J. Fox Theatre closure vote",
+              "date": "2025-05-12"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1333,
+          "title": "Proposed: Burnaby Council to consider aircraft noise over North Burnaby",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1332,
+          "title": "Proposed: Saanich to consider Local Government Climate Action Program funding",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1331,
+          "title": "Proposed: Central Saanich letter to Minister on housing and municipal affairs",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1330,
+          "title": "Proposed: Metro Vancouver wastewater rule changes for South of Fraser",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Comment period closes for proposed Metro 2050 amendment",
+              "date": "2026-07-10"
+            },
+            {
+              "label": "Deadline for member jurisdictions to request new SSAs",
+              "date": "2027-12-31"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1329,
+          "title": "Proposed: BC Budget 2027 consultation — have your say",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1328,
+          "title": "Proposed: Daycare access, parking, and FIFA impacts at Christine Sinclair Community Centre",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1327,
+          "title": "Proposed: Scheduling changes at Kensington Outdoor Pool in Burnaby",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1326,
+          "title": "Proposed: Burnaby Council to consider oversized developments in North Burnaby",
           "source_label": "Burnaby Council",
           "key_dates": [],
           "is_proposal": true
