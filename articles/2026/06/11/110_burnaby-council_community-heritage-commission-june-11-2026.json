@@ -1,0 +1,144 @@
+{
+  "article_id": 110,
+  "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ea9fd54d-9b00-4ed3-9e1a-fe3b7a6ab698&lang=English",
+  "article_title": "Community Heritage Commission — June 11, 2026",
+  "source": "burnaby_council",
+  "source_label": "Burnaby Council",
+  "government_level": "Municipal",
+  "source_website_icon": "https://burnaby.ca",
+  "meeting_type": "heritage",
+  "article_published_at": "2026-06-11T00:00:00",
+  "has_attachments": true,
+  "has_pdf": true,
+  "has_html": false,
+  "has_agenda": true,
+  "has_minutes": false,
+  "agenda_brief_count": 3,
+  "minutes_brief_count": 0,
+  "pdf_urls": "[{\"url\": \"https://pub-burnaby.escribemeetings.com/FileStream.ashx?DocumentId=90407\", \"title\": \"Agenda (PDF)\"}]",
+  "body": "",
+  "agenda_briefs": [
+    {
+      "id": 1340,
+      "title": "Proposed: Burnaby Archives acquires historic Bungoro Tonegawa photograph",
+      "summary": "Council will consider a verbal report on a new acquisition by the Burnaby Archives: a historic photograph by Bungoro Tonegawa. This is a proposed decision to accept the photograph into the city's collection. The report is meant to inform the Commission about the item. No bylaw or regulation change is involved — this is about adding a piece of local history to the archives.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "7.1",
+      "source_body": "7.1\nVERBAL REPORT: NEW ACQUISITION: BUNGORO TONEGAWA PHOTOGRAPH\nPurpose: To provide Commission with information about a historic photograph recently acquired by the Archives.",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ea9fd54d-9b00-4ed3-9e1a-fe3b7a6ab698&lang=English",
+      "article_title": "Community Heritage Commission Agenda — June 11, 2026",
+      "article_published_at": "2026-06-11T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-06-05T17:40:19.769463"
+    },
+    {
+      "id": 1341,
+      "title": "Proposed: Burnaby to consider new heritage sign for Kapoor Singh Siddoo",
+      "summary": "A Provincial 'Stop of Interest' sign for Kapoor Singh Siddoo has been installed at Barnet Marine Park. An unveiling event is being planned. The sign recognizes Kapoor Singh Siddoo, founder of Kapoor Sawmills Limited and advocate for South Asian rights. The sign was fabricated and installed by the Province through a nomination process.",
+      "action_required": "Watch for details on the unveiling event for the Kapoor Singh Siddoo sign at Barnet Marine Park.",
+      "key_dates": [],
+      "industries": "Professional Services",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "7.2",
+      "source_body": "7.2\nHERITAGE PROGRAM INITIATIVES\n1.\nHeritage Program Initiatives 2026-06-11.pdf\n2.\nAttachment 1 – Kapoor Singh Siddoo Stop of Interest Sign 2026-06-11.pdf\nPurpose:\nTo provide an update on heritage program initiatives.",
+      "attachments": [
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=90402",
+          "title": "Heritage Program Initiatives 2026-06-11.pdf"
+        },
+        {
+          "url": "https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=90403",
+          "title": "Attachment 1 – Kapoor Singh Siddoo Stop of Interest Sign 2026-06-11.pdf"
+        }
+      ],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ea9fd54d-9b00-4ed3-9e1a-fe3b7a6ab698&lang=English",
+      "article_title": "Community Heritage Commission Agenda — June 11, 2026",
+      "article_published_at": "2026-06-11T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-06-05T17:40:19.772488"
+    },
+    {
+      "id": 1342,
+      "title": "Proposed: Burnaby to host 2026 Heritage BC Conference",
+      "summary": "Council will consider a proposal to support the 2026 Heritage BC Conference, which would be hosted in Burnaby. A presentation from the Community Heritage Commission will outline the benefits and logistics of bringing this provincial heritage conference to the city. This is an early-stage proposal — no final decision has been made yet.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Professional Services",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "9.1",
+      "source_body": "9.1\nUpdate on 2026 Heritage BC Conference\nPresentation by Paul Kwon and Paddy Murphy, Community Heritage Commission Members",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=ea9fd54d-9b00-4ed3-9e1a-fe3b7a6ab698&lang=English",
+      "article_title": "Community Heritage Commission Agenda — June 11, 2026",
+      "article_published_at": "2026-06-11T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-06-05T17:40:19.775938"
+    }
+  ],
+  "minutes_briefs": [],
+  "_skipped": [
+    {
+      "item_number": "1",
+      "headline": "Call to Order",
+      "reason": "procedural"
+    },
+    {
+      "item_number": "2",
+      "headline": "Territorial Acknowledgement",
+      "reason": "procedural"
+    },
+    {
+      "item_number": "3",
+      "headline": "Adoption of Agenda",
+      "reason": "procedural"
+    },
+    {
+      "item_number": "3.1",
+      "headline": "Community Heritage Commission Agenda for June 11, 2026",
+      "reason": "procedural"
+    },
+    {
+      "item_number": "4",
+      "headline": "Adoption of Minutes",
+      "reason": "procedural"
+    },
+    {
+      "item_number": "4.1",
+      "headline": "Minutes of the Community Heritage Commission meeting held on April 9, 2026",
+      "reason": "procedural"
+    },
+    {
+      "item_number": "5",
+      "headline": "Delegations and Invited Presentations",
+      "reason": "procedural"
+    },
+    {
+      "item_number": "6",
+      "headline": "Administrative Reports",
+      "reason": "procedural"
+    },
+    {
+      "item_number": "8",
+      "headline": "Correspondence",
+      "reason": "procedural"
+    },
+    {
+      "item_number": "10",
+      "headline": "Adjournment",
+      "reason": "procedural"
+    }
+  ]
+}
