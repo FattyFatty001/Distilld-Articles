@@ -1,0 +1,97 @@
+{
+  "article_id": 111,
+  "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=9030cd00-8f58-4a20-8e76-591b9dec7c29&lang=English",
+  "article_title": "Special City Council Meeting",
+  "source": "richmond_council",
+  "source_label": "Richmond Council",
+  "government_level": "Municipal",
+  "source_website_icon": "https://www.richmond.ca",
+  "meeting_type": null,
+  "article_published_at": "2026-06-09T00:00:00",
+  "has_attachments": true,
+  "has_pdf": true,
+  "has_html": false,
+  "has_agenda": true,
+  "has_minutes": false,
+  "agenda_brief_count": 1,
+  "minutes_brief_count": 0,
+  "pdf_urls": "[{\"url\": \"https://pub-richmond.escribemeetings.com/FileStream.ashx?DocumentId=61643\", \"title\": \"Agenda (PDF)\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/FileStream.ashx?DocumentId=61651\", \"title\": \"AGENDA EN ESPANOL\"}]",
+  "body": "",
+  "agenda_briefs": [
+    {
+      "id": 1343,
+      "title": "Proposed: Richmond council to review 2026-27 operating budget and capital plan",
+      "summary": "Richmond City Council will review a balanced draft operating budget for FY 2026-27 and a five-year capital improvement plan (2026-2031). Key proposed priorities include wastewater system reliability (Veolia contract expires May 2027), parks renovations at Boorman, Wendell, and Shields-Reid parks, city-wide systems modernization, and ALS first responder services. The final budget adoption is scheduled for June 23, 2026. The CIP includes $1.25M for an e-bike lending library, $3.87M for the Richmond Wellness Trail Phase II, and $4.28M for the SF Bay Trail at Point Molate, among other projects.",
+      "action_required": "No action required now. Watch for the final budget adoption meeting on June 23, 2026 — it could affect city fees, permits, or services your business relies on.",
+      "key_dates": [
+        {
+          "label": "Final budget adoption — Richmond City Council",
+          "date": "2026-06-23"
+        }
+      ],
+      "industries": "Construction & Development, Professional Services, Retail",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "F.1",
+      "source_body": "F.1\nBudget Study Session on Proposed Fiscal Year 2026-27 Operating Budget and Fiscal Year 2026-31 Five-Year Capital Improvement Plan\nAttachments\n|\nPublic Comments\n1.\nBudget Study Session, Proposed FY 26-27 Operating Budget CIP.pdf\n2.\nAttachment 1 - FY 2026-27 CIP Budget by Funding Type with Unfunded and Shortfalls_v3.pdf\n3.\nAttachment 2 – Draft City Council Budget Checklist.pdf\n4.\nAttachment 3 - FY 2026-27 Draft PPT for June 9 v2.pdf\nRECEIVE an overview of the balanced draft Fiscal Year 2026-27 Annual Operating Budget and Fiscal Year 2026-31 Five-Year Capital Improvement Plan Budget;  PROVIDE DIRECTION to staff prior to final budget adoption; and RECEIVE input on City Council key initiatives and demands for built environment improvements as well as opportunities to improve organizational efficiency – City Manager’s Office/Finance Department (Shasa Curl/Emily Combs/Mubeen Qader 510-412-2077).",
+      "attachments": [
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61644",
+          "title": "Budget Study Session, Proposed FY 26-27 Operating Budget CIP.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61645",
+          "title": "Attachment 1 - FY 2026-27 CIP Budget by Funding Type with Unfunded and Shortfalls_v3.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61646",
+          "title": "Attachment 2 – Draft City Council Budget Checklist.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61647",
+          "title": "Attachment 3 - FY 2026-27 Draft PPT for June 9 v2.pdf"
+        }
+      ],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=9030cd00-8f58-4a20-8e76-591b9dec7c29&lang=English",
+      "article_title": "Special City Council Meeting Agenda",
+      "article_published_at": "2026-06-09T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-06-09T09:17:33.614798"
+    }
+  ],
+  "minutes_briefs": [],
+  "_skipped": [
+    {
+      "item_number": "A",
+      "headline": "Special Council Meeting",
+      "reason": "procedural"
+    },
+    {
+      "item_number": "B",
+      "headline": "Pledge of Allegiance",
+      "reason": "procedural"
+    },
+    {
+      "item_number": "C",
+      "headline": "Roll Call",
+      "reason": "procedural"
+    },
+    {
+      "item_number": "D",
+      "headline": "Statement of Conflict of Interest",
+      "reason": "procedural"
+    },
+    {
+      "item_number": "E",
+      "headline": "Agenda Review",
+      "reason": "procedural"
+    },
+    {
+      "item_number": "G",
+      "headline": "Adjournment",
+      "reason": "procedural"
+    }
+  ]
+}
