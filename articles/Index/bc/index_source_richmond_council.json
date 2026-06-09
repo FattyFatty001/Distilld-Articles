@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-06-05T17:40:21.598856+00:00",
-  "count": 7,
+  "generated_at": "2026-06-09T09:17:35.451360+00:00",
+  "count": 8,
   "articles": [
+    {
+      "article_id": 111,
+      "path": "2026/06/09/111_richmond-council_special-city-council-meeting.json",
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=9030cd00-8f58-4a20-8e76-591b9dec7c29&lang=English",
+      "article_title": "Special City Council Meeting",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://www.richmond.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-06-09T00:00:00",
+      "created_at": "2026-06-09T09:17:33.614798",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": false,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 1,
+      "minutes_brief_count": 0,
+      "industries": "Construction & Development, Professional Services, Retail",
+      "locations": "Richmond",
+      "briefs": [
+        {
+          "id": 1343,
+          "title": "Proposed: Richmond council to review 2026-27 operating budget and capital plan",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Final budget adoption — Richmond City Council",
+              "date": "2026-06-23"
+            }
+          ],
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 93,
       "path": "2026/05/26/93_richmond-council_city-council.json",
