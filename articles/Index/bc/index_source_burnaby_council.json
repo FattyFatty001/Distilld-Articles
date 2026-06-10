@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T03:34:15.840748+00:00",
+  "generated_at": "2026-06-10T17:17:20.884795+00:00",
   "count": 25,
   "articles": [
     {
@@ -522,6 +522,418 @@
       ]
     },
     {
+      "article_id": 70,
+      "path": "2026/05/26/70_burnaby-council_city-council-meeting-may-26-2026.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=80ce77c9-17a9-4e27-a868-da3e6474bdbc&lang=English",
+      "article_title": "City Council Meeting — May 26, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://burnaby.ca",
+      "meeting_type": "regular-council",
+      "article_published_at": "2026-05-26T00:00:00",
+      "created_at": "2026-06-10T17:17:18.341402",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": true,
+      "has_minutes": true,
+      "agenda_brief_count": 25,
+      "minutes_brief_count": 27,
+      "industries": "Agriculture, Cannabis, Child Care, Construction & Development, Finance & Insurance, Food Service, Grocery & Food Retail, Healthcare, Hotel & Accommodation, Labour & Employment, Landlord & Property Mgmt, Liquor, Natural Resources, Professional Services, Retail, Spa & Wellness, Technology, Tenant, Transportation & Logistics",
+      "locations": "Burnaby, Vancouver",
+      "briefs": [
+        {
+          "id": 789,
+          "title": "Proposed: Burnaby mid-year fee changes up for final adoption",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 788,
+          "title": "Proposed: Burnaby bylaw amendment to strengthen tenant protections",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 787,
+          "title": "Proposed: Burnaby Tenant Protection Bylaw 2026 up for final vote",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 786,
+          "title": "Proposed: Master plan amendment for 4567 Lougheed Hwy in Burnaby",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 785,
+          "title": "Proposed: Master Plan amendment for 6800 Lougheed Hwy in Burnaby",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 784,
+          "title": "Proposed: 40-storey mixed-use building rezoning at 5978 Wilson Ave",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 783,
+          "title": "Proposed: Burnaby Housing Agreement for non-market rental at Marine Drive",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 782,
+          "title": "Proposed: Burnaby Housing Agreement for non-market rentals at Newcombe Street",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 781,
+          "title": "Proposed: Burnaby to vote on fee changes for development procedures",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 780,
+          "title": "Proposed: Burnaby to amend building bylaw for development procedures",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 779,
+          "title": "Proposed: New Burnaby Development Procedures Bylaw 2026 up for council vote",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 778,
+          "title": "Proposed: 20-storey apartment rezoning at 5035 Beresford St",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 777,
+          "title": "Council to consider: Building permit activity report for April 2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 776,
+          "title": "Proposed: City to take over management of 6 townhouses at 4878 Brentwood",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "City assumes management of townhouses at 4878 Brentwood — lease expiry",
+              "date": "2026-06-30"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 775,
+          "title": "Proposed: Mixed-use high-rise rezoning on Dow Avenue in Burnaby",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 774,
+          "title": "Proposed: 32 and 28-storey apartment towers on Silver Avenue, Burnaby",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 773,
+          "title": "Proposed: $1,000 grant to Tsleil-Waututh Nation Giving Circles",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 772,
+          "title": "Proposed: Burnaby Festivals Grant Program spring 2026 intake",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 771,
+          "title": "Proposed: Burnaby to adopt capital project program review recommendations",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 770,
+          "title": "Proposed: Burnaby Council to vote on sewer and waterworks contract renewal",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 769,
+          "title": "Proposed: Burnaby Council to vote on Vancouver-SFU cycling route contract",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 768,
+          "title": "Proposed: Temporary Use Permit for social services at 7375 Kingsway",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 767,
+          "title": "Proposed: Temporary Use Permit for indoor recreation at 2150 Douglas Road",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 766,
+          "title": "Proposed: Burnaby Mid-Block Connection Policy up for council vote",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 765,
+          "title": "Proposed: Burnaby to replace development servicing bylaw",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1373,
+          "title": "[NOT REACHED] Council did not vote on Brentwood master plan amendment for 4567 Lougheed Hwy",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1372,
+          "title": "[INFO ONLY] Council received building permit activity report for April 2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1371,
+          "title": "[NOT REACHED] Council did not vote on taking over management of 6 townhouses at 4878 Brentwood Drive",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1368,
+          "title": "Council approved 2026 Environmental Award and Star recipients",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Environmental Award ceremony at Burnaby Council meeting",
+              "date": "2026-06-23"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 1367,
+          "title": "Council approved final zoning amendment for 4567 Lougheed Hwy",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1366,
+          "title": "Burnaby Council approved final adoption of 2026 Fees and Charges Bylaw amendment",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1365,
+          "title": "Council adopted Bylaw Notice Enforcement Bylaw amendment 2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1364,
+          "title": "Council approved Burnaby Tenant Protection Bylaw 2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1363,
+          "title": "Council approved zoning amendment for 6800 Lougheed Hwy development",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1362,
+          "title": "Council approved third reading of zoning amendment for 5978 Wilson Ave",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1361,
+          "title": "Council approved Housing Agreement Bylaw for Marine Drive development",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1360,
+          "title": "Council approved housing agreement bylaw for Newcombe Street",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1359,
+          "title": "Council approved 2026 Fees and Charges Bylaw amendment",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1358,
+          "title": "Council approved Building Bylaw amendment 2026 for Burnaby",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1357,
+          "title": "Council approved Burnaby Development Procedures Bylaw 2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1356,
+          "title": "Council approved first and second reading of rezoning bylaw for 5035 Beresford St.",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1355,
+          "title": "Council approved rezoning for mixed-use high-rise at 6645 Dow Avenue",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1354,
+          "title": "Council approved rezoning for 32 and 28-storey towers on Silver Avenue",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1353,
+          "title": "Council approved $1,000 grant to Tsleil-Waututh Nation Community Society",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1352,
+          "title": "Council approved $127,400 in Festivals Burnaby Grant spring intake",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1351,
+          "title": "Council adopted 10 recommendations from Burnaby Capital Project Program Review",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1350,
+          "title": "Council approved $825,000 contract renewal to Hanley Agencies for sewer parts",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1349,
+          "title": "Council approved $4.08M contract for Vancouver-SFU cycling connection in Burnaby",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1348,
+          "title": "Council approved Temporary Use Permit for social service centre at 7375 Kingsway",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1347,
+          "title": "Council approved a Temporary Use Permit for indoor recreation at 2152 Douglas Road",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1346,
+          "title": "Council approved Burnaby's new Mid-Block Connection Policy",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Mid-Block Connection Policy takes effect",
+              "date": "2026-05-26"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 1345,
+          "title": "Council approved new Burnaby Works and Services Bylaw 2026, effective July 1",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Works and Services Bylaw 2026 takes effect",
+              "date": "2026-07-01"
+            },
+            {
+              "label": "Burnaby Consolidated Fees and Charges Bylaw amendments take effect",
+              "date": "2026-07-01"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
       "article_id": 71,
       "path": "2026/05/26/71_burnaby-council_council-correspondence-and-public-notice-submissio.json",
       "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=2c30f84c-688f-4076-b90f-7e6ae5fc11dd&lang=English",
@@ -726,210 +1138,6 @@
       ]
     },
     {
-      "article_id": 70,
-      "path": "2026/05/26/70_burnaby-council_city-council-meeting-may-26-2026.json",
-      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=80ce77c9-17a9-4e27-a868-da3e6474bdbc&lang=English",
-      "article_title": "City Council Meeting — May 26, 2026",
-      "source": "burnaby_council",
-      "source_label": "Burnaby Council",
-      "government_level": "Municipal",
-      "source_website_icon": "https://burnaby.ca",
-      "meeting_type": "regular-council",
-      "article_published_at": "2026-05-26T00:00:00",
-      "created_at": "2026-05-21T20:22:49.988832",
-      "has_attachments": false,
-      "has_pdf": false,
-      "has_html": false,
-      "has_agenda": true,
-      "has_minutes": false,
-      "agenda_brief_count": 25,
-      "minutes_brief_count": 0,
-      "industries": "Child Care, Construction & Development, Food Service, Landlord & Property Mgmt, Professional Services, Retail, Tenant",
-      "locations": "Burnaby, Vancouver",
-      "briefs": [
-        {
-          "id": 789,
-          "title": "Proposed: Burnaby mid-year fee changes up for final adoption",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 788,
-          "title": "Proposed: Burnaby bylaw amendment to strengthen tenant protections",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 787,
-          "title": "Proposed: Burnaby Tenant Protection Bylaw 2026 up for final vote",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 786,
-          "title": "Proposed: Master plan amendment for 4567 Lougheed Hwy in Burnaby",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 785,
-          "title": "Proposed: Master Plan amendment for 6800 Lougheed Hwy in Burnaby",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 784,
-          "title": "Proposed: 40-storey mixed-use building rezoning at 5978 Wilson Ave",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 783,
-          "title": "Proposed: Burnaby Housing Agreement for non-market rental at Marine Drive",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 782,
-          "title": "Proposed: Burnaby Housing Agreement for non-market rentals at Newcombe Street",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 781,
-          "title": "Proposed: Burnaby to vote on fee changes for development procedures",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 780,
-          "title": "Proposed: Burnaby to amend building bylaw for development procedures",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 779,
-          "title": "Proposed: New Burnaby Development Procedures Bylaw 2026 up for council vote",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 778,
-          "title": "Proposed: 20-storey apartment rezoning at 5035 Beresford St",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 777,
-          "title": "Council to consider: Building permit activity report for April 2026",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 776,
-          "title": "Proposed: City to take over management of 6 townhouses at 4878 Brentwood",
-          "source_label": "Burnaby Council",
-          "key_dates": [
-            {
-              "label": "City assumes management of townhouses at 4878 Brentwood — lease expiry",
-              "date": "2026-06-30"
-            }
-          ],
-          "is_proposal": true
-        },
-        {
-          "id": 775,
-          "title": "Proposed: Mixed-use high-rise rezoning on Dow Avenue in Burnaby",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 774,
-          "title": "Proposed: 32 and 28-storey apartment towers on Silver Avenue, Burnaby",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 773,
-          "title": "Proposed: $1,000 grant to Tsleil-Waututh Nation Giving Circles",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 772,
-          "title": "Proposed: Burnaby Festivals Grant Program spring 2026 intake",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 771,
-          "title": "Proposed: Burnaby to adopt capital project program review recommendations",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 770,
-          "title": "Proposed: Burnaby Council to vote on sewer and waterworks contract renewal",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 769,
-          "title": "Proposed: Burnaby Council to vote on Vancouver-SFU cycling route contract",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 768,
-          "title": "Proposed: Temporary Use Permit for social services at 7375 Kingsway",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 767,
-          "title": "Proposed: Temporary Use Permit for indoor recreation at 2150 Douglas Road",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 766,
-          "title": "Proposed: Burnaby Mid-Block Connection Policy up for council vote",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 765,
-          "title": "Proposed: Burnaby to replace development servicing bylaw",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        }
-      ]
-    },
-    {
       "article_id": 73,
       "path": "2026/05/25/73_burnaby-council_committee-of-the-whole-may-25-2026.json",
       "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=36d3b3f3-ac61-47db-90cd-9a8e7e065417&lang=English",
@@ -940,14 +1148,14 @@
       "source_website_icon": "https://burnaby.ca",
       "meeting_type": "committee-whole",
       "article_published_at": "2026-05-25T00:00:00",
-      "created_at": "2026-05-22T23:56:59.988006",
+      "created_at": "2026-06-10T17:17:09.753388",
       "has_attachments": true,
       "has_pdf": true,
       "has_html": false,
       "has_agenda": true,
-      "has_minutes": false,
+      "has_minutes": true,
       "agenda_brief_count": 2,
-      "minutes_brief_count": 0,
+      "minutes_brief_count": 2,
       "industries": "Construction & Development, Landlord & Property Mgmt, Professional Services, Retail",
       "locations": "Burnaby",
       "briefs": [
@@ -969,6 +1177,20 @@
             }
           ],
           "is_proposal": true
+        },
+        {
+          "id": 1370,
+          "title": "Council approved policy amendment report for housing relief measures",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1369,
+          "title": "Council approved new Sign Bylaw and enforcement changes for Burnaby",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
         }
       ]
     },
