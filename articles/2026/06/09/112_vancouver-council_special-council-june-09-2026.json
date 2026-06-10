@@ -1,0 +1,64 @@
+{
+  "article_id": 112,
+  "article_url": "https://council.vancouver.ca/20260609/spec20260609ag.htm",
+  "article_title": "Special Council — June 09, 2026",
+  "source": "vancouver_council",
+  "source_label": "Vancouver Council",
+  "government_level": "Municipal",
+  "source_website_icon": "https://vancouver.ca",
+  "meeting_type": "special-council",
+  "article_published_at": "2026-06-09T00:00:00",
+  "has_attachments": true,
+  "has_pdf": true,
+  "has_html": false,
+  "has_agenda": true,
+  "has_minutes": false,
+  "agenda_brief_count": 1,
+  "minutes_brief_count": 0,
+  "pdf_urls": "[{\"url\": \"https://council.vancouver.ca/20260609/documents/bylaw1.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260609/documents/spec20260609ag.pdf\", \"title\": \"Agenda\"}]",
+  "body": "",
+  "agenda_briefs": [
+    {
+      "id": 1344,
+      "title": "Proposed: Vancouver to amend election rules for business licence holders",
+      "summary": "Council enacted amendments to Election By-law No. 9070 on June 9, 2026. Changes include: allowing mail ballot applications before the 18th day before general voting day (ballots issued only after ballot form is finalized); permitting ballot return to an authorized drop-off location; adding disability and voter-list privacy as grounds for special voting; and requiring nomination documents to be posted on the city website (with personal information redacted) and available for public inspection at City Hall for 30 days after election results are declared.",
+      "action_required": "Review the updated bylaw to understand how mail ballot deadlines and nomination document access rules may affect your voting or candidacy in future Vancouver elections.",
+      "key_dates": [
+        {
+          "label": "Election By-law No. 9070 amendments take effect",
+          "date": "2026-06-09"
+        }
+      ],
+      "industries": "Labour & Employment",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "1",
+      "source_body": "1. A By-law to amend Election By-law No. 9070",
+      "attachments": [
+        {
+          "url": "https://council.vancouver.ca/20260609/documents/bylaw1.pdf",
+          "title": "1. A By-law to amend Election By-law No. 9070 — Link to By-law 1"
+        },
+        {
+          "url": "https://council.vancouver.ca/20260609/documents/spec20260609ag.pdf",
+          "title": "1. A By-law to amend Election By-law No. 9070 — Download the agenda"
+        }
+      ],
+      "article_url": "https://council.vancouver.ca/20260609/spec20260609ag.htm",
+      "article_title": "Special Council Agenda — June 09, 2026",
+      "article_published_at": "2026-06-09T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-10T03:34:14.104068"
+    }
+  ],
+  "minutes_briefs": [],
+  "_skipped": [
+    {
+      "item_number": "ROLL CALL",
+      "headline": "Roll Call",
+      "reason": "procedural"
+    }
+  ]
+}
