@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-06-09T09:17:35.451360+00:00",
-  "count": 7,
+  "generated_at": "2026-06-10T03:34:15.840748+00:00",
+  "count": 8,
   "articles": [
+    {
+      "article_id": 112,
+      "path": "2026/06/09/112_vancouver-council_special-council-june-09-2026.json",
+      "article_url": "https://council.vancouver.ca/20260609/spec20260609ag.htm",
+      "article_title": "Special Council — June 09, 2026",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://vancouver.ca",
+      "meeting_type": "special-council",
+      "article_published_at": "2026-06-09T00:00:00",
+      "created_at": "2026-06-10T03:34:14.104068",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": false,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 1,
+      "minutes_brief_count": 0,
+      "industries": "Labour & Employment",
+      "locations": "Vancouver",
+      "briefs": [
+        {
+          "id": 1344,
+          "title": "Proposed: Vancouver to amend election rules for business licence holders",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Election By-law No. 9070 amendments take effect",
+              "date": "2026-06-09"
+            }
+          ],
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 103,
       "path": "2026/06/02/103_vancouver-council_revised-regular-council-june-02-2026.json",
