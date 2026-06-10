@@ -4,18 +4,18 @@
   "article_title": "Committee of the Whole — May 25, 2026",
   "source": "burnaby_council",
   "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
   "government_level": "Municipal",
+  "source_website_icon": "https://burnaby.ca",
   "meeting_type": "committee-whole",
   "article_published_at": "2026-05-25T00:00:00",
-  "has_attachments": false,
-  "has_pdf": false,
+  "has_attachments": true,
+  "has_pdf": true,
   "has_html": false,
   "has_agenda": true,
-  "has_minutes": false,
+  "has_minutes": true,
   "agenda_brief_count": 2,
-  "minutes_brief_count": 0,
-  "pdf_urls": "{\"_doc\": [{\"url\": \"https://pub-burnaby.escribemeetings.com/FileStream.ashx?DocumentId=90122\", \"title\": \"Agenda (PDF)\"}], \"_inline\": [{\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=90118\", \"title\": \"PRESENTATION - PROPOSED SIGN BYLAW 2026.05.25_.pdf\"}]}",
+  "minutes_brief_count": 2,
+  "pdf_urls": "[{\"url\": \"https://pub-burnaby.escribemeetings.com/FileStream.ashx?DocumentId=90122\", \"title\": \"Agenda (PDF)\"}]",
   "body": "",
   "agenda_briefs": [
     {
@@ -46,7 +46,6 @@
       "article_published_at": "2026-05-25T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-22T23:56:59.985077"
     },
     {
@@ -67,9 +66,50 @@
       "article_published_at": "2026-05-25T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-22T23:56:59.988006"
     }
   ],
-  "minutes_briefs": []
+  "minutes_briefs": [
+    {
+      "id": 1369,
+      "title": "Council approved new Sign Bylaw and enforcement changes for Burnaby",
+      "summary": "Burnaby Council has voted to prepare a new Sign Bylaw and amend the enforcement bylaw. Staff will also create a guide for applicants that explains the application process, requirements, and what a completed sign permit looks like. This decision is final — the new rules will replace the current sign regulations once adopted.",
+      "action_required": "Watch for the new Sign Bylaw and applicant guide — review how the updated rules may affect your business signage before they take effect.",
+      "key_dates": [],
+      "industries": "Retail, Construction & Development, Professional Services",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "3.1",
+      "source_body": "In conclusion, the speakers advised that next steps would be a report to Council for a new sign bylaw and staff will prepare a guide for applicants describing the application process, requirements and completed sign permit.",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=36d3b3f3-ac61-47db-90cd-9a8e7e065417&lang=English",
+      "article_title": "Committee of the Whole Minutes — May 25, 2026",
+      "article_published_at": "2026-05-25T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-06-10T17:17:09.749099"
+    },
+    {
+      "id": 1370,
+      "title": "Council approved policy amendment report for housing relief measures",
+      "summary": "Burnaby Council approved staff to bring forward a policy amendment report for housing relief measures. This means staff will now notify applicants and industry partners, update policy documents, and work with applicants who choose to opt in to prepare legal agreements. A Housing Agreement Bylaw will be brought forward to Council at a later meeting. This decision is final and moves the housing relief process forward.",
+      "action_required": "If you are a housing applicant in Burnaby, contact the city to learn how opting in to the new housing relief measures may affect your project.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "3.2",
+      "source_body": "In conclusion, L. Garnett advised that the next steps include bringing a policy amendment report forward to Council. Subject to Council approval, staff will notify applicants and industry partners, update policy and implementation documents, and work with applicants who choose to opt in to prepare legal agreements. A Housing Agreement Bylaw will subsequently be brought forward to Council.",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=36d3b3f3-ac61-47db-90cd-9a8e7e065417&lang=English",
+      "article_title": "Committee of the Whole Minutes — May 25, 2026",
+      "article_published_at": "2026-05-25T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-06-10T17:17:09.753388"
+    }
+  ],
+  "_skipped": null
 }
