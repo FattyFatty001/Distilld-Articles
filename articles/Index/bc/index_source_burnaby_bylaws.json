@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-10T17:17:20.884795+00:00",
-  "count": 13,
+  "generated_at": "2026-06-11T09:00:24.618360+00:00",
+  "count": 15,
   "articles": [
     {
       "article_id": 64,
@@ -297,6 +297,78 @@
           "title": "Burnaby approves housing agreement for 5 non-market rental buildings at Lougheed Highway and Alpha Avenue",
           "source_label": "Burnaby Bylaws",
           "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 116,
+      "path": "2026/06/11/116_burnaby-bylaws_bylaw-14815-zoning-bylaw-2026.json",
+      "article_url": "https://bylaws.burnaby.ca/en/permalink/bylaw26127",
+      "article_title": "Bylaw 14815 — Zoning Bylaw 2026",
+      "source": "burnaby_bylaws",
+      "source_label": "Burnaby Bylaws",
+      "government_level": "Municipal",
+      "source_website_icon": "https://bylaws.burnaby.ca",
+      "meeting_type": null,
+      "article_published_at": null,
+      "created_at": "2026-06-11T09:00:22.438538",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development, Landlord & Property Mgmt, Retail",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 1375,
+          "title": "Burnaby Zoning Bylaw 2026 — new rules for what you can build and where",
+          "source_label": "Burnaby Bylaws",
+          "key_dates": [
+            {
+              "label": "Burnaby Zoning Bylaw 2026 takes effect",
+              "date": "2026-01-01"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 115,
+      "path": "2026/06/11/115_burnaby-bylaws_bylaw-14824-development-procedures-bylaw-2026.json",
+      "article_url": "https://bylaws.burnaby.ca/en/permalink/bylaw26136",
+      "article_title": "Bylaw 14824 — Development Procedures Bylaw 2026",
+      "source": "burnaby_bylaws",
+      "source_label": "Burnaby Bylaws",
+      "government_level": "Municipal",
+      "source_website_icon": "https://bylaws.burnaby.ca",
+      "meeting_type": null,
+      "article_published_at": null,
+      "created_at": "2026-06-11T09:00:16.306793",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 1374,
+          "title": "Burnaby Bylaw 14824 changes how development applications are processed",
+          "source_label": "Burnaby Bylaws",
+          "key_dates": [
+            {
+              "label": "Burnaby Development Procedures Bylaw 2026 takes effect",
+              "date": "2026-01-01"
+            }
+          ],
           "is_proposal": false
         }
       ]
