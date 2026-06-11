@@ -1,0 +1,49 @@
+{
+  "article_id": 116,
+  "article_url": "https://bylaws.burnaby.ca/en/permalink/bylaw26127",
+  "article_title": "Bylaw 14815 — Zoning Bylaw 2026",
+  "source": "burnaby_bylaws",
+  "source_label": "Burnaby Bylaws",
+  "government_level": "Municipal",
+  "source_website_icon": "https://bylaws.burnaby.ca",
+  "meeting_type": null,
+  "article_published_at": null,
+  "has_attachments": true,
+  "has_pdf": true,
+  "has_html": false,
+  "has_agenda": false,
+  "has_minutes": true,
+  "agenda_brief_count": 0,
+  "minutes_brief_count": 1,
+  "pdf_urls": "[{\"url\": \"https://bylaws.burnaby.ca/media/14000/14815.pdf\", \"title\": \"Bylaw Document\"}]",
+  "body": "",
+  "agenda_briefs": [],
+  "minutes_briefs": [
+    {
+      "id": 1375,
+      "title": "Burnaby Zoning Bylaw 2026 — new rules for what you can build and where",
+      "summary": "Burnaby has passed a new zoning bylaw (a set of local rules that control what can be built on each piece of land, like whether it can be a home, a shop, or a factory). Bylaw 14815 replaces the old zoning rules and changes things like allowed building heights, how close buildings can be to property lines, and what types of businesses are allowed in different areas. The new bylaw also updates rules for things like parking spaces, bike storage, and green space. These rules apply to all new construction, major renovations, and changes in how a property is used.",
+      "action_required": "Check if your property's zoning has changed under the new bylaw before starting any construction or renovation project.",
+      "key_dates": [
+        {
+          "label": "Burnaby Zoning Bylaw 2026 takes effect",
+          "date": "2026-01-01"
+        }
+      ],
+      "industries": "Construction & Development, Landlord & Property Mgmt, Retail",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": null,
+      "source_body": "Burnaby Bylaw 14815: Zoning Bylaw 2026",
+      "attachments": [],
+      "article_url": "https://bylaws.burnaby.ca/en/permalink/bylaw26127",
+      "article_title": "Bylaw 14815 — Zoning Bylaw 2026",
+      "article_published_at": null,
+      "source": "burnaby_bylaws",
+      "source_label": "Burnaby Bylaws",
+      "created_at": "2026-06-11T09:00:22.438538"
+    }
+  ],
+  "_skipped": null
+}
