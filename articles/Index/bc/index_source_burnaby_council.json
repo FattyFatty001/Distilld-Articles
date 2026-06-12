@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-12T19:01:49.998585+00:00",
-  "count": 26,
+  "generated_at": "2026-06-12T19:28:19.863371+00:00",
+  "count": 27,
   "articles": [
     {
       "article_id": 119,
@@ -99,6 +99,51 @@
         {
           "id": 1378,
           "title": "Proposed: Burnaby Council to consider joining accessibility research project",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        }
+      ]
+    },
+    {
+      "article_id": 120,
+      "path": "2026/06/16/120_burnaby-council_financial-management-committee-meeting-june-16-202.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=567f46db-99b5-4450-8bdc-9bca6a4bc83c&lang=English",
+      "article_title": "Financial Management Committee Meeting — June 16, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://burnaby.ca",
+      "meeting_type": "financial",
+      "article_published_at": "2026-06-16T00:00:00",
+      "created_at": "2026-06-12T19:28:18.107095",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": false,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 3,
+      "minutes_brief_count": 0,
+      "industries": "Construction & Development, Hotel & Accommodation, Landlord & Property Mgmt, Professional Services, Retail",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 1390,
+          "title": "Proposed: Burnaby council to review 2025 amenity and development cost charge report",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1389,
+          "title": "Proposed: Burnaby to use hotel tax funds for affordable housing",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1388,
+          "title": "Council to consider status update on Burnaby civic projects",
           "source_label": "Burnaby Council",
           "key_dates": [],
           "is_proposal": true
