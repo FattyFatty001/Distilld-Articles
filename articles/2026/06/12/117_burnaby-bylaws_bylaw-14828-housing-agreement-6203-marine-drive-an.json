@@ -1,0 +1,49 @@
+{
+  "article_id": 117,
+  "article_url": "https://bylaws.burnaby.ca/en/permalink/bylaw26140",
+  "article_title": "Bylaw 14828 — Housing Agreement (6203 Marine Drive and 6292 Byrnepark Drive) Bylaw 2026",
+  "source": "burnaby_bylaws",
+  "source_label": "Burnaby Bylaws",
+  "government_level": "Municipal",
+  "source_website_icon": "https://bylaws.burnaby.ca",
+  "meeting_type": null,
+  "article_published_at": null,
+  "has_attachments": true,
+  "has_pdf": true,
+  "has_html": false,
+  "has_agenda": false,
+  "has_minutes": true,
+  "agenda_brief_count": 0,
+  "minutes_brief_count": 1,
+  "pdf_urls": "[{\"url\": \"https://bylaws.burnaby.ca/media/14000/14828.pdf\", \"title\": \"Bylaw Document\"}]",
+  "body": "",
+  "agenda_briefs": [],
+  "minutes_briefs": [
+    {
+      "id": 1376,
+      "title": "Burnaby housing agreement locks in affordable rental at two properties",
+      "summary": "Burnaby City Council passed Bylaw 14828, which creates a Housing Agreement for two properties: 6203 Marine Drive and 6292 Byrnepark Drive. A Housing Agreement is a legal contract between the city and the property owner that sets rules for how the property can be used. In this case, the agreement requires that the rental units at these two addresses stay affordable and available as rental housing for a set number of years. This means the owner cannot convert the units to condos or raise rents beyond what the agreement allows.",
+      "action_required": "If you own or manage these properties, review the Housing Agreement terms with your lawyer to ensure you comply with rent and use restrictions.",
+      "key_dates": [
+        {
+          "label": "Burnaby Housing Agreement bylaw takes effect",
+          "date": "2026-01-01"
+        }
+      ],
+      "industries": "Landlord & Property Mgmt, Construction & Development",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": null,
+      "source_body": "Burnaby Bylaw 14828: Housing Agreement (6203 Marine Drive and 6292 Byrnepark Drive) Bylaw 2026",
+      "attachments": [],
+      "article_url": "https://bylaws.burnaby.ca/en/permalink/bylaw26140",
+      "article_title": "Bylaw 14828 — Housing Agreement (6203 Marine Drive and 6292 Byrnepark Drive) Bylaw 2026",
+      "article_published_at": null,
+      "source": "burnaby_bylaws",
+      "source_label": "Burnaby Bylaws",
+      "created_at": "2026-06-12T08:57:59.454558"
+    }
+  ],
+  "_skipped": null
+}
