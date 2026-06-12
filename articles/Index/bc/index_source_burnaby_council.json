@@ -1,7 +1,110 @@
 {
-  "generated_at": "2026-06-12T08:58:06.342586+00:00",
-  "count": 25,
+  "generated_at": "2026-06-12T19:01:49.998585+00:00",
+  "count": 26,
   "articles": [
+    {
+      "article_id": 119,
+      "path": "2026/06/17/119_burnaby-council_access-advisory-committee-meeting-june-17-2026.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=06fce850-a5eb-4252-8e24-eb9890820bda&lang=English",
+      "article_title": "Access Advisory Committee Meeting — June 17, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://burnaby.ca",
+      "meeting_type": "access",
+      "article_published_at": "2026-06-17T00:00:00",
+      "created_at": "2026-06-12T19:01:48.165186",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 10,
+      "minutes_brief_count": 0,
+      "industries": "Construction & Development, Food Service, Healthcare, Labour & Employment, Landlord & Property Mgmt, Professional Services, Retail, Transportation & Logistics",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 1387,
+          "title": "Proposed: Metrotown pedestrian scramble crossing at Kingsway and Willingdon",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1386,
+          "title": "Proposed: Walk with Burnaby Mayor during AccessAbility Week",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "AccessAbility Week walk with Mayor — proposed event period",
+              "date": "2025-05-31"
+            },
+            {
+              "label": "AccessAbility Week walk with Mayor — proposed event period ends",
+              "date": "2025-06-06"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1385,
+          "title": "Proposed: Floating bus stop bike lane at Brentwood Town Centre",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1384,
+          "title": "Proposed: Burnaby Council to address hospital access concerns",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1383,
+          "title": "Proposed: Rosser Avenue and Halifax Street intersection changes in Burnaby",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1382,
+          "title": "Council to consider update on Burnaby Accessibility Feedback Form submissions",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1381,
+          "title": "Proposed: Burnaby Council to vote on 2025/2026 Accessibility Plan updates",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1380,
+          "title": "Proposed: Burnaby Council to consider access services for children and youth in recreation",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1379,
+          "title": "Proposed: Accessibility measures for Burnaby's 2026 local election",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1378,
+          "title": "Proposed: Burnaby Council to consider joining accessibility research project",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 110,
       "path": "2026/06/11/110_burnaby-council_community-heritage-commission-june-11-2026.json",
