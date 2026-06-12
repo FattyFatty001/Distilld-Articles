@@ -1,0 +1,140 @@
+{
+  "article_id": 120,
+  "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=567f46db-99b5-4450-8bdc-9bca6a4bc83c&lang=English",
+  "article_title": "Financial Management Committee Meeting — June 16, 2026",
+  "source": "burnaby_council",
+  "source_label": "Burnaby Council",
+  "government_level": "Municipal",
+  "source_website_icon": "https://burnaby.ca",
+  "meeting_type": "financial",
+  "article_published_at": "2026-06-16T00:00:00",
+  "has_attachments": true,
+  "has_pdf": true,
+  "has_html": false,
+  "has_agenda": true,
+  "has_minutes": false,
+  "agenda_brief_count": 3,
+  "minutes_brief_count": 0,
+  "pdf_urls": "[{\"url\": \"https://pub-burnaby.escribemeetings.com/FileStream.ashx?DocumentId=90437\", \"title\": \"Agenda (PDF)\"}]",
+  "body": "",
+  "agenda_briefs": [
+    {
+      "id": 1388,
+      "title": "Council to consider status update on Burnaby civic projects",
+      "summary": "Burnaby Council will review a status update on significant civic projects at an upcoming meeting. This report, dated June 2026, provides an overview of how major city-building projects are progressing. While no new rules or fees are proposed in this update, the information could signal future decisions on construction timelines, budgets, or community impacts that may affect local businesses. Business owners should monitor this item to stay informed about potential changes to infrastructure that could influence their operations, such as road closures, development opportunities, or shifts in local demand.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development, Professional Services, Retail",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "7.1",
+      "source_body": "7.1\nSU - SIGNIFICANT CIVIC PROJECTS - JUNE 2026\nPurpose: To provide a status update (SU) on significant civic projects.",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=567f46db-99b5-4450-8bdc-9bca6a4bc83c&lang=English",
+      "article_title": "Financial Management Committee Meeting Agenda — June 16, 2026",
+      "article_published_at": "2026-06-16T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-06-12T19:28:18.074021"
+    },
+    {
+      "id": 1389,
+      "title": "Proposed: Burnaby to use hotel tax funds for affordable housing",
+      "summary": "Council will consider a proposal to allocate money collected from a special tax on online accommodation platforms (like Airbnb and Vrbo) to support affordable housing in Burnaby. This tax is called the Municipal and Regional District Tax (MRDT), and it is charged to guests who book short-term rentals. The proposal would direct a portion of these funds specifically toward affordable housing projects. The decision has not been made yet — Council is set to vote on this at an upcoming meeting.",
+      "action_required": "Watch for the council meeting date — if you run a short-term rental or work in housing, this decision could affect how these funds are used in Burnaby.",
+      "key_dates": [],
+      "industries": "Hotel & Accommodation, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "7.2",
+      "source_body": "7.2\nUSE OF ONLINE ACCOMMODATION PLATFORM (OAP) MRDT FUNDS FOR AFFORDABLE HOUSING\nPurpose:\nTo inform\nCouncil of the total collection and allocation of Online Accommodation Platform (OAP) Municipal and Regional District Tax (MRDT) revenues to support affordable housing in Burnaby.",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=567f46db-99b5-4450-8bdc-9bca6a4bc83c&lang=English",
+      "article_title": "Financial Management Committee Meeting Agenda — June 16, 2026",
+      "article_published_at": "2026-06-16T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-06-12T19:28:18.077897"
+    },
+    {
+      "id": 1390,
+      "title": "Proposed: Burnaby council to review 2025 amenity and development cost charge report",
+      "summary": "Council will consider the Amenity and Development Cost Charge (DCC) Annual Report for 2025. This report updates council on two programs that collect money from new development projects. Amenity Cost Charges (ACCs) are fees paid by developers to fund community amenities like parks, community centres, and libraries. Development Cost Charges (DCCs) are fees paid to help pay for infrastructure like roads, sewers, and water systems that new developments need. The report shows how much money has been collected and spent so far. Council is set to vote on whether to accept this report. If approved, it does not change the fees themselves, but it gives council a formal update on how the programs are running. Business owners in construction and development should watch for the council decision, as it signals how the city is managing these charges.",
+      "action_required": "Watch for the council decision on this report — it signals how Burnaby is managing development fees that affect project costs.",
+      "key_dates": [],
+      "industries": "Construction & Development",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "7.3",
+      "source_body": "7.3\nACC AND DCC ANNUAL REPORT (2025)\nPurpose: To provide information regarding the Amenity and Development Cost Charge Programs as of December 31, 2025.",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=567f46db-99b5-4450-8bdc-9bca6a4bc83c&lang=English",
+      "article_title": "Financial Management Committee Meeting Agenda — June 16, 2026",
+      "article_published_at": "2026-06-16T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-06-12T19:28:18.107095"
+    }
+  ],
+  "minutes_briefs": [],
+  "_skipped": [
+    {
+      "item_number": "1",
+      "headline": "Call to Order",
+      "reason": "procedural"
+    },
+    {
+      "item_number": "2",
+      "headline": "Territorial Acknowledgement",
+      "reason": "procedural"
+    },
+    {
+      "item_number": "3",
+      "headline": "Adoption of Agenda",
+      "reason": "procedural"
+    },
+    {
+      "item_number": "3.1",
+      "headline": "Financial Management Committee Agenda for June 16, 2026",
+      "reason": "procedural"
+    },
+    {
+      "item_number": "4",
+      "headline": "Adoption of Minutes",
+      "reason": "procedural"
+    },
+    {
+      "item_number": "4.1",
+      "headline": "Minutes of the Financial Management Committee meeting held on May 19, 2026",
+      "reason": "procedural"
+    },
+    {
+      "item_number": "5",
+      "headline": "Delegations and Invited Presentations",
+      "reason": "procedural"
+    },
+    {
+      "item_number": "6",
+      "headline": "Administrative Reports",
+      "reason": "procedural"
+    },
+    {
+      "item_number": "8",
+      "headline": "Correspondence",
+      "reason": "procedural"
+    },
+    {
+      "item_number": "9",
+      "headline": "Other Business",
+      "reason": "procedural"
+    },
+    {
+      "item_number": "10",
+      "headline": "Adjournment",
+      "reason": "procedural"
+    }
+  ]
+}
