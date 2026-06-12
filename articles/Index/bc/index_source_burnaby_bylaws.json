@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T09:00:24.618360+00:00",
-  "count": 15,
+  "generated_at": "2026-06-12T08:58:06.342586+00:00",
+  "count": 17,
   "articles": [
     {
       "article_id": 64,
@@ -297,6 +297,73 @@
           "title": "Burnaby approves housing agreement for 5 non-market rental buildings at Lougheed Highway and Alpha Avenue",
           "source_label": "Burnaby Bylaws",
           "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 118,
+      "path": "2026/06/12/118_burnaby-bylaws_bylaw-14827-housing-agreement-7880-and-7885-newcom.json",
+      "article_url": "https://bylaws.burnaby.ca/en/permalink/bylaw26139",
+      "article_title": "Bylaw 14827 — Housing Agreement (7880 and 7885 Newcombe Street) Bylaw 2026",
+      "source": "burnaby_bylaws",
+      "source_label": "Burnaby Bylaws",
+      "government_level": "Municipal",
+      "source_website_icon": "https://bylaws.burnaby.ca",
+      "meeting_type": null,
+      "article_published_at": null,
+      "created_at": "2026-06-12T08:58:04.098746",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 1377,
+          "title": "Burnaby housing agreement bylaw passed for two Newcombe Street properties",
+          "source_label": "Burnaby Bylaws",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 117,
+      "path": "2026/06/12/117_burnaby-bylaws_bylaw-14828-housing-agreement-6203-marine-drive-an.json",
+      "article_url": "https://bylaws.burnaby.ca/en/permalink/bylaw26140",
+      "article_title": "Bylaw 14828 — Housing Agreement (6203 Marine Drive and 6292 Byrnepark Drive) Bylaw 2026",
+      "source": "burnaby_bylaws",
+      "source_label": "Burnaby Bylaws",
+      "government_level": "Municipal",
+      "source_website_icon": "https://bylaws.burnaby.ca",
+      "meeting_type": null,
+      "article_published_at": null,
+      "created_at": "2026-06-12T08:57:59.454558",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 1376,
+          "title": "Burnaby housing agreement locks in affordable rental at two properties",
+          "source_label": "Burnaby Bylaws",
+          "key_dates": [
+            {
+              "label": "Burnaby Housing Agreement bylaw takes effect",
+              "date": "2026-01-01"
+            }
+          ],
           "is_proposal": false
         }
       ]
