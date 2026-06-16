@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T07:19:06.625093+00:00",
+  "generated_at": "2026-06-16T22:37:09.018536+00:00",
   "count": 27,
   "articles": [
     {
@@ -1353,15 +1353,15 @@
       "source_website_icon": "https://burnaby.ca",
       "meeting_type": "financial",
       "article_published_at": "2026-05-19T00:00:00",
-      "created_at": "2026-05-15T23:26:40.524158",
+      "created_at": "2026-06-16T22:37:07.193756",
       "has_attachments": true,
       "has_pdf": true,
       "has_html": false,
       "has_agenda": true,
-      "has_minutes": false,
+      "has_minutes": true,
       "agenda_brief_count": 2,
-      "minutes_brief_count": 0,
-      "industries": "Construction & Development, Landlord & Property Mgmt, Retail",
+      "minutes_brief_count": 2,
+      "industries": "Construction & Development, Landlord & Property Mgmt, Retail, Transportation & Logistics",
       "locations": "Burnaby",
       "briefs": [
         {
@@ -1377,6 +1377,20 @@
           "source_label": "Burnaby Council",
           "key_dates": [],
           "is_proposal": true
+        },
+        {
+          "id": 1512,
+          "title": "Council received 2025 Canada Community-Building Fund update report",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1511,
+          "title": "Council received update on Burnaby civic projects status",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
         }
       ]
     },
