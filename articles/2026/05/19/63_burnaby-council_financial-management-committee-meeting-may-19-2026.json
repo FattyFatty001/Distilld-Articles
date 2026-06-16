@@ -4,18 +4,18 @@
   "article_title": "Financial Management Committee Meeting — May 19, 2026",
   "source": "burnaby_council",
   "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
   "government_level": "Municipal",
+  "source_website_icon": "https://burnaby.ca",
   "meeting_type": "financial",
   "article_published_at": "2026-05-19T00:00:00",
-  "has_attachments": false,
-  "has_pdf": false,
+  "has_attachments": true,
+  "has_pdf": true,
   "has_html": false,
   "has_agenda": true,
-  "has_minutes": false,
+  "has_minutes": true,
   "agenda_brief_count": 2,
-  "minutes_brief_count": 0,
-  "pdf_urls": "{\"_doc\": [{\"url\": \"https://pub-burnaby.escribemeetings.com/FileStream.ashx?DocumentId=89812\", \"title\": \"Agenda (PDF)\"}], \"_inline\": [{\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89808\", \"title\": \"2026.04.21 FMC Minutes DRAFT.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89803\", \"title\": \"SU - Significant Civic Projects - May 2026 - 2026-05-19 .pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89804\", \"title\": \"Attachment 1 - Project Progress May 2026.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89805\", \"title\": \"2025 Canada Community-Building Fund Update 2026-05-19.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89806\", \"title\": \"Attachment 1 - Signed 2024 Administrative Agreement.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=89807\", \"title\": \"Attachment 2 \\u2013 2025 Canada Community-Building Fund Summary.pdf\"}]}",
+  "minutes_brief_count": 2,
+  "pdf_urls": "[{\"url\": \"https://pub-burnaby.escribemeetings.com/FileStream.ashx?DocumentId=89812\", \"title\": \"Agenda (PDF)\"}]",
   "body": "",
   "agenda_briefs": [
     {
@@ -36,7 +36,6 @@
       "article_published_at": "2026-05-19T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-15T23:26:40.521005"
     },
     {
@@ -57,9 +56,50 @@
       "article_published_at": "2026-05-19T00:00:00",
       "source": "burnaby_council",
       "source_label": "Burnaby Council",
-  "source_website_icon": "https://burnaby.ca",
       "created_at": "2026-05-15T23:26:40.524158"
     }
   ],
-  "minutes_briefs": []
+  "minutes_briefs": [
+    {
+      "id": 1511,
+      "title": "Council received update on Burnaby civic projects status",
+      "summary": "Burnaby Council received a report on the status of significant civic projects as of May 2026. The report was presented for information only, meaning council took note of the progress updates but did not make any new decisions or changes. No new rules, fees, or requirements were created for businesses as a result of this report.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "7.1",
+      "source_body": "MOVED AND SECONDED\nTHAT the report titled \"SU: Significant Civic Projects – May 2026\" dated May 19, 2026, be received for information.\nCARRIED UNANIMOUSLY",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=26abab93-8f69-4480-99c0-eb6c58463d43&lang=English",
+      "article_title": "Financial Management Committee Meeting Minutes — May 19, 2026",
+      "article_published_at": "2026-05-19T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-06-16T22:37:07.189243"
+    },
+    {
+      "id": 1512,
+      "title": "Council received 2025 Canada Community-Building Fund update report",
+      "summary": "Burnaby Council unanimously received an update report on the 2025 Canada Community-Building Fund. This fund provides federal money to municipalities for infrastructure projects like roads, transit, water systems, and community centres. Council accepted the report for information only — no new rules or spending were approved. The report keeps the city informed about available federal funding for local projects.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development, Transportation & Logistics",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "7.2",
+      "source_body": "MOVED AND SECONDED\nTHAT the report titled \"2025 Canada Community-Building Fund Update\" dated May 19, 2026, be received for information.\nCARRIED UNANIMOUSLY",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=26abab93-8f69-4480-99c0-eb6c58463d43&lang=English",
+      "article_title": "Financial Management Committee Meeting Minutes — May 19, 2026",
+      "article_published_at": "2026-05-19T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-06-16T22:37:07.193756"
+    }
+  ],
+  "_skipped": null
 }
