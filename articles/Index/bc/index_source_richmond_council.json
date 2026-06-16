@@ -1,7 +1,386 @@
 {
-  "generated_at": "2026-06-15T22:22:27.065082+00:00",
-  "count": 8,
+  "generated_at": "2026-06-16T07:19:06.625093+00:00",
+  "count": 9,
   "articles": [
+    {
+      "article_id": 122,
+      "path": "2026/06/16/122_richmond-council_city-council.json",
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=3513d916-b845-4236-9f55-981650753209&lang=English",
+      "article_title": "City Council",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://www.richmond.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-06-16T00:00:00",
+      "created_at": "2026-06-16T07:19:04.393850",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": false,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 34,
+      "minutes_brief_count": 0,
+      "industries": "Construction & Development, Finance & Insurance, Food Service, Healthcare, Hotel & Accommodation, Labour & Employment, Landlord & Property Mgmt, Professional Services, Retail, Technology, Transportation & Logistics",
+      "locations": "Richmond",
+      "briefs": [
+        {
+          "id": 1510,
+          "title": "Proposed: Richmond council to vote on anti-discrimination plan for federal projects",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1509,
+          "title": "Proposed: Richmond council to vote on $3.6M art and lighting safety contract",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1508,
+          "title": "Proposed: Council to vote on BNSF railway crossing safety deal",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1507,
+          "title": "Proposed: Council to vote on $750K in park construction cost overruns",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Council vote on LCW legal contract amendment",
+              "date": "2026-06-16"
+            },
+            {
+              "label": "LCW contract extension through June 30, 2027 takes effect",
+              "date": "2027-06-30"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1506,
+          "title": "Proposed: Road closure at Glenn and McBryde for safer park access",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1505,
+          "title": "Proposed: Council to vote on bike/ped improvements at Central Ave and I-80",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1504,
+          "title": "Proposed: Council to vote on $700,000 fleet vehicle purchase",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1503,
+          "title": "Proposed: Council to vote on $5.4M sewer repair contract with Veolia",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1502,
+          "title": "Proposed: Richmond to join regional stormwater compliance system",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1501,
+          "title": "Council to receive April 2026 crime report from Richmond Police",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1500,
+          "title": "Proposed: Richmond Council to proclaim National Gun Violence Awareness Day",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "National Gun Violence Awareness Day observed in Richmond",
+              "date": "2026-06-05"
+            },
+            {
+              "label": "Wear Orange Weekend in Richmond",
+              "date": "2026-06-06"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1499,
+          "title": "Proposed: Richmond council to expand Macdonald Avenue task force seats",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1498,
+          "title": "Proposed: Appoint Ysela Lopez to Richmond Youth Council",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1497,
+          "title": "Proposed: Reappoint Lorene Holmes Dees to Richmond Commission on Aging",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1496,
+          "title": "Proposed: Sherwin Harris appointed to Macdonald Avenue Corridor Task Force",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1495,
+          "title": "Proposed: Council to appoint Courtney Bulletti to Human Relations Commission",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1494,
+          "title": "Proposed: Richmond Council to vote on staffing and position control changes",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Council vote on position control amendment",
+              "date": "2026-06-16"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1493,
+          "title": "Proposed: Place liens for unpaid garbage collection fees in Richmond",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Council vote on garbage lien resolution",
+              "date": "2026-06-16"
+            },
+            {
+              "label": "Next administrative hearing for garbage liens",
+              "date": "2026-10-07"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1492,
+          "title": "Proposed: Richmond Council to vote on $247K contract for ballot measure study",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Statutory deadline to place measure on November 2026 ballot",
+              "date": "2026-08-07"
+            },
+            {
+              "label": "Proposed SCI Consulting contract start date",
+              "date": "2026-04-28"
+            },
+            {
+              "label": "Proposed SCI Consulting contract end date",
+              "date": "2027-06-30"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1491,
+          "title": "Council to receive April 2026 financial reports on investments, overtime, and taxes",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Next garbage lien administrative hearing",
+              "date": "2026-10-07"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1490,
+          "title": "Proposed: Council to vote on $87,777 graffiti removal contract for General Warehouse",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1489,
+          "title": "Proposed: $70,000 contract for Deonta Allen mural at Civic Center Apartments",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Council vote on Deonta Allen mural contract",
+              "date": "2026-06-16"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1488,
+          "title": "Proposed: Council to vote on $106,500 fireworks contract for July 3, 2026",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Proposed fireworks display contract vote — Richmond Council",
+              "date": "2026-06-23"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1487,
+          "title": "Proposed: Richmond council to vote on $2M violence prevention grant",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "CalVIP grant program start date",
+              "date": "2026-04-01"
+            },
+            {
+              "label": "CalVIP grant program end date",
+              "date": "2029-09-30"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1486,
+          "title": "Proposed: Richmond council to vote on $150K mental health contract",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Proposed contract start date — Richmond mental health assessment",
+              "date": "2026-06-16"
+            },
+            {
+              "label": "Proposed contract end date — Richmond mental health assessment",
+              "date": "2026-12-31"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1485,
+          "title": "Proposed: $2.6M contract with Contra Costa County for encampment resolution",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "City Council public hearing on zoning amendments",
+              "date": "2026-05-19"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1484,
+          "title": "Proposed: Richmond Council to vote on housing equity contract amendment",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Council vote on Housing Element zoning amendments",
+              "date": "2026-06-16"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1483,
+          "title": "Proposed: Richmond Council to vote on $250K environmental contract for Miraflores",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Council vote on Housing Element zoning amendments",
+              "date": "2026-06-16"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1482,
+          "title": "Proposed: Richmond zoning changes to meet housing targets",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1481,
+          "title": "Proposed: Richmond Council to vote on eScribe software contract extension",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Proposed eScribe contract start date",
+              "date": "2026-07-01"
+            },
+            {
+              "label": "Proposed eScribe contract end date",
+              "date": "2029-06-30"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1480,
+          "title": "Proposed: Richmond council to vote on $400K legal services deal",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Council vote on proposed legal services amendment",
+              "date": "2026-06-16"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1479,
+          "title": "Proposed: Richmond Housing Authority budget for FY 2026-2027 up for council vote",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Council vote on RHA FY 2026-2027 budget",
+              "date": "2026-06-16"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1478,
+          "title": "Proposed: Richmond Housing Authority cost allocation plan for FY 2026-2027",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "FY 2026-2027 budget and cost allocation plan takes effect",
+              "date": "2026-07-01"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1477,
+          "title": "Council to vote on labour negotiations with six employee groups",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 111,
       "path": "2026/06/09/111_richmond-council_special-city-council-meeting.json",
