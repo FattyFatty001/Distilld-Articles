@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-06-18T21:44:19.356922+00:00",
-  "count": 29,
+  "generated_at": "2026-06-18T23:58:40.767826+00:00",
+  "count": 30,
   "articles": [
+    {
+      "article_id": 126,
+      "path": "2026/06/25/126_burnaby-council_public-safety-committee-meeting-june-25-2026.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=8c70e2e8-99a1-4392-b970-00c568e8a58f&lang=English",
+      "article_title": "Public Safety Committee Meeting — June 25, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://burnaby.ca",
+      "meeting_type": "public-safety",
+      "article_published_at": "2026-06-25T00:00:00",
+      "created_at": "2026-06-18T23:58:38.841611",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": false,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 6,
+      "minutes_brief_count": 0,
+      "industries": "Construction & Development, Food Service, Hotel & Accommodation, Landlord & Property Mgmt, Professional Services, Retail",
+      "locations": "British Columbia, Burnaby",
+      "briefs": [
+        {
+          "id": 1566,
+          "title": "Council to consider update on Community Safety Advisory Committee work",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1565,
+          "title": "Proposed: Burnaby Fire Department status update for April 2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1564,
+          "title": "Proposed: Burnaby Fire Department 2025 Annual Report for Council review",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1563,
+          "title": "Council to consider RCMP policing update and performance report",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1562,
+          "title": "Council to receive overview of Burnaby RCMP Youth Services Unit",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1561,
+          "title": "Proposed: RCMP Lower Mainland District integrated team changes in Burnaby",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 125,
       "path": "2026/06/23/125_burnaby-council_council-correspondence-and-public-notice-submissio.json",
