@@ -1,7 +1,138 @@
 {
-  "generated_at": "2026-06-18T20:51:31.038768+00:00",
-  "count": 28,
+  "generated_at": "2026-06-18T21:44:19.356922+00:00",
+  "count": 29,
   "articles": [
+    {
+      "article_id": 125,
+      "path": "2026/06/23/125_burnaby-council_council-correspondence-and-public-notice-submissio.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=986de699-41e7-4bc4-8afd-46a00a71f731&lang=English",
+      "article_title": "Council Correspondence and Public Notice Submissions — June 23, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://burnaby.ca",
+      "meeting_type": "correspondence",
+      "article_published_at": "2026-06-23T00:00:00",
+      "created_at": "2026-06-18T21:44:17.521551",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": false,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 12,
+      "minutes_brief_count": 0,
+      "industries": "Agriculture, Construction & Development, Food Service, Grocery & Food Retail, Hotel & Accommodation, Landlord & Property Mgmt, Retail, Tenant, Transportation & Logistics",
+      "locations": "British Columbia, Burnaby, Vancouver",
+      "briefs": [
+        {
+          "id": 1560,
+          "title": "Proposed: Rezoning of five properties on Dow Avenue in Burnaby",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Written submission deadline for REZ #25-23 Council package",
+              "date": "2026-06-16"
+            },
+            {
+              "label": "Council vote on First and Second Reading of Rezoning Bylaw No. 14833",
+              "date": "2026-06-23"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1559,
+          "title": "Proposed: Burnaby Council to vote on Silver Avenue rezoning",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Written comment deadline — Burnaby Silver Avenue rezoning REZ #25-12",
+              "date": "2026-06-16"
+            },
+            {
+              "label": "Council vote on first and second reading — Burnaby Silver Avenue rezoning",
+              "date": "2026-06-23"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1558,
+          "title": "Proposed: Burnaby Council to vote on fossil fuel correspondence action",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1557,
+          "title": "Proposed: Burnaby Council to consider Michael J. Fox Theatre closure",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1556,
+          "title": "Proposed: Burnaby to consider Stage 3 watering restrictions",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1555,
+          "title": "Proposed: Burnaby Council to consider aircraft noise over North Burnaby",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1554,
+          "title": "Proposed: Metro Vancouver solid waste management plan update",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Metro Vancouver solid waste plan comment period closes",
+              "date": "2026-08-01"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1553,
+          "title": "Proposed: Council to consider private water pipe repair rules after Hazel Street leak",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1552,
+          "title": "Proposed: Burnaby to study financial impact of new rental affordability rules",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1551,
+          "title": "Proposed: Protected bike lane on Winston Street in Burnaby",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1550,
+          "title": "Proposed: Burnaby Council to review LED screen compliance at Gilmore Place",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1549,
+          "title": "Proposed: Burnaby to close noise bylaw gaps for multi-unit residences",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 124,
       "path": "2026/06/23/124_burnaby-council_city-council-meeting-june-23-2026.json",
