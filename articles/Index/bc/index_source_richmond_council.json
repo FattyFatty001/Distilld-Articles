@@ -1,7 +1,361 @@
 {
-  "generated_at": "2026-06-18T23:58:40.767826+00:00",
-  "count": 9,
+  "generated_at": "2026-06-23T07:06:13.702943+00:00",
+  "count": 10,
   "articles": [
+    {
+      "article_id": 127,
+      "path": "2026/06/23/127_richmond-council_city-council.json",
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=d8d417c0-669a-4097-8bd9-20a87f1ffe46&lang=English",
+      "article_title": "City Council",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://www.richmond.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-06-23T00:00:00",
+      "created_at": "2026-06-23T07:06:11.451729",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": false,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 32,
+      "minutes_brief_count": 0,
+      "industries": "Construction & Development, Finance & Insurance, Food Service, Healthcare, Hotel & Accommodation, Labour & Employment, Landlord & Property Mgmt, Natural Resources, Professional Services, Retail, Transportation & Logistics",
+      "locations": "Richmond",
+      "briefs": [
+        {
+          "id": 1598,
+          "title": "Proposed: 23rd Street Ciclovía Pilot Project up for council direction",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "23rd Street Ciclovía Pilot event date",
+              "date": "2026-09-12"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1597,
+          "title": "Proposed: Richmond to explore regional drone show for July 3rd at Hilltop Mall",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Council decision deadline on drone show proposal",
+              "date": "2026-06-23"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1596,
+          "title": "Proposed: Road closure at Glenn and McBryde Avenues for park safety project",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1595,
+          "title": "Proposed: Contract for graffiti removal from historic concrete building",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1594,
+          "title": "Proposed: Richmond Council to vote on $50K housing equity contract amendment",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1593,
+          "title": "Proposed: Richmond policy on internet disruptions during council meetings",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1592,
+          "title": "Proposed: 3% assessment increase for Hilltop Landscape Maintenance District",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Hilltop LMD public hearing — Richmond Council",
+              "date": "2025-05-13"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1591,
+          "title": "Proposed: 3% assessment hike for Marina Bay landscaping district",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Marina Bay landscaping district public hearing — Richmond Council",
+              "date": "2025-06-10"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1590,
+          "title": "Proposed: Richmond council to consider emergency response ballot measure",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Public hearing and council vote on Marina Bay LLMD and Hilltop LMD assessments",
+              "date": "2026-06-23"
+            },
+            {
+              "label": "Ballot deadline for potential November 2026 measure",
+              "date": "2026-08-07"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1589,
+          "title": "Proposed: Richmond Council to vote on FY 2026-27 operating and capital budgets",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Council vote on FY 2026-27 budgets",
+              "date": "2026-06-23"
+            },
+            {
+              "label": "Ballot deadline for potential November 2026 revenue measure",
+              "date": "2026-08-07"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1588,
+          "title": "Proposed: Richmond rental housing fee increase for 2026-27",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1587,
+          "title": "Proposed: Richmond Council to expand Lyft and Uber contracts for paratransit clients",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1586,
+          "title": "Proposed: Richmond council to accept Yellow Brick Road lighting project as complete",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1585,
+          "title": "Proposed: Richmond council to vote on $21,500 restroom design contract",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Proposed contract start date — Oakley & Oakley restroom remodel",
+              "date": "2026-06-24"
+            },
+            {
+              "label": "Proposed contract end date — Oakley & Oakley restroom remodel",
+              "date": "2028-06-24"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1584,
+          "title": "Proposed: Richmond Council to vote on automated transit network study",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1583,
+          "title": "Council to receive report on May 2026 abatement activities",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1582,
+          "title": "Proposed: Richmond Council to vote on $39,000 environmental project contract",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1581,
+          "title": "Council to vote on $586,532 sodium hypochlorite tank replacement at wastewater plant",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1580,
+          "title": "Proposed: Richmond Council to accept $73K US police grant",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "JAG 2024 grant termination date — Richmond Police",
+              "date": "2027-09-30"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1579,
+          "title": "Proposed: Reappointment of Karlyn C. Neel to Richmond Design Review Board",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1578,
+          "title": "Proposed: Catherine Bae appointed to Richmond Community Crisis Response Advisory Board",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1577,
+          "title": "Proposed: Appointment of Paula Navin Burnett to Richmond Commission on Aging",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1576,
+          "title": "Proposed: Reappointment of Myrtle Braxton to Richmond Commission on Aging",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1575,
+          "title": "Proposed: Richmond seeks applicants for city boards and commissions",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Council vote on acknowledging board vacancies",
+              "date": "2026-06-23"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1574,
+          "title": "Proposed: Richmond Council to vote on new Master Fee Schedule",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Master Fee Schedule takes effect (most fees)",
+              "date": "2026-07-23"
+            },
+            {
+              "label": "AB 1600 developer impact fees take effect",
+              "date": "2026-08-22"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1573,
+          "title": "Proposed: Richmond to set spending limit for 2026-27 fiscal year",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Master Fee Schedule new fees take effect",
+              "date": "2026-07-23"
+            },
+            {
+              "label": "Developer impact fees take effect",
+              "date": "2026-08-22"
+            },
+            {
+              "label": "STMP fee adjustment effective",
+              "date": "2026-07-01"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1572,
+          "title": "Proposed: Richmond Council to support California refinery transparency bill",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1571,
+          "title": "Proposed: Richmond council to call Nov 3, 2026 municipal election",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Candidate ballot designation worksheet due — Richmond general election",
+              "date": "2026-07-28"
+            },
+            {
+              "label": "Candidate statement and fee due — Richmond general election",
+              "date": "2026-08-07"
+            },
+            {
+              "label": "Richmond General Municipal Election",
+              "date": "2026-11-03"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1570,
+          "title": "Proposed: Richmond council to vote on $200K police review legal contract",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Proposed legal contract end date — Community Police Review Commission",
+              "date": "2026-12-26"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1569,
+          "title": "Proposed: Richmond Council to vote on $75K legal contract for HR investigations",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1568,
+          "title": "Proposed: Richmond Council to approve $110K legal research contract",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1567,
+          "title": "Proposed: Richmond council to vote on $100K legal contract for wastewater deal",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Current wastewater operator contract expires",
+              "date": "2027-05-15"
+            },
+            {
+              "label": "Proposed BBK amendment term ends",
+              "date": "2027-12-31"
+            }
+          ],
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 122,
       "path": "2026/06/16/122_richmond-council_city-council.json",
