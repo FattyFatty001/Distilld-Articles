@@ -1,7 +1,181 @@
 {
-  "generated_at": "2026-06-25T08:58:21.019848+00:00",
-  "count": 14,
+  "generated_at": "2026-06-25T19:28:32.739954+00:00",
+  "count": 19,
   "articles": [
+    {
+      "article_id": 135,
+      "path": "2026/04/20/135_bc-gazette-part-ii_bc-reg-612026-oic-1502026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n07_61-2026",
+      "article_title": "B.C. Reg. 61/2026 – OIC 150/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-04-20T00:00:00",
+      "created_at": "2026-06-25T19:28:28.901290",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Natural Resources",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1606,
+          "title": "Wildfire Regulation updated to include Northern Rockies Regional Municipality",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 134,
+      "path": "2026/04/20/134_bc-gazette-part-ii_bc-reg-602026-oic-1512026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n07_60-2026",
+      "article_title": "B.C. Reg. 60/2026 – OIC 151/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-04-20T00:00:00",
+      "created_at": "2026-06-25T19:28:24.370686",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Healthcare",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1605,
+          "title": "BC Shared Health Services added to Health Care Employers Regulation",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 133,
+      "path": "2026/04/20/133_bc-gazette-part-ii_bc-reg-592026-oic-1522026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n07_59-2026",
+      "article_title": "B.C. Reg. 59/2026 – OIC 152/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-04-20T00:00:00",
+      "created_at": "2026-06-25T19:28:20.256640",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Professional Services, Retail, Transportation & Logistics",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1604,
+          "title": "BC updates electric vehicle definition and adds new 'EV OK' sign to Motor Vehicle Act regulations",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC Motor Vehicle Act regulation amendment takes effect",
+              "date": "2026-04-20"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 132,
+      "path": "2026/04/16/132_bc-gazette-part-ii_bc-reg-582026-oic-1452026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n07_58-2026",
+      "article_title": "B.C. Reg. 58/2026 – OIC 145/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-04-16T00:00:00",
+      "created_at": "2026-06-25T19:28:15.466735",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Hotel & Accommodation, Landlord & Property Mgmt",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1603,
+          "title": "Short-term rental reporting deadline moved up to February 28, and new exemption request dates set",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC short-term rental regulation amendments take effect",
+              "date": "2026-06-01"
+            },
+            {
+              "label": "BC short-term rental data reporting deadline moves to Feb 28",
+              "date": "2027-01-01"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 131,
+      "path": "2026/04/15/131_bc-gazette-part-ii_bc-reg-572026-british-columbia-securities-commissi.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n07_57-2026",
+      "article_title": "B.C. Reg. 57/2026 – British Columbia Securities Commission",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-04-15T00:00:00",
+      "created_at": "2026-06-25T19:28:09.585796",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Finance & Insurance",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1602,
+          "title": "Mutual fund prospectus rules updated — BC Securities Commission",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "Mutual fund prospectus rule amendments take effect — BC",
+              "date": "2026-04-22"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
     {
       "article_id": 90,
       "path": "2026/04/07/90_bc-gazette-part-ii_bc-reg-482026-oic-1202026.json",
