@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T07:06:13.702943+00:00",
-  "count": 17,
+  "generated_at": "2026-06-25T08:58:21.019848+00:00",
+  "count": 20,
   "articles": [
     {
       "article_id": 64,
@@ -297,6 +297,109 @@
           "title": "Burnaby approves housing agreement for 5 non-market rental buildings at Lougheed Highway and Alpha Avenue",
           "source_label": "Burnaby Bylaws",
           "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 130,
+      "path": "2026/06/25/130_burnaby-bylaws_bylaw-14829-works-and-services-bylaw-2026.json",
+      "article_url": "https://bylaws.burnaby.ca/en/permalink/bylaw26141",
+      "article_title": "Bylaw 14829 — Works and Services Bylaw 2026",
+      "source": "burnaby_bylaws",
+      "source_label": "Burnaby Bylaws",
+      "government_level": "Municipal",
+      "source_website_icon": "https://bylaws.burnaby.ca",
+      "meeting_type": null,
+      "article_published_at": null,
+      "created_at": "2026-06-25T08:58:18.186294",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 1601,
+          "title": "Burnaby Bylaw 14829 changes rules for works and services on your property",
+          "source_label": "Burnaby Bylaws",
+          "key_dates": [
+            {
+              "label": "Burnaby Works and Services Bylaw 2026 takes effect",
+              "date": "2026-01-01"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 129,
+      "path": "2026/06/25/129_burnaby-bylaws_bylaw-14830-works-and-services-payment-in-lieu-res.json",
+      "article_url": "https://bylaws.burnaby.ca/en/permalink/bylaw26142",
+      "article_title": "Bylaw 14830 — Works and Services Payment-In-Lieu Reserve Fund Bylaw 2026",
+      "source": "burnaby_bylaws",
+      "source_label": "Burnaby Bylaws",
+      "government_level": "Municipal",
+      "source_website_icon": "https://bylaws.burnaby.ca",
+      "meeting_type": null,
+      "article_published_at": null,
+      "created_at": "2026-06-25T08:58:12.414117",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 1600,
+          "title": "Burnaby creates reserve fund for developer payments in lieu of building works",
+          "source_label": "Burnaby Bylaws",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 128,
+      "path": "2026/06/25/128_burnaby-bylaws_bylaw-14834-sign-bylaw-2026.json",
+      "article_url": "https://bylaws.burnaby.ca/en/permalink/bylaw26144",
+      "article_title": "Bylaw 14834 — Sign Bylaw 2026",
+      "source": "burnaby_bylaws",
+      "source_label": "Burnaby Bylaws",
+      "government_level": "Municipal",
+      "source_website_icon": "https://bylaws.burnaby.ca",
+      "meeting_type": null,
+      "article_published_at": null,
+      "created_at": "2026-06-25T08:58:06.772903",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Food Service, Hotel & Accommodation, Retail",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 1599,
+          "title": "Burnaby Sign Bylaw 2026 — new rules for business signs take effect",
+          "source_label": "Burnaby Bylaws",
+          "key_dates": [
+            {
+              "label": "Burnaby Sign Bylaw 2026 takes effect",
+              "date": "2026-01-01"
+            }
+          ],
           "is_proposal": false
         }
       ]
