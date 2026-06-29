@@ -12,9 +12,9 @@
   "has_pdf": true,
   "has_html": false,
   "has_agenda": true,
-  "has_minutes": false,
+  "has_minutes": true,
   "agenda_brief_count": 1,
-  "minutes_brief_count": 0,
+  "minutes_brief_count": 1,
   "pdf_urls": "[{\"url\": \"https://council.vancouver.ca/20260609/documents/bylaw1.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260609/documents/spec20260609ag.pdf\", \"title\": \"Agenda\"}]",
   "body": "",
   "agenda_briefs": [
@@ -53,7 +53,28 @@
       "created_at": "2026-06-10T03:34:14.104068"
     }
   ],
-  "minutes_briefs": [],
+  "minutes_briefs": [
+    {
+      "id": 1607,
+      "title": "Council approved amendments to Vancouver's Election By-law No. 9070",
+      "summary": "Vancouver City Council has unanimously passed a by-law (By-law No. 14750) that amends the existing Election By-law No. 9070. This means the rules for how municipal elections are run in Vancouver have been officially updated. The Mayor and City Clerk have been authorized to sign and seal the new by-law, making it law.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "1",
+      "source_body": "MOVED by Councillor Klassen\nSECONDED by Councillor Zhou\n\nTHAT Council enact the by-law listed on the agenda for this meeting as number 1, and\nauthorize the Mayor and City Clerk to sign and seal the enacted by-law.\n\nCARRIED UNANIMOUSLY\n(Vote No.11747)\n\n1.\nA By-law to amend Election By-law No. 9070 (By-law No. 14750)",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260609/spec20260609ag.htm",
+      "article_title": "Special Council Minutes — June 09, 2026",
+      "article_published_at": "2026-06-09T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-06-29T17:44:15.388297"
+    }
+  ],
   "_skipped": [
     {
       "item_number": "ROLL CALL",
