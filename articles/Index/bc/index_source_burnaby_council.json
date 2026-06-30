@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T17:44:17.274862+00:00",
+  "generated_at": "2026-06-30T17:14:35.962492+00:00",
   "count": 30,
   "articles": [
     {
@@ -684,16 +684,16 @@
       "source_website_icon": "https://burnaby.ca",
       "meeting_type": "regular-council",
       "article_published_at": "2026-06-09T00:00:00",
-      "created_at": "2026-06-04T22:38:24.676380",
+      "created_at": "2026-06-30T17:14:33.949643",
       "has_attachments": false,
       "has_pdf": false,
       "has_html": false,
       "has_agenda": true,
-      "has_minutes": false,
+      "has_minutes": true,
       "agenda_brief_count": 26,
-      "minutes_brief_count": 0,
-      "industries": "Construction & Development, Food Service, Landlord & Property Mgmt, Professional Services, Retail, Technology, Transportation & Logistics",
-      "locations": "Burnaby",
+      "minutes_brief_count": 29,
+      "industries": "Construction & Development, Food Service, Landlord & Property Mgmt, Professional Services, Retail, Technology, Tenant, Transportation & Logistics",
+      "locations": "British Columbia, Burnaby, Canada",
       "briefs": [
         {
           "id": 1339,
@@ -899,6 +899,228 @@
           "source_label": "Burnaby Council",
           "key_dates": [],
           "is_proposal": true
+        },
+        {
+          "id": 1636,
+          "title": "[INFO ONLY] Burnaby Council reviewed major civic project updates",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1635,
+          "title": "[INFO ONLY] Council received 2025 Canada Community-Building Fund update",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1634,
+          "title": "Council approved mayor's letter supporting provincial housing funding",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1633,
+          "title": "Burnaby Council approved letter supporting continuation of Climate Action Program",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1632,
+          "title": "Council referred Metro 2050 amendment comments to staff for response",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Comment period closes — Metro 2050 amendment response deadline",
+              "date": "2026-07-10"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 1631,
+          "title": "Council approved Housing Agreement Bylaw for 6203 Marine Dr and 6292 Byrnepark Dr",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1630,
+          "title": "Council approved final adoption of housing agreement bylaw for two Newcombe St properties",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1629,
+          "title": "Council adopted Burnaby Fees and Charges Amendment Bylaw No. 4",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1628,
+          "title": "Council adopted Burnaby Building Bylaw Amendment No. 1 2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1627,
+          "title": "Council adopted Burnaby Development Procedures Bylaw 2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1626,
+          "title": "Burnaby Council approved final adoption of Amenity Cost Charges Bylaw",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1625,
+          "title": "Council adopted Bylaw Notice Enforcement Amendment No. 4",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1624,
+          "title": "Council adopted Burnaby Zoning Bylaw 2026 unanimously.",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1623,
+          "title": "Council approved Bylaw Notice Enforcement Amendment No. 7",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1622,
+          "title": "Council approved Burnaby Sign Bylaw 2026 on all three readings",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1621,
+          "title": "Council approved Fees and Charges Amendment Bylaw No. 5",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1620,
+          "title": "Council approved Payment-in-Lieu Reserve Fund Bylaw for Burnaby",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1619,
+          "title": "Council approved Burnaby Works and Services Bylaw 2026 on all three readings.",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1618,
+          "title": "Council approved the Making Life Better Parks, Recreation and Culture Plan",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1617,
+          "title": "Council approved below-market lease extension for PADS at 9048 Stormont Avenue",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Below-market lease extension for PADS takes effect",
+              "date": "2026-07-01"
+            },
+            {
+              "label": "Below-market lease extension for PADS expires",
+              "date": "2026-12-31"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 1616,
+          "title": "Council approved $27,000 Sport Hosting Grant for Spring 2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Spring 2026 Sport Hosting Grant application window opens",
+              "date": "2026-03-01"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 1615,
+          "title": "Council approved $10,475 in Playground Development Grants",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1614,
+          "title": "Council approved $521,243 contract renewal with Festilight Décor for holiday lights",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1613,
+          "title": "Council approved $196,000 contract renewal with CDW Canada for security system",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1612,
+          "title": "Council approved $679,362 contract for Kensington Park playground",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1611,
+          "title": "Council approved $5M contract for two new aerial ladder fire trucks",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1610,
+          "title": "Council approved time-limited rental policy changes for Burnaby developers",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1609,
+          "title": "Council approved strata title conversion for 4558 Portland Street duplex",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1608,
+          "title": "Council approved new Burnaby Sign Bylaw 2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
         }
       ]
     },
