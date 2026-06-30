@@ -1,0 +1,70 @@
+{
+  "article_id": 139,
+  "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=5c70028d-0ed2-44fb-9fce-ed4d84c62508&lang=English",
+  "article_title": "Board of Variance — July 06, 2026",
+  "source": "burnaby_council",
+  "source_label": "Burnaby Council",
+  "government_level": "Municipal",
+  "source_website_icon": "https://burnaby.ca",
+  "meeting_type": "variance",
+  "article_published_at": "2026-07-06T00:00:00",
+  "has_attachments": true,
+  "has_pdf": true,
+  "has_html": false,
+  "has_agenda": true,
+  "has_minutes": false,
+  "agenda_brief_count": 1,
+  "minutes_brief_count": 0,
+  "pdf_urls": "[{\"url\": \"https://pub-burnaby.escribemeetings.com/FileStream.ashx?DocumentId=90607\", \"title\": \"Agenda (PDF)\"}]",
+  "body": "",
+  "agenda_briefs": [
+    {
+      "id": 1637,
+      "title": "Proposed: Relax lot coverage to 44.37% for 4475 Parker Street",
+      "summary": "Council will consider an appeal to relax the maximum lot coverage rule in Burnaby's Zoning Bylaw for a property at 4475 Parker Street. If approved, this would allow the owner to build a rear primary dwelling unit in addition to the existing single-family home and its secondary suite. The current bylaw limits lot coverage for small-scale multi-unit dwellings (3 to 4 units), and this proposal would increase that limit to 44.37%.",
+      "action_required": "If you own property nearby or are affected by lot coverage rules, contact Burnaby planning staff to express your views before the council vote.",
+      "key_dates": [],
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "4.1",
+      "source_body": "4.1\nBOV #6534 - 4475 Parker Street\nAPPEAL: An appeal for the relaxation of Section 101.4 \"Maximum Lot Coverage\" of the Burnaby Zoning Bylaw requirement for small-scale multi-unit dwelling 3 to 4 units which, if permitted, would allow for the building of a rear primary dwelling unit in addition to the existing single family dwelling with a secondary suite.",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=5c70028d-0ed2-44fb-9fce-ed4d84c62508&lang=English",
+      "article_title": "Board of Variance Agenda — July 06, 2026",
+      "article_published_at": "2026-07-06T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-06-30T23:57:59.209322"
+    }
+  ],
+  "minutes_briefs": [],
+  "_skipped": [
+    {
+      "item_number": "1",
+      "headline": "CALL TO ORDER",
+      "reason": "procedural"
+    },
+    {
+      "item_number": "2",
+      "headline": "TERRITORIAL ACKNOWLEDGEMENT",
+      "reason": "procedural"
+    },
+    {
+      "item_number": "3.1",
+      "headline": "Minutes of the Board of Variance hearing held on May 4, 2026",
+      "reason": "procedural"
+    },
+    {
+      "item_number": "5",
+      "headline": "OTHER BUSINESS",
+      "reason": "procedural"
+    },
+    {
+      "item_number": "6",
+      "headline": "ADJOURNMENT",
+      "reason": "procedural"
+    }
+  ]
+}
