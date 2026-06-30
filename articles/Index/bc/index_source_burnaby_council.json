@@ -1,7 +1,38 @@
 {
-  "generated_at": "2026-06-30T17:14:35.962492+00:00",
-  "count": 30,
+  "generated_at": "2026-06-30T23:58:01.174883+00:00",
+  "count": 31,
   "articles": [
+    {
+      "article_id": 139,
+      "path": "2026/07/06/139_burnaby-council_board-of-variance-july-06-2026.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=5c70028d-0ed2-44fb-9fce-ed4d84c62508&lang=English",
+      "article_title": "Board of Variance — July 06, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://burnaby.ca",
+      "meeting_type": "variance",
+      "article_published_at": "2026-07-06T00:00:00",
+      "created_at": "2026-06-30T23:57:59.209322",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": false,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 1,
+      "minutes_brief_count": 0,
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 1637,
+          "title": "Proposed: Relax lot coverage to 44.37% for 4475 Parker Street",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 126,
       "path": "2026/06/25/126_burnaby-council_public-safety-committee-meeting-june-25-2026.json",
