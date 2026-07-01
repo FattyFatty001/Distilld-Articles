@@ -1,7 +1,131 @@
 {
-  "generated_at": "2026-06-30T23:58:01.174883+00:00",
-  "count": 31,
+  "generated_at": "2026-07-01T00:25:43.957151+00:00",
+  "count": 32,
   "articles": [
+    {
+      "article_id": 140,
+      "path": "2026/07/07/140_burnaby-council_executive-committee-of-council-meeting-july-07-202.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=58f97bc4-94cc-42c6-9023-e4f3280eae1b&lang=English",
+      "article_title": "Executive Committee of Council Meeting — July 07, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://burnaby.ca",
+      "meeting_type": "executive",
+      "article_published_at": "2026-07-07T00:00:00",
+      "created_at": "2026-07-01T00:25:41.980123",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": false,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 9,
+      "minutes_brief_count": 0,
+      "industries": "Professional Services",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 1646,
+          "title": "Proposed: Council to discuss personal info for municipal award or honour",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1645,
+          "title": "Proposed: Burnaby Council to vote on Rowing BC sport hosting grant",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1644,
+          "title": "Proposed: Burnaby Council to receive MOSAIC thank-you letter",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1643,
+          "title": "Proposed: Burnaby Council to review Community Schools funding and programs",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Community School summer programs run — July-August 2026",
+              "date": "2026-07-01"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1642,
+          "title": "Proposed: Burnaby Council to vote on July 2026 community grant recipient",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Council vote on July 2026 community grant recommendation",
+              "date": "2026-07-07"
+            },
+            {
+              "label": "CTS Youth Society free summer camps run",
+              "date": "2026-06-18"
+            },
+            {
+              "label": "CTS Youth Society free summer camps end",
+              "date": "2026-08-18"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1641,
+          "title": "Proposed: Festivals Burnaby Grant Program for July 2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Council decision on July 2026 grant recommendation",
+              "date": "2026-07-07"
+            },
+            {
+              "label": "TanBC Community Cultural Festival date",
+              "date": "2026-09-21"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1640,
+          "title": "Council to vote on $25,000 operating grant for Burnaby Arts Council",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Council vote on Burnaby Arts Council operating grant",
+              "date": "2026-07-07"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1639,
+          "title": "Proposed: Burnaby Arts Council delegation to Council",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Arts Council delegation to Executive Committee",
+              "date": "2026-07-07"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1638,
+          "title": "Proposed: Burnaby School District community schools overview presentation",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 139,
       "path": "2026/07/06/139_burnaby-council_board-of-variance-july-06-2026.json",
