@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-07-01T00:25:43.957151+00:00",
-  "count": 8,
+  "generated_at": "2026-07-02T00:52:04.958381+00:00",
+  "count": 9,
   "articles": [
+    {
+      "article_id": 141,
+      "path": "2026/07/02/141_vancouver-council_special-council-july-02-2026.json",
+      "article_url": "https://council.vancouver.ca/20260702/spec20260702ag.htm",
+      "article_title": "Special Council — July 02, 2026",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://vancouver.ca",
+      "meeting_type": "special-council",
+      "article_published_at": "2026-07-02T00:00:00",
+      "created_at": "2026-07-02T00:52:03.000086",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": false,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 1,
+      "minutes_brief_count": 0,
+      "industries": "Food Service, Liquor, Retail",
+      "locations": "Vancouver",
+      "briefs": [
+        {
+          "id": 1647,
+          "title": "Council to vote on continuing Granville Street pedestrian zone and patios",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Special council vote on Granville Street pedestrian zone and patio extension",
+              "date": "2026-07-02"
+            },
+            {
+              "label": "Extended pedestrian zone and temporary patios end date",
+              "date": "2026-09-06"
+            }
+          ],
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 112,
       "path": "2026/06/09/112_vancouver-council_special-council-june-09-2026.json",
