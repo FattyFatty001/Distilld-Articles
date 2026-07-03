@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-02T00:52:04.958381+00:00",
+  "generated_at": "2026-07-03T21:43:18.736977+00:00",
   "sources": {
     "burnaby_council": {
-      "generated_at": "2026-07-02T00:52:04.958381+00:00",
-      "count": 32,
+      "generated_at": "2026-07-03T21:43:18.736977+00:00",
+      "count": 33,
       "locations": "Abbotsford, British Columbia, Burnaby, Canada, Coquitlam, Delta, Langley, Maple Ridge, Metro Vancouver, New Westminster, North Vancouver, Port Coquitlam, Port Moody, Surrey, Vancouver, Victoria",
       "meeting_types": [
         "access",
@@ -23,7 +23,7 @@
       "index_path": "Index/bc/index_source_burnaby_council.json"
     },
     "vancouver_council": {
-      "generated_at": "2026-07-02T00:52:04.958381+00:00",
+      "generated_at": "2026-07-03T21:43:18.736977+00:00",
       "count": 9,
       "locations": "British Columbia, Burnaby, Delta, Langley, Manitoba, Metro Vancouver, New Westminster, Ontario, Richmond, Surrey, Vancouver, Victoria",
       "meeting_types": [
@@ -33,28 +33,28 @@
       "index_path": "Index/bc/index_source_vancouver_council.json"
     },
     "richmond_council": {
-      "generated_at": "2026-07-02T00:52:04.958381+00:00",
+      "generated_at": "2026-07-03T21:43:18.736977+00:00",
       "count": 10,
       "locations": "Richmond",
       "meeting_types": null,
       "index_path": "Index/bc/index_source_richmond_council.json"
     },
     "liquor_bulletins": {
-      "generated_at": "2026-07-02T00:52:04.958381+00:00",
+      "generated_at": "2026-07-03T21:43:18.736977+00:00",
       "count": 8,
       "locations": "British Columbia",
       "meeting_types": null,
       "index_path": "Index/bc/index_source_liquor_bulletins.json"
     },
     "burnaby_bylaws": {
-      "generated_at": "2026-07-02T00:52:04.958381+00:00",
+      "generated_at": "2026-07-03T21:43:18.736977+00:00",
       "count": 20,
       "locations": "Burnaby",
       "meeting_types": null,
       "index_path": "Index/bc/index_source_burnaby_bylaws.json"
     },
     "bc_gazette_part2": {
-      "generated_at": "2026-07-02T00:52:04.958381+00:00",
+      "generated_at": "2026-07-03T21:43:18.736977+00:00",
       "count": 19,
       "locations": "British Columbia, Victoria",
       "meeting_types": null,
