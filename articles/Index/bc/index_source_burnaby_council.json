@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T00:52:04.958381+00:00",
-  "count": 32,
+  "generated_at": "2026-07-03T21:43:18.736977+00:00",
+  "count": 33,
   "articles": [
     {
       "article_id": 140,
@@ -120,6 +120,82 @@
         {
           "id": 1638,
           "title": "Proposed: Burnaby School District community schools overview presentation",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        }
+      ]
+    },
+    {
+      "article_id": 142,
+      "path": "2026/07/06/142_burnaby-council_planning-and-development-committee-meeting-july-06.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=d0de1594-c73e-485b-9b81-9c19cbac4a65&lang=English",
+      "article_title": "Planning and Development Committee Meeting — July 06, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://burnaby.ca",
+      "meeting_type": "planning",
+      "article_published_at": "2026-07-06T00:00:00",
+      "created_at": "2026-07-03T21:43:16.806740",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 6,
+      "minutes_brief_count": 0,
+      "industries": "Construction & Development, Landlord & Property Mgmt, Professional Services",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 1653,
+          "title": "Proposed: Axin Architecture seeks change to Burnaby daycare application policy",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1652,
+          "title": "Proposed: Rathburn Drive student housing development in Burnaby",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Proposed Rathburn Drive student housing — council vote date TBD",
+              "date": "2026-05-12"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1651,
+          "title": "Proposed: Burnaby Council to vote on Rathburn Drive student housing rezoning",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1650,
+          "title": "Proposed: Burnaby council to review progress on HOME housing strategy and city land projects",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1649,
+          "title": "Proposed: Six-storey market rental building at 5168-5192 Sidley Street",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Council vote on first and second reading — proposed Sidley Street rezoning",
+              "date": "2025-05-12"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1648,
+          "title": "Proposed: Low-rise multi-family development with childcare at 3588 Wayburne Drive",
           "source_label": "Burnaby Council",
           "key_dates": [],
           "is_proposal": true
