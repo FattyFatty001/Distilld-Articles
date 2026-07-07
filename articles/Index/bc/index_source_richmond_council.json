@@ -1,7 +1,321 @@
 {
-  "generated_at": "2026-07-03T21:43:18.736977+00:00",
-  "count": 10,
+  "generated_at": "2026-07-07T07:17:56.329758+00:00",
+  "count": 11,
   "articles": [
+    {
+      "article_id": 143,
+      "path": "2026/07/07/143_richmond-council_city-council.json",
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=e420dbcd-8417-474e-9167-d2a28d3c5b6d&lang=English",
+      "article_title": "City Council",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://www.richmond.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-07-07T00:00:00",
+      "created_at": "2026-07-07T07:17:53.763269",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": false,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 25,
+      "minutes_brief_count": 0,
+      "industries": "Agriculture, Construction & Development, Food Service, Healthcare, Labour & Employment, Landlord & Property Mgmt, Professional Services, Retail, Technology, Transportation & Logistics",
+      "locations": "Richmond",
+      "briefs": [
+        {
+          "id": 1678,
+          "title": "Proposed: Richmond GATE Act ballot initiative to create an Independent Ethics Commission",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Council vote to adopt ballot initiative resolution — Richmond GATE Act",
+              "date": "2026-07-21"
+            },
+            {
+              "label": "Final deadline to adopt ballot resolution for November 2026 ballot",
+              "date": "2026-07-28"
+            },
+            {
+              "label": "Independent Ethics Commission must be operational",
+              "date": "2027-06-01"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1677,
+          "title": "Proposed: Richmond Council to vote on wildfire weed abatement rules",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Staff implementation plan due to council",
+              "date": "2025-09-05"
+            },
+            {
+              "label": "Proposed bylaws and program details due to council",
+              "date": "2025-10-05"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1676,
+          "title": "Council to consider prioritizing 23rd Street Ciclovía Pilot Project",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Proposed Ciclovía pilot event on 23rd Street",
+              "date": "2026-09-12"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1675,
+          "title": "Proposed: Richmond Council to vote on Glenn & McBryde Ave road closure for park safety",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1674,
+          "title": "Proposed: Council to vote on $87,777 graffiti removal contract for historic building",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Council vote on graffiti removal contract for General Warehouse Building",
+              "date": "2026-07-07"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1673,
+          "title": "Proposed: Richmond council to vote on $49,999 housing consultant contract amendment",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Council vote on Definitive Networks contract",
+              "date": "2026-07-07"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1672,
+          "title": "Council to vote on Richmond Police's 2025 military equipment use report",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Council vote on 2025 military equipment report",
+              "date": "2026-07-07"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1671,
+          "title": "Proposed: Richmond Council to vote on supporting cleanup plan for United Heckathorn Superfund site",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "EPA releases proposed cleanup plan for public comment",
+              "date": "2026-08-31"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1670,
+          "title": "Proposed: Richmond to vote on sanitary and storm fee collection for 2026-27",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Written protest deadline — Richmond sanitary/storm fee proposal",
+              "date": "2026-07-03"
+            },
+            {
+              "label": "Public hearing — Richmond sanitary/storm fee proposal",
+              "date": "2026-07-07"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1669,
+          "title": "Proposed: New rules for temporary sewage holding tanks in Richmond",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1668,
+          "title": "Proposed: Richmond council to vote on stormwater fee agreement with county",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1667,
+          "title": "Proposed: Richmond council to re-certify sewer system management plan",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "SSMP submission to State Water Board deadline",
+              "date": "2025-08-02"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1666,
+          "title": "Proposed: Richmond council to vote on $75K shooting range contract",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Proposed contract start date — Richmond Rod and Gun Club rental",
+              "date": "2026-07-01"
+            },
+            {
+              "label": "Proposed contract end date — Richmond Rod and Gun Club rental",
+              "date": "2029-06-30"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1665,
+          "title": "Council to receive monthly crime report from Richmond Police for May 2026",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1664,
+          "title": "Proposed: Richmond council to vote on homeless outreach contract with Contra Costa County",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Proposed CORE homeless outreach contract start date",
+              "date": "2026-07-01"
+            },
+            {
+              "label": "Proposed CORE homeless outreach contract end date",
+              "date": "2029-06-30"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1663,
+          "title": "Proposed: Appoint Samuel Goldheim to Richmond Youth Council",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1662,
+          "title": "Proposed: Gage Eda appointed to Richmond Youth Council",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1661,
+          "title": "Proposed: Richmond council to vote on EMS data contract with Definitive Networks",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Proposed EMS data contract start date",
+              "date": "2025-07-01"
+            },
+            {
+              "label": "Proposed EMS data contract end date",
+              "date": "2028-06-30"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1660,
+          "title": "Proposed: North Richmond waste fee spending plan for FY 2026-27",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Next Mitigation Committee meeting",
+              "date": "2026-10-16"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1659,
+          "title": "Proposed: Richmond Council to vote on $266,514 contract for Miraflores park work",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Council vote on Miraflores contract amendment",
+              "date": "2025-05-13"
+            },
+            {
+              "label": "Interpretive signage installation deadline",
+              "date": "2026-08-31"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1658,
+          "title": "Proposed: Richmond to name delegate for California Cities conference",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Cal Cities 2026 delegate/alternate name submission deadline",
+              "date": "2026-09-01"
+            },
+            {
+              "label": "Cal Cities 2026 Annual Conference begins",
+              "date": "2026-09-23"
+            },
+            {
+              "label": "Cal Cities 2026 Annual Conference ends",
+              "date": "2026-09-25"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1657,
+          "title": "Proposed: Richmond Council to vote on iManage cloud contract extension",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1656,
+          "title": "Council to consider labor negotiations with multiple employee unions",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1655,
+          "title": "Proposed: Richmond Council to negotiate sale of Miraflores property on South 45th Street",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1654,
+          "title": "Council to discuss closed-door legal strategy in Carle v. City of Richmond lawsuit",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 127,
       "path": "2026/06/23/127_richmond-council_city-council.json",
