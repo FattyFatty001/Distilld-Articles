@@ -1,0 +1,49 @@
+{
+  "article_id": 151,
+  "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n09_77-2026",
+  "article_title": "B.C. Reg. 77/2026 – M199/2026",
+  "source": "bc_gazette_part2",
+  "source_label": "BC Gazette Part II",
+  "government_level": "Provincial",
+  "source_website_icon": "https://www.bclaws.gov.bc.ca",
+  "meeting_type": null,
+  "article_published_at": "2026-05-06T00:00:00",
+  "has_attachments": false,
+  "has_pdf": false,
+  "has_html": false,
+  "has_agenda": false,
+  "has_minutes": true,
+  "agenda_brief_count": 0,
+  "minutes_brief_count": 1,
+  "pdf_urls": null,
+  "body": "",
+  "agenda_briefs": [],
+  "minutes_briefs": [
+    {
+      "id": 1685,
+      "title": "New carbon intensity rules for marine fuels take effect in BC",
+      "summary": "British Columbia has updated the Low Carbon Fuels (Technical) Regulation. The change replaces Table 4 in Schedule 2 of the regulation. This table now sets new 'additional carbon intensity attributable to use' (UCI) values for marine engines. In plain language, it means the government has changed how it calculates the carbon footprint of marine fuels based on how much load the engine is running at (51-75% or 76-100%) and whether the engine has a methane slip reduction kit. This affects fuel suppliers and marine operators who must report or comply with the Low Carbon Fuels Act.",
+      "action_required": "Check if your marine engines fall under the new load ranges and update your fuel carbon intensity reporting accordingly.",
+      "key_dates": [
+        {
+          "label": "BC Low Carbon Fuels regulation amendment takes effect",
+          "date": "2026-05-06"
+        }
+      ],
+      "industries": "Transportation & Logistics, Natural Resources",
+      "locations": "British Columbia",
+      "government_level": "Provincial",
+      "is_proposal": false,
+      "item_number": null,
+      "source_body": "Regulation: B.C. Reg. 77/2026\nMade under: Low Carbon Fuels Act\nPublished in: No. 9 – B.C. Regs. 77 to 82, May 19, 2026\nDeposit date: May 6, 2026\n\nB.C. Reg. 77/2026, deposited May 6, 2026, under theLOW CARBON FUELS ACT[section 57]. Ministerial Order M199/2026, dated May 5, 2026. I, Adrian Dix, Minister of Energy and Climate Solutions, order that the Low Carbon Fuels (Technical) Regulation, B.C. Reg. 295/2023, is amended as set out in the attached Schedule. — A. DIX,Minister of Energy and Climate Solutions. 1\tTable 4 in Schedule 2 of the Low Carbon Fuels (Technical) Regulation, B.C. Reg. 295/2023, is repealed and the following substituted: Table 4Additional Carbon Intensity Attributable to Use (UCI) Operated within 51 to 75% of load range Operated within 76 to 100% of load range Marine, with methane slip reduction kit Operated within 26 to 75% of load range Operated within 76 to 100% of load range Index Page|Next Regulation|Cumulative Index Page Copyright © 2026: King's Printer, Victoria, British Columbia, Canada",
+      "attachments": [],
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n09_77-2026",
+      "article_title": "B.C. Reg. 77/2026 – M199/2026",
+      "article_published_at": "2026-05-06T00:00:00",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "created_at": "2026-07-08T21:42:52.438869"
+    }
+  ],
+  "_skipped": null
+}
