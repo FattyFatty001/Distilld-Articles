@@ -1,7 +1,203 @@
 {
-  "generated_at": "2026-07-07T20:22:23.937084+00:00",
-  "count": 25,
+  "generated_at": "2026-07-08T21:43:20.686892+00:00",
+  "count": 31,
   "articles": [
+    {
+      "article_id": 156,
+      "path": "2026/05/13/156_bc-gazette-part-ii_bc-reg-822026-chief-gold-commissioner.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n09_82-2026",
+      "article_title": "B.C. Reg. 82/2026 – Chief Gold Commissioner",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-05-13T00:00:00",
+      "created_at": "2026-07-08T21:43:16.178161",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Natural Resources",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1690,
+          "title": "New mining reserves created on Cowichan River Park, Mt. Washington, and Tā Ch’Ilā Park land",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 155,
+      "path": "2026/05/12/155_bc-gazette-part-ii_bc-reg-812026-m2052026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n09_81-2026",
+      "article_title": "B.C. Reg. 81/2026 – M205/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-05-12T00:00:00",
+      "created_at": "2026-07-08T21:43:12.106943",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Labour & Employment, Transportation & Logistics",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1689,
+          "title": "TransLink police privacy rules removed from BC's FOI Act",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 154,
+      "path": "2026/05/11/154_bc-gazette-part-ii_bc-reg-802026-oic-1872026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n09_80-2026",
+      "article_title": "B.C. Reg. 80/2026 – OIC 187/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-05-11T00:00:00",
+      "created_at": "2026-07-08T21:43:07.588734",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Professional Services, Retail, Transportation & Logistics",
+      "locations": "British Columbia, Surrey, Vancouver",
+      "briefs": [
+        {
+          "id": 1688,
+          "title": "New rules for Metro Vancouver Transit Police take effect",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "New transit police regulation takes effect",
+              "date": "2026-05-11"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 153,
+      "path": "2026/05/11/153_bc-gazette-part-ii_bc-reg-792026-oic-1862026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n09_79-2026",
+      "article_title": "B.C. Reg. 79/2026 – OIC 186/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-05-11T00:00:00",
+      "created_at": "2026-07-08T21:43:03.010981",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Agriculture, Natural Resources, Transportation & Logistics",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1687,
+          "title": "Emergency management reports must now be published; personal information can be shared with US officials",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 152,
+      "path": "2026/05/08/152_bc-gazette-part-ii_bc-reg-782026-m2022026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n09_78-2026",
+      "article_title": "B.C. Reg. 78/2026 – M202/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-05-08T00:00:00",
+      "created_at": "2026-07-08T21:42:57.703287",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Healthcare",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1686,
+          "title": "BC privacy law removes health organizations from public body list",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 151,
+      "path": "2026/05/06/151_bc-gazette-part-ii_bc-reg-772026-m1992026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n09_77-2026",
+      "article_title": "B.C. Reg. 77/2026 – M199/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-05-06T00:00:00",
+      "created_at": "2026-07-08T21:42:52.438869",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Natural Resources, Transportation & Logistics",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1685,
+          "title": "New carbon intensity rules for marine fuels take effect in BC",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC Low Carbon Fuels regulation amendment takes effect",
+              "date": "2026-05-06"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
     {
       "article_id": 149,
       "path": "2026/04/27/149_bc-gazette-part-ii_bc-reg-672026-oic-1602026.json",
