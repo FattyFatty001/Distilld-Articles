@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-07-09T16:48:01.284011+00:00",
+  "generated_at": "2026-07-09T19:55:15.529129+00:00",
   "sources": {
     "richmond_council": {
-      "generated_at": "2026-07-09T16:48:01.284011+00:00",
+      "generated_at": "2026-07-09T19:55:15.529129+00:00",
       "count": 11,
       "locations": "Richmond",
       "meeting_types": null,
       "index_path": "Index/bc/index_source_richmond_council.json"
     },
     "burnaby_council": {
-      "generated_at": "2026-07-09T16:48:01.284011+00:00",
+      "generated_at": "2026-07-09T19:55:15.529129+00:00",
       "count": 33,
       "locations": "Abbotsford, British Columbia, Burnaby, Canada, Coquitlam, Delta, Langley, Maple Ridge, Metro Vancouver, New Westminster, North Vancouver, Port Coquitlam, Port Moody, Surrey, Vancouver, Victoria",
       "meeting_types": [
@@ -30,7 +30,7 @@
       "index_path": "Index/bc/index_source_burnaby_council.json"
     },
     "vancouver_council": {
-      "generated_at": "2026-07-09T16:48:01.284011+00:00",
+      "generated_at": "2026-07-09T19:55:15.529129+00:00",
       "count": 9,
       "locations": "British Columbia, Burnaby, Delta, Langley, Manitoba, Metro Vancouver, New Westminster, Ontario, Richmond, Surrey, Vancouver, Victoria",
       "meeting_types": [
@@ -40,21 +40,21 @@
       "index_path": "Index/bc/index_source_vancouver_council.json"
     },
     "liquor_bulletins": {
-      "generated_at": "2026-07-09T16:48:01.284011+00:00",
+      "generated_at": "2026-07-09T19:55:15.529129+00:00",
       "count": 8,
       "locations": "British Columbia",
       "meeting_types": null,
       "index_path": "Index/bc/index_source_liquor_bulletins.json"
     },
     "bc_gazette_part2": {
-      "generated_at": "2026-07-09T16:48:01.284011+00:00",
+      "generated_at": "2026-07-09T19:55:15.529129+00:00",
       "count": 31,
       "locations": "British Columbia, Surrey, Vancouver, Victoria",
       "meeting_types": null,
       "index_path": "Index/bc/index_source_bc_gazette_part2.json"
     },
     "burnaby_bylaws": {
-      "generated_at": "2026-07-09T16:48:01.284011+00:00",
+      "generated_at": "2026-07-09T19:55:15.529129+00:00",
       "count": 20,
       "locations": "Burnaby",
       "meeting_types": null,
