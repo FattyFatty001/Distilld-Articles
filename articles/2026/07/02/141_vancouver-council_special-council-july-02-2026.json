@@ -12,9 +12,9 @@
   "has_pdf": true,
   "has_html": false,
   "has_agenda": true,
-  "has_minutes": false,
+  "has_minutes": true,
   "agenda_brief_count": 1,
-  "minutes_brief_count": 0,
+  "minutes_brief_count": 1,
   "pdf_urls": "[{\"url\": \"https://council.vancouver.ca/20260702/documents/spec1.pdf\", \"title\": \"Agenda\"}, {\"url\": \"https://council.vancouver.ca/20260702/documents/spec20260702ag.pdf\", \"title\": \"Agenda\"}]",
   "body": "",
   "agenda_briefs": [
@@ -57,7 +57,33 @@
       "created_at": "2026-07-02T00:52:03.000086"
     }
   ],
-  "minutes_briefs": [],
+  "minutes_briefs": [
+    {
+      "id": 1730,
+      "title": "Council approved extending Granville Street pedestrian zone through Labour Day",
+      "summary": "Vancouver Council voted to extend the Granville Street Pedestrian Zone pilot project. The zone was originally set to end earlier, but Council approved keeping it open through the Labour Day weekend in early September. This extension depends on two conditions: TransLink must agree to keep rerouting buses away from Granville Street, and the Provincial Government must extend temporary exemptions that allow the pedestrian zone to operate. Council also asked the Mayor to write letters to both TransLink and the Province requesting these extensions.",
+      "action_required": "No immediate action required — the decision is final. Monitor for updates from TransLink and the Province on the required extensions.",
+      "key_dates": [
+        {
+          "label": "Granville Street Pedestrian Zone extension ends — Labour Day weekend",
+          "date": "2025-09-01"
+        }
+      ],
+      "industries": "Retail, Food Service, Transportation & Logistics",
+      "locations": "Vancouver",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "1",
+      "source_body": "THAT Council direct staff to extend the Granville Street Pedestrian Zone pilot project from its currently scheduled conclusion date through to the end of the Labour Day weekend in early September, subject to operational, emergency access and public safety requirements, and subject to: i. TransLink agreeing to extend the temporary re-routing of bus service from Granville Street for the duration of the pilot extension; and ii. the Provincial Government extending the temporary exemptions currently in place for the Granville Street pilot for the duration of the pilot extension; FURTHER THAT Council request the Mayor to write to the Provincial Government and TransLink requesting an extension of the temporary measures and exemptions required to facilitate the pilot extension.",
+      "attachments": [],
+      "article_url": "https://council.vancouver.ca/20260702/spec20260702ag.htm",
+      "article_title": "Special Council Minutes — July 02, 2026",
+      "article_published_at": "2026-07-02T00:00:00",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "created_at": "2026-07-09T19:55:13.264951"
+    }
+  ],
   "_skipped": [
     {
       "item_number": "ROLL CALL",
