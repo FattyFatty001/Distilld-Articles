@@ -1,7 +1,66 @@
 {
-  "generated_at": "2026-07-09T23:58:59.543903+00:00",
-  "count": 35,
+  "generated_at": "2026-07-10T19:28:24.170559+00:00",
+  "count": 36,
   "articles": [
+    {
+      "article_id": 161,
+      "path": "2026/07/16/161_burnaby-council_parks-recreation-and-culture-committee-meeting-jul.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=9647b706-00d5-46c7-b8d8-46614d0f7371&lang=English",
+      "article_title": "Parks, Recreation and Culture Committee Meeting — July 16, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://burnaby.ca",
+      "meeting_type": "parks",
+      "article_published_at": "2026-07-16T00:00:00",
+      "created_at": "2026-07-10T19:28:21.877140",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": false,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 5,
+      "minutes_brief_count": 0,
+      "industries": "Childcare & Daycare, Construction & Development, Event Management, Parking & Transportation, Professional Services, Recreation",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 1787,
+          "title": "Proposed: Daycare access, parking changes at Christine Sinclair Centre",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1786,
+          "title": "Proposed: Scheduling changes at Kensington Outdoor Pool in Burnaby",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1785,
+          "title": "Proposed: Burnaby Learn to Swim pilot program update",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1784,
+          "title": "Proposed: Burnaby to simplify permits and safety rules for community event producers",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1783,
+          "title": "Proposed: Burnaby council to hear update on PRC facilities project",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 160,
       "path": "2026/07/14/160_burnaby-council_council-correspondence-and-public-notice-submissio.json",
