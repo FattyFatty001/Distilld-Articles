@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T00:09:06.980134+00:00",
+  "generated_at": "2026-07-15T15:56:16.685124+00:00",
   "count": 36,
   "articles": [
     {
@@ -790,137 +790,6 @@
       ]
     },
     {
-      "article_id": 125,
-      "path": "2026/06/23/125_burnaby-council_council-correspondence-and-public-notice-submissio.json",
-      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=986de699-41e7-4bc4-8afd-46a00a71f731&lang=English",
-      "article_title": "Council Correspondence and Public Notice Submissions — June 23, 2026",
-      "source": "burnaby_council",
-      "source_label": "Burnaby Council",
-      "government_level": "Municipal",
-      "source_website_icon": "https://burnaby.ca",
-      "meeting_type": "correspondence",
-      "article_published_at": "2026-06-23T00:00:00",
-      "created_at": "2026-06-18T21:44:17.521551",
-      "has_attachments": true,
-      "has_pdf": true,
-      "has_html": false,
-      "has_agenda": true,
-      "has_minutes": false,
-      "agenda_brief_count": 12,
-      "minutes_brief_count": 0,
-      "industries": "Agriculture, Construction & Development, Food Service, Grocery & Food Retail, Hotel & Accommodation, Landlord & Property Mgmt, Retail, Tenant, Transportation & Logistics",
-      "locations": "British Columbia, Burnaby, Vancouver",
-      "briefs": [
-        {
-          "id": 1560,
-          "title": "Proposed: Rezoning of five properties on Dow Avenue in Burnaby",
-          "source_label": "Burnaby Council",
-          "key_dates": [
-            {
-              "label": "Written submission deadline for REZ #25-23 Council package",
-              "date": "2026-06-16"
-            },
-            {
-              "label": "Council vote on First and Second Reading of Rezoning Bylaw No. 14833",
-              "date": "2026-06-23"
-            }
-          ],
-          "is_proposal": true
-        },
-        {
-          "id": 1559,
-          "title": "Proposed: Burnaby Council to vote on Silver Avenue rezoning",
-          "source_label": "Burnaby Council",
-          "key_dates": [
-            {
-              "label": "Written comment deadline — Burnaby Silver Avenue rezoning REZ #25-12",
-              "date": "2026-06-16"
-            },
-            {
-              "label": "Council vote on first and second reading — Burnaby Silver Avenue rezoning",
-              "date": "2026-06-23"
-            }
-          ],
-          "is_proposal": true
-        },
-        {
-          "id": 1558,
-          "title": "Proposed: Burnaby Council to vote on fossil fuel correspondence action",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 1557,
-          "title": "Proposed: Burnaby Council to consider Michael J. Fox Theatre closure",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 1556,
-          "title": "Proposed: Burnaby to consider Stage 3 watering restrictions",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 1555,
-          "title": "Proposed: Burnaby Council to consider aircraft noise over North Burnaby",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 1554,
-          "title": "Proposed: Metro Vancouver solid waste management plan update",
-          "source_label": "Burnaby Council",
-          "key_dates": [
-            {
-              "label": "Metro Vancouver solid waste plan comment period closes",
-              "date": "2026-08-01"
-            }
-          ],
-          "is_proposal": true
-        },
-        {
-          "id": 1553,
-          "title": "Proposed: Council to consider private water pipe repair rules after Hazel Street leak",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 1552,
-          "title": "Proposed: Burnaby to study financial impact of new rental affordability rules",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 1551,
-          "title": "Proposed: Protected bike lane on Winston Street in Burnaby",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 1550,
-          "title": "Proposed: Burnaby Council to review LED screen compliance at Gilmore Place",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 1549,
-          "title": "Proposed: Burnaby to close noise bylaw gaps for multi-unit residences",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        }
-      ]
-    },
-    {
       "article_id": 124,
       "path": "2026/06/23/124_burnaby-council_city-council-meeting-june-23-2026.json",
       "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=c9fc0385-5964-48ca-92ee-21bc594a9ce3&lang=English",
@@ -931,16 +800,16 @@
       "source_website_icon": "https://burnaby.ca",
       "meeting_type": "regular-council",
       "article_published_at": "2026-06-23T00:00:00",
-      "created_at": "2026-06-18T20:51:29.098092",
+      "created_at": "2026-07-15T15:56:14.142719",
       "has_attachments": false,
       "has_pdf": false,
       "has_html": false,
       "has_agenda": true,
-      "has_minutes": false,
+      "has_minutes": true,
       "agenda_brief_count": 36,
-      "minutes_brief_count": 0,
-      "industries": "Construction & Development, Food Service, Grocery & Food Retail, Hotel & Accommodation, Landlord & Property Mgmt, Professional Services, Retail, Tenant, Transportation & Logistics",
-      "locations": "Burnaby, Canada, Vancouver",
+      "minutes_brief_count": 37,
+      "industries": "Construction & Development, Food Service, Grocery & Food Retail, Hotel & Accommodation, Landlord & Property Mgmt, Natural Resources, Professional Services, Retail, Tenant, Transportation & Logistics",
+      "locations": "British Columbia, Burnaby, Canada, Vancouver",
       "briefs": [
         {
           "id": 1548,
@@ -1195,6 +1064,396 @@
         {
           "id": 1513,
           "title": "Proposed: Burnaby Environmental Awards recipients to be presented by Mayor Hurley",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1901,
+          "title": "[INFO ONLY] Council received Building Permit Activity Report for May 2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1900,
+          "title": "[INFO ONLY] Council received status update on major civic projects",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1899,
+          "title": "[NOT REACHED] Council did not vote on using hotel tax funds for Burnaby affordable housing",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1898,
+          "title": "[INFO ONLY] Burnaby council reviewed amenity and development cost charge programs",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1897,
+          "title": "[INFO ONLY] Council received update on Burnaby heritage program initiatives",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1896,
+          "title": "[INFO ONLY] Council received 2025 Statement of Financial Information",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1895,
+          "title": "[INFO ONLY] Council reviewed 2025 Indigenous Relations and Reconciliation work",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1894,
+          "title": "[INFO ONLY] Council received 2026 General Local Election update",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1893,
+          "title": "[INFO ONLY] Council received Mayor's Task Force economic growth report",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1892,
+          "title": "[INFO ONLY] Mayor Hurley to present Burnaby Environmental Awards recipients",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1887,
+          "title": "Council approved wording for official opening plaques on six Burnaby projects",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1886,
+          "title": "Council adopted Bylaw Notice Enforcement amendment bylaw",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1885,
+          "title": "Council adopted Burnaby Sign Bylaw 2026 — final vote passed",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1884,
+          "title": "Council approved final adoption of Burnaby fees and charges bylaw",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1883,
+          "title": "Council adopted Works and Services Payment-in-Lieu Reserve Fund Bylaw 2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1882,
+          "title": "Council adopted Burnaby Works and Services Bylaw 2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1881,
+          "title": "Council approved zoning amendment for 6800 Lougheed Highway",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1880,
+          "title": "Council approved repeal of housing agreement bylaw for 5227 Lane Street",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1879,
+          "title": "Council approved first two readings of Dow Avenue zoning amendment",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1878,
+          "title": "Council approved zoning amendment for 6470 & 6508 Silver Avenue",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1877,
+          "title": "Council approved $618,970 Community School Grant for 2025/2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1876,
+          "title": "Council unanimously approved supporting a nationwide Chinese Canadian Heritage Month",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1875,
+          "title": "Council approved $1.2M food supply contract renewal with Sysco Vancouver",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1874,
+          "title": "Council approved $700,000 food supply contract renewal with GFS British Columbia",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1873,
+          "title": "Council approved $700,000 food supply contract renewal with Centennial Foods Vancouver",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1872,
+          "title": "Council approved $873,810 sand and gravel supply contract renewal with Utility West",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1871,
+          "title": "Council approved $338,076 contract change for crosswalk improvements to Crown Contracting",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1870,
+          "title": "Council approved $292,367 contract change for Vancouver to SFU cycling connection",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1869,
+          "title": "Council approved $861,909 contract for aquatics timing system",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1868,
+          "title": "Council approved KPMG external audit contract for $741,333",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1867,
+          "title": "Council approved Squint Lake Park washroom construction for $1,168,303",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1866,
+          "title": "Council approved $1.75M HVAC maintenance contract with Just Mechanical",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1865,
+          "title": "Council approved $696,341 HVAC maintenance contract to Broadway Refrigeration",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1864,
+          "title": "Council approved BC Hydro EV charging at Burnaby Lake Sports Complex",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1863,
+          "title": "Council approved fence height variances at 8888 University Drive",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1862,
+          "title": "Council approved rezoning for mixed-use development at 7211 Greenford Avenue",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1861,
+          "title": "Council approved Mayor's Task Force economic growth recommendations",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 125,
+      "path": "2026/06/23/125_burnaby-council_council-correspondence-and-public-notice-submissio.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=986de699-41e7-4bc4-8afd-46a00a71f731&lang=English",
+      "article_title": "Council Correspondence and Public Notice Submissions — June 23, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://burnaby.ca",
+      "meeting_type": "correspondence",
+      "article_published_at": "2026-06-23T00:00:00",
+      "created_at": "2026-06-18T21:44:17.521551",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": false,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 12,
+      "minutes_brief_count": 0,
+      "industries": "Agriculture, Construction & Development, Food Service, Grocery & Food Retail, Hotel & Accommodation, Landlord & Property Mgmt, Retail, Tenant, Transportation & Logistics",
+      "locations": "British Columbia, Burnaby, Vancouver",
+      "briefs": [
+        {
+          "id": 1560,
+          "title": "Proposed: Rezoning of five properties on Dow Avenue in Burnaby",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Written submission deadline for REZ #25-23 Council package",
+              "date": "2026-06-16"
+            },
+            {
+              "label": "Council vote on First and Second Reading of Rezoning Bylaw No. 14833",
+              "date": "2026-06-23"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1559,
+          "title": "Proposed: Burnaby Council to vote on Silver Avenue rezoning",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Written comment deadline — Burnaby Silver Avenue rezoning REZ #25-12",
+              "date": "2026-06-16"
+            },
+            {
+              "label": "Council vote on first and second reading — Burnaby Silver Avenue rezoning",
+              "date": "2026-06-23"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1558,
+          "title": "Proposed: Burnaby Council to vote on fossil fuel correspondence action",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1557,
+          "title": "Proposed: Burnaby Council to consider Michael J. Fox Theatre closure",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1556,
+          "title": "Proposed: Burnaby to consider Stage 3 watering restrictions",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1555,
+          "title": "Proposed: Burnaby Council to consider aircraft noise over North Burnaby",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1554,
+          "title": "Proposed: Metro Vancouver solid waste management plan update",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Metro Vancouver solid waste plan comment period closes",
+              "date": "2026-08-01"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1553,
+          "title": "Proposed: Council to consider private water pipe repair rules after Hazel Street leak",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1552,
+          "title": "Proposed: Burnaby to study financial impact of new rental affordability rules",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1551,
+          "title": "Proposed: Protected bike lane on Winston Street in Burnaby",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1550,
+          "title": "Proposed: Burnaby Council to review LED screen compliance at Gilmore Place",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1549,
+          "title": "Proposed: Burnaby to close noise bylaw gaps for multi-unit residences",
           "source_label": "Burnaby Council",
           "key_dates": [],
           "is_proposal": true
@@ -1980,15 +2239,15 @@
       "source_website_icon": "https://burnaby.ca",
       "meeting_type": "executive",
       "article_published_at": "2026-06-02T00:00:00",
-      "created_at": "2026-06-01T23:11:36.819265",
+      "created_at": "2026-07-15T15:55:53.817082",
       "has_attachments": false,
       "has_pdf": false,
       "has_html": false,
       "has_agenda": true,
-      "has_minutes": false,
+      "has_minutes": true,
       "agenda_brief_count": 4,
-      "minutes_brief_count": 0,
-      "industries": "Construction & Development, Food Service, Hotel & Accommodation, Professional Services, Retail",
+      "minutes_brief_count": 4,
+      "industries": "Construction & Development, Food Service, Hotel & Accommodation, Landlord & Property Mgmt, Professional Services, Retail, Tenant",
       "locations": "Burnaby",
       "briefs": [
         {
@@ -2018,6 +2277,48 @@
           "source_label": "Burnaby Council",
           "key_dates": [],
           "is_proposal": true
+        },
+        {
+          "id": 1891,
+          "title": "Council approved $618,970 Community School Grant for 2025-2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 1890,
+          "title": "Council approved below-market lease extension for PADS at 9048 Stormont Ave",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Below-market lease extension for PADS takes effect",
+              "date": "2026-07-01"
+            },
+            {
+              "label": "Below-market lease extension for PADS expires",
+              "date": "2026-12-31"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 1889,
+          "title": "Council approved up to $27,000 in Sport Hosting Grants for Spring 2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Spring 2026 Sport Hosting Grant funds available",
+              "date": "2026-03-01"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 1888,
+          "title": "Council approved $10,475 in Playground Development Grants for Spring 2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
         }
       ]
     },
