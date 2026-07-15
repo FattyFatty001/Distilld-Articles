@@ -12,10 +12,10 @@
   "has_pdf": false,
   "has_html": false,
   "has_agenda": true,
-  "has_minutes": false,
+  "has_minutes": true,
   "agenda_brief_count": 4,
-  "minutes_brief_count": 0,
-  "pdf_urls": "{\"_doc\": [], \"_inline\": [{\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=90211\", \"title\": \"2026.05.05 ECC Minutes DRAFT.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=90201\", \"title\": \"Playground Development Grant 2026 - 2026.06.02.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=90202\", \"title\": \"Attachment 1 - Playground Development Grant Criteria.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=90203\", \"title\": \"Attachment 2 - Playground Development Grant Application Douglas Road.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=90204\", \"title\": \"Attachment 3 - Playground Grant Application Edmonds.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=90205\", \"title\": \"Attachment 4 - Playground Development Grant Application Seaforth.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=90206\", \"title\": \"Attachment 5 - Playground Development Grant Info Letter.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=90199\", \"title\": \"Sport Hosting Grant Spring 2026 Intake - 2026.06.02.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=90200\", \"title\": \"Attachment 1 - Sport Hosting Grant Spring 2026 Intake - 2026.06.02.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=90207\", \"title\": \"LA Amendment - 9048 Stormont Ave - 2026-06-02.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=90208\", \"title\": \"Attachment 1 - 9048 Stormont Avenue - Site Plan.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=90209\", \"title\": \"Community School Grant Funding 2025-2026.pdf\"}, {\"url\": \"https://pub-burnaby.escribemeetings.com/filestream.ashx?DocumentId=90210\", \"title\": \"Attachment 1 - Community School Operating Budget 2025-2026.pdf\"}]}",
+  "minutes_brief_count": 4,
+  "pdf_urls": "[]",
   "body": "",
   "agenda_briefs": [
     {
@@ -99,5 +99,101 @@
       "created_at": "2026-06-01T23:11:36.819265"
     }
   ],
-  "minutes_briefs": []
+  "minutes_briefs": [
+    {
+      "id": 1888,
+      "title": "Council approved $10,475 in Playground Development Grants for Spring 2026",
+      "summary": "Burnaby Council voted unanimously to approve $10,475 in Playground Development Grants for Spring 2026. The grants will be given out as outlined in a report dated June 2, 2026. This decision is final and the money has been approved for distribution.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "6.1",
+      "source_body": "MOVED AND SECONDED\nTHAT the disbursement of the Playground Development Grants totaling\n$10,475.00, as outlined in the report titled “Playground Development Grants\n2026”, dated June 2, 2026, be approved.  \nCARRIED UNANIMOUSLY",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=14c5dd72-1564-4aa5-acef-1b69f70daea6&lang=English",
+      "article_title": "Executive Committee of Council Meeting Minutes — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-07-15T15:55:53.806942"
+    },
+    {
+      "id": 1889,
+      "title": "Council approved up to $27,000 in Sport Hosting Grants for Spring 2026",
+      "summary": "Burnaby Council unanimously approved the disbursement of up to $27,000 in Sport Hosting Grants for the Spring 2026 intake. This means local sports organizations that applied for funding to host events in spring 2026 will receive the money as outlined in the report. The decision is final and the grants are now approved for distribution.",
+      "action_required": "If you applied for a Spring 2026 Sport Hosting Grant, check your application details and prepare to use the funds as outlined in your agreement.",
+      "key_dates": [
+        {
+          "label": "Spring 2026 Sport Hosting Grant funds available",
+          "date": "2026-03-01"
+        }
+      ],
+      "industries": "Professional Services",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "6.2",
+      "source_body": "MOVED AND SECONDED\nTHAT the disbursement of the Sport Hosting Grant totaling up to $27,000 for the\nSpring 2026 intake, as outlined in Attachment 1 of the report titled “Sport Hosting\nGrant Spring 2026 Intake”, dated June 2, 2026, be approved.  \nCARRIED UNANIMOUSLY",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=14c5dd72-1564-4aa5-acef-1b69f70daea6&lang=English",
+      "article_title": "Executive Committee of Council Meeting Minutes — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-07-15T15:55:53.811465"
+    },
+    {
+      "id": 1890,
+      "title": "Council approved below-market lease extension for PADS at 9048 Stormont Ave",
+      "summary": "Burnaby Council voted unanimously to extend the below-market rental rate of $1,000 per month (plus GST) for PADS at 9048 Stormont Avenue for an additional six months, from July 1, 2026 to December 31, 2026. Council also directed staff to report back with a policy on how market-rate rent would be phased in over time for non-profit groups. This decision is final and the lease amendment has been authorized.",
+      "action_required": "If you are a non-profit tenant with a below-market lease, watch for the upcoming staff report on phased market-rate rent policies.",
+      "key_dates": [
+        {
+          "label": "Below-market lease extension for PADS takes effect",
+          "date": "2026-07-01"
+        },
+        {
+          "label": "Below-market lease extension for PADS expires",
+          "date": "2026-12-31"
+        }
+      ],
+      "industries": "Landlord & Property Mgmt, Tenant",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "6.3",
+      "source_body": "MOVED AND SECONDED\nTHAT staff report back with the policy on how the market rate would be phased in\nover time for non-profit groups.\nTHAT the Lands and Facilities Department be authorized to amend the Lease\nAgreement with PADS at 9048 Stormont Avenue to extend the below-market\nrental rate of $1,000 per month, plus applicable GST, for an additional six-month\nperiod commencing July 1, 2026, and expiring December 31, 2026, as outlined in\nthe report titled “LA Amendment – 9048 Stormont Avenue”, dated June 2, 2026.\nCARRIED UNANIMOUSLY",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=14c5dd72-1564-4aa5-acef-1b69f70daea6&lang=English",
+      "article_title": "Executive Committee of Council Meeting Minutes — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-07-15T15:55:53.814365"
+    },
+    {
+      "id": 1891,
+      "title": "Council approved $618,970 Community School Grant for 2025-2026",
+      "summary": "Burnaby Council unanimously approved a $618,970 Community School Grant payment for the 2025-2026 school year. This grant provides funding to local community schools for programs and services that benefit Burnaby residents. The decision was made at a council meeting and is now final.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Professional Services",
+      "locations": "Burnaby",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "6.4",
+      "source_body": "MOVED AND SECONDED\nTHAT the payment of the 2025/2026 Community School Grant in the amount of\n$618,970, as outlined in the report titled “Community School Grant Funding\n2025/2026” dated June 2, 2026, be approved.\nCARRIED UNANIMOUSLY",
+      "attachments": [],
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=14c5dd72-1564-4aa5-acef-1b69f70daea6&lang=English",
+      "article_title": "Executive Committee of Council Meeting Minutes — June 02, 2026",
+      "article_published_at": "2026-06-02T00:00:00",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "created_at": "2026-07-15T15:55:53.817082"
+    }
+  ],
+  "_skipped": null
 }
