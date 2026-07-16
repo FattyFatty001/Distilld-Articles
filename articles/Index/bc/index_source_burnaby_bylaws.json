@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T15:56:16.685124+00:00",
-  "count": 20,
+  "generated_at": "2026-07-16T09:00:48.515584+00:00",
+  "count": 21,
   "articles": [
     {
       "article_id": 64,
@@ -295,6 +295,37 @@
         {
           "id": 724,
           "title": "Burnaby approves housing agreement for 5 non-market rental buildings at Lougheed Highway and Alpha Avenue",
+          "source_label": "Burnaby Bylaws",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 165,
+      "path": "2026/07/16/165_burnaby-bylaws_bylaw-14836-housing-agreement-5227-lane-st-bylaw-2.json",
+      "article_url": "https://bylaws.burnaby.ca/en/permalink/bylaw26152",
+      "article_title": "Bylaw 14836 — Housing Agreement (5227 Lane St) Bylaw 2024, Repeal Bylaw 2026",
+      "source": "burnaby_bylaws",
+      "source_label": "Burnaby Bylaws",
+      "government_level": "Municipal",
+      "source_website_icon": "https://bylaws.burnaby.ca",
+      "meeting_type": null,
+      "article_published_at": null,
+      "created_at": "2026-07-16T09:00:46.296924",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": false,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 1902,
+          "title": "Burnaby repeals housing agreement for 5227 Lane St — no new rules for owners",
           "source_label": "Burnaby Bylaws",
           "key_dates": [],
           "is_proposal": false
