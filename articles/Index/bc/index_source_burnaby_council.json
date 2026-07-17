@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-07-16T09:00:48.515584+00:00",
-  "count": 36,
+  "generated_at": "2026-07-17T18:07:15.398892+00:00",
+  "count": 37,
   "articles": [
+    {
+      "article_id": 166,
+      "path": "2026/07/21/166_burnaby-council_financial-management-committee-meeting-july-21-202.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=fc5e618d-eaed-49fe-b2a1-5f91928478cf&lang=English",
+      "article_title": "Financial Management Committee Meeting — July 21, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://burnaby.ca",
+      "meeting_type": "financial",
+      "article_published_at": "2026-07-21T00:00:00",
+      "created_at": "2026-07-17T18:07:13.322082",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 6,
+      "minutes_brief_count": 0,
+      "industries": "Construction & Development, Landlord & Property Mgmt, Professional Services, Retail, Technology",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 1908,
+          "title": "Council to consider: Burnaby's financial report for Period 5 of 2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1907,
+          "title": "Proposed: Burnaby Council to review major engineering project updates",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1906,
+          "title": "Proposed: Burnaby Council to review IT initiatives update for April–June 2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1905,
+          "title": "Council to consider status update on Burnaby civic projects",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1904,
+          "title": "Proposed: Council to vote on new child care centre operating agreements",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1903,
+          "title": "Proposed: Council to vote on capital grant for child care at Brentwood Park Elementary",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 161,
       "path": "2026/07/16/161_burnaby-council_parks-recreation-and-culture-committee-meeting-jul.json",
