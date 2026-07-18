@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T18:07:15.398892+00:00",
+  "generated_at": "2026-07-18T05:39:46.237859+00:00",
   "count": 11,
   "articles": [
     {
@@ -1457,17 +1457,64 @@
       "source_website_icon": "https://www.richmond.ca",
       "meeting_type": null,
       "article_published_at": "2026-05-19T00:00:00",
-      "created_at": "2026-07-09T16:47:59.339188",
+      "created_at": "2026-07-18T05:39:41.174057",
       "has_attachments": true,
       "has_pdf": true,
       "has_html": false,
       "has_agenda": true,
       "has_minutes": true,
-      "agenda_brief_count": 33,
-      "minutes_brief_count": 39,
+      "agenda_brief_count": 39,
+      "minutes_brief_count": 40,
       "industries": "Construction & Development, Finance & Insurance, Food Service, Healthcare, Hotel & Accommodation, Labour & Employment, Landlord & Property Mgmt, Natural Resources, Professional Services, Retail, Technology, Transportation & Logistics",
-      "locations": "Richmond",
+      "locations": "British Columbia, Richmond",
       "briefs": [
+        {
+          "id": 1914,
+          "title": "Council to consider annual public hearing on city vacancies",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1913,
+          "title": "Proposed: Richmond council to recognize National Public Works Week",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "National Public Works Week proclamation period",
+              "date": "2026-05-17"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1912,
+          "title": "Proposed: Reappoint Samantha Torres to Richmond Recreation and Parks Commission",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1911,
+          "title": "Proposed: Cameron Smith appointed to Richmond Design Review Board",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1910,
+          "title": "Proposed: Aleena Ornelas appointed to Richmond Youth Council",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1909,
+          "title": "Proposed: Darcy A. Wheeler appointed to Richmond Fund for Children/Youth Board",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
         {
           "id": 960,
           "title": "Proposed: Richmond Council to explore scholarship funding for local students",
@@ -1789,6 +1836,13 @@
           "source_label": "Richmond Council",
           "key_dates": [],
           "is_proposal": true
+        },
+        {
+          "id": 1916,
+          "title": "[INFO ONLY] Council held public hearing on city vacancies — no decision made",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": false
         },
         {
           "id": 1729,
@@ -2114,17 +2168,24 @@
       "source_website_icon": "https://www.richmond.ca",
       "meeting_type": null,
       "article_published_at": "2026-05-05T00:00:00",
-      "created_at": "2026-05-31T21:16:23.186770",
+      "created_at": "2026-07-18T05:38:52.546804",
       "has_attachments": true,
       "has_pdf": true,
       "has_html": false,
       "has_agenda": true,
       "has_minutes": true,
-      "agenda_brief_count": 21,
+      "agenda_brief_count": 22,
       "minutes_brief_count": 22,
       "industries": "Construction & Development, Finance & Insurance, Food Service, Healthcare, Hotel & Accommodation, Labour & Employment, Landlord & Property Mgmt, Natural Resources, Professional Services, Retail, Technology, Transportation & Logistics",
       "locations": "Richmond",
       "briefs": [
+        {
+          "id": 1915,
+          "title": "Proposed: Richmond council to recognize May 2026 as Mental Health Awareness Month",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
         {
           "id": 981,
           "title": "Proposed: Richmond council to vote on $390,000 e-bikeshare contract extension",
