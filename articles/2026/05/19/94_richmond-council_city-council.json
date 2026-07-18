@@ -13,8 +13,8 @@
   "has_html": false,
   "has_agenda": true,
   "has_minutes": true,
-  "agenda_brief_count": 33,
-  "minutes_brief_count": 39,
+  "agenda_brief_count": 39,
+  "minutes_brief_count": 40,
   "pdf_urls": "[{\"url\": \"https://pub-richmond.escribemeetings.com/FileStream.ashx?DocumentId=61462\", \"title\": \"Agenda (PDF)\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/FileStream.ashx?DocumentId=61466\", \"title\": \"AGENDA EN ESPANOL\"}, {\"url\": \"https://pub-richmond.escribemeetings.com/FileStream.ashx?DocumentId=61467\", \"title\": \"Written Public Comments Received 5-19-2026\"}]",
   "body": "",
   "agenda_briefs": [
@@ -968,6 +968,282 @@
       "created_at": "2026-05-31T21:02:09.403793"
     },
     {
+      "id": 1909,
+      "title": "Proposed: Darcy A. Wheeler appointed to Richmond Fund for Children/Youth Board",
+      "summary": "Council will consider appointing Darcy A. Wheeler to fill a vacant seat on the Richmond Fund for Children and Youth Oversight Board. If approved, the term would run until December 2, 2027. This board oversees funding for local children and youth programs. The appointment is proposed by the Mayor's Office and has not yet been voted on.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Professional Services",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "N.11.a",
+      "source_body": "N.11.a\nAppointment of Darcy A. Wheeler to the Richmond Fund for Children and Youth Oversight Board\nAPPOINT Darcy A. Wheeler to the Richmond Fund for Children and Youth Oversight Board to a vacant seat with a term ending December 2, 2027 – Mayor’s Office (Mayor Eduardo Martinez 510-620-6503).",
+      "attachments": [
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61445",
+          "title": "Amend 4 to LSA with Nevers, Palazzo, Packard, Wildermuth and Wynner, PC.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61446",
+          "title": "Attachment 1 -- 4th Amendment to LSA (proposed).pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61447",
+          "title": "Attachment 2 – 3rd Amendment to LSA.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61448",
+          "title": "Attachment 3 – 2nd Amendment to LSA.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61449",
+          "title": "Attachment 4– 1st Amendment to LSA.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61450",
+          "title": "Attachment 5 -- Original LSA with Nevers, Palazzo, Packard, Wildermuth and Wynner, PC.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61351",
+          "title": "2026-05-19(sr)(crtnt) Ellis Investigations.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61352",
+          "title": "Attachment 1 - LSA.Ellis Investigations.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61422",
+          "title": "Contract with Thomson Reuters for WestLaw and CoCounsel Online Library Subscription.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61423",
+          "title": "Attachment 1 -- Standard Contract with Thomson Reuter Subscription.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61424",
+          "title": "Attachment 2 -- Sole Source Form Signed.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61425",
+          "title": "Attachment 3 -- IT Purchase Authorization Form.pdf"
+        }
+      ],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=80925a00-313d-4a91-a981-8a4de137a4a1&lang=English",
+      "article_title": "City Council Agenda",
+      "article_published_at": "2026-05-19T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-07-18T05:33:54.213466"
+    },
+    {
+      "id": 1910,
+      "title": "Proposed: Aleena Ornelas appointed to Richmond Youth Council",
+      "summary": "Council will consider appointing Aleena Ornelas to fill a vacant seat on the Richmond Youth Council. If approved, her term would run until December 31, 2027. This is a routine appointment to keep the youth council fully staffed.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "N.11.b",
+      "source_body": "N.11.b\nAppointment of Aleena Ornelas to the Richmond Youth Council\nAPPOINT Aleena Ornelas to the Richmond Youth Council to fill a vacated seat, for a term ending December 31, 2027 – Mayor’s Office (Mayor Eduardo Martinez 510-620-6503).",
+      "attachments": [
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61445",
+          "title": "Amend 4 to LSA with Nevers, Palazzo, Packard, Wildermuth and Wynner, PC.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61446",
+          "title": "Attachment 1 -- 4th Amendment to LSA (proposed).pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61447",
+          "title": "Attachment 2 – 3rd Amendment to LSA.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61448",
+          "title": "Attachment 3 – 2nd Amendment to LSA.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61449",
+          "title": "Attachment 4– 1st Amendment to LSA.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61450",
+          "title": "Attachment 5 -- Original LSA with Nevers, Palazzo, Packard, Wildermuth and Wynner, PC.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61351",
+          "title": "2026-05-19(sr)(crtnt) Ellis Investigations.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61352",
+          "title": "Attachment 1 - LSA.Ellis Investigations.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61422",
+          "title": "Contract with Thomson Reuters for WestLaw and CoCounsel Online Library Subscription.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61423",
+          "title": "Attachment 1 -- Standard Contract with Thomson Reuter Subscription.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61424",
+          "title": "Attachment 2 -- Sole Source Form Signed.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61425",
+          "title": "Attachment 3 -- IT Purchase Authorization Form.pdf"
+        }
+      ],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=80925a00-313d-4a91-a981-8a4de137a4a1&lang=English",
+      "article_title": "City Council Agenda",
+      "article_published_at": "2026-05-19T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-07-18T05:33:54.248636"
+    },
+    {
+      "id": 1911,
+      "title": "Proposed: Cameron Smith appointed to Richmond Design Review Board",
+      "summary": "Council will consider appointing Cameron Smith to the Design Review Board. This board reviews the look and feel of new buildings and developments in Richmond. If approved, Smith would fill a vacant seat with a term ending March 17, 2028. The appointment is proposed by the Mayor's Office and is up for a vote at an upcoming council meeting.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Construction & Development",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "N.11.c",
+      "source_body": "N.11.c\nAppointment of Cameron Smith to the Design Review Board\nAPPOINT Cameron Smith to the Design Review Board to a vacant seat with a new term ending March 17, 2028 – Mayor’s Office (Mayor Eduardo Martinez 510-620-6503).",
+      "attachments": [
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61445",
+          "title": "Amend 4 to LSA with Nevers, Palazzo, Packard, Wildermuth and Wynner, PC.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61446",
+          "title": "Attachment 1 -- 4th Amendment to LSA (proposed).pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61447",
+          "title": "Attachment 2 – 3rd Amendment to LSA.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61448",
+          "title": "Attachment 3 – 2nd Amendment to LSA.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61449",
+          "title": "Attachment 4– 1st Amendment to LSA.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61450",
+          "title": "Attachment 5 -- Original LSA with Nevers, Palazzo, Packard, Wildermuth and Wynner, PC.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61351",
+          "title": "2026-05-19(sr)(crtnt) Ellis Investigations.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61352",
+          "title": "Attachment 1 - LSA.Ellis Investigations.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61422",
+          "title": "Contract with Thomson Reuters for WestLaw and CoCounsel Online Library Subscription.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61423",
+          "title": "Attachment 1 -- Standard Contract with Thomson Reuter Subscription.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61424",
+          "title": "Attachment 2 -- Sole Source Form Signed.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61425",
+          "title": "Attachment 3 -- IT Purchase Authorization Form.pdf"
+        }
+      ],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=80925a00-313d-4a91-a981-8a4de137a4a1&lang=English",
+      "article_title": "City Council Agenda",
+      "article_published_at": "2026-05-19T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-07-18T05:33:54.251423"
+    },
+    {
+      "id": 1912,
+      "title": "Proposed: Reappoint Samantha Torres to Richmond Recreation and Parks Commission",
+      "summary": "Council will consider reappointing Samantha Torres to the Recreation and Parks Commission to fill a vacant seat. If approved, her new term would run until October 26, 2029. This is a routine appointment to a volunteer commission that advises on parks and recreation matters in Richmond.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Professional Services",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "N.11.d",
+      "source_body": "N.11.d\nReappointment of Samantha Torres to the Recreation and Parks Commission\nREAPPOINT Samantha Torres to the Recreation and Park Commission to a vacant seat with a new term ending October 26, 2029 – Mayor’s Office (Mayor Eduardo Martinez 510-620-6503).",
+      "attachments": [
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61445",
+          "title": "Amend 4 to LSA with Nevers, Palazzo, Packard, Wildermuth and Wynner, PC.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61446",
+          "title": "Attachment 1 -- 4th Amendment to LSA (proposed).pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61447",
+          "title": "Attachment 2 – 3rd Amendment to LSA.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61448",
+          "title": "Attachment 3 – 2nd Amendment to LSA.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61449",
+          "title": "Attachment 4– 1st Amendment to LSA.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61450",
+          "title": "Attachment 5 -- Original LSA with Nevers, Palazzo, Packard, Wildermuth and Wynner, PC.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61351",
+          "title": "2026-05-19(sr)(crtnt) Ellis Investigations.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61352",
+          "title": "Attachment 1 - LSA.Ellis Investigations.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61422",
+          "title": "Contract with Thomson Reuters for WestLaw and CoCounsel Online Library Subscription.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61423",
+          "title": "Attachment 1 -- Standard Contract with Thomson Reuter Subscription.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61424",
+          "title": "Attachment 2 -- Sole Source Form Signed.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61425",
+          "title": "Attachment 3 -- IT Purchase Authorization Form.pdf"
+        }
+      ],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=80925a00-313d-4a91-a981-8a4de137a4a1&lang=English",
+      "article_title": "City Council Agenda",
+      "article_published_at": "2026-05-19T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-07-18T05:33:54.254013"
+    },
+    {
       "id": 945,
       "title": "Proposed: Add four new seats to Macdonald Avenue Corridor Task Force",
       "summary": "Council will consider adding four new stakeholder positions to the Macdonald Avenue Corridor Task Force. If approved, these seats would be filled through the standard boards and commissions process. This is a proposed change — it has not been voted on yet.",
@@ -1035,6 +1311,80 @@
       "source": "richmond_council",
       "source_label": "Richmond Council",
       "created_at": "2026-05-31T21:02:09.404428"
+    },
+    {
+      "id": 1913,
+      "title": "Proposed: Richmond council to recognize National Public Works Week",
+      "summary": "Council will consider a proclamation to recognize National Public Works Week from May 17 to 23, 2026. This is a symbolic gesture that acknowledges the work of public works staff who maintain and improve the city's roads, water systems, parks, and other critical infrastructure. The proclamation has no direct legal or financial impact on businesses — it is a formal statement of appreciation.",
+      "action_required": null,
+      "key_dates": [
+        {
+          "label": "National Public Works Week proclamation period",
+          "date": "2026-05-17"
+        }
+      ],
+      "industries": "Construction & Development, Professional Services",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "N.11.f",
+      "source_body": "N.11.f\nRecognizing National Public Works Week May 17-23, 2026\nPROCLAMATION recognizing National Public Works Week May 17-23, 2026, acknowledging the work of public works staff and their ongoing commitment to maintaining and improving the City’s critical infrastructure and public services – Mayor Eduardo Martinez (510-620-6503).",
+      "attachments": [
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61445",
+          "title": "Amend 4 to LSA with Nevers, Palazzo, Packard, Wildermuth and Wynner, PC.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61446",
+          "title": "Attachment 1 -- 4th Amendment to LSA (proposed).pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61447",
+          "title": "Attachment 2 – 3rd Amendment to LSA.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61448",
+          "title": "Attachment 3 – 2nd Amendment to LSA.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61449",
+          "title": "Attachment 4– 1st Amendment to LSA.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61450",
+          "title": "Attachment 5 -- Original LSA with Nevers, Palazzo, Packard, Wildermuth and Wynner, PC.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61351",
+          "title": "2026-05-19(sr)(crtnt) Ellis Investigations.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61352",
+          "title": "Attachment 1 - LSA.Ellis Investigations.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61422",
+          "title": "Contract with Thomson Reuters for WestLaw and CoCounsel Online Library Subscription.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61423",
+          "title": "Attachment 1 -- Standard Contract with Thomson Reuter Subscription.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61424",
+          "title": "Attachment 2 -- Sole Source Form Signed.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61425",
+          "title": "Attachment 3 -- IT Purchase Authorization Form.pdf"
+        }
+      ],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=80925a00-313d-4a91-a981-8a4de137a4a1&lang=English",
+      "article_title": "City Council Agenda",
+      "article_published_at": "2026-05-19T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-07-18T05:33:54.257504"
     },
     {
       "id": 946,
@@ -1953,6 +2303,35 @@
       "created_at": "2026-05-31T21:02:09.412746"
     },
     {
+      "id": 1914,
+      "title": "Council to consider annual public hearing on city vacancies",
+      "summary": "Council will consider holding a public hearing to receive a presentation on the status of city vacancies and the city's recruitment and retention efforts in 2025. The hearing would allow the public to hear about staffing challenges and how the city plans to attract and keep employees.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Labour & Employment",
+      "locations": "Richmond",
+      "government_level": "Municipal",
+      "is_proposal": true,
+      "item_number": "P.4",
+      "source_body": "P.4\nAnnual Public Hearing on Vacancies\nHOLD a public hearing and RECEIVE a presentation on the status of vacancies and the City’s recruitment and retention efforts in 2025 – Human Resources (Nickie Mastay/Sharrone Taylor 510-620-6803).",
+      "attachments": [
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61327",
+          "title": "CC24Mar2026 - Draft - SL.pdf"
+        },
+        {
+          "url": "https://pub-richmond.escribemeetings.com/filestream.ashx?DocumentId=61328",
+          "title": "CC21Apr2026 - Draft -  UD.pdf"
+        }
+      ],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=80925a00-313d-4a91-a981-8a4de137a4a1&lang=English",
+      "article_title": "City Council Agenda",
+      "article_published_at": "2026-05-19T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-07-18T05:33:54.266473"
+    },
+    {
       "id": 959,
       "title": "Proposed: Richmond Council to vote on opposing Montezuma CO2 pipeline",
       "summary": "Council will consider a resolution opposing the proposed Montezuma Carbon Sequestration Hub, a carbon waste dumping project that would require building 45 miles of CO2 pipelines through Richmond, Contra Costa, and Solano Counties. The resolution calls on EPA Region 9 to deny injection well permits and urges land use authorities to deny infrastructure permits. The item was continued from the April 28, 2026 meeting.",
@@ -2785,6 +3164,26 @@
       "source": "richmond_council",
       "source_label": "Richmond Council",
       "created_at": "2026-07-09T16:47:59.336657"
+    },
+    {
+      "id": 1916,
+      "title": "[INFO ONLY] Council held public hearing on city vacancies — no decision made",
+      "summary": "Council held a public hearing and received a presentation on the status of city vacancies and recruitment and retention efforts in 2025. Because the agenda item was classified as 'RECEIVE' and 'HOLD a public hearing' — not as a decision item requiring a vote — no vote or decision was taken. Council simply heard the information and took no further action.",
+      "action_required": null,
+      "key_dates": [],
+      "industries": "Labour & Employment",
+      "locations": "British Columbia",
+      "government_level": "Municipal",
+      "is_proposal": false,
+      "item_number": "P.4",
+      "source_body": "P.4\nAnnual Public Hearing on Vacancies\nHOLD a public hearing and RECEIVE a presentation on the status of vacancies and the City’s recruitment and retention efforts in 2025 – Human Resources (Nickie Mastay/Sharrone Taylor 510-620-6803).",
+      "attachments": [],
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=80925a00-313d-4a91-a981-8a4de137a4a1&lang=English",
+      "article_title": "City Council Agenda",
+      "article_published_at": "2026-05-19T00:00:00",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "created_at": "2026-07-18T05:39:41.174057"
     },
     {
       "id": 1720,
