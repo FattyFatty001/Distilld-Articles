@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T16:31:30.445265+00:00",
-  "count": 54,
+  "generated_at": "2026-07-20T16:57:56.584613+00:00",
+  "count": 60,
   "articles": [
     {
       "article_id": 156,
@@ -1366,7 +1366,7 @@
       "created_at": "2026-07-20T16:30:41.616012",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -1402,7 +1402,7 @@
       "created_at": "2026-07-20T16:30:37.529235",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -1433,7 +1433,7 @@
       "created_at": "2026-07-20T16:30:33.248861",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -1464,7 +1464,7 @@
       "created_at": "2026-07-20T16:30:29.156257",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -1500,7 +1500,7 @@
       "created_at": "2026-07-20T16:30:24.612540",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -1846,6 +1846,217 @@
       ]
     },
     {
+      "article_id": 263,
+      "path": "2026/03/09/263_bc-gazette-part-ii_bc-reg-242026-oic-692026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n04_24-2026",
+      "article_title": "B.C. Reg. 24/2026 – OIC 69/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-03-09T07:00:00",
+      "created_at": "2026-07-20T16:57:13.818381",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Landlord & Property Mgmt",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1974,
+          "title": "BC home owner grant threshold drops to $2,075,000 for 2026",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC Home Owner Grant lower threshold takes effect",
+              "date": "2026-01-01"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 262,
+      "path": "2026/03/09/262_bc-gazette-part-ii_bc-reg-232026-oic-672026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n04_23-2026",
+      "article_title": "B.C. Reg. 23/2026 – OIC 67/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-03-09T07:00:00",
+      "created_at": "2026-07-20T16:57:10.471406",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Labour & Employment",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1973,
+          "title": "Child care licensing rules updated for B.C. educators",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "B.C. Child Care Licensing Regulation amendments take effect",
+              "date": "2026-03-10"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 261,
+      "path": "2026/03/09/261_bc-gazette-part-ii_bc-reg-222026-oic-662026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n04_22-2026",
+      "article_title": "B.C. Reg. 22/2026 – OIC 66/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-03-09T07:00:00",
+      "created_at": "2026-07-20T16:57:06.323269",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Labour & Employment, Professional Services",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1972,
+          "title": "BC Attorney General Statutes Amendment Act sections 3–24 take effect June 15, 2026",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC Attorney General Statutes Amendment Act sections 3–24 take effect",
+              "date": "2026-06-15"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 260,
+      "path": "2026/03/06/260_bc-gazette-part-ii_bc-reg-212026-oic-652026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n04_21-2026",
+      "article_title": "B.C. Reg. 21/2026 – OIC 65/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-03-06T08:00:00",
+      "created_at": "2026-07-20T16:57:02.672308",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Landlord & Property Mgmt",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1971,
+          "title": "BC limits income assistance rent supplements to 2 per year starting April 2026",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC income assistance rent supplement limit takes effect",
+              "date": "2026-04-01"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 259,
+      "path": "2026/03/02/259_bc-gazette-part-ii_bc-reg-202026-oic-632026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n04_20-2026",
+      "article_title": "B.C. Reg. 20/2026 – OIC 63/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-03-02T08:00:00",
+      "created_at": "2026-07-20T16:56:59.025667",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Labour & Employment",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1970,
+          "title": "BC repeals Daylight Saving Time Regulation, moves to permanent standard time",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 258,
+      "path": "2026/03/02/258_bc-gazette-part-ii_bc-reg-192026-oic-582026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n04_19-2026",
+      "article_title": "B.C. Reg. 19/2026 – OIC 58/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-03-02T08:00:00",
+      "created_at": "2026-07-20T16:56:55.644943",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Healthcare",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1969,
+          "title": "Major health-profession regulation overhaul takes effect in BC",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "Health Professions and Occupations Act new rules take effect in BC",
+              "date": "2026-03-10"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
       "article_id": 251,
       "path": "2026/02/27/251_bc-gazette-part-ii_bc-reg-182026-oic-552026.json",
       "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n04_18-2026",
@@ -1859,7 +2070,7 @@
       "created_at": "2026-07-20T16:30:46.531129",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
