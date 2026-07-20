@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T05:39:46.237859+00:00",
-  "count": 8,
+  "generated_at": "2026-07-20T15:18:59.045675+00:00",
+  "count": 14,
   "articles": [
     {
       "article_id": 69,
@@ -34,6 +34,37 @@
               "date": "2026-05-21"
             }
           ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 218,
+      "path": "2025/11/28/218_liquor-bulletins_repeal-of-the-4500-litre-minimum-production-requir.json",
+      "article_url": "https://www2.gov.bc.ca/gov/content/employment-business/business/liquor-regulation-licensing/about-lcrb/bulletins/bulletin-25-06-repeal-of-minimum-production-requirement-for-wineries",
+      "article_title": "Repeal of the 4,500-Litre Minimum Production Requirement for Wineries",
+      "source": "liquor_bulletins",
+      "source_label": "Liquor Bulletins",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www2.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2025-11-28T08:00:00",
+      "created_at": "2026-07-20T15:12:39.275750",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Liquor",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1929,
+          "title": "BC wineries no longer need to produce 4,500 litres yearly to keep licence",
+          "source_label": "Liquor Bulletins",
+          "key_dates": [],
           "is_proposal": false
         }
       ]
@@ -232,6 +263,166 @@
         {
           "id": 429,
           "title": "Liquor Primary bars can now offer bottle service with new rules",
+          "source_label": "Liquor Bulletins",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 223,
+      "path": "2026/07/20/223_liquor-bulletins_use-of-plastic-containers-in-stadiums.json",
+      "article_url": "https://www2.gov.bc.ca/gov/content/employment-business/business/liquor-regulation-licensing/about-lcrb/bulletins/bulletin-24-06-use-of-plastic-containers-in-stadiums",
+      "article_title": "Use of plastic containers in stadiums",
+      "source": "liquor_bulletins",
+      "source_label": "Liquor Bulletins",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www2.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": null,
+      "created_at": "2026-07-20T15:12:58.889133",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Hotel & Accommodation, Liquor",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1934,
+          "title": "Stadiums must comply with BC's single-use plastic ban for liquor containers",
+          "source_label": "Liquor Bulletins",
+          "key_dates": [
+            {
+              "label": "BC single-use plastic restrictions for stadiums take effect",
+              "date": "2024-07-15"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 222,
+      "path": "2026/07/20/222_liquor-bulletins_agents-and-liquor-clubs.json",
+      "article_url": "https://www2.gov.bc.ca/gov/content/employment-business/business/liquor-regulation-licensing/about-lcrb/bulletins/bulletin-24-05-agents-and-liquor-clubs",
+      "article_title": "Agents and liquor clubs",
+      "source": "liquor_bulletins",
+      "source_label": "Liquor Bulletins",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www2.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": null,
+      "created_at": "2026-07-20T15:12:54.918962",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Liquor",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1933,
+          "title": "BC liquor agents can now take orders from non-profit liquor clubs",
+          "source_label": "Liquor Bulletins",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 221,
+      "path": "2026/07/20/221_liquor-bulletins_update-to-guided-tours-and-sampling-at-a-manufactu.json",
+      "article_url": "https://www2.gov.bc.ca/gov/content/employment-business/business/liquor-regulation-licensing/about-lcrb/bulletins/bulletin-24-04-update-to-guided-tours-and-sampling-at-a-manufacturer-site",
+      "article_title": "Update to guided tours and sampling at a manufacturer site",
+      "source": "liquor_bulletins",
+      "source_label": "Liquor Bulletins",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www2.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": null,
+      "created_at": "2026-07-20T15:12:51.071682",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Liquor",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1932,
+          "title": "BC liquor manufacturers: new rules for tour samples and sales",
+          "source_label": "Liquor Bulletins",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 220,
+      "path": "2026/07/20/220_liquor-bulletins_update-to-packaged-sales-from-a-manufacturer-on-si.json",
+      "article_url": "https://www2.gov.bc.ca/gov/content/employment-business/business/liquor-regulation-licensing/about-lcrb/bulletins/bulletin-24-03-update-to-packaged-sales-from-a-manufacturer-on-site-store",
+      "article_title": "Update to packaged sales from a manufacturer on-site store",
+      "source": "liquor_bulletins",
+      "source_label": "Liquor Bulletins",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www2.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": null,
+      "created_at": "2026-07-20T15:12:46.504348",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Liquor",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1931,
+          "title": "BC liquor manufacturers can now sell packaged liquor anywhere on-site",
+          "source_label": "Liquor Bulletins",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 219,
+      "path": "2026/07/20/219_liquor-bulletins_sales-in-a-manufacturer-picnic-area.json",
+      "article_url": "https://www2.gov.bc.ca/gov/content/employment-business/business/liquor-regulation-licensing/about-lcrb/bulletins/bulletin-24-02-sales-in-a-manufacturer-picnic-area",
+      "article_title": "Sales in a manufacturer picnic area",
+      "source": "liquor_bulletins",
+      "source_label": "Liquor Bulletins",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www2.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": null,
+      "created_at": "2026-07-20T15:12:42.959833",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Liquor",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1930,
+          "title": "BC liquor manufacturers can now sell by the glass in picnic areas",
           "source_label": "Liquor Bulletins",
           "key_dates": [],
           "is_proposal": false
