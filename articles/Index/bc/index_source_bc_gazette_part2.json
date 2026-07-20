@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T15:18:59.045675+00:00",
-  "count": 37,
+  "generated_at": "2026-07-20T15:37:39.738896+00:00",
+  "count": 43,
   "articles": [
     {
       "article_id": 156,
@@ -199,6 +199,117 @@
       ]
     },
     {
+      "article_id": 228,
+      "path": "2026/05/05/228_bc-gazette-part-ii_bc-reg-762026-m1962026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n08_76-2026",
+      "article_title": "B.C. Reg. 76/2026 – M196/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-05-05T07:00:00",
+      "created_at": "2026-07-20T15:35:59.656556",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Finance & Insurance, Landlord & Property Mgmt",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1942,
+          "title": "BC Land Tax Deferment interest rate tied to prime plus 2% starting 2026",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC Land Tax Deferment interest rate change takes effect (retroactive)",
+              "date": "2026-01-01"
+            },
+            {
+              "label": "Next quarterly interest rate update (based on June 15 prime rate)",
+              "date": "2026-07-01"
+            },
+            {
+              "label": "Next quarterly interest rate update (based on Sept 15 prime rate)",
+              "date": "2026-10-01"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 227,
+      "path": "2026/05/04/227_bc-gazette-part-ii_bc-reg-752026-oic-1752026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n08_75-2026",
+      "article_title": "B.C. Reg. 75/2026 – OIC 175/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-05-04T07:00:00",
+      "created_at": "2026-07-20T15:35:54.769635",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Labour & Employment",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1941,
+          "title": "B.C. adds new bylaw to notice enforcement regulation",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 226,
+      "path": "2026/05/04/226_bc-gazette-part-ii_bc-reg-742026-british-columbia-securities-commissi.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n08_74-2026",
+      "article_title": "B.C. Reg. 74/2026 – British Columbia Securities Commission",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-05-04T07:00:00",
+      "created_at": "2026-07-20T15:35:51.072737",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Finance & Insurance",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1940,
+          "title": "BC securities rules updated: benchmark reporting now requires 'reasonable assurance report on controls'",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC benchmark reporting rule amendment takes effect",
+              "date": "2026-05-05"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
       "article_id": 200,
       "path": "2026/04/30/200_bc-gazette-part-ii_bc-reg-732026-oic-1692026.json",
       "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n08_73-2026",
@@ -212,7 +323,7 @@
       "created_at": "2026-07-20T15:11:29.512799",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -243,7 +354,7 @@
       "created_at": "2026-07-20T15:11:25.995820",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -274,7 +385,7 @@
       "created_at": "2026-07-20T15:11:22.568988",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -310,7 +421,7 @@
       "created_at": "2026-07-20T15:11:17.471946",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -341,7 +452,7 @@
       "created_at": "2026-07-20T15:11:13.959944",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -372,7 +483,7 @@
       "created_at": "2026-07-20T15:11:09.180903",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -778,6 +889,104 @@
             {
               "label": "Mutual fund prospectus rule amendments take effect — BC",
               "date": "2026-04-22"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 231,
+      "path": "2026/04/07/231_bc-gazette-part-ii_bc-reg-512026-oic-1282026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n06_51-2026",
+      "article_title": "B.C. Reg. 51/2026 – OIC 128/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-04-07T07:00:00",
+      "created_at": "2026-07-20T15:36:12.492766",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Healthcare",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1945,
+          "title": "BC Shared Health Services added to multiple provincial regulations",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 230,
+      "path": "2026/04/07/230_bc-gazette-part-ii_bc-reg-502026-oic-1272026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n06_50-2026",
+      "article_title": "B.C. Reg. 50/2026 – OIC 127/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-04-07T07:00:00",
+      "created_at": "2026-07-20T15:36:08.927920",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Finance & Insurance, Labour & Employment, Transportation & Logistics",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1944,
+          "title": "BC health cost recovery rules updated for uninsured defendants",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 229,
+      "path": "2026/04/07/229_bc-gazette-part-ii_bc-reg-492026-oic-1252026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n06_49-2026",
+      "article_title": "B.C. Reg. 49/2026 – OIC 125/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-04-07T07:00:00",
+      "created_at": "2026-07-20T15:36:04.337519",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Agriculture, Landlord & Property Mgmt, Natural Resources",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1943,
+          "title": "BC rural property tax rates updated for 2026 and beyond",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "New rural property tax rates for recreational/non-profit properties take effect",
+              "date": "2026-01-01"
             }
           ],
           "is_proposal": false
