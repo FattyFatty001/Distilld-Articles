@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T16:57:56.584613+00:00",
-  "count": 60,
+  "generated_at": "2026-07-20T17:24:18.909164+00:00",
+  "count": 64,
   "articles": [
     {
       "article_id": 156,
@@ -1846,6 +1846,144 @@
       ]
     },
     {
+      "article_id": 272,
+      "path": "2026/03/10/272_bc-gazette-part-ii_bc-reg-282026-british-columbia-energy-regulator.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n04_28-2026",
+      "article_title": "B.C. Reg. 28/2026 – British Columbia Energy Regulator",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-03-10T07:00:00",
+      "created_at": "2026-07-20T17:24:08.202896",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development, Natural Resources",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1983,
+          "title": "New BC regulation sets rules for renewable energy projects",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 271,
+      "path": "2026/03/10/271_bc-gazette-part-ii_bc-reg-272026-british-columbia-energy-regulator.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n04_27-2026",
+      "article_title": "B.C. Reg. 27/2026 – British Columbia Energy Regulator",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-03-10T07:00:00",
+      "created_at": "2026-07-20T17:24:04.773016",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Natural Resources",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1982,
+          "title": "BC Energy Regulator amends multiple regulations, effective October 1, 2026",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC Requirements for Consultation and Notification Regulation amendments take effect",
+              "date": "2026-10-01"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 270,
+      "path": "2026/03/10/270_bc-gazette-part-ii_bc-reg-262026-british-columbia-energy-regulator.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n04_26-2026",
+      "article_title": "B.C. Reg. 26/2026 – British Columbia Energy Regulator",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-03-10T07:00:00",
+      "created_at": "2026-07-20T17:24:00.760484",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Natural Resources",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1981,
+          "title": "BC Energy Regulator fee and levy changes for pipeline and LNG projects",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 269,
+      "path": "2026/03/09/269_bc-gazette-part-ii_bc-reg-252026-oic-682026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n04_25-2026",
+      "article_title": "B.C. Reg. 25/2026 – OIC 68/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-03-09T07:00:00",
+      "created_at": "2026-07-20T17:23:56.688006",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Hotel & Accommodation",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1980,
+          "title": "Accommodation area tax rate rises to 3% in BC, extended to 2031",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "Accommodation area tax rate increase to 3% takes effect",
+              "date": "2026-05-01"
+            },
+            {
+              "label": "Accommodation area tax expiry extended to May 1, 2031",
+              "date": "2031-05-01"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
       "article_id": 263,
       "path": "2026/03/09/263_bc-gazette-part-ii_bc-reg-242026-oic-692026.json",
       "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n04_24-2026",
@@ -1859,7 +1997,7 @@
       "created_at": "2026-07-20T16:57:13.818381",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -1895,7 +2033,7 @@
       "created_at": "2026-07-20T16:57:10.471406",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -1931,7 +2069,7 @@
       "created_at": "2026-07-20T16:57:06.323269",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -1967,7 +2105,7 @@
       "created_at": "2026-07-20T16:57:02.672308",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -2003,7 +2141,7 @@
       "created_at": "2026-07-20T16:56:59.025667",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -2034,7 +2172,7 @@
       "created_at": "2026-07-20T16:56:55.644943",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
