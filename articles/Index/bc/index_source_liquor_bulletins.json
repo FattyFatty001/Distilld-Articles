@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T15:37:39.738896+00:00",
-  "count": 20,
+  "generated_at": "2026-07-20T16:31:30.445265+00:00",
+  "count": 25,
   "articles": [
     {
       "article_id": 69,
@@ -283,7 +283,7 @@
       "created_at": "2026-07-20T15:36:52.706795",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -314,7 +314,7 @@
       "created_at": "2026-07-20T15:37:04.657533",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -345,7 +345,7 @@
       "created_at": "2026-07-20T15:36:48.538546",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -368,6 +368,166 @@
       ]
     },
     {
+      "article_id": 256,
+      "path": "2023/12/18/256_liquor-bulletins_increase-in-liquor-transfers-between-licences.json",
+      "article_url": "https://www2.gov.bc.ca/gov/content/employment-business/business/liquor-regulation-licensing/about-lcrb/bulletins/bulletin-23-11-increase-in-liquor-transfers-between-licences",
+      "article_title": "Increase in liquor transfers between licences",
+      "source": "liquor_bulletins",
+      "source_label": "Liquor Bulletins",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www2.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2023-12-18T08:00:00",
+      "created_at": "2026-07-20T16:31:05.966398",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Liquor",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1968,
+          "title": "Liquor transfer limit between own licences raised to $100,000",
+          "source_label": "Liquor Bulletins",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 255,
+      "path": "2023/11/27/255_liquor-bulletins_accompanying-minors-in-liquor-stores-and-liquor-pr.json",
+      "article_url": "https://www2.gov.bc.ca/gov/content/employment-business/business/liquor-regulation-licensing/about-lcrb/bulletins/bulletin-23-10-accompanying-minors-in-liquor-stores-and-liquor-primary-establishments",
+      "article_title": "Accompanying minors in liquor stores and liquor primary establishments",
+      "source": "liquor_bulletins",
+      "source_label": "Liquor Bulletins",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www2.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2023-11-27T08:00:00",
+      "created_at": "2026-07-20T16:31:01.994731",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Liquor, Retail",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1967,
+          "title": "Minors can now enter liquor stores with any responsible adult, not just parents",
+          "source_label": "Liquor Bulletins",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 254,
+      "path": "2023/11/27/254_liquor-bulletins_physical-separation-between-liquor-retailer-and-ot.json",
+      "article_url": "https://www2.gov.bc.ca/gov/content/employment-business/business/liquor-regulation-licensing/about-lcrb/bulletins/bulletin-23-09-physical-separation-between-liquor-retailer-and-other-businesses",
+      "article_title": "Physical separation between liquor retailer and other businesses",
+      "source": "liquor_bulletins",
+      "source_label": "Liquor Bulletins",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www2.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2023-11-27T08:00:00",
+      "created_at": "2026-07-20T16:30:57.706161",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Liquor, Retail",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1966,
+          "title": "Liquor stores no longer need floor-to-ceiling walls to separate from other businesses",
+          "source_label": "Liquor Bulletins",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 253,
+      "path": "2023/06/29/253_liquor-bulletins_outdoor-sampling-areas-for-manufacturers.json",
+      "article_url": "https://www2.gov.bc.ca/gov/content/employment-business/business/liquor-regulation-licensing/about-lcrb/bulletins/bulletin-23-06-outdoor-sampling-areas-for-manufacturers",
+      "article_title": "Outdoor sampling areas for manufacturers",
+      "source": "liquor_bulletins",
+      "source_label": "Liquor Bulletins",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www2.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2023-06-29T07:00:00",
+      "created_at": "2026-07-20T16:30:54.329024",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Liquor",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1965,
+          "title": "BC liquor manufacturers can now permanently license outdoor sampling areas",
+          "source_label": "Liquor Bulletins",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 252,
+      "path": "2023/05/30/252_liquor-bulletins_extension-to-direct-delivery-from-off-site-storage.json",
+      "article_url": "https://www2.gov.bc.ca/gov/content/employment-business/business/liquor-regulation-licensing/about-lcrb/bulletins/bulletin-23-05-extension-direct-delivery-from-off-site-storage",
+      "article_title": "Extension to direct delivery from off-site storage",
+      "source": "liquor_bulletins",
+      "source_label": "Liquor Bulletins",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www2.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2023-05-30T07:00:00",
+      "created_at": "2026-07-20T16:30:50.696497",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Liquor",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1964,
+          "title": "BC liquor manufacturers can deliver directly to customers until June 30, 2025",
+          "source_label": "Liquor Bulletins",
+          "key_dates": [
+            {
+              "label": "Direct delivery authorization for BC liquor manufacturers expires",
+              "date": "2025-06-30"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
       "article_id": 239,
       "path": "2026/07/20/239_liquor-bulletins_extension-of-tesas-to-december-31-2024.json",
       "article_url": "https://www2.gov.bc.ca/gov/content/employment-business/business/liquor-regulation-licensing/about-lcrb/bulletins/bulletin-23-01-extension-of-tesas-to-dec-31-2024",
@@ -381,7 +541,7 @@
       "created_at": "2026-07-20T15:37:08.455475",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -417,7 +577,7 @@
       "created_at": "2026-07-20T15:37:00.521872",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -448,7 +608,7 @@
       "created_at": "2026-07-20T15:36:56.637987",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
