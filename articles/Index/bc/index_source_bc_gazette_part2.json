@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T15:37:39.738896+00:00",
-  "count": 43,
+  "generated_at": "2026-07-20T16:03:45.784870+00:00",
+  "count": 48,
   "articles": [
     {
       "article_id": 156,
@@ -212,7 +212,7 @@
       "created_at": "2026-07-20T15:35:59.656556",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -256,7 +256,7 @@
       "created_at": "2026-07-20T15:35:54.769635",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -287,7 +287,7 @@
       "created_at": "2026-07-20T15:35:51.072737",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -896,6 +896,149 @@
       ]
     },
     {
+      "article_id": 243,
+      "path": "2026/04/07/243_bc-gazette-part-ii_bc-reg-552026-oic-1332026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n06_55-2026",
+      "article_title": "B.C. Reg. 55/2026 – OIC 133/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-04-07T07:00:00",
+      "created_at": "2026-07-20T16:03:28.202086",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Professional Services",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1956,
+          "title": "BC updates funeral cost rules for income assistance",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "New funeral cost rules for income assistance take effect in BC",
+              "date": "2026-04-15"
+            },
+            {
+              "label": "Transition rule for pre-April 15 deaths expires in BC",
+              "date": "2027-04-15"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 242,
+      "path": "2026/04/07/242_bc-gazette-part-ii_bc-reg-542026-oic-1322026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n06_54-2026",
+      "article_title": "B.C. Reg. 54/2026 – OIC 132/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-04-07T07:00:00",
+      "created_at": "2026-07-20T16:03:24.251964",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Cannabis, Liquor, Technology",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1955,
+          "title": "New E supplier class for small online gaming distributors in BC",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "New E supplier class for small online gaming distributors takes effect",
+              "date": "2026-04-13"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 241,
+      "path": "2026/04/07/241_bc-gazette-part-ii_bc-reg-532026-oic-1302026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n06_53-2026",
+      "article_title": "B.C. Reg. 53/2026 – OIC 130/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-04-07T07:00:00",
+      "created_at": "2026-07-20T16:03:20.408794",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Landlord & Property Mgmt, Tenant",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1954,
+          "title": "BC clarifies 'unconscionable' tenancy terms and adds housing agreement rules",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC Residential Tenancy Regulation amendment takes effect",
+              "date": "2026-04-07"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 240,
+      "path": "2026/04/07/240_bc-gazette-part-ii_bc-reg-522026-oic-1292026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n06_52-2026",
+      "article_title": "B.C. Reg. 52/2026 – OIC 129/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-04-07T07:00:00",
+      "created_at": "2026-07-20T16:03:16.718912",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Healthcare",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1953,
+          "title": "BC removes community health councils from health authority regulations",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
       "article_id": 231,
       "path": "2026/04/07/231_bc-gazette-part-ii_bc-reg-512026-oic-1282026.json",
       "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n06_51-2026",
@@ -909,7 +1052,7 @@
       "created_at": "2026-07-20T15:36:12.492766",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -940,7 +1083,7 @@
       "created_at": "2026-07-20T15:36:08.927920",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -971,7 +1114,7 @@
       "created_at": "2026-07-20T15:36:04.337519",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -1203,6 +1346,42 @@
             {
               "label": "New liquor licence fee rules take effect — BC",
               "date": "2026-05-01"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 245,
+      "path": "2026/03/16/245_bc-gazette-part-ii_bc-reg-372026-oic-802026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n05_37-2026",
+      "article_title": "B.C. Reg. 37/2026 – OIC 80/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-03-16T07:00:00",
+      "created_at": "2026-07-20T16:03:33.535158",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Labour & Employment",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1957,
+          "title": "BC adds 4 cancers to firefighters' occupational disease coverage, shortens service requirement",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC firefighters' expanded cancer coverage takes effect",
+              "date": "2026-03-16"
             }
           ],
           "is_proposal": false
