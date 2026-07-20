@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T16:03:45.784870+00:00",
-  "count": 48,
+  "generated_at": "2026-07-20T16:31:30.445265+00:00",
+  "count": 54,
   "articles": [
     {
       "article_id": 156,
@@ -909,7 +909,7 @@
       "created_at": "2026-07-20T16:03:28.202086",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -949,7 +949,7 @@
       "created_at": "2026-07-20T16:03:24.251964",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -985,7 +985,7 @@
       "created_at": "2026-07-20T16:03:20.408794",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -1021,7 +1021,7 @@
       "created_at": "2026-07-20T16:03:16.718912",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -1353,6 +1353,171 @@
       ]
     },
     {
+      "article_id": 250,
+      "path": "2026/03/24/250_bc-gazette-part-ii_bc-reg-422026-british-columbia-energy-regulator.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n05_42-2026",
+      "article_title": "B.C. Reg. 42/2026 – British Columbia Energy Regulator",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-03-24T07:00:00",
+      "created_at": "2026-07-20T16:30:41.616012",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Natural Resources",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1962,
+          "title": "BC updates renewable energy project classes and permit fees",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC renewable energy project classification and fee amendment takes effect",
+              "date": "2026-03-24"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 249,
+      "path": "2026/03/24/249_bc-gazette-part-ii_bc-reg-412026-m1202026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n05_41-2026",
+      "article_title": "B.C. Reg. 41/2026 – M120/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-03-24T07:00:00",
+      "created_at": "2026-07-20T16:30:37.529235",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Healthcare",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1961,
+          "title": "BC expands scope of practice for health professionals, including midwives and physios",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 248,
+      "path": "2026/03/24/248_bc-gazette-part-ii_bc-reg-402026-british-columbia-securities-commissi.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n05_40-2026",
+      "article_title": "B.C. Reg. 40/2026 – British Columbia Securities Commission",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-03-24T07:00:00",
+      "created_at": "2026-07-20T16:30:33.248861",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Finance & Insurance",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1960,
+          "title": "BC updates mandatory clearing rules for derivatives trading",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 247,
+      "path": "2026/03/19/247_bc-gazette-part-ii_bc-reg-392026-workers-compensation-board.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n05_39-2026",
+      "article_title": "B.C. Reg. 39/2026 – Workers' Compensation Board",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-03-19T07:00:00",
+      "created_at": "2026-07-20T16:30:29.156257",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development, Labour & Employment, Natural Resources",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1959,
+          "title": "BC expands workplace safety rules to cover fire personnel beyond firefighters",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC fire personnel safety regulation takes effect",
+              "date": "2026-10-01"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 246,
+      "path": "2026/03/18/246_bc-gazette-part-ii_bc-reg-382026-oic-962026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n05_38-2026",
+      "article_title": "B.C. Reg. 38/2026 – OIC 96/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-03-18T07:00:00",
+      "created_at": "2026-07-20T16:30:24.612540",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Labour & Employment, Professional Services",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1958,
+          "title": "BC sets $75,000 limit for intimate image claims at Civil Resolution Tribunal",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
       "article_id": 245,
       "path": "2026/03/16/245_bc-gazette-part-ii_bc-reg-372026-oic-802026.json",
       "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n05_37-2026",
@@ -1366,7 +1531,7 @@
       "created_at": "2026-07-20T16:03:33.535158",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -1674,6 +1839,42 @@
             {
               "label": "Clean Energy Act compliance deadline takes effect",
               "date": "2029-04-01"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 251,
+      "path": "2026/02/27/251_bc-gazette-part-ii_bc-reg-182026-oic-552026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n04_18-2026",
+      "article_title": "B.C. Reg. 18/2026 – OIC 55/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-02-27T08:00:00",
+      "created_at": "2026-07-20T16:30:46.531129",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1963,
+          "title": "BC exempts low- and mid-volume construction dewatering from water-use permits",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "Riparian Areas Protection Regulation amendments take effect",
+              "date": "2027-01-01"
             }
           ],
           "is_proposal": false
