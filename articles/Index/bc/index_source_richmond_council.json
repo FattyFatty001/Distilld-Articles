@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T05:39:46.237859+00:00",
+  "generated_at": "2026-07-20T15:18:59.045675+00:00",
   "count": 11,
   "articles": [
     {
@@ -2619,8 +2619,8 @@
       ]
     },
     {
-      "article_id": 97,
-      "path": "2026/04/28/97_richmond-council_city-council.json",
+      "article_id": 224,
+      "path": "2026/04/28/224_richmond-council_city-council.json",
       "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=440b16bd-54d9-4f4f-95d5-5a9c89eef2e0&lang=English",
       "article_title": "City Council",
       "source": "richmond_council",
@@ -2628,18 +2628,66 @@
       "government_level": "Municipal",
       "source_website_icon": "https://www.richmond.ca",
       "meeting_type": null,
-      "article_published_at": "2026-04-28T00:00:00",
-      "created_at": "2026-05-31T21:07:41.447526",
+      "article_published_at": "2026-04-28T07:00:00",
+      "created_at": "2026-07-20T15:15:57.987210",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": false,
+      "has_html": true,
       "has_agenda": true,
       "has_minutes": false,
-      "agenda_brief_count": 16,
+      "agenda_brief_count": 21,
       "minutes_brief_count": 0,
-      "industries": "Construction & Development, Food Service, Grocery & Food Retail, Labour & Employment, Landlord & Property Mgmt, Natural Resources, Professional Services, Retail, Technology, Transportation & Logistics",
+      "industries": "Construction & Development, Food Service, Grocery & Food Retail, Healthcare, Hotel & Accommodation, Labour & Employment, Landlord & Property Mgmt, Natural Resources, Professional Services, Retail, Technology, Transportation & Logistics",
       "locations": "Richmond",
       "briefs": [
+        {
+          "id": 1939,
+          "title": "Council to receive presentation on earthquake preparedness",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1938,
+          "title": "Council to receive presentation on BART service and fiscal crisis",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "November 2026 ballot measure on regional transit funding",
+              "date": "2026-11-03"
+            },
+            {
+              "label": "BART Alternative Service Plan cuts take effect if measure fails",
+              "date": "2027-01-01"
+            },
+            {
+              "label": "Potential further BART service cuts if measure fails",
+              "date": "2027-07-01"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1937,
+          "title": "Proposed: Appoint Eva Hernandez to Richmond Workforce Development Board",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1936,
+          "title": "Proposed: Richmond appoints Bryan Harris to Advisory Council on Aging",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1935,
+          "title": "Proposed: Ric Ambrose appointed to Richmond Arts and Culture Commission",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
         {
           "id": 1012,
           "title": "Proposed: Richmond Council to vote on opposing CO2 pipeline projects",
