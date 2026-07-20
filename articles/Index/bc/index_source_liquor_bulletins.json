@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T16:31:30.445265+00:00",
-  "count": 25,
+  "generated_at": "2026-07-20T16:57:56.584613+00:00",
+  "count": 30,
   "articles": [
     {
       "article_id": 69,
@@ -381,7 +381,7 @@
       "created_at": "2026-07-20T16:31:05.966398",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -412,7 +412,7 @@
       "created_at": "2026-07-20T16:31:01.994731",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -443,7 +443,7 @@
       "created_at": "2026-07-20T16:30:57.706161",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -454,6 +454,68 @@
         {
           "id": 1966,
           "title": "Liquor stores no longer need floor-to-ceiling walls to separate from other businesses",
+          "source_label": "Liquor Bulletins",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 267,
+      "path": "2023/09/25/267_liquor-bulletins_cannabis-industry-sampling.json",
+      "article_url": "https://www2.gov.bc.ca/gov/content/employment-business/business/liquor-regulation-licensing/about-lcrb/bulletins/bulletin-23-08-cannabis-industry-sampling",
+      "article_title": "Cannabis industry sampling",
+      "source": "liquor_bulletins",
+      "source_label": "Liquor Bulletins",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www2.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2023-09-25T07:00:00",
+      "created_at": "2026-07-20T16:57:27.852782",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Cannabis, Retail",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1978,
+          "title": "Cannabis producers can now sell samples to retailers for a nominal fee",
+          "source_label": "Liquor Bulletins",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 268,
+      "path": "2023/07/26/268_liquor-bulletins_updates-to-hearing-rules.json",
+      "article_url": "https://www2.gov.bc.ca/gov/content/employment-business/business/liquor-regulation-licensing/about-lcrb/bulletins/bulletin-23-07-updates-to-hearing-rules",
+      "article_title": "Updates to hearing rules",
+      "source": "liquor_bulletins",
+      "source_label": "Liquor Bulletins",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www2.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2023-07-26T07:00:00",
+      "created_at": "2026-07-20T16:57:30.801571",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Cannabis, Liquor",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1979,
+          "title": "BC updates hearing rules for liquor and cannabis licensees",
           "source_label": "Liquor Bulletins",
           "key_dates": [],
           "is_proposal": false
@@ -474,7 +536,7 @@
       "created_at": "2026-07-20T16:30:54.329024",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -505,7 +567,7 @@
       "created_at": "2026-07-20T16:30:50.696497",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -523,6 +585,99 @@
               "date": "2025-06-30"
             }
           ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 266,
+      "path": "2023/05/19/266_liquor-bulletins_repeal-of-cannabis-visibility-rules.json",
+      "article_url": "https://www2.gov.bc.ca/gov/content/employment-business/business/liquor-regulation-licensing/about-lcrb/bulletins/bulletin-23-04-repeal-cannabis-visibility-rules",
+      "article_title": "Repeal of cannabis visibility rules",
+      "source": "liquor_bulletins",
+      "source_label": "Liquor Bulletins",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www2.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2023-05-19T07:00:00",
+      "created_at": "2026-07-20T16:57:24.319097",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Cannabis",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1977,
+          "title": "BC repeals cannabis store visibility rules to improve safety",
+          "source_label": "Liquor Bulletins",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 264,
+      "path": "2023/03/29/264_liquor-bulletins_structural-change-application-requirements.json",
+      "article_url": "https://www2.gov.bc.ca/gov/content/employment-business/business/liquor-regulation-licensing/about-lcrb/bulletins/bulletin-23-03-structural-change-application-requirements",
+      "article_title": "Structural change application requirements",
+      "source": "liquor_bulletins",
+      "source_label": "Liquor Bulletins",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www2.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2023-03-29T07:00:00",
+      "created_at": "2026-07-20T16:57:17.330963",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Liquor",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1975,
+          "title": "LCRB eases structural change rules for BC liquor licensees",
+          "source_label": "Liquor Bulletins",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 265,
+      "path": "2023/03/17/265_liquor-bulletins_change-to-possession-limit-for-cannabis-beverages.json",
+      "article_url": "https://www2.gov.bc.ca/gov/content/employment-business/business/liquor-regulation-licensing/about-lcrb/bulletins/bulletin-23-02-change-to-possession-limit-for-cannabis-beverages",
+      "article_title": "Change to possession limit for cannabis beverages",
+      "source": "liquor_bulletins",
+      "source_label": "Liquor Bulletins",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www2.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2023-03-17T07:00:00",
+      "created_at": "2026-07-20T16:57:20.685175",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Cannabis, Retail",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1976,
+          "title": "BC aligns cannabis beverage possession limits with federal rules",
+          "source_label": "Liquor Bulletins",
+          "key_dates": [],
           "is_proposal": false
         }
       ]
