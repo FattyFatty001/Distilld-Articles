@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T15:18:59.045675+00:00",
-  "count": 14,
+  "generated_at": "2026-07-20T15:37:39.738896+00:00",
+  "count": 20,
   "articles": [
     {
       "article_id": 69,
@@ -52,7 +52,7 @@
       "created_at": "2026-07-20T15:12:39.275750",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -270,6 +270,202 @@
       ]
     },
     {
+      "article_id": 235,
+      "path": "2024/07/19/235_liquor-bulletins_eligible-market-requirements-for-market-authorizat.json",
+      "article_url": "https://www2.gov.bc.ca/gov/content/employment-business/business/liquor-regulation-licensing/about-lcrb/bulletins/bulletin-24-09-eligible-market-requirements-for-market-authorizations",
+      "article_title": "Eligible market requirements for Market Authorizations",
+      "source": "liquor_bulletins",
+      "source_label": "Liquor Bulletins",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www2.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2024-07-19T07:00:00",
+      "created_at": "2026-07-20T15:36:52.706795",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Liquor",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1948,
+          "title": "BC liquor makers: market eligibility rule relaxed for artisan and farmers markets",
+          "source_label": "Liquor Bulletins",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 238,
+      "path": "2024/07/16/238_liquor-bulletins_update-to-cannabis-industry-sampling.json",
+      "article_url": "https://www2.gov.bc.ca/gov/content/employment-business/business/liquor-regulation-licensing/about-lcrb/bulletins/bulletin-24-07-update-to-cannabis-industry-sampling",
+      "article_title": "Update to cannabis industry sampling",
+      "source": "liquor_bulletins",
+      "source_label": "Liquor Bulletins",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www2.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2024-07-16T07:00:00",
+      "created_at": "2026-07-20T15:37:04.657533",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Cannabis",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1951,
+          "title": "BC cannabis retailers can now accept free product samples from producers",
+          "source_label": "Liquor Bulletins",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 234,
+      "path": "2024/07/16/234_liquor-bulletins_temporary-relocation-for-licensee-retail-store-lrs.json",
+      "article_url": "https://www2.gov.bc.ca/gov/content/employment-business/business/liquor-regulation-licensing/about-lcrb/bulletins/bulletin-24-08-temporary-relocation-of-lrs-licence",
+      "article_title": "Temporary relocation for Licensee Retail Store (LRS) licences",
+      "source": "liquor_bulletins",
+      "source_label": "Liquor Bulletins",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www2.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2024-07-16T07:00:00",
+      "created_at": "2026-07-20T15:36:48.538546",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Cannabis",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1947,
+          "title": "BC cannabis stores can now apply for temporary relocation during renovations",
+          "source_label": "Liquor Bulletins",
+          "key_dates": [
+            {
+              "label": "LRS temporary relocation applications open in BC",
+              "date": "2024-08-20"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 239,
+      "path": "2026/07/20/239_liquor-bulletins_extension-of-tesas-to-december-31-2024.json",
+      "article_url": "https://www2.gov.bc.ca/gov/content/employment-business/business/liquor-regulation-licensing/about-lcrb/bulletins/bulletin-23-01-extension-of-tesas-to-dec-31-2024",
+      "article_title": "Extension of TESAs to December 31, 2024",
+      "source": "liquor_bulletins",
+      "source_label": "Liquor Bulletins",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www2.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": null,
+      "created_at": "2026-07-20T15:37:08.455475",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Liquor",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1952,
+          "title": "TESA authorizations extended to December 31, 2024",
+          "source_label": "Liquor Bulletins",
+          "key_dates": [
+            {
+              "label": "TESA authorization extension takes effect (new expiry date)",
+              "date": "2024-12-31"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 237,
+      "path": "2026/07/20/237_liquor-bulletins_promoting-cannabis-friendly-spaces-and-consuming-c.json",
+      "article_url": "https://www2.gov.bc.ca/gov/content/employment-business/business/liquor-regulation-licensing/about-lcrb/bulletins/bulletin-24-01-promoting-cannabis-friendly-spaces-and-consuming-cannabis-on-public-patios",
+      "article_title": "Promoting cannabis-friendly spaces and consuming cannabis on public patios",
+      "source": "liquor_bulletins",
+      "source_label": "Liquor Bulletins",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www2.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": null,
+      "created_at": "2026-07-20T15:37:00.521872",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Cannabis, Hotel & Accommodation, Liquor",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1950,
+          "title": "BC cannabis stores can now promote patios where cannabis is consumed",
+          "source_label": "Liquor Bulletins",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 236,
+      "path": "2026/07/20/236_liquor-bulletins_updates-to-liquor-delivery-requirements.json",
+      "article_url": "https://www2.gov.bc.ca/gov/content/employment-business/business/liquor-regulation-licensing/about-lcrb/bulletins/bulletin-24-10-updates-to-liquor-delivery-requirements",
+      "article_title": "Updates to liquor delivery requirements",
+      "source": "liquor_bulletins",
+      "source_label": "Liquor Bulletins",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www2.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": null,
+      "created_at": "2026-07-20T15:36:56.637987",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Food Service, Liquor, Retail",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 1949,
+          "title": "All liquor delivery drivers must now be Serving It Right certified",
+          "source_label": "Liquor Bulletins",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
       "article_id": 223,
       "path": "2026/07/20/223_liquor-bulletins_use-of-plastic-containers-in-stadiums.json",
       "article_url": "https://www2.gov.bc.ca/gov/content/employment-business/business/liquor-regulation-licensing/about-lcrb/bulletins/bulletin-24-06-use-of-plastic-containers-in-stadiums",
@@ -283,7 +479,7 @@
       "created_at": "2026-07-20T15:12:58.889133",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -319,7 +515,7 @@
       "created_at": "2026-07-20T15:12:54.918962",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -350,7 +546,7 @@
       "created_at": "2026-07-20T15:12:51.071682",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -381,7 +577,7 @@
       "created_at": "2026-07-20T15:12:46.504348",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -412,7 +608,7 @@
       "created_at": "2026-07-20T15:12:42.959833",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
