@@ -1,7 +1,255 @@
 {
-  "generated_at": "2026-07-20T15:18:59.045675+00:00",
-  "count": 11,
+  "generated_at": "2026-07-21T07:25:06.932664+00:00",
+  "count": 12,
   "articles": [
+    {
+      "article_id": 273,
+      "path": "2026/07/21/273_richmond-council_city-council.json",
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=2de7b493-e2eb-4f46-af1c-244f4c7eafec&lang=English",
+      "article_title": "City Council",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://www.richmond.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-07-21T07:00:00",
+      "created_at": "2026-07-21T07:25:00.424836",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": true,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 22,
+      "minutes_brief_count": 0,
+      "industries": "Construction & Development, Hotel & Accommodation, Labour & Employment, Landlord & Property Mgmt, Professional Services, Retail, Transportation & Logistics",
+      "locations": "Richmond",
+      "briefs": [
+        {
+          "id": 2005,
+          "title": "Proposed: Richmond GATE Act ballot initiative for independent ethics commission",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Council vote to direct staff on Richmond GATE Act ballot measure",
+              "date": "2026-07-21"
+            },
+            {
+              "label": "Final deadline to adopt ballot initiative resolution for November 2026 ballot",
+              "date": "2026-07-28"
+            },
+            {
+              "label": "Independent Ethics Commission operational date",
+              "date": "2027-06-01"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2004,
+          "title": "Proposed: Richmond to enforce weed abatement in wildfire hazard zones",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Implementation plan due to Richmond City Council",
+              "date": "2026-09-19"
+            },
+            {
+              "label": "Ordinance recommendations due from City Attorney's Office",
+              "date": "2026-10-19"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2003,
+          "title": "Council to consider prioritizing 23rd Street Ciclovía Pilot Project",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Proposed 23rd Street Ciclovía Pilot event date",
+              "date": "2026-09-12"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2002,
+          "title": "Proposed: Richmond council to vote on $49,999 housing roadmap contract amendment",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2001,
+          "title": "Proposed: Richmond council to vote on Public Lands Policy",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Richmond council vote on Public Lands Policy",
+              "date": "2026-07-07"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2000,
+          "title": "Proposed: Richmond Police to continue using military equipment",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1999,
+          "title": "Withdrawn: Richmond to consider new sewage holding tank rules",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1998,
+          "title": "Proposed: Richmond to update ADU and JADU rules to match state law",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Richmond ADU/JADU zoning amendments public hearing",
+              "date": "2026-07-21"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1997,
+          "title": "Proposed: Richmond fire station bond measure on November 2026 ballot",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Richmond fire station bond measure second reading and election call",
+              "date": "2026-07-28"
+            },
+            {
+              "label": "Richmond $120M fire station bond measure on ballot",
+              "date": "2026-11-03"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1996,
+          "title": "Proposed: Richmond council to vote on $141,746 for emergency lighting repairs in Marina Bay",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1995,
+          "title": "Council to vote on accepting $790,693 grant for Richmond Greenway Gap Closure Project",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Grant-funded work completion deadline",
+              "date": "2029-06-30"
+            },
+            {
+              "label": "Final deliverables submission deadline",
+              "date": "2029-08-29"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1994,
+          "title": "Proposed: Road closure at Glenn and McBryde for Safe Routes to Park project",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1993,
+          "title": "Proposed: Appointment of Amanda Campbell to Richmond Fund for Children and Youth Oversight Board",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1992,
+          "title": "Proposed: Richmond council to form committee on rules of procedure",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1991,
+          "title": "Proposed: Richmond council to approve $200K in audit service contracts",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1990,
+          "title": "Proposed: Council to approve $87,777 graffiti removal contract for General Warehouse",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1989,
+          "title": "Proposed: $390,000 contract for Marina Bay environmental reporting",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1988,
+          "title": "Proposed: Standard Voluntary Agreement for Marina Bay environmental reporting",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "DTSC FY 2026-2027 oversight fee estimate expected",
+              "date": "2026-10-01"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1987,
+          "title": "Proposed: Council to approve $11,760 fire flow testing contract for Port of Richmond",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1986,
+          "title": "Proposed: 2.9% rate increase and new fees at Port of Richmond",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Proposed effective date for Port of Richmond tariff amendments",
+              "date": "2026-08-01"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1985,
+          "title": "Proposed: $120,487 contract for Port environmental monitoring",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Council consideration of NCE contract for Port environmental monitoring",
+              "date": "2026-07-21"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1984,
+          "title": "Proposed: Council to approve $263,400 contract for Chevron refinery compliance monitoring",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 143,
       "path": "2026/07/07/143_richmond-council_city-council.json",
@@ -2632,7 +2880,7 @@
       "created_at": "2026-07-20T15:15:57.987210",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": true,
       "has_minutes": false,
       "agenda_brief_count": 21,
