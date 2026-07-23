@@ -1,7 +1,120 @@
 {
-  "generated_at": "2026-07-23T19:30:17.983813+00:00",
-  "count": 38,
+  "generated_at": "2026-07-23T21:44:28.714407+00:00",
+  "count": 39,
   "articles": [
+    {
+      "article_id": 276,
+      "path": "2026/07/28/276_burnaby-council_council-correspondence-and-public-notice-submissio.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=396a0fa5-fa9e-46ba-8973-46344ba745bf&lang=English",
+      "article_title": "Council Correspondence and Public Notice Submissions — July 28, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://burnaby.ca",
+      "meeting_type": "correspondence",
+      "article_published_at": "2026-07-28T07:00:00",
+      "created_at": "2026-07-23T21:44:22.670903",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 12,
+      "minutes_brief_count": 0,
+      "industries": "Agriculture, Construction & Development, Food Service, Hotel & Accommodation, Landlord & Property Mgmt, Professional Services, Retail, Transportation & Logistics",
+      "locations": "British Columbia, Burnaby",
+      "briefs": [
+        {
+          "id": 2051,
+          "title": "Proposed: Council to review Burnaby's 90-night short-term rental limit",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2050,
+          "title": "Proposed: Burnaby Council to consider stronger heat protections",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2049,
+          "title": "Council to consider aircraft noise complaints over North Burnaby",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2048,
+          "title": "Proposed: Lake Cowichan 'Elect Respect' campaign under consideration",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2047,
+          "title": "Proposed: Central Okanagan climate action program funding continuation",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2046,
+          "title": "Proposed: Merritt bylaw update on releasing pigeons",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2045,
+          "title": "Proposed: Burnaby to respond to BC housing targets progress report",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby first annual housing targets report due",
+              "date": "2026-12-15"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2044,
+          "title": "Proposed: Metro Vancouver board decisions for June 2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2043,
+          "title": "Proposed: Regional micro-mobility share network under consideration",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2042,
+          "title": "Proposed: Burnaby to address bus-bike lane conflict on 145 route",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2041,
+          "title": "Proposed: Burnaby North Road BIA grant request up for council vote",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2040,
+          "title": "Proposed: Council to consider traffic concerns in Brentwood area",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 275,
       "path": "2026/07/28/275_burnaby-council_city-council-meeting-july-28-2026.json",
@@ -16,7 +129,7 @@
       "created_at": "2026-07-23T19:30:11.171384",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": true,
       "has_minutes": false,
       "agenda_brief_count": 34,
