@@ -1,7 +1,269 @@
 {
-  "generated_at": "2026-07-18T05:39:46.237859+00:00",
-  "count": 37,
+  "generated_at": "2026-07-23T19:30:17.983813+00:00",
+  "count": 38,
   "articles": [
+    {
+      "article_id": 275,
+      "path": "2026/07/28/275_burnaby-council_city-council-meeting-july-28-2026.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=76ebb2fd-b786-4414-8064-7ab8601438df&lang=English",
+      "article_title": "City Council Meeting — July 28, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://burnaby.ca",
+      "meeting_type": "regular-council",
+      "article_published_at": "2026-07-28T07:00:00",
+      "created_at": "2026-07-23T19:30:11.171384",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": true,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 34,
+      "minutes_brief_count": 0,
+      "industries": "Construction & Development, Food Service, Hotel & Accommodation, Labour & Employment, Landlord & Property Mgmt, Professional Services, Retail, Technology, Transportation & Logistics",
+      "locations": "Burnaby, Richmond, Vancouver",
+      "briefs": [
+        {
+          "id": 2039,
+          "title": "Proposed: Council approves name 'Cameron Community Centre and Library' for rebuilt facility",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2038,
+          "title": "Proposed: Housing agreement for non-market rental at 6887 Palm Avenue",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2037,
+          "title": "Proposed: Burnaby Amenity Cost Charges Bylaw amendment up for final adoption",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2036,
+          "title": "Proposed: 26-storey tower with rental and strata units at 5852 Patterson Avenue",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2035,
+          "title": "Proposed: Burnaby bylaw amendment on pay parking and EV charging enforcement",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2034,
+          "title": "Proposed: Burnaby bylaw amendment on pay parking and EV charging fees",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2033,
+          "title": "Proposed: Burnaby Pay Parking and EV Charging Bylaw 2026 up for council vote",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2032,
+          "title": "Proposed: Burnaby Density Bonus Reserve Fund Bylaw up for council vote",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2031,
+          "title": "Proposed: Zoning amendment for 7211 Greenford Ave, Burnaby",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2030,
+          "title": "Council to receive update on Learn to Swim Pilot Program",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2029,
+          "title": "Proposed: Burnaby to simplify event permits for community producers",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2028,
+          "title": "Proposed: Council to receive update on Burnaby's HOME housing strategy",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2027,
+          "title": "Council to review Burnaby's financial report for Period 05 2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2026,
+          "title": "Council to receive status update on significant civic projects",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2025,
+          "title": "Council to receive update on major Burnaby engineering projects",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2024,
+          "title": "Council to receive status update on IT initiatives for April–June 2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2023,
+          "title": "Council to receive overview of Burnaby Community Schools services",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2022,
+          "title": "Proposed: Council to receive June 2026 building permit activity report",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2021,
+          "title": "Proposed: Burnaby lifeguard training pilot with SD41",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2020,
+          "title": "Proposed: YVR Airport zoning regulation changes under review",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2019,
+          "title": "Proposed: Rezoning for low-rise multi-family with childcare at Wayburne Drive",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2018,
+          "title": "Proposed: Capital grant for child care at Brentwood Park school site",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2017,
+          "title": "Proposed: New licence agreements for five Burnaby child care centres",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2016,
+          "title": "Proposed: Council to vote on contract change for electrical engineering services",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2015,
+          "title": "Proposed: Contract award for Lewarne Park playground and park improvements",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2014,
+          "title": "Proposed: Council to vote on Bonsor Recreation Complex roof replacement contract",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2013,
+          "title": "Proposed: Burnaby Council to vote on server support contract award",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2012,
+          "title": "Council to vote on contract for Kensington Complex roof replacement",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2011,
+          "title": "Proposed: Council to vote on Boundary Road repaving contract award",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2010,
+          "title": "Proposed: Council to vote on Irmin and Watling sidewalk contract award",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2009,
+          "title": "Proposed: Temporary Use Permit for parking and works yard at Lougheed Hwy",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2008,
+          "title": "Proposed: Six-storey market rental rezoning on Sidley Street",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2007,
+          "title": "Proposed: Burnaby Council to vote on density bonus reserve fund for ACC program",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2006,
+          "title": "Proposed: New Burnaby Pay Parking and EV Charging Bylaw",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 166,
       "path": "2026/07/21/166_burnaby-council_financial-management-committee-meeting-july-21-202.json",
@@ -1720,8 +1982,8 @@
       ]
     },
     {
-      "article_id": 106,
-      "path": "2026/06/09/106_burnaby-council_city-council-meeting-june-09-2026.json",
+      "article_id": 108,
+      "path": "2026/06/09/108_burnaby-council_city-council-meeting-june-09-2026.json",
       "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=045c5879-485e-463a-a15a-394394efb469&lang=English",
       "article_title": "City Council Meeting — June 09, 2026",
       "source": "burnaby_council",
