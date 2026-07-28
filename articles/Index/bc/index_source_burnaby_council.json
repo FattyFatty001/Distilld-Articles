@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-23T21:44:28.714407+00:00",
+  "generated_at": "2026-07-28T15:25:52.461950+00:00",
   "count": 39,
   "articles": [
     {
-      "article_id": 276,
-      "path": "2026/07/28/276_burnaby-council_council-correspondence-and-public-notice-submissio.json",
+      "article_id": 281,
+      "path": "2026/07/28/281_burnaby-council_council-correspondence-and-public-notice-submissio.json",
       "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=396a0fa5-fa9e-46ba-8973-46344ba745bf&lang=English",
       "article_title": "Council Correspondence and Public Notice Submissions — July 28, 2026",
       "source": "burnaby_council",
@@ -13,17 +13,24 @@
       "source_website_icon": "https://burnaby.ca",
       "meeting_type": "correspondence",
       "article_published_at": "2026-07-28T07:00:00",
-      "created_at": "2026-07-23T21:44:22.670903",
-      "has_attachments": false,
-      "has_pdf": false,
+      "created_at": "2026-07-28T15:25:46.063669",
+      "has_attachments": true,
+      "has_pdf": true,
       "has_html": true,
       "has_agenda": true,
       "has_minutes": false,
-      "agenda_brief_count": 12,
+      "agenda_brief_count": 13,
       "minutes_brief_count": 0,
       "industries": "Agriculture, Construction & Development, Food Service, Hotel & Accommodation, Landlord & Property Mgmt, Professional Services, Retail, Transportation & Logistics",
       "locations": "British Columbia, Burnaby",
       "briefs": [
+        {
+          "id": 2198,
+          "title": "Proposed: TUP 26-04 at Lougheed Highway and Blackbird Boulevard",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
         {
           "id": 2051,
           "title": "Proposed: Council to review Burnaby's 90-night short-term rental limit",
