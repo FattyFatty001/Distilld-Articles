@@ -1,7 +1,713 @@
 {
-  "generated_at": "2026-07-18T05:39:46.237859+00:00",
-  "count": 10,
+  "generated_at": "2026-07-28T00:08:39.230689+00:00",
+  "count": 11,
   "articles": [
+    {
+      "article_id": 279,
+      "path": "2026/07/28/279_vancouver-council_regular-council-july-28-2026.json",
+      "article_url": "https://council.vancouver.ca/20260728/regu20260728ag.htm",
+      "article_title": "Regular Council — July 28, 2026",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://vancouver.ca",
+      "meeting_type": "regular-council",
+      "article_published_at": "2026-07-28T07:00:00",
+      "created_at": "2026-07-28T00:08:32.167153",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": true,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 70,
+      "minutes_brief_count": 0,
+      "industries": "Construction & Development, Food Service, Healthcare, Hotel & Accommodation, Landlord & Property Mgmt, Professional Services, Retail, Tenant, Transportation & Logistics",
+      "locations": "British Columbia, Vancouver",
+      "briefs": [
+        {
+          "id": 2158,
+          "title": "Council to vote on Vancouver Villages Plan and rezoning proposal",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Vancouver Villages Plan and bylaw amendments take effect",
+              "date": "2026-10-27"
+            },
+            {
+              "label": "RM-12 Guidelines repeal takes effect",
+              "date": "2026-10-27"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2157,
+          "title": "Proposed: New framework for development contributions (2027–2036)",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "New development contribution framework takes effect",
+              "date": "2026-09-30"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2156,
+          "title": "Proposed: Council to vote on amended Heather Lands design guidelines",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Heather Lands design guidelines take effect",
+              "date": "2026-07-28"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2155,
+          "title": "Proposed: Road closure and exchange at 961 West 19th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Council decision on road closure and land exchange at 961 West 19th Avenue",
+              "date": "2026-07-28"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2154,
+          "title": "Proposed: Vancouver to amend Building By-law for DCL and ACC deferrals",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2153,
+          "title": "Proposed: Vancouver to amend DCL by-law for new amenity cost charges",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2152,
+          "title": "Proposed: Vancouver to amend Utilities DCL By-law for new Amenity Cost Charges",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2151,
+          "title": "Proposed: Vancouver to amend Development Cost Levy By-law for new Amenity Cost Charges",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2150,
+          "title": "Proposed: Vancouver Amenity Cost Charge By-law for new developments",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2149,
+          "title": "Proposed: Amend zoning by-law for 6486 Chester Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2148,
+          "title": "Proposed: Council to vote on amending CD-1 bylaw for 4975-4997 Joyce Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2147,
+          "title": "Proposed: Vancouver bylaw amendment to clarify ODP consistency with GLU",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2146,
+          "title": "Proposed: Vancouver to amend Official Development Plan by-law",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2145,
+          "title": "Proposed: Vancouver to amend parking by-law for Villages Planning Program",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2144,
+          "title": "Proposed: Vancouver to amend Subdivision By-law for Villages Planning Program",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2143,
+          "title": "Proposed: Vancouver to amend noise by-law for Villages Planning Program",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2142,
+          "title": "Proposed: Vancouver sign bylaw changes for Villages Planning Program",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2141,
+          "title": "Proposed: Vancouver to amend zoning bylaw for Villages Planning Program",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2140,
+          "title": "Proposed: Vancouver to amend Official Development Plan for Villages Planning Program",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2139,
+          "title": "Proposed: Housing Agreement for 29-31 West Hastings Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2138,
+          "title": "Proposed: Housing agreement for 404 Abbot Street up for council vote",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2137,
+          "title": "Proposed: Housing Agreement for 556–558 Powell Street up for vote",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2136,
+          "title": "Proposed: Housing agreement for 4475 Trafalgar Street up for vote",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2135,
+          "title": "Proposed: Housing Agreement for 2202-2212 West 10th Ave and 2221 Marstrand Ave",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2134,
+          "title": "Proposed: Council to vote on amending housing agreement at 58 West Hastings",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2133,
+          "title": "Proposed: Housing Agreement for 8366–8380 Beatrice Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2132,
+          "title": "Proposed: Housing agreement for 1328 Nelson Street up for council vote",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2131,
+          "title": "Proposed: Housing Agreement for 1535 Haro Street up for council vote",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2130,
+          "title": "Proposed: Housing agreement for 956 Main Street up for council vote",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2129,
+          "title": "Proposed: Housing agreement for 387 West Pender Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2128,
+          "title": "Proposed: Housing agreement for Cambie Street and West 48th Avenue properties",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2127,
+          "title": "Proposed: Housing agreement for 701 Kingsway up for council vote",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2126,
+          "title": "Proposed: Council to vote on amending CD-1 by-law for 888 West Broadway",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2125,
+          "title": "Proposed: Council to vote on amending CD-1 bylaw for 39-65 Smithe Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2124,
+          "title": "Proposed: Council to vote on amending CD-1 bylaw at 215 West 1st Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2123,
+          "title": "Proposed: Council to vote on height changes for 215 West 1st Avenue in Southeast False Creek",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2122,
+          "title": "Proposed: Rezone 130-150 West Broadway and 2520 Columbia Street to CD-1",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2121,
+          "title": "Proposed: Rezone 2180 West 6th Avenue to CD-1",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2120,
+          "title": "Proposed: Repeal of CD-1 (88) By-law for 8080 Yukon Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2119,
+          "title": "Proposed: Rezone 8080 Yukon Street to CD-1",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2118,
+          "title": "Proposed: Rezone 2336-2366 Charles Street to CD-1",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2117,
+          "title": "Proposed: Rezone 3803-3823 West 10th Ave and 2553 Highbury St to CD-1",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2116,
+          "title": "Proposed: Road closure and exchange near 961 West 19th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Vancouver Council public hearing on road closure and exchange",
+              "date": "2026-07-28"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2115,
+          "title": "Proposed: Rezoning of Balfour Block on West 18th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Vancouver Balfour Block rezoning public hearing",
+              "date": "2026-07-28"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2114,
+          "title": "Proposed: New lease for Vancouver Maritime Museum and hydrotherapy barge sublease",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "CD-1 Rezoning public hearing for 1905 Ogden Avenue",
+              "date": "2026-07-21"
+            },
+            {
+              "label": "Council meeting to consider lease and sublease",
+              "date": "2026-07-28"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2113,
+          "title": "Proposed: CD-1 Rezoning for Alberni, Broughton & Nicola Streets",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Vancouver City Council meeting to consider CD-1 rezoning",
+              "date": "2026-07-28"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2112,
+          "title": "Proposed: Council to vote on rezoning conditions at Cambie Street and West 27th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Vancouver council vote on Cambie & 27th rezoning conditions",
+              "date": "2026-07-28"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2111,
+          "title": "Proposed: CD-1 Rezoning at 5027-5053 Boundary Road",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Vancouver Council decision on CD-1 rezoning at 5027-5053 Boundary Road",
+              "date": "2026-07-28"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2110,
+          "title": "Proposed: CD-1 Rezoning for 904-928 Davie Street and 1223 Hornby Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Vancouver City Council decision on CD-1 rezoning",
+              "date": "2026-07-28"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2109,
+          "title": "Proposed: CD-1 Rezoning at 2345-2349 Main Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Vancouver council meeting on CD-1 rezoning at 2345-2349 Main Street",
+              "date": "2026-07-28"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2108,
+          "title": "Proposed: CD-1 Rezoning at 8427-8483 Cambie Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Vancouver Council considers CD-1 rezoning at 8427-8483 Cambie Street",
+              "date": "2026-07-28"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2107,
+          "title": "Council to vote on rezoning at 304-316 East 1st Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Council vote on 304-316 East 1st Ave rezoning",
+              "date": "2026-07-28"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2106,
+          "title": "Proposed: CD-1 Rezoning at 8530-8550 Cambie Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Vancouver City Council meeting on CD-1 rezoning at 8530-8550 Cambie Street",
+              "date": "2026-07-28"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2105,
+          "title": "Council to vote on CD-1 rezonings for two West Broadway sites",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Council vote on CD-1 rezonings for 1795 and 1368-1398 West Broadway",
+              "date": "2026-07-28"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2104,
+          "title": "Proposed: CD-1 Rezoning at 1031-1039 Burnaby Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Vancouver Council considers CD-1 rezoning for 1031-1039 Burnaby Street",
+              "date": "2026-07-28"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2103,
+          "title": "Proposed: Rezoning of 2277 West 2nd Avenue and 1750 Vine Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Vancouver Council considers rezoning of 2277 West 2nd Avenue and 1750 Vine Street",
+              "date": "2026-07-28"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2102,
+          "title": "Proposed: CD-1 Rezoning for 5229-5249 Ash Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Council meeting to consider rezoning (no public hearing)",
+              "date": "2026-07-28"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2101,
+          "title": "Proposed: Miscellaneous amendments to various CD-1 by-laws",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Vancouver CD-1 bylaw amendments public hearing",
+              "date": "2026-07-28"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2100,
+          "title": "Council to consider sponsoring programming at 2026 UBCM Conference",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Vancouver City Council decision on UBCM sponsorship",
+              "date": "2026-07-28"
+            },
+            {
+              "label": "2026 UBCM Annual Convention takes place",
+              "date": "2026-09-14"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2099,
+          "title": "Council to consider Auditor General Committee recommendations",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Council considers Auditor General Committee recommendations",
+              "date": "2026-07-28"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2098,
+          "title": "Proposed: 2027 Business Licence, Vehicles for Hire, Animal Control Fees",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Council decision on 2027 fee increases",
+              "date": "2026-07-28"
+            },
+            {
+              "label": "Proposed fee increases take effect",
+              "date": "2027-01-01"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2097,
+          "title": "Proposed: Council to vote on miscellaneous housing rezoning amendments",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Vancouver council vote on housing rezoning amendments",
+              "date": "2026-07-28"
+            },
+            {
+              "label": "Rental Development Relief Program pilot ends",
+              "date": "2027-12-15"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2096,
+          "title": "Council to vote on arts and culture sublease and grant approvals",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Council vote on arts subleases and grants",
+              "date": "2026-07-28"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2095,
+          "title": "Proposed: Lease extension and amendment for 1475 Kitchener Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Vancouver Council vote on 1475 Kitchener Street lease extension",
+              "date": "2026-07-28"
+            },
+            {
+              "label": "Proposed lease extension period begins",
+              "date": "2026-10-31"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2094,
+          "title": "Proposed: Below-market lease and grant for housing co-op at 675 East 5th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Council vote on Northern Way Housing Co-op lease and grant",
+              "date": "2026-07-28"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2093,
+          "title": "Proposed: Below-market lease extension for The Street Homes affordable housing",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Vancouver council vote on Street Homes lease extension",
+              "date": "2026-07-28"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2092,
+          "title": "Proposed: Vancouver city-wide design and development guidelines",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Council vote on CDDG adoption",
+              "date": "2026-07-28"
+            },
+            {
+              "label": "CDDG takes effect",
+              "date": "2026-10-27"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2091,
+          "title": "Council to vote on updating Vancouver apartment regulations",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Vancouver apartment regulation amendments council vote",
+              "date": "2026-07-28"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2090,
+          "title": "Proposed: CD-1 Rezoning at 75 East 8th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Public hearing for CD-1 rezoning at 75 East 8th Avenue",
+              "date": "2026-07-16"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2089,
+          "title": "Proposed: Vancouver Villages Planning Program rezoning and ODP amendments",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Vancouver Villages Plan public hearing",
+              "date": "2026-07-14"
+            },
+            {
+              "label": "New Sign, Subdivision, Parking, Noise by-laws take effect",
+              "date": "2026-10-27"
+            }
+          ],
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 162,
       "path": "2026/07/14/162_vancouver-council_revised-regular-council-july-14-2026.json",
