@@ -1,7 +1,407 @@
 {
-  "generated_at": "2026-07-27T20:01:17.997602+00:00",
-  "count": 12,
+  "generated_at": "2026-07-28T07:20:33.410925+00:00",
+  "count": 13,
   "articles": [
+    {
+      "article_id": 280,
+      "path": "2026/07/28/280_richmond-council_city-council.json",
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=ab7e536d-f895-404f-845f-b7fc17ad77d0&lang=English",
+      "article_title": "City Council",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://www.richmond.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-07-28T07:00:00",
+      "created_at": "2026-07-28T07:20:26.030654",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": true,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 39,
+      "minutes_brief_count": 0,
+      "industries": "Construction & Development, Food Service, Healthcare, Labour & Employment, Landlord & Property Mgmt, Professional Services, Retail, Technology, Transportation & Logistics",
+      "locations": "Richmond",
+      "briefs": [
+        {
+          "id": 2197,
+          "title": "Proposed: Appointment of Samuel Littlefield to ECIA Transportation Oversight Committee",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2196,
+          "title": "Proposed: Appointment of Shonta Bingham to Black Resiliency Project committee",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2195,
+          "title": "Proposed: Appointment of Daniel-Charles Ogar to Black Resiliency Project committee",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2194,
+          "title": "Proposed: Council to appoint Cristal Banagan to Black Resiliency Project committee",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2193,
+          "title": "Proposed: Richmond to fill vacancies on city boards and commissions",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2192,
+          "title": "Proposed: Richmond Council to proclaim August 26, 2026 as Women's Equality Day",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2191,
+          "title": "Proposed: Richmond Council to recognize Pow Wow with proclamation",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2190,
+          "title": "Proposed: Council to honor Joe Lee Fisher Sr. with proclamation",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2189,
+          "title": "Proposed: Council to approve $20K contract with Richmond Friends of Recreation for youth program",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Proposed contract start date for Richmond Friends of Recreation program",
+              "date": "2026-08-01"
+            },
+            {
+              "label": "Grant-funded activities completion deadline for Stronger Together program",
+              "date": "2027-11-01"
+            },
+            {
+              "label": "Proposed contract end date for Richmond Friends of Recreation program",
+              "date": "2027-12-31"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2188,
+          "title": "Council to vote on $55,000 contract for sports officiating services",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2187,
+          "title": "Proposed: Sole-source contract with Jason Corburn for data system services",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2186,
+          "title": "Proposed: Council to vote on side letter with Richmond Police Management Association on compensation",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2185,
+          "title": "Proposed: Council to approve cooperative office supply agreements",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2184,
+          "title": "Council to vote on sole-source contracts for off-site records storage",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2183,
+          "title": "Proposed: Council to approve contract for fiscal analysis of public safety charter amendment",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Proposed contract term start date for fiscal analysis",
+              "date": "2026-08-01"
+            },
+            {
+              "label": "Proposed contract term end date for fiscal analysis",
+              "date": "2027-07-31"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2182,
+          "title": "Council to receive financial reports for May 2026",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2181,
+          "title": "Council to vote on $350K Downtown Richmond revitalization strategy",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2180,
+          "title": "Proposed: Richmond council to extend The Lot food court agreement to 2028",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2179,
+          "title": "Proposed: Council to approve $146,616 LED upgrade contract at Point Potrero Marine Terminal",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2178,
+          "title": "Proposed: Council to approve $40,000 contract for port logo design",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2177,
+          "title": "Proposed: Richmond council to vote on ADU and JADU zoning amendments",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Richmond City Council second reading and vote on ADU/JADU ordinance",
+              "date": "2026-07-28"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2176,
+          "title": "Proposed: Richmond council to vote on homeless outreach contract",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Council vote on CORE homeless outreach contract",
+              "date": "2026-07-28"
+            },
+            {
+              "label": "CORE contract start date",
+              "date": "2026-07-01"
+            },
+            {
+              "label": "CORE contract end date",
+              "date": "2029-06-30"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2175,
+          "title": "Proposed: Richmond council to vote on $202K contract for rental inspection program analysis",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Proposed contract start date for RRIP transition analysis",
+              "date": "2026-08-01"
+            },
+            {
+              "label": "Proposed contract end date for RRIP transition analysis",
+              "date": "2027-10-31"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2174,
+          "title": "Proposed: Richmond council to vote on $63,000 contract amendment for housing project evaluation",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2173,
+          "title": "Council to receive update on city assessment and project timelines",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Black Resiliency Assessment RFP responses due",
+              "date": "2026-08-13"
+            },
+            {
+              "label": "Asset Inventory and Condition Assessment completion",
+              "date": "2026-08-31"
+            },
+            {
+              "label": "Mental Health Assessment completion",
+              "date": "2026-11-30"
+            },
+            {
+              "label": "Facility Needs Assessment Plan completion",
+              "date": "2026-12-31"
+            },
+            {
+              "label": "Port Economic Impact Study completion",
+              "date": "2026-12-31"
+            },
+            {
+              "label": "Sea Level Rise Adaptation Plan completion deadline",
+              "date": "2027-12-31"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2172,
+          "title": "Proposed: Richmond council to vote on $350K in ECIA grants",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2171,
+          "title": "Proposed: Richmond Council to support California bill tightening CEQA exemptions",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2170,
+          "title": "Proposed: Richmond council resolution opposing new coal and petcoke export facilities",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "West Peak Builders plumbing contract expires",
+              "date": "2028-06-30"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2169,
+          "title": "Proposed: Richmond council to approve sole-source e-discovery software contract",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Council vote on Logikcull e-discovery software contract",
+              "date": "2026-07-28"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2168,
+          "title": "Proposed: Richmond council to approve bond counsel legal services agreement",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Richmond general obligation bond measure on ballot",
+              "date": "2026-11-03"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2167,
+          "title": "Proposed: Council to declare 'Maxine Finley Week' in Richmond",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2166,
+          "title": "Proposed: Richmond Housing Authority to approve $825K HD Supply contract",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "RHA board vote on HD Supply cooperative purchasing agreement",
+              "date": "2026-07-28"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2165,
+          "title": "Proposed: Richmond Housing Authority contract with West Peak Builders for plumbing services",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "RHA-West Peak Builders plumbing contract takes effect",
+              "date": "2026-07-28"
+            },
+            {
+              "label": "RHA-West Peak Builders plumbing contract expires",
+              "date": "2028-06-30"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2164,
+          "title": "Proposed: Richmond Housing Authority to vote on $160K security guard contract amendment",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2163,
+          "title": "Proposed: Richmond council to discuss city manager recruitment in closed session",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2162,
+          "title": "Proposed: Council to discuss property deal at 1145 Harbour Way South",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2161,
+          "title": "Council to discuss closed session on anticipated litigation",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2160,
+          "title": "Proposed: Council to evaluate City Manager performance in closed session",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2159,
+          "title": "Council to discuss labor negotiations with six employee organizations",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 273,
       "path": "2026/07/21/273_richmond-council_city-council.json",
@@ -1347,7 +1747,7 @@
       "created_at": "2026-07-27T20:01:04.513690",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": true,
       "has_minutes": true,
       "agenda_brief_count": 31,
