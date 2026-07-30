@@ -1,7 +1,38 @@
 {
-  "generated_at": "2026-07-20T15:37:39.738896+00:00",
-  "count": 28,
+  "generated_at": "2026-07-30T09:27:02.774217+00:00",
+  "count": 29,
   "articles": [
+    {
+      "article_id": 284,
+      "path": "2026/07/28/284_burnaby-bylaws_bylaw-14841-housing-agreement-6887-palm-avenue-byl.json",
+      "article_url": "https://bylaws.burnaby.ca/en/permalink/bylaw26162",
+      "article_title": "Bylaw 14841 — Housing Agreement (6887 Palm Avenue) Bylaw 2026",
+      "source": "burnaby_bylaws",
+      "source_label": "Burnaby Bylaws",
+      "government_level": "Municipal",
+      "source_website_icon": "https://bylaws.burnaby.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-07-28T07:00:00",
+      "created_at": "2026-07-30T09:26:56.851221",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development, Hotel & Accommodation, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 2199,
+          "title": "Burnaby approves housing agreement for 42 affordable rental units at 6887 Palm Avenue",
+          "source_label": "Burnaby Bylaws",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
     {
       "article_id": 64,
       "path": "2026/05/12/64_burnaby-bylaws_bylaw-14814-rates-bylaw-2026.json",
@@ -350,7 +381,7 @@
       "created_at": "2026-07-20T15:36:16.389682",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
