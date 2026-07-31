@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T00:08:39.230689+00:00",
+  "generated_at": "2026-07-31T23:09:15.267791+00:00",
   "count": 11,
   "articles": [
     {
@@ -16,7 +16,7 @@
       "created_at": "2026-07-28T00:08:32.167153",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": true,
       "has_minutes": false,
       "agenda_brief_count": 70,
@@ -709,24 +709,24 @@
       ]
     },
     {
-      "article_id": 162,
-      "path": "2026/07/14/162_vancouver-council_revised-regular-council-july-14-2026.json",
+      "article_id": 285,
+      "path": "2026/07/14/285_vancouver-council_regular-council-july-14-2026.json",
       "article_url": "https://council.vancouver.ca/20260714/regu20260714ag.htm",
-      "article_title": "Revised Regular Council — July 14, 2026",
+      "article_title": "Regular Council — July 14, 2026",
       "source": "vancouver_council",
       "source_label": "Vancouver Council",
       "government_level": "Municipal",
       "source_website_icon": "https://vancouver.ca",
       "meeting_type": "regular-council",
-      "article_published_at": "2026-07-14T00:00:00",
-      "created_at": "2026-07-14T00:09:04.470531",
+      "article_published_at": "2026-07-14T07:00:00",
+      "created_at": "2026-07-31T23:06:30.973427",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": false,
+      "has_html": true,
       "has_agenda": true,
-      "has_minutes": false,
+      "has_minutes": true,
       "agenda_brief_count": 73,
-      "minutes_brief_count": 0,
+      "minutes_brief_count": 95,
       "industries": "Construction & Development, Food Service, Healthcare, Hotel & Accommodation, Landlord & Property Mgmt, Liquor, Professional Services, Retail, Technology, Tenant, Transportation & Logistics",
       "locations": "British Columbia, Burnaby, Delta, Langley, New Westminster, Richmond, Surrey, Vancouver",
       "briefs": [
@@ -1424,6 +1424,676 @@
             }
           ],
           "is_proposal": true
+        },
+        {
+          "id": 2221,
+          "title": "Council approves 12-storey mixed-use rezoning at 7525 Cambie Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2220,
+          "title": "Council approves CD-1 rezoning for 23-storey East Hastings social housing",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2219,
+          "title": "Council approved CD-1 rezoning for 26-storey rental building at 1088 West 12th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2218,
+          "title": "Council approved CD-1 rezoning for 32-storey rental tower at 365-395 West Broadway",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2217,
+          "title": "Council approves 15-storey rental rezoning at 466-476 West 27th",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2216,
+          "title": "Council approves Renfrew Street rezoning for 31-storey mixed-use towers",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2215,
+          "title": "Council approves CD-1 rezoning for 542 rental units at 1045 Haro Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2214,
+          "title": "Council approved CD-1 rezoning for 375 East 1st Avenue mixed-use towers",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2213,
+          "title": "Council approves 15-storey height for Riverwalk Avenue parcel",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2212,
+          "title": "Council approved CD-1 rezoning for 6212-6218 Ash Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2211,
+          "title": "Council approves taller building at 8080 Yukon Street rezoning",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2210,
+          "title": "Council approves revised YMCA rezoning at 282 West 49th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2209,
+          "title": "Council approves CD-1 rezoning for East Broadway towers",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2208,
+          "title": "Council approved sublease for Community Economic Development Hub at 188 Jackson",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2207,
+          "title": "Council approved directed consultation for ODP rezoning applications",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2206,
+          "title": "Council approves $300,000 grant for Vancouver Heritage Foundation",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2205,
+          "title": "Council approves $1.32M SRO upgrade grant for Veteran's Manor",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2204,
+          "title": "Council approved below-market lease to Marpole Terrace Co-op",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2203,
+          "title": "Council approved new Amenity Cost Charge bylaw effective Sept 30, 2026",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "New Amenity Cost Charge bylaw takes effect in Vancouver",
+              "date": "2026-09-30"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 2202,
+          "title": "Council approved $3.5B 2027-2030 Capital Plan for city infrastructure",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2201,
+          "title": "Council approves Broadway Plan amendments for VGH Campus",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2200,
+          "title": "Council approves $589,899 in 2026 Core Support Grants",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2294,
+          "title": "Council did not decide on Vancouver density bonus and inclusionary zoning updates",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2293,
+          "title": "[NOT REACHED] Council did not vote on 2027-2030 Capital Plan borrowing questions",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2292,
+          "title": "[NOT REACHED] Council did not vote on Vancouver noise bylaw amendment for 414-420 West Pender Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2291,
+          "title": "[NOT REACHED] Council did not vote on Vancouver sign bylaw amendment for 414-420 West Pender Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2290,
+          "title": "Council did not decide on Housing Agreement bylaw for 8080 Yukon Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2289,
+          "title": "Council did not vote on housing agreement amendment for 414 Columbia Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2288,
+          "title": "Council did not decide on Charles Street housing agreement bylaw",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2287,
+          "title": "Council did not decide on Nanaimo Street housing agreement bylaw",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2286,
+          "title": "Council did not decide on West Broadway housing agreement bylaw",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2285,
+          "title": "[NOT REACHED] Council did not vote on housing agreement bylaw for West 10th Ave and Highbury St",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2284,
+          "title": "Council did not decide on Broadway housing agreement by-law",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2283,
+          "title": "[NOT REACHED] Council did not vote on housing agreement for 888 West Broadway",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2282,
+          "title": "[NOT REACHED] Council did not vote on housing agreement for 354–380 East 10th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2281,
+          "title": "[NOT REACHED] Council did not vote on housing agreement for 2180 West 6th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2280,
+          "title": "[NOT REACHED] Council did not vote on Fraser Street housing agreement bylaw",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2279,
+          "title": "[NOT REACHED] Council did not vote on Heather Street housing agreement by-law",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2278,
+          "title": "Council did not decide on 441 East Pender Street housing agreement",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2277,
+          "title": "Council did not decide on Manson Street housing agreement bylaw",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2276,
+          "title": "Council did not decide on housing agreement for 208 East Georgia Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2275,
+          "title": "Council did not decide on rezoning 1770 West 12th Avenue to CD-1",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2274,
+          "title": "Council did not decide on Joyce Street rezoning to CD-1",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2273,
+          "title": "[NOT REACHED] Council did not vote on rezoning 648-680 East Broadway and 2505 Fraser Street to CD-1",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2272,
+          "title": "[NOT REACHED] Council did not vote on rezoning 1111 Broughton Street to CD-1",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2271,
+          "title": "[NOT REACHED] Council did not vote on CD-1 zoning amendment for 4176 Alexandra Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2270,
+          "title": "[NOT REACHED] Council did not vote on CD-1 text amendment for 1290 Hornby St & 889 Drake St",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2269,
+          "title": "Council did not decide on Vanness Avenue CD-1 zoning amendment",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2268,
+          "title": "Council did not vote on rezoning bylaw for 828 Cambie Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2267,
+          "title": "Council did not decide on Vancouver ticket fine amendments for licence bylaw offences",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2266,
+          "title": "Council did not decide on Vancouver cooling device bylaw amendment",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2265,
+          "title": "[NOT REACHED] Council did not vote on Vancouver abandoned buildings bylaw amendment",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2264,
+          "title": "Council did not decide on Vancouver joining inter-municipal business licence scheme",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2263,
+          "title": "[NOT REACHED] Council did not vote on inter-municipal business licence bylaw",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2262,
+          "title": "Council did not decide on Vancouver towing rate by-law changes",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2261,
+          "title": "Council did not decide on Vancouver towing rate changes under Impounding By-law No. 13709",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2260,
+          "title": "[NOT REACHED] Council did not vote on electronic sign bylaw for 677 Davie Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2259,
+          "title": "[NOT REACHED] Council did not vote on Vancouver sign fee bylaw amendments",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2258,
+          "title": "Council did not decide on new electronic sign district at Exhibition Park",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2257,
+          "title": "Council did not vote on vacancy tax exemption for new inventory",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2256,
+          "title": "[NOT REACHED] Council did not vote on Vancouver Oak Street rezoning",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2255,
+          "title": "[NOT REACHED] Council did not vote on rezoning for 2516 Commercial Drive and 1704 East Broadway",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2254,
+          "title": "Council did not decide on Vancouver rezoning for 500 Dunsmuir and 388 Abbott",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2253,
+          "title": "Council did not decide on Birch & Broadway rezoning text amendment",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2252,
+          "title": "Council did not decide on CD-1 rezoning at 111 East 5th Avenue and 2060 Quebec Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2251,
+          "title": "Council did not vote on Vancouver General Hospital zoning amendment",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2250,
+          "title": "Council did not decide on CD-1 rezoning for 807-819 Hornby and 908-948 Robson",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2249,
+          "title": "Council did not decide on CD-1 Rezoning at 2611 Victoria Drive",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2248,
+          "title": "Council did not decide on CD-1 rezoning for 7525 Cambie Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2247,
+          "title": "[NOT REACHED] Council did not vote on CD-1 rezoning for 1618-1680 East Hastings Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2246,
+          "title": "Council did not decide on CD-1 rezoning at 1088 West 12th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2245,
+          "title": "Council did not decide on CD-1 Rezoning at 365-395 West Broadway",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2244,
+          "title": "[NOT REACHED] Council did not vote on CD-1 rezoning for 466-476 West 27th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2243,
+          "title": "[NOT REACHED] Council did not vote on Renfrew Street rezoning",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2242,
+          "title": "[NOT REACHED] Council did not vote on CD-1 rezoning for 1045 Haro Street and 830-850 Thurlow Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2241,
+          "title": "Council did not decide on CD-1 rezoning for 375 East 1st Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2240,
+          "title": "[NOT REACHED] Council did not vote on CD-1 amendment for 3202–3270 Riverwalk Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2239,
+          "title": "Council did not decide on CD-1 rezoning at 6212-6218 Ash Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2238,
+          "title": "Council did not vote on revised rezoning for 8080 Yukon Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2237,
+          "title": "Council did not decide on CD-1 rezoning revision for 282 West 49th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2236,
+          "title": "[NOT REACHED] Council did not vote on CD-1 rezoning for East Broadway properties",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2235,
+          "title": "Council did not vote on arts and culture sublease, lease and licence agreements",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2234,
+          "title": "Council did not vote on Community Economic Development Hub sublease at 188 Jackson",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2233,
+          "title": "Council did not decide on new Vancouver rezoning consultation rules",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2232,
+          "title": "Council did not decide on permanent liquor hour change for 122 East Hastings",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2231,
+          "title": "Council did not vote on Vancouver Heritage Foundation grants for 2026",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2230,
+          "title": "Council did not vote on SRO upgrade grant and demolition permits",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2229,
+          "title": "Council did not decide on Marpole Terrace Co-op below-market lease and grant",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2228,
+          "title": "Council did not decide on Vancouver budget task force recommendations",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2227,
+          "title": "Council did not decide on Vancouver's new development cost framework for 2027–2036",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2226,
+          "title": "Council did not decide on Vancouver's 2027-2030 Capital Plan",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2225,
+          "title": "Council did not decide on VGH campus policy update under Broadway Plan",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2224,
+          "title": "Council did not vote on 2026 Vancouver community services and childcare grants",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2223,
+          "title": "[NOT REACHED] Council did not vote on re-appointing Vancouver rep to UBCM Executive Board",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2222,
+          "title": "[INFO ONLY] Council received memo on 2026 meeting schedule changes",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
         }
       ]
     },
