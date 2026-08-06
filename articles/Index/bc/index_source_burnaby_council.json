@@ -1,7 +1,134 @@
 {
-  "generated_at": "2026-07-28T15:25:52.461950+00:00",
-  "count": 39,
+  "generated_at": "2026-08-06T22:12:18.639500+00:00",
+  "count": 40,
   "articles": [
+    {
+      "article_id": 287,
+      "path": "2026/08/11/287_burnaby-council_council-correspondence-and-public-notice-submissio.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=13ac3833-5251-4218-8b19-d0cf8647620e&lang=English",
+      "article_title": "Council Correspondence and Public Notice Submissions — August 11, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://burnaby.ca",
+      "meeting_type": "correspondence",
+      "article_published_at": "2026-08-11T07:00:00",
+      "created_at": "2026-08-06T22:12:11.343233",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": true,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 14,
+      "minutes_brief_count": 0,
+      "industries": "Construction & Development, Food Service, Landlord & Property Mgmt, Natural Resources, Professional Services, Retail, Transportation & Logistics",
+      "locations": "British Columbia, Burnaby, Canada, Vancouver",
+      "briefs": [
+        {
+          "id": 2402,
+          "title": "Proposed: Burnaby rezoning application REZ #25-25 by Guang Shao",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2401,
+          "title": "Proposed: Rezoning at 7211 Greenford Avenue, Burnaby",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Council first and second reading of REZ #25-25",
+              "date": "2026-07-28"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2400,
+          "title": "Proposed: Burnaby to implement provincial electric kick scooter pilot program",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2399,
+          "title": "Council to consider Jim Lorimer Park re-opening correspondence",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2398,
+          "title": "Council to consider: Dredging of Burrard Inlet correspondence",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2397,
+          "title": "Proposed: Burnaby to consider allowing one stairwell in 5-storey wooden buildings",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2396,
+          "title": "Proposed: Burnaby Council to consider Chemtrade extension request",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2395,
+          "title": "Council to consider Battered Women's Support Services public safety report",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2394,
+          "title": "Council to consider recognizing Canadian Chinese Heritage Month",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2393,
+          "title": "Proposed: Burnaby to review R1 SSMUH lot coverage rules for homeowners",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2392,
+          "title": "Proposed: Traffic signal changes at Boundary Road and Vanness Avenue for Telus Boot construction",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2391,
+          "title": "Proposed: Burnaby to review King and Park construction safety, skywalk",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2390,
+          "title": "Proposed: Burnaby to review Silver Ave drop-off zone and parking enforcement",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2389,
+          "title": "Proposed: Burnaby to review traffic safety on Government Road",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 281,
       "path": "2026/07/28/281_burnaby-council_council-correspondence-and-public-notice-submissio.json",
@@ -16,7 +143,7 @@
       "created_at": "2026-07-28T15:25:46.063669",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": true,
       "has_minutes": false,
       "agenda_brief_count": 13,
