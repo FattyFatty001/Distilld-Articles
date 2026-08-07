@@ -1,7 +1,146 @@
 {
-  "generated_at": "2026-07-20T17:24:18.909164+00:00",
-  "count": 64,
+  "generated_at": "2026-08-07T17:40:52.670300+00:00",
+  "count": 68,
   "articles": [
+    {
+      "article_id": 293,
+      "path": "2026/05/22/293_bc-gazette-part-ii_bc-reg-882026-oic-2012026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n10_88-2026",
+      "article_title": "B.C. Reg. 88/2026 – OIC 201/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-05-22T07:00:00",
+      "created_at": "2026-08-07T17:40:41.690723",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development, Labour & Employment, Transportation & Logistics",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 2406,
+          "title": "B.C. raises Workers Compensation Act dollar thresholds for 2026",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "B.C. Workers Compensation Act dollar amount changes take effect",
+              "date": "2026-06-02"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 292,
+      "path": "2026/05/22/292_bc-gazette-part-ii_bc-reg-872026-oic-1992026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n10_87-2026",
+      "article_title": "B.C. Reg. 87/2026 – OIC 199/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-05-22T07:00:00",
+      "created_at": "2026-08-07T17:40:36.635944",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Hotel & Accommodation",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 2405,
+          "title": "BC extends accommodation area tax deadlines and raises rate to 3% in one area",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "Accommodation area tax rate increase to 3% takes effect (BC)",
+              "date": "2026-11-01"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 291,
+      "path": "2026/05/22/291_bc-gazette-part-ii_bc-reg-862026-oic-1982026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n10_86-2026",
+      "article_title": "B.C. Reg. 86/2026 – OIC 198/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-05-22T07:00:00",
+      "created_at": "2026-08-07T17:40:31.552938",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development, Landlord & Property Mgmt, Professional Services",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 2404,
+          "title": "Property Transfer Tax Regulation amended: removes outdated Assessment Act references",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 289,
+      "path": "2026/05/22/289_bc-gazette-part-ii_bc-reg-842026-oic-1972026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n10_84-2026",
+      "article_title": "B.C. Reg. 84/2026 – OIC 197/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-05-22T07:00:00",
+      "created_at": "2026-08-07T17:40:25.830615",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Finance & Insurance, Professional Services",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 2403,
+          "title": "BC updates corporate, credit, insurance, real estate and securities rules effective October 13, 2026",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "B.C. Reg. 84/2026 amendments take effect",
+              "date": "2026-10-13"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
     {
       "article_id": 156,
       "path": "2026/05/13/156_bc-gazette-part-ii_bc-reg-822026-chief-gold-commissioner.json",
@@ -1859,7 +1998,7 @@
       "created_at": "2026-07-20T17:24:08.202896",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -1890,7 +2029,7 @@
       "created_at": "2026-07-20T17:24:04.773016",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -1926,7 +2065,7 @@
       "created_at": "2026-07-20T17:24:00.760484",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -1957,7 +2096,7 @@
       "created_at": "2026-07-20T17:23:56.688006",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
