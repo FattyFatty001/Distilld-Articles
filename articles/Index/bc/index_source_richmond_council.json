@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-07-28T07:20:33.410925+00:00",
-  "count": 13,
+  "generated_at": "2026-08-11T07:16:00.449812+00:00",
+  "count": 14,
   "articles": [
+    {
+      "article_id": 299,
+      "path": "2026/08/11/299_richmond-council_special-city-council-meeting.json",
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=c3c39254-53cc-4461-9b85-041288171803&lang=English",
+      "article_title": "Special City Council Meeting",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://www.richmond.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-08-11T07:00:00",
+      "created_at": "2026-08-11T07:15:53.623616",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": true,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 1,
+      "minutes_brief_count": 0,
+      "industries": "Professional Services",
+      "locations": "Richmond",
+      "briefs": [
+        {
+          "id": 2409,
+          "title": "Proposed: Council to approve $168K recruitment contract extension with Bob Murray & Associates",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Proposed contract extension with Bob Murray & Associates ends (if approved)",
+              "date": "2027-06-30"
+            }
+          ],
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 280,
       "path": "2026/07/28/280_richmond-council_city-council.json",
@@ -16,7 +52,7 @@
       "created_at": "2026-07-28T07:20:26.030654",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": true,
       "has_minutes": false,
       "agenda_brief_count": 39,
