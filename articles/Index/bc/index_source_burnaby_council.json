@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T22:12:18.639500+00:00",
+  "generated_at": "2026-08-14T16:20:49.276444+00:00",
   "count": 40,
   "articles": [
     {
@@ -16,7 +16,7 @@
       "created_at": "2026-08-06T22:12:11.343233",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": true,
       "has_minutes": false,
       "agenda_brief_count": 14,
@@ -637,205 +637,8 @@
       ]
     },
     {
-      "article_id": 160,
-      "path": "2026/07/14/160_burnaby-council_council-correspondence-and-public-notice-submissio.json",
-      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=c14695fa-7c24-400f-bd33-d811d839b5cb&lang=English",
-      "article_title": "Council Correspondence and Public Notice Submissions — July 14, 2026",
-      "source": "burnaby_council",
-      "source_label": "Burnaby Council",
-      "government_level": "Municipal",
-      "source_website_icon": "https://burnaby.ca",
-      "meeting_type": "correspondence",
-      "article_published_at": "2026-07-14T00:00:00",
-      "created_at": "2026-07-09T23:58:57.465305",
-      "has_attachments": true,
-      "has_pdf": true,
-      "has_html": false,
-      "has_agenda": true,
-      "has_minutes": false,
-      "agenda_brief_count": 24,
-      "minutes_brief_count": 0,
-      "industries": "Cannabis, Construction & Development, Food Service, Healthcare, Hotel & Accommodation, Landlord & Property Mgmt, Natural Resources, Professional Services, Retail, Transportation & Logistics",
-      "locations": "British Columbia, Burnaby, Canada, Delta, Surrey, Vancouver, Victoria",
-      "briefs": [
-        {
-          "id": 1782,
-          "title": "Proposed: Rezoning of 6470 and 6508 Silver Avenue in Burnaby",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 1781,
-          "title": "Proposed: Council to consider aircraft noise complaint over North Burnaby",
-          "source_label": "Burnaby Council",
-          "key_dates": [
-            {
-              "label": "Council meeting — delegation on aircraft noise over North Burnaby",
-              "date": "2025-04-14"
-            }
-          ],
-          "is_proposal": true
-        },
-        {
-          "id": 1780,
-          "title": "Proposed: Federal regulations for aircraft noise in Burnaby",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 1779,
-          "title": "Proposed: Burnaby Council to review Stoney Creek Watershed plan",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 1778,
-          "title": "Proposed: Burnaby water meter project safety concerns raised",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 1777,
-          "title": "Proposed: Burnaby council to vote on cannabis smoke rules in public spaces",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 1776,
-          "title": "Proposed: Burnaby Council to consider BC Nurses' Union award",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 1775,
-          "title": "Proposed: Oak Bay seeks Burnaby funding for climate action program",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 1774,
-          "title": "Proposed: Independent review of the Fraser River Tunnel Project",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 1773,
-          "title": "Proposed: Metro 2050 land-use amendment for Surrey (105–175A Street)",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 1772,
-          "title": "Proposed: Metro Vancouver Board to consider regional planning updates",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 1771,
-          "title": "Proposed: Burnaby Council to vote on Michael J. Fox Theatre operating grant",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 1770,
-          "title": "Proposed: Burnaby bylaw changes for bike lanes and traffic rules",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 1769,
-          "title": "Proposed: Union Street traffic calming measures in Burnaby",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 1768,
-          "title": "Proposed: Burnaby Council to vote on Rowing BC sport hosting grant",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 1767,
-          "title": "Proposed: Burnaby Council to vote on Edmonds Community School playground grant",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 1766,
-          "title": "Proposed: Burnaby council to consider 2026 property tax spike and reform",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 1765,
-          "title": "Proposed: Temporary shelter and warming centre at 7320 Buller Avenue",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 1764,
-          "title": "Proposed: Defer development fees on coach house permits in Burnaby",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 1763,
-          "title": "Proposed: Vacant property rules for Royal Oak Avenue and Grimmer Street",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 1762,
-          "title": "Proposed: Speed bumps on Elwell Street near Edmonds Park",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 1761,
-          "title": "Proposed: Burnaby e-scooter safety rules and enforcement",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 1760,
-          "title": "Proposed: Council to vote on lease security for Hart House Restaurant operator",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 1759,
-          "title": "Proposed: HUB Cycling protected bike lane on Winston Street",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        }
-      ]
-    },
-    {
-      "article_id": 159,
-      "path": "2026/07/14/159_burnaby-council_city-council-meeting-july-14-2026.json",
+      "article_id": 308,
+      "path": "2026/07/14/308_burnaby-council_city-council-meeting-july-14-2026.json",
       "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=c5a16df0-7628-4ee0-a943-476f74741667&lang=English",
       "article_title": "City Council Meeting — July 14, 2026",
       "source": "burnaby_council",
@@ -843,17 +646,17 @@
       "government_level": "Municipal",
       "source_website_icon": "https://burnaby.ca",
       "meeting_type": "regular-council",
-      "article_published_at": "2026-07-14T00:00:00",
-      "created_at": "2026-07-09T21:44:41.793886",
+      "article_published_at": "2026-07-14T07:00:00",
+      "created_at": "2026-08-14T16:20:41.898032",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": false,
+      "has_html": true,
       "has_agenda": true,
-      "has_minutes": false,
+      "has_minutes": true,
       "agenda_brief_count": 28,
-      "minutes_brief_count": 0,
-      "industries": "Agriculture, Construction & Development, Food Service, Hotel & Accommodation, Landlord & Property Mgmt, Professional Services, Retail, Technology, Transportation & Logistics",
-      "locations": "British Columbia, Burnaby, Langley, Vancouver",
+      "minutes_brief_count": 31,
+      "industries": "Agriculture, Construction & Development, Food Service, Hotel & Accommodation, Labour & Employment, Landlord & Property Mgmt, Professional Services, Retail, Technology, Transportation & Logistics",
+      "locations": "British Columbia, Burnaby, Langley, Surrey, Vancouver",
       "briefs": [
         {
           "id": 1758,
@@ -1061,6 +864,429 @@
         {
           "id": 1731,
           "title": "Proposed: Burnaby council to vote on updated Amenity Cost Charges program",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2447,
+          "title": "Council approved Mayor's letter urging BC Bus Pass expansion for low-income households",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2446,
+          "title": "Council approved mayor's letter on aircraft noise concerns",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2445,
+          "title": "Burnaby Council refers Surrey land designation change to staff",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2444,
+          "title": "Council abandons Silver Avenue zoning bylaw amendment",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2443,
+          "title": "Council abandons Dow Avenue zoning bylaw amendment",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2442,
+          "title": "Council adopts bylaw repealing housing agreement at 5227 Lane Street",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2441,
+          "title": "Council approved first readings of Burnaby Amenity Cost Charges Bylaw No. 14837",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2440,
+          "title": "Council approved first readings of Housing Agreement Bylaw for 6887 Palm Avenue",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2439,
+          "title": "Council received Fire Department status update for information",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2438,
+          "title": "Council received Burnaby Fire Department Annual Report 2025",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2437,
+          "title": "Council received RCMP status and performance reports for Burnaby",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2436,
+          "title": "Council received Accessibility Plan implementation update for 2025/2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2435,
+          "title": "Council refers Sidley Street rezoning back to staff for taller building review",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2434,
+          "title": "Council approved $7,500 Sport Hosting Grant for Rowing BC",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Rowing BC Provincial Championships at Burnaby Lake begins",
+              "date": "2026-07-17"
+            },
+            {
+              "label": "Rowing BC Provincial Championships at Burnaby Lake ends",
+              "date": "2026-07-19"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 2433,
+          "title": "Council approved $1,525 playground grant for Edmonds Community School",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2432,
+          "title": "Council approved $25,000 operating grant for Burnaby Arts Council",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2431,
+          "title": "Council approves $7,500 grant for CTS Youth Society summer camps",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2430,
+          "title": "Council approves $1,000 Festivals Burnaby Grant for Tanzania Society",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2429,
+          "title": "Council approved $518,037 contract renewal for golf course and sports field sand",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2428,
+          "title": "Council approves $209,897 contract change for Victory St. watermain project",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2427,
+          "title": "Council approved $666,417 three-year software support contract with Infor",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2426,
+          "title": "Council approves $1.2M contract for Gilmore Pump Station upgrade",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2425,
+          "title": "Council approves $2.59M contract for Lougheed Highway roadworks",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2424,
+          "title": "Council approved $11.9M contract for Douglas Road and Laurel Street rehabilitation",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2423,
+          "title": "Council approved new bank signing officers for city accounts",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2422,
+          "title": "Council approved $8,745.45 payment for 2026 LMLGA membership dues",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2421,
+          "title": "Council approves $22,574 for murals at Kensington Overpass and Lougheed Tunnel",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2420,
+          "title": "Council approved comment letter on Metro 2050 regional growth strategy amendment",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2419,
+          "title": "Council approved amendments to Burnaby's Rental Use Zoning Policy Stream 1",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2418,
+          "title": "Council approved letter urging BC to renew climate action funding",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2417,
+          "title": "Council approved amended Amenity Cost Charges program and bylaw",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 160,
+      "path": "2026/07/14/160_burnaby-council_council-correspondence-and-public-notice-submissio.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=c14695fa-7c24-400f-bd33-d811d839b5cb&lang=English",
+      "article_title": "Council Correspondence and Public Notice Submissions — July 14, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://burnaby.ca",
+      "meeting_type": "correspondence",
+      "article_published_at": "2026-07-14T00:00:00",
+      "created_at": "2026-07-09T23:58:57.465305",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": false,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 24,
+      "minutes_brief_count": 0,
+      "industries": "Cannabis, Construction & Development, Food Service, Healthcare, Hotel & Accommodation, Landlord & Property Mgmt, Natural Resources, Professional Services, Retail, Transportation & Logistics",
+      "locations": "British Columbia, Burnaby, Canada, Delta, Surrey, Vancouver, Victoria",
+      "briefs": [
+        {
+          "id": 1782,
+          "title": "Proposed: Rezoning of 6470 and 6508 Silver Avenue in Burnaby",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1781,
+          "title": "Proposed: Council to consider aircraft noise complaint over North Burnaby",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Council meeting — delegation on aircraft noise over North Burnaby",
+              "date": "2025-04-14"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 1780,
+          "title": "Proposed: Federal regulations for aircraft noise in Burnaby",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1779,
+          "title": "Proposed: Burnaby Council to review Stoney Creek Watershed plan",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1778,
+          "title": "Proposed: Burnaby water meter project safety concerns raised",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1777,
+          "title": "Proposed: Burnaby council to vote on cannabis smoke rules in public spaces",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1776,
+          "title": "Proposed: Burnaby Council to consider BC Nurses' Union award",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1775,
+          "title": "Proposed: Oak Bay seeks Burnaby funding for climate action program",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1774,
+          "title": "Proposed: Independent review of the Fraser River Tunnel Project",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1773,
+          "title": "Proposed: Metro 2050 land-use amendment for Surrey (105–175A Street)",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1772,
+          "title": "Proposed: Metro Vancouver Board to consider regional planning updates",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1771,
+          "title": "Proposed: Burnaby Council to vote on Michael J. Fox Theatre operating grant",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1770,
+          "title": "Proposed: Burnaby bylaw changes for bike lanes and traffic rules",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1769,
+          "title": "Proposed: Union Street traffic calming measures in Burnaby",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1768,
+          "title": "Proposed: Burnaby Council to vote on Rowing BC sport hosting grant",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1767,
+          "title": "Proposed: Burnaby Council to vote on Edmonds Community School playground grant",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1766,
+          "title": "Proposed: Burnaby council to consider 2026 property tax spike and reform",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1765,
+          "title": "Proposed: Temporary shelter and warming centre at 7320 Buller Avenue",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1764,
+          "title": "Proposed: Defer development fees on coach house permits in Burnaby",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1763,
+          "title": "Proposed: Vacant property rules for Royal Oak Avenue and Grimmer Street",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1762,
+          "title": "Proposed: Speed bumps on Elwell Street near Edmonds Park",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1761,
+          "title": "Proposed: Burnaby e-scooter safety rules and enforcement",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1760,
+          "title": "Proposed: Council to vote on lease security for Hart House Restaurant operator",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 1759,
+          "title": "Proposed: HUB Cycling protected bike lane on Winston Street",
           "source_label": "Burnaby Council",
           "key_dates": [],
           "is_proposal": true
