@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T09:27:02.774217+00:00",
-  "count": 29,
+  "generated_at": "2026-08-14T09:00:03.587647+00:00",
+  "count": 30,
   "articles": [
     {
       "article_id": 284,
@@ -16,7 +16,7 @@
       "created_at": "2026-07-30T09:26:56.851221",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -363,6 +363,42 @@
           "title": "Burnaby repeals 1917 Dominion Film Corporation bonus bylaw",
           "source_label": "Burnaby Bylaws",
           "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 307,
+      "path": "2025/10/28/307_burnaby-bylaws_bylaw-14767-taxation-exemption-bylaw-2023-amendmen.json",
+      "article_url": "https://bylaws.burnaby.ca/en/permalink/bylaw26074",
+      "article_title": "Bylaw 14767 — Taxation Exemption Bylaw 2023, Amendment Bylaw No. 1, 2025",
+      "source": "burnaby_bylaws",
+      "source_label": "Burnaby Bylaws",
+      "government_level": "Municipal",
+      "source_website_icon": "https://bylaws.burnaby.ca",
+      "meeting_type": null,
+      "article_published_at": "2025-10-28T07:00:00",
+      "created_at": "2026-08-14T08:59:57.218788",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Healthcare, Labour & Employment, Professional Services",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 2416,
+          "title": "Burnaby renews property tax exemptions for non-profits for 2026",
+          "source_label": "Burnaby Bylaws",
+          "key_dates": [
+            {
+              "label": "Burnaby 2026 property tax exemption takes effect",
+              "date": "2026-01-01"
+            }
+          ],
           "is_proposal": false
         }
       ]
