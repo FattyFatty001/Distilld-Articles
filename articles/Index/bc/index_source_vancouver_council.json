@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-14T00:26:16.099411+00:00",
+  "generated_at": "2026-08-17T18:38:41.016901+00:00",
   "count": 12,
   "articles": [
     {
-      "article_id": 306,
-      "path": "2026/08/14/306_vancouver-council_special-council-august-14-2026.json",
+      "article_id": 309,
+      "path": "2026/08/14/309_vancouver-council_special-council-august-14-2026.json",
       "article_url": "https://council.vancouver.ca/20260814/spec20260814ag.htm",
       "article_title": "Special Council — August 14, 2026",
       "source": "vancouver_council",
@@ -13,15 +13,15 @@
       "source_website_icon": "https://vancouver.ca",
       "meeting_type": "special-council",
       "article_published_at": "2026-08-14T07:00:00",
-      "created_at": "2026-08-14T00:26:09.261126",
+      "created_at": "2026-08-17T18:38:34.732544",
       "has_attachments": true,
       "has_pdf": true,
       "has_html": true,
       "has_agenda": true,
-      "has_minutes": false,
+      "has_minutes": true,
       "agenda_brief_count": 1,
-      "minutes_brief_count": 0,
-      "industries": "Food Service, Hotel & Accommodation, Retail",
+      "minutes_brief_count": 2,
+      "industries": "Food Service, Hotel & Accommodation, Professional Services, Retail",
       "locations": "Vancouver",
       "briefs": [
         {
@@ -35,6 +35,25 @@
             }
           ],
           "is_proposal": true
+        },
+        {
+          "id": 2449,
+          "title": "Council defeats crisis mitigation program amendment",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2448,
+          "title": "Council approved by-law for Public Safety Plebiscite questions",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Public Safety Plebiscite questions on ballot in Vancouver municipal election",
+              "date": "2026-10-17"
+            }
+          ],
+          "is_proposal": false
         }
       ]
     },
