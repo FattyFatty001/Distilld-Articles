@@ -1,7 +1,151 @@
 {
-  "generated_at": "2026-08-12T18:11:13.505483+00:00",
-  "count": 74,
+  "generated_at": "2026-08-19T16:46:46.632993+00:00",
+  "count": 78,
   "articles": [
+    {
+      "article_id": 314,
+      "path": "2026/06/24/314_bc-gazette-part-ii_bc-reg-1032026-m2442026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n12_103-2026",
+      "article_title": "B.C. Reg. 103/2026 – M244/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-06-24T07:00:00",
+      "created_at": "2026-08-19T16:46:34.078157",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development, Landlord & Property Mgmt, Retail",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 2453,
+          "title": "FortisBC exempt from utility approval for Kelowna substation upgrades",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "FortisBC exemption projects must be in service by June 30, 2036",
+              "date": "2036-06-30"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 313,
+      "path": "2026/06/19/313_bc-gazette-part-ii_bc-reg-1022026-oic-2542026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n12_102-2026",
+      "article_title": "B.C. Reg. 102/2026 – OIC 254/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-06-19T07:00:00",
+      "created_at": "2026-08-19T16:46:29.753490",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development, Natural Resources, Professional Services",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 2452,
+          "title": "BC updates contaminated sites rules: new fees for ministry services",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC Contaminated Sites Regulation amendment takes effect",
+              "date": "2026-07-01"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 312,
+      "path": "2026/06/19/312_bc-gazette-part-ii_bc-reg-1012026-oic-2532026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n12_101-2026",
+      "article_title": "B.C. Reg. 101/2026 – OIC 253/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-06-19T07:00:00",
+      "created_at": "2026-08-19T16:46:25.688376",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Natural Resources, Transportation & Logistics",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 2451,
+          "title": "BC hazardous waste transport licence fees: $500 application, $200 annual fee",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC hazardous waste transport licence new fees take effect",
+              "date": "2026-07-01"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 311,
+      "path": "2026/06/19/311_bc-gazette-part-ii_bc-reg-1002026-oic-2522026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n12_100-2026",
+      "article_title": "B.C. Reg. 100/2026 – OIC 252/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-06-19T07:00:00",
+      "created_at": "2026-08-19T16:46:21.951316",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Agriculture, Construction & Development, Natural Resources",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 2450,
+          "title": "B.C. updates Sustainable Environment Fund revenue rules, effective July 1, 2026",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "New Sustainable Environment Fund Regulation takes effect (BC)",
+              "date": "2026-07-01"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
     {
       "article_id": 304,
       "path": "2026/06/16/304_bc-gazette-part-ii_bc-reg-982026-m2372026.json",
@@ -16,7 +160,7 @@
       "created_at": "2026-08-12T18:11:00.668368",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -52,7 +196,7 @@
       "created_at": "2026-08-12T18:10:55.386535",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -88,7 +232,7 @@
       "created_at": "2026-08-12T18:10:51.079029",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -119,7 +263,7 @@
       "created_at": "2026-08-12T18:10:47.282929",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
