@@ -1,7 +1,190 @@
 {
-  "generated_at": "2026-08-19T16:46:46.632993+00:00",
-  "count": 78,
+  "generated_at": "2026-08-19T17:13:51.263272+00:00",
+  "count": 83,
   "articles": [
+    {
+      "article_id": 320,
+      "path": "2026/06/29/320_bc-gazette-part-ii_bc-reg-1092026-m2622026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n12_109-2026",
+      "article_title": "B.C. Reg. 109/2026 – M262/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-06-29T07:00:00",
+      "created_at": "2026-08-19T17:13:37.934200",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Professional Services",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 2458,
+          "title": "BC School Calendar Regulation updated for 2026/2027 Indigenous learning focus",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "Updated School Calendar Regulation takes effect (BC)",
+              "date": "2026-07-01"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 319,
+      "path": "2026/06/26/319_bc-gazette-part-ii_bc-reg-1082026-oic-2682026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n12_108-2026",
+      "article_title": "B.C. Reg. 108/2026 – OIC 268/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-06-26T07:00:00",
+      "created_at": "2026-08-19T17:13:33.934124",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Finance & Insurance, Professional Services",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 2457,
+          "title": "BC Children and Youth Disability Benefit payments exempt from income for assistance programs",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "First amendments to Employment and Assistance regulations take effect (BC)",
+              "date": "2026-07-01"
+            },
+            {
+              "label": "Second amendments to Employment and Assistance regulations take effect (BC)",
+              "date": "2026-08-01"
+            },
+            {
+              "label": "Third amendments to Employment and Assistance regulations take effect (BC)",
+              "date": "2027-04-01"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 318,
+      "path": "2026/06/26/318_bc-gazette-part-ii_bc-reg-1072026-oic-2672026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n12_107-2026",
+      "article_title": "B.C. Reg. 107/2026 – OIC 267/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-06-26T07:00:00",
+      "created_at": "2026-08-19T17:13:29.398493",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Professional Services",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 2456,
+          "title": "BC disability assistance now recognizes federal Indigenous Services designation",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC recognizes federal Indigenous Services disability designation takes effect",
+              "date": "2026-07-13"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 317,
+      "path": "2026/06/26/317_bc-gazette-part-ii_bc-reg-1062026-oic-2662026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n12_106-2026",
+      "article_title": "B.C. Reg. 106/2026 – OIC 266/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-06-26T07:00:00",
+      "created_at": "2026-08-19T17:13:25.372423",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Healthcare, Professional Services",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 2455,
+          "title": "BC correctional regulation updated to let inmates assist treatment providers",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 316,
+      "path": "2026/06/26/316_bc-gazette-part-ii_bc-reg-1052026-oic-2642026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n12_105-2026",
+      "article_title": "B.C. Reg. 105/2026 – OIC 264/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-06-26T07:00:00",
+      "created_at": "2026-08-19T17:13:21.986042",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Finance & Insurance, Natural Resources, Professional Services",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 2454,
+          "title": "BC court and tax appeal rules updated: applications now served before filing",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC Supreme Court and tax appeal rule changes take effect",
+              "date": "2026-10-01"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
     {
       "article_id": 314,
       "path": "2026/06/24/314_bc-gazette-part-ii_bc-reg-1032026-m2442026.json",
@@ -16,7 +199,7 @@
       "created_at": "2026-08-19T16:46:34.078157",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -52,7 +235,7 @@
       "created_at": "2026-08-19T16:46:29.753490",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -88,7 +271,7 @@
       "created_at": "2026-08-19T16:46:25.688376",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -124,7 +307,7 @@
       "created_at": "2026-08-19T16:46:21.951316",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
