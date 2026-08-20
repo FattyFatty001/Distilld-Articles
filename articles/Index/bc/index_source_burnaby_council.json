@@ -1,7 +1,258 @@
 {
-  "generated_at": "2026-08-14T16:20:49.276444+00:00",
-  "count": 40,
+  "generated_at": "2026-08-20T22:12:22.537366+00:00",
+  "count": 41,
   "articles": [
+    {
+      "article_id": 321,
+      "path": "2026/08/25/321_burnaby-council_city-council-meeting-august-25-2026.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=15c08ed8-26a1-4fae-ad76-0d9f8ce7aa19&lang=English",
+      "article_title": "City Council Meeting — August 25, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://burnaby.ca",
+      "meeting_type": "regular-council",
+      "article_published_at": "2026-08-25T07:00:00",
+      "created_at": "2026-08-20T22:12:15.008554",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": true,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 29,
+      "minutes_brief_count": 0,
+      "industries": "Construction & Development, Food Service, Landlord & Property Mgmt, Professional Services, Retail, Transportation & Logistics",
+      "locations": "British Columbia, Burnaby, Surrey, Vancouver",
+      "briefs": [
+        {
+          "id": 2487,
+          "title": "Proposed: Burnaby cancels Planning & Development Committee meeting Aug 31",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Proposed cancellation of Burnaby PDC meeting takes effect if approved",
+              "date": "2026-08-31"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2486,
+          "title": "Proposed: Burnaby Council cancels Sept 8 and Oct 13 meetings",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council vote on cancelling Sept 8 meeting",
+              "date": "2026-09-08"
+            },
+            {
+              "label": "Burnaby Council vote on cancelling Oct 13 meeting",
+              "date": "2026-10-13"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2485,
+          "title": "Proposed: Burnaby bylaw amendment on pay parking and EV charging enforcement",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2484,
+          "title": "Proposed: Burnaby council to vote on pay parking and EV charging fee changes",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2483,
+          "title": "Proposed: Burnaby pay parking and EV charging bylaw up for final adoption",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2482,
+          "title": "Proposed: Burnaby Density Bonus Reserve Fund Bylaw up for final adoption",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2481,
+          "title": "Proposed: Burnaby to vote on Lougheed Hwy site height and massing plan",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2480,
+          "title": "Proposed: Burnaby zoning change for 5-storey self-storage at Norland Avenue",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2479,
+          "title": "Proposed: Burnaby zoning change for 3 high-rise towers at Erickson Drive",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2478,
+          "title": "Proposed: Burnaby fee changes for January 2027 up for council vote",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Proposed Burnaby fee changes take effect (if approved)",
+              "date": "2027-01-01"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2477,
+          "title": "Proposed: Burnaby housing agreement for non-market rental at 4511 Juneau Street",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2476,
+          "title": "Proposed: Burnaby housing agreement for non-market rental at 4538 Dawson Street",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2475,
+          "title": "Proposed: Burnaby housing agreement for non-market rental at 4572 Dawson Street",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2474,
+          "title": "Proposed: Six-storey rental building zoning change at Sidley Street",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2473,
+          "title": "Council to consider mid-year update on open resolutions and bylaws",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2472,
+          "title": "Council to review July 2026 building permit activity report",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2471,
+          "title": "Council to consider: DAP Program moves to ongoing city operations",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2470,
+          "title": "Proposed: Burnaby Council to vote on tire supply contract renewal",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2469,
+          "title": "Proposed: Burnaby Council to vote on window cleaning contract renewal",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2468,
+          "title": "Council to vote on contract change for water service setters supply",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2467,
+          "title": "Council to consider contract change for special event tent rentals",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2466,
+          "title": "Council to vote on contract change for Royal Oak & Sunland watermain upgrades",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2465,
+          "title": "Council to vote on contract change for Burnaby Heights sewer separation",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2464,
+          "title": "Proposed: Burnaby Council to vote on janitorial supplies contract award",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2463,
+          "title": "Proposed: Burnaby Council to vote on contract for surplus excavated materials disposal",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2462,
+          "title": "Proposed: Burnaby Council to vote on Swangard Stadium LED lighting contract",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2461,
+          "title": "Council to consider comment letter on Metro 2050 amendment for Molson Site",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2460,
+          "title": "Proposed: Burnaby Council to weigh comment on Surrey Metro 2050 amendment",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2459,
+          "title": "Proposed: Burnaby fee changes to take effect January 1, 2027",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Proposed Burnaby fee changes take effect",
+              "date": "2027-01-01"
+            }
+          ],
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 287,
       "path": "2026/08/11/287_burnaby-council_council-correspondence-and-public-notice-submissio.json",
@@ -650,7 +901,7 @@
       "created_at": "2026-08-14T16:20:41.898032",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": true,
       "has_minutes": true,
       "agenda_brief_count": 28,
