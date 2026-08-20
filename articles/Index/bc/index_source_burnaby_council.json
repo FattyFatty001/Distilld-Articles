@@ -1,7 +1,200 @@
 {
-  "generated_at": "2026-08-20T22:12:22.537366+00:00",
-  "count": 41,
+  "generated_at": "2026-08-20T22:40:07.600140+00:00",
+  "count": 42,
   "articles": [
+    {
+      "article_id": 322,
+      "path": "2026/08/25/322_burnaby-council_council-correspondence-and-public-notice-submissio.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=0930d81b-fcca-4d94-b6b5-188627a85bc9&lang=English",
+      "article_title": "Council Correspondence and Public Notice Submissions — August 25, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://burnaby.ca",
+      "meeting_type": "correspondence",
+      "article_published_at": "2026-08-25T07:00:00",
+      "created_at": "2026-08-20T22:40:00.191445",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": true,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 22,
+      "minutes_brief_count": 0,
+      "industries": "Agriculture, Construction & Development, Food Service, Hotel & Accommodation, Labour & Employment, Landlord & Property Mgmt, Natural Resources, Professional Services, Retail, Spa & Wellness, Transportation & Logistics",
+      "locations": "British Columbia, Burnaby, New Westminster",
+      "briefs": [
+        {
+          "id": 2509,
+          "title": "Proposed: Burnaby rezoning at 5168-5192 Sidley Street",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby REZ #26-07 Council First and Second Reading meeting",
+              "date": "2026-08-25"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2508,
+          "title": "Council to consider R1 SSMUH concerns from P. Lynn Johnson",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2507,
+          "title": "Council to consider old SSMUH permits and October 14 reporting gap",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2506,
+          "title": "Council to consider Jim Lorimer Park correspondence for information",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2505,
+          "title": "Proposed: Burnaby 'Density Without Demolition' framework under review",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2504,
+          "title": "Council to consider: one elevator for 48-storey Metrotown tower",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2503,
+          "title": "Proposed: Burnaby Parking Enforcement Bylaw update for information",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2502,
+          "title": "Proposed: Burnaby to consider anti-human trafficking initiative at UBCM",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2501,
+          "title": "Proposed: Council to consider 2026 National Forest Week proclamation",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "2026 National Forest Week proclamation period begins",
+              "date": "2026-09-20"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2500,
+          "title": "Council to consider airplane noise complaints over North Burnaby",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2499,
+          "title": "Council to consider climate action funding support letters for Salmon Arm and Slocan",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2498,
+          "title": "Proposed: New Westminster letter on North Shore Wastewater Treatment Plant",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2497,
+          "title": "Council to consider LGCAP funding response from BC Ministry",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "LGCAP funding confirmed through this date",
+              "date": "2027-03-31"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2496,
+          "title": "Proposed: Metro Vancouver Housing Data Dashboard launch and 2026 update",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2495,
+          "title": "Proposed: Metro Vancouver Board to consider July 24, 2026 agenda items",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2494,
+          "title": "Proposed: Burnaby Council to refer 'Safer Streets in the Heights' to Public Safety Committee",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2493,
+          "title": "Council to consider urban Canada goose management pilot",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2492,
+          "title": "Proposed: Montecito Park dog park conversion referred to Parks Committee",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2491,
+          "title": "Proposed: MacPherson Outdoor Pool correspondence sent to Parks Committee",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2490,
+          "title": "Proposed: Burnaby to repair closed Dawson Street sidewalk",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2489,
+          "title": "Council to consider road safety review for Lougheed Town Centre",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2488,
+          "title": "Proposed: Burnaby to review Pender St. traffic calming petition",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 321,
       "path": "2026/08/25/321_burnaby-council_city-council-meeting-august-25-2026.json",
@@ -16,7 +209,7 @@
       "created_at": "2026-08-20T22:12:15.008554",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": true,
       "has_minutes": false,
       "agenda_brief_count": 29,
