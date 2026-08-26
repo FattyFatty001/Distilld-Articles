@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T22:40:07.600140+00:00",
+  "generated_at": "2026-08-26T17:41:44.094037+00:00",
   "count": 42,
   "articles": [
     {
@@ -16,7 +16,7 @@
       "created_at": "2026-08-20T22:40:00.191445",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": true,
       "has_minutes": false,
       "agenda_brief_count": 22,
@@ -574,126 +574,6 @@
       ]
     },
     {
-      "article_id": 281,
-      "path": "2026/07/28/281_burnaby-council_council-correspondence-and-public-notice-submissio.json",
-      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=396a0fa5-fa9e-46ba-8973-46344ba745bf&lang=English",
-      "article_title": "Council Correspondence and Public Notice Submissions — July 28, 2026",
-      "source": "burnaby_council",
-      "source_label": "Burnaby Council",
-      "government_level": "Municipal",
-      "source_website_icon": "https://burnaby.ca",
-      "meeting_type": "correspondence",
-      "article_published_at": "2026-07-28T07:00:00",
-      "created_at": "2026-07-28T15:25:46.063669",
-      "has_attachments": true,
-      "has_pdf": true,
-      "has_html": false,
-      "has_agenda": true,
-      "has_minutes": false,
-      "agenda_brief_count": 13,
-      "minutes_brief_count": 0,
-      "industries": "Agriculture, Construction & Development, Food Service, Hotel & Accommodation, Landlord & Property Mgmt, Professional Services, Retail, Transportation & Logistics",
-      "locations": "British Columbia, Burnaby",
-      "briefs": [
-        {
-          "id": 2198,
-          "title": "Proposed: TUP 26-04 at Lougheed Highway and Blackbird Boulevard",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 2051,
-          "title": "Proposed: Council to review Burnaby's 90-night short-term rental limit",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 2050,
-          "title": "Proposed: Burnaby Council to consider stronger heat protections",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 2049,
-          "title": "Council to consider aircraft noise complaints over North Burnaby",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 2048,
-          "title": "Proposed: Lake Cowichan 'Elect Respect' campaign under consideration",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 2047,
-          "title": "Proposed: Central Okanagan climate action program funding continuation",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 2046,
-          "title": "Proposed: Merritt bylaw update on releasing pigeons",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 2045,
-          "title": "Proposed: Burnaby to respond to BC housing targets progress report",
-          "source_label": "Burnaby Council",
-          "key_dates": [
-            {
-              "label": "Burnaby first annual housing targets report due",
-              "date": "2026-12-15"
-            }
-          ],
-          "is_proposal": true
-        },
-        {
-          "id": 2044,
-          "title": "Proposed: Metro Vancouver board decisions for June 2026",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 2043,
-          "title": "Proposed: Regional micro-mobility share network under consideration",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 2042,
-          "title": "Proposed: Burnaby to address bus-bike lane conflict on 145 route",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 2041,
-          "title": "Proposed: Burnaby North Road BIA grant request up for council vote",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 2040,
-          "title": "Proposed: Council to consider traffic concerns in Brentwood area",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        }
-      ]
-    },
-    {
       "article_id": 275,
       "path": "2026/07/28/275_burnaby-council_city-council-meeting-july-28-2026.json",
       "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=76ebb2fd-b786-4414-8064-7ab8601438df&lang=English",
@@ -704,16 +584,16 @@
       "source_website_icon": "https://burnaby.ca",
       "meeting_type": "regular-council",
       "article_published_at": "2026-07-28T07:00:00",
-      "created_at": "2026-07-23T19:30:11.171384",
+      "created_at": "2026-08-26T17:41:36.268841",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": false,
+      "has_html": true,
       "has_agenda": true,
-      "has_minutes": false,
+      "has_minutes": true,
       "agenda_brief_count": 34,
-      "minutes_brief_count": 0,
-      "industries": "Construction & Development, Food Service, Hotel & Accommodation, Labour & Employment, Landlord & Property Mgmt, Professional Services, Retail, Technology, Transportation & Logistics",
-      "locations": "Burnaby, Richmond, Vancouver",
+      "minutes_brief_count": 35,
+      "industries": "Construction & Development, Food Service, Hotel & Accommodation, Labour & Employment, Landlord & Property Mgmt, Liquor, Professional Services, Retail, Technology, Tenant, Transportation & Logistics",
+      "locations": "British Columbia, Burnaby, Richmond, Vancouver",
       "briefs": [
         {
           "id": 2039,
@@ -949,6 +829,371 @@
         {
           "id": 2006,
           "title": "Proposed: New Burnaby Pay Parking and EV Charging Bylaw",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2544,
+          "title": "Council approved 'Cameron Community Centre and Library' name for rebuilt facility",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2543,
+          "title": "[NOT REACHED] Council did not vote on Burnaby housing agreement for 6887 Palm Avenue",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2542,
+          "title": "Council did not adopt Burnaby Amenity Cost Charges Bylaw amendment",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2541,
+          "title": "[NOT REACHED] Council did not vote on Burnaby 26-storey tower rezoning",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2540,
+          "title": "Council did not decide on Burnaby pay parking and EV charging bylaw amendment",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2539,
+          "title": "[NOT REACHED] Council did not vote on Burnaby pay parking and EV charging fee bylaw amendment",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2538,
+          "title": "[NOT REACHED] Council did not vote on Burnaby Pay Parking and EV Charging Bylaw 2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2537,
+          "title": "Council did not vote on Burnaby Density Bonus Reserve Fund Bylaw",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2536,
+          "title": "[NOT REACHED] Council did not vote on Burnaby Greenford Ave rezoning amendment",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2535,
+          "title": "[INFO ONLY] Council received update on Learn to Swim Pilot Program",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2534,
+          "title": "[INFO ONLY] Council received overview of Burnaby event permit improvements",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2533,
+          "title": "Council received update on Burnaby's HOME housing strategy progress",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2532,
+          "title": "[INFO ONLY] Council reviewed Burnaby's financial report for Period 05 2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2531,
+          "title": "Council received status update on significant civic projects",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2530,
+          "title": "[INFO ONLY] Council received update on major Burnaby engineering projects",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2529,
+          "title": "[INFO ONLY] Council received status update on IT initiatives for April–June 2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2528,
+          "title": "[INFO ONLY] Council received overview of Burnaby Community Schools services",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2527,
+          "title": "Council received June 2026 building permit activity report",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2526,
+          "title": "Council received update on Burnaby lifeguard training pilot with SD41",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2525,
+          "title": "[INFO ONLY] Council received update on proposed YVR airport zoning regulation changes",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2524,
+          "title": "Council did not vote on Wayburne Drive rezoning for low-rise multi-family with childcare",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2523,
+          "title": "Council did not decide on Burnaby child care capital grant",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2522,
+          "title": "Council did not decide on new child care centre licence agreements",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2521,
+          "title": "Council did not decide on electrical engineering contract change",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2520,
+          "title": "[NOT REACHED] Council did not vote on Lewarne Park playground contract award",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2519,
+          "title": "[NOT REACHED] Council did not vote on Bonsor Recreation Complex roof replacement contract",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2518,
+          "title": "Council did not vote on Burnaby server support contract award",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2517,
+          "title": "[NOT REACHED] Council did not vote on Kensington Complex roof contract",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2516,
+          "title": "Council did not vote on Boundary Road repaving contract award",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2515,
+          "title": "Council did not decide on Irmin and Watling sidewalk contract award",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2514,
+          "title": "[NOT REACHED] Council did not vote on Temporary Use Permit for Lougheed Hwy parking and works yard",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2513,
+          "title": "[NOT REACHED] Council did not vote on Sidley Street rental rezoning",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2512,
+          "title": "Council did not decide on Burnaby density bonus reserve fund",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2511,
+          "title": "[NOT REACHED] Council did not vote on proposed Burnaby pay parking bylaw",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2510,
+          "title": "Council upholds cancellation of The Real Benzx Lounge Inc. business licence",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 281,
+      "path": "2026/07/28/281_burnaby-council_council-correspondence-and-public-notice-submissio.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=396a0fa5-fa9e-46ba-8973-46344ba745bf&lang=English",
+      "article_title": "Council Correspondence and Public Notice Submissions — July 28, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://burnaby.ca",
+      "meeting_type": "correspondence",
+      "article_published_at": "2026-07-28T07:00:00",
+      "created_at": "2026-07-28T15:25:46.063669",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": false,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 13,
+      "minutes_brief_count": 0,
+      "industries": "Agriculture, Construction & Development, Food Service, Hotel & Accommodation, Landlord & Property Mgmt, Professional Services, Retail, Transportation & Logistics",
+      "locations": "British Columbia, Burnaby",
+      "briefs": [
+        {
+          "id": 2198,
+          "title": "Proposed: TUP 26-04 at Lougheed Highway and Blackbird Boulevard",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2051,
+          "title": "Proposed: Council to review Burnaby's 90-night short-term rental limit",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2050,
+          "title": "Proposed: Burnaby Council to consider stronger heat protections",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2049,
+          "title": "Council to consider aircraft noise complaints over North Burnaby",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2048,
+          "title": "Proposed: Lake Cowichan 'Elect Respect' campaign under consideration",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2047,
+          "title": "Proposed: Central Okanagan climate action program funding continuation",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2046,
+          "title": "Proposed: Merritt bylaw update on releasing pigeons",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2045,
+          "title": "Proposed: Burnaby to respond to BC housing targets progress report",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby first annual housing targets report due",
+              "date": "2026-12-15"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2044,
+          "title": "Proposed: Metro Vancouver board decisions for June 2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2043,
+          "title": "Proposed: Regional micro-mobility share network under consideration",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2042,
+          "title": "Proposed: Burnaby to address bus-bike lane conflict on 145 route",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2041,
+          "title": "Proposed: Burnaby North Road BIA grant request up for council vote",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2040,
+          "title": "Proposed: Council to consider traffic concerns in Brentwood area",
           "source_label": "Burnaby Council",
           "key_dates": [],
           "is_proposal": true
