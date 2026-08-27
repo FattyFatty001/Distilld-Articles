@@ -1,7 +1,38 @@
 {
-  "generated_at": "2026-08-14T09:00:03.587647+00:00",
-  "count": 30,
+  "generated_at": "2026-08-27T09:27:07.095014+00:00",
+  "count": 31,
   "articles": [
+    {
+      "article_id": 325,
+      "path": "2026/08/25/325_burnaby-bylaws_bylaw-14842-pay-parking-and-electric-vehicle-charg.json",
+      "article_url": "https://bylaws.burnaby.ca/en/permalink/bylaw26164",
+      "article_title": "Bylaw 14842 — Pay Parking and Electric Vehicle Charging Bylaw 2026",
+      "source": "burnaby_bylaws",
+      "source_label": "Burnaby Bylaws",
+      "government_level": "Municipal",
+      "source_website_icon": "https://bylaws.burnaby.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-08-25T07:00:00",
+      "created_at": "2026-08-27T09:26:59.346342",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Professional Services, Retail, Transportation & Logistics",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 2545,
+          "title": "Burnaby's new pay parking and EV charging bylaw gives City power to set rates and tow violators",
+          "source_label": "Burnaby Bylaws",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
     {
       "article_id": 284,
       "path": "2026/07/28/284_burnaby-bylaws_bylaw-14841-housing-agreement-6887-palm-avenue-byl.json",
@@ -381,7 +412,7 @@
       "created_at": "2026-08-14T08:59:57.218788",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
