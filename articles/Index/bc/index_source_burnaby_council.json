@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-08-26T17:41:44.094037+00:00",
-  "count": 42,
+  "generated_at": "2026-08-28T18:34:40.023794+00:00",
+  "count": 43,
   "articles": [
+    {
+      "article_id": 328,
+      "path": "2026/09/01/328_burnaby-council_financial-management-committee-meeting-september-0.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=70635fe1-6098-48ae-bfb2-0b3d4f30d5f9&lang=English",
+      "article_title": "Financial Management Committee Meeting — September 01, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://burnaby.ca",
+      "meeting_type": "financial",
+      "article_published_at": "2026-09-01T07:00:00",
+      "created_at": "2026-08-28T18:34:32.956588",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": true,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 1,
+      "minutes_brief_count": 0,
+      "industries": "Construction & Development, Food Service, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 2548,
+          "title": "Council to consider: status update on Burnaby civic projects",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council receives significant civic projects status update",
+              "date": "2026-09-01"
+            },
+            {
+              "label": "Mintara Restaurant patio expansion handover to PRC",
+              "date": "2026-09-30"
+            },
+            {
+              "label": "Shadbolt Centre handover to PRC (moved up from Q1 2027)",
+              "date": "2026-12-31"
+            },
+            {
+              "label": "Burnaby Lake Recreation Centre handover to PRC",
+              "date": "2028-03-31"
+            }
+          ],
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 322,
       "path": "2026/08/25/322_burnaby-council_council-correspondence-and-public-notice-submissio.json",
@@ -587,7 +635,7 @@
       "created_at": "2026-08-26T17:41:36.268841",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": true,
       "has_minutes": true,
       "agenda_brief_count": 34,
