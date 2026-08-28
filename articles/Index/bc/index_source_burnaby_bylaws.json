@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-08-28T09:00:08.185415+00:00",
-  "count": 32,
+  "generated_at": "2026-08-28T09:27:08.096490+00:00",
+  "count": 33,
   "articles": [
+    {
+      "article_id": 327,
+      "path": "2026/08/25/327_burnaby-bylaws_bylaw-14803-zoning-bylaw-2026-amendment-bylaw-no-3.json",
+      "article_url": "https://bylaws.burnaby.ca/en/permalink/bylaw26114",
+      "article_title": "Bylaw 14803 — Zoning Bylaw 2026, Amendment Bylaw No. 3, 2026",
+      "source": "burnaby_bylaws",
+      "source_label": "Burnaby Bylaws",
+      "government_level": "Municipal",
+      "source_website_icon": "https://bylaws.burnaby.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-08-25T07:00:00",
+      "created_at": "2026-08-28T09:27:01.152690",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 2547,
+          "title": "Burnaby rezones BLAKE Village lands, amending zoning and development plans",
+          "source_label": "Burnaby Bylaws",
+          "key_dates": [
+            {
+              "label": "Bylaw 14803 adopted, zoning changes take effect",
+              "date": "2026-08-25"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
     {
       "article_id": 326,
       "path": "2026/08/25/326_burnaby-bylaws_bylaw-14840-density-bonus-reserve-fund-bylaw.json",
@@ -16,7 +52,7 @@
       "created_at": "2026-08-28T09:00:01.557768",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
