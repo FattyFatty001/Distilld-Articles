@@ -1,7 +1,38 @@
 {
-  "generated_at": "2026-08-27T09:27:07.095014+00:00",
-  "count": 31,
+  "generated_at": "2026-08-28T09:00:08.185415+00:00",
+  "count": 32,
   "articles": [
+    {
+      "article_id": 326,
+      "path": "2026/08/25/326_burnaby-bylaws_bylaw-14840-density-bonus-reserve-fund-bylaw.json",
+      "article_url": "https://bylaws.burnaby.ca/en/permalink/bylaw26169",
+      "article_title": "Bylaw 14840 — Density Bonus Reserve Fund Bylaw",
+      "source": "burnaby_bylaws",
+      "source_label": "Burnaby Bylaws",
+      "government_level": "Municipal",
+      "source_website_icon": "https://bylaws.burnaby.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-08-25T07:00:00",
+      "created_at": "2026-08-28T09:00:01.557768",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 2546,
+          "title": "Burnaby creates Density Bonus Reserve Fund for developer amenity payments",
+          "source_label": "Burnaby Bylaws",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
     {
       "article_id": 325,
       "path": "2026/08/25/325_burnaby-bylaws_bylaw-14842-pay-parking-and-electric-vehicle-charg.json",
@@ -16,7 +47,7 @@
       "created_at": "2026-08-27T09:26:59.346342",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
