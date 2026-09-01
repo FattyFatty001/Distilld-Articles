@@ -1,7 +1,105 @@
 {
-  "generated_at": "2026-09-01T19:29:17.006656+00:00",
-  "count": 93,
+  "generated_at": "2026-09-01T19:55:54.666714+00:00",
+  "count": 96,
   "articles": [
+    {
+      "article_id": 348,
+      "path": "2026/07/13/348_bc-gazette-part-ii_bc-reg-1242026-oic-3262026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n13_124-2026",
+      "article_title": "B.C. Reg. 124/2026 – OIC 326/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-07-13T07:00:00",
+      "created_at": "2026-09-01T19:55:43.346957",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Natural Resources",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 2574,
+          "title": "New Category 5 for Custom Cutters and Processors under BC Timber Sales Regulation",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 347,
+      "path": "2026/07/10/347_bc-gazette-part-ii_bc-reg-1232026-oic-2982026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n13_123-2026",
+      "article_title": "B.C. Reg. 123/2026 – OIC 298/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-07-10T07:00:00",
+      "created_at": "2026-09-01T19:55:40.018490",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Natural Resources",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 2573,
+          "title": "BC exempts independent power producers from utility regulation when selling to Fortis",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC Utilities Commission must issue exemption for independent power producers",
+              "date": "2026-07-24"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 346,
+      "path": "2026/07/10/346_bc-gazette-part-ii_bc-reg-1222026-oic-2992026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n13_122-2026",
+      "article_title": "B.C. Reg. 122/2026 – OIC 299/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-07-10T07:00:00",
+      "created_at": "2026-09-01T19:55:36.770812",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development, Natural Resources",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 2572,
+          "title": "Nass Valley Transmission Line added to BC streamlined permitting program",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
     {
       "article_id": 345,
       "path": "2026/07/10/345_bc-gazette-part-ii_bc-reg-1212026-oic-3032026.json",
@@ -16,7 +114,7 @@
       "created_at": "2026-09-01T19:29:01.818765",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -47,7 +145,7 @@
       "created_at": "2026-09-01T19:28:56.000846",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -87,7 +185,7 @@
       "created_at": "2026-09-01T19:28:50.497558",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -127,7 +225,7 @@
       "created_at": "2026-09-01T19:28:44.463453",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -163,7 +261,7 @@
       "created_at": "2026-09-01T19:28:38.897483",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
