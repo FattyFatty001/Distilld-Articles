@@ -1,7 +1,190 @@
 {
-  "generated_at": "2026-09-01T19:02:11.703945+00:00",
-  "count": 88,
+  "generated_at": "2026-09-01T19:29:17.006656+00:00",
+  "count": 93,
   "articles": [
+    {
+      "article_id": 345,
+      "path": "2026/07/10/345_bc-gazette-part-ii_bc-reg-1212026-oic-3032026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n13_121-2026",
+      "article_title": "B.C. Reg. 121/2026 – OIC 303/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-07-10T07:00:00",
+      "created_at": "2026-09-01T19:29:01.818765",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Healthcare, Labour & Employment",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 2571,
+          "title": "BC removes five employers from health and social services labour regulations",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 344,
+      "path": "2026/07/10/344_bc-gazette-part-ii_bc-reg-1202026-oic-3032026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n13_120-2026",
+      "article_title": "B.C. Reg. 120/2026 – OIC 303/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-07-10T07:00:00",
+      "created_at": "2026-09-01T19:28:56.000846",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Hotel & Accommodation",
+      "locations": "British Columbia, Vancouver",
+      "briefs": [
+        {
+          "id": 2570,
+          "title": "Vancouver accommodation tax extended to 2031 — no action needed now",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "Vancouver accommodation tax extension takes effect (replaces 2026 expiry)",
+              "date": "2026-08-01"
+            },
+            {
+              "label": "Vancouver accommodation tax now set to expire",
+              "date": "2031-08-01"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 343,
+      "path": "2026/07/10/343_bc-gazette-part-ii_bc-reg-1192026-oic-3132026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n13_119-2026",
+      "article_title": "B.C. Reg. 119/2026 – OIC 313/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-07-10T07:00:00",
+      "created_at": "2026-09-01T19:28:50.497558",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development, Food Service, Retail",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 2569,
+          "title": "New BC ticket forms for offences and federal contraventions take effect August 14, 2026",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "New BC offence and contravention forms take effect",
+              "date": "2026-08-14"
+            },
+            {
+              "label": "Further BC offence and contravention forms take effect",
+              "date": "2029-01-01"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 342,
+      "path": "2026/07/10/342_bc-gazette-part-ii_bc-reg-1182026-oic-3012026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n13_118-2026",
+      "article_title": "B.C. Reg. 118/2026 – OIC 301/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-07-10T07:00:00",
+      "created_at": "2026-09-01T19:28:44.463453",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Natural Resources",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 2568,
+          "title": "BC updates Natural Gas Tax Credit rules for LNG Canada feedstock",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "Natural Gas Tax Credit Regulation amendment takes effect (retroactive to June 1, 2025)",
+              "date": "2025-06-01"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 341,
+      "path": "2026/07/10/341_bc-gazette-part-ii_bc-reg-1172026-oic-3022026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n13_117-2026",
+      "article_title": "B.C. Reg. 117/2026 – OIC 302/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-07-10T07:00:00",
+      "created_at": "2026-09-01T19:28:38.897483",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Landlord & Property Mgmt, Professional Services",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 2567,
+          "title": "BC Home Owner Grant rules updated: veterans supplement calculation changes take effect Jan 1, 2027",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC Home Owner Grant Regulation amendments take effect",
+              "date": "2027-01-01"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
     {
       "article_id": 338,
       "path": "2026/07/09/338_bc-gazette-part-ii_bc-reg-1142026-oic-2952026.json",
@@ -16,7 +199,7 @@
       "created_at": "2026-09-01T19:01:55.396050",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -52,7 +235,7 @@
       "created_at": "2026-09-01T19:01:50.333220",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -92,7 +275,7 @@
       "created_at": "2026-09-01T19:01:44.918502",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -128,7 +311,7 @@
       "created_at": "2026-09-01T19:01:39.825026",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -164,7 +347,7 @@
       "created_at": "2026-09-01T19:01:34.246736",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
