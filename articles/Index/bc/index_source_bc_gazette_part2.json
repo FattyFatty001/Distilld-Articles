@@ -1,7 +1,191 @@
 {
-  "generated_at": "2026-08-19T17:13:51.263272+00:00",
-  "count": 83,
+  "generated_at": "2026-09-01T19:02:11.703945+00:00",
+  "count": 88,
   "articles": [
+    {
+      "article_id": 338,
+      "path": "2026/07/09/338_bc-gazette-part-ii_bc-reg-1142026-oic-2952026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n13_114-2026",
+      "article_title": "B.C. Reg. 114/2026 – OIC 295/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-07-09T07:00:00",
+      "created_at": "2026-09-01T19:01:55.396050",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Finance & Insurance, Professional Services",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 2566,
+          "title": "BC PST exemption for legal and accounting services tied to other jurisdictions takes effect Oct 1",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC PST exemption for out-of-province legal and accounting services takes effect",
+              "date": "2026-10-01"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 337,
+      "path": "2026/07/09/337_bc-gazette-part-ii_bc-reg-1132026-oic-2932026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n13_113-2026",
+      "article_title": "B.C. Reg. 113/2026 – OIC 293/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-07-09T07:00:00",
+      "created_at": "2026-09-01T19:01:50.333220",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Professional Services, Retail",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 2565,
+          "title": "PST exemption ends for dry-cleaning, laundry, and related services on clothing and footwear in BC",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "PST on clothing/footwear related services takes effect (BC)",
+              "date": "2026-10-01"
+            },
+            {
+              "label": "PST on dry-cleaning and laundry services takes effect (BC)",
+              "date": "2027-06-01"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 336,
+      "path": "2026/07/09/336_bc-gazette-part-ii_bc-reg-1122026-oic-2942026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n13_112-2026",
+      "article_title": "B.C. Reg. 112/2026 – OIC 294/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-07-09T07:00:00",
+      "created_at": "2026-09-01T19:01:44.918502",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Retail, Transportation & Logistics",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 2564,
+          "title": "PST exemption expanded for goods bought in BC and shipped out of province for business use",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC PST exemption for out-of-province business goods takes effect",
+              "date": "2026-02-18"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 335,
+      "path": "2026/07/06/335_bc-gazette-part-ii_bc-reg-1112026-m2682026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n13_111-2026",
+      "article_title": "B.C. Reg. 111/2026 – M268/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-07-06T07:00:00",
+      "created_at": "2026-09-01T19:01:39.825026",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 2563,
+          "title": "Tower crane operator certification scope of work takes effect July 5, 2027 in BC",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "Tower crane operator certification scope of work takes effect (BC)",
+              "date": "2027-07-05"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 334,
+      "path": "2026/07/06/334_bc-gazette-part-ii_bc-reg-1102026-oic-2092026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n13_110-2026",
+      "article_title": "B.C. Reg. 110/2026 – OIC 209/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-07-06T07:00:00",
+      "created_at": "2026-09-01T19:01:34.246736",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development, Labour & Employment",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 2562,
+          "title": "New BC skilled trades certification trades announced, effective July 5, 2027",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "New skilled trades certification trades take effect (BC)",
+              "date": "2027-07-05"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
     {
       "article_id": 320,
       "path": "2026/06/29/320_bc-gazette-part-ii_bc-reg-1092026-m2622026.json",
@@ -16,7 +200,7 @@
       "created_at": "2026-08-19T17:13:37.934200",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -52,7 +236,7 @@
       "created_at": "2026-08-19T17:13:33.934124",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -96,7 +280,7 @@
       "created_at": "2026-08-19T17:13:29.398493",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -132,7 +316,7 @@
       "created_at": "2026-08-19T17:13:25.372423",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -163,7 +347,7 @@
       "created_at": "2026-08-19T17:13:21.986042",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
