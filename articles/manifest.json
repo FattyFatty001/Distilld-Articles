@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-03T19:57:13.938875+00:00",
+  "generated_at": "2026-09-04T19:01:50.095307+00:00",
   "sources": {
     "burnaby_council": {
-      "generated_at": "2026-09-03T19:57:13.938875+00:00",
-      "count": 46,
+      "generated_at": "2026-09-04T19:01:50.095307+00:00",
+      "count": 47,
       "locations": "Abbotsford, British Columbia, Burnaby, Canada, Coquitlam, Delta, Langley, Maple Ridge, Metro Vancouver, New Westminster, North Vancouver, Port Coquitlam, Port Moody, Richmond, Surrey, Vancouver, Victoria",
       "meeting_types": [
         "access",
@@ -24,14 +24,14 @@
       "index_path": "Index/bc/index_source_burnaby_council.json"
     },
     "burnaby_bylaws": {
-      "generated_at": "2026-09-03T19:57:13.938875+00:00",
+      "generated_at": "2026-09-04T19:01:50.095307+00:00",
       "count": 34,
       "locations": "Burnaby",
       "meeting_types": null,
       "index_path": "Index/bc/index_source_burnaby_bylaws.json"
     },
     "vancouver_council": {
-      "generated_at": "2026-09-03T19:57:13.938875+00:00",
+      "generated_at": "2026-09-04T19:01:50.095307+00:00",
       "count": 12,
       "locations": "British Columbia, Burnaby, Delta, Langley, Manitoba, Metro Vancouver, New Westminster, Ontario, Richmond, Surrey, Vancouver, Victoria",
       "meeting_types": [
@@ -41,21 +41,21 @@
       "index_path": "Index/bc/index_source_vancouver_council.json"
     },
     "richmond_council": {
-      "generated_at": "2026-09-03T19:57:13.938875+00:00",
+      "generated_at": "2026-09-04T19:01:50.095307+00:00",
       "count": 14,
       "locations": "British Columbia, Canada, Richmond",
       "meeting_types": null,
       "index_path": "Index/bc/index_source_richmond_council.json"
     },
     "bc_gazette_part2": {
-      "generated_at": "2026-09-03T19:57:13.938875+00:00",
+      "generated_at": "2026-09-04T19:01:50.095307+00:00",
       "count": 96,
       "locations": "British Columbia, Surrey, Vancouver, Victoria",
       "meeting_types": null,
       "index_path": "Index/bc/index_source_bc_gazette_part2.json"
     },
     "liquor_bulletins": {
-      "generated_at": "2026-09-03T19:57:13.938875+00:00",
+      "generated_at": "2026-09-04T19:01:50.095307+00:00",
       "count": 31,
       "locations": "British Columbia",
       "meeting_types": null,
