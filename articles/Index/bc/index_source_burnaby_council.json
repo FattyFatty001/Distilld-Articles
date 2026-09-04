@@ -1,7 +1,59 @@
 {
-  "generated_at": "2026-09-03T19:57:13.938875+00:00",
-  "count": 46,
+  "generated_at": "2026-09-04T19:01:50.095307+00:00",
+  "count": 47,
   "articles": [
+    {
+      "article_id": 352,
+      "path": "2026/09/09/352_burnaby-council_access-advisory-committee-meeting-september-09-202.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=35c23bd7-4bc3-464d-bf97-526ad3b4271c&lang=English",
+      "article_title": "Access Advisory Committee Meeting — September 09, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://burnaby.ca",
+      "meeting_type": "access",
+      "article_published_at": "2026-09-09T07:00:00",
+      "created_at": "2026-09-04T19:01:42.098061",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": true,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 4,
+      "minutes_brief_count": 0,
+      "industries": "Food Service, Healthcare, Professional Services, Retail",
+      "locations": "Burnaby, Canada",
+      "briefs": [
+        {
+          "id": 2595,
+          "title": "Council to consider DeafBlind communication access for aging population",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2594,
+          "title": "Proposed: Federal wildfire evacuation plan for Canadians with disabilities",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2593,
+          "title": "Council to consider Accessibility Feedback Form reporting for June–August 2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2592,
+          "title": "Council to consider accessible ballot marking equipment demonstration",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 350,
       "path": "2026/09/08/350_burnaby-council_council-correspondence-and-public-notice-submissio.json",
@@ -16,7 +68,7 @@
       "created_at": "2026-09-03T19:57:05.616010",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": true,
       "has_minutes": false,
       "agenda_brief_count": 17,
