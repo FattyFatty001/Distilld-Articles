@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-08-17T18:38:41.016901+00:00",
-  "count": 12,
+  "generated_at": "2026-09-10T00:02:17.804986+00:00",
+  "count": 13,
   "articles": [
+    {
+      "article_id": 354,
+      "path": "2026/09/10/354_vancouver-council_special-council-september-10-2026.json",
+      "article_url": "https://council.vancouver.ca/20260910/spec20260910ag.htm",
+      "article_title": "Special Council — September 10, 2026",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://vancouver.ca",
+      "meeting_type": "special-council",
+      "article_published_at": "2026-09-10T07:00:00",
+      "created_at": "2026-09-10T00:02:10.368032",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": true,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 1,
+      "minutes_brief_count": 0,
+      "industries": "Landlord & Property Mgmt",
+      "locations": "Vancouver",
+      "briefs": [
+        {
+          "id": 2596,
+          "title": "Proposed: Vancouver 2027 by-law sets interest rate on overdue property taxes",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Vancouver special council meeting to vote on 2027 property tax interest by-law",
+              "date": "2026-09-10"
+            }
+          ],
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 309,
       "path": "2026/08/14/309_vancouver-council_special-council-august-14-2026.json",
@@ -16,7 +52,7 @@
       "created_at": "2026-08-17T18:38:34.732544",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": true,
       "has_minutes": true,
       "agenda_brief_count": 1,
