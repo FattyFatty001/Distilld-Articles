@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T20:50:00.932349+00:00",
+  "generated_at": "2026-09-16T23:06:24.867216+00:00",
   "count": 15,
   "articles": [
     {
@@ -452,7 +452,7 @@
       "created_at": "2026-09-16T20:49:54.075457",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": true,
       "has_minutes": true,
       "agenda_brief_count": 1,
@@ -1449,8 +1449,8 @@
       ]
     },
     {
-      "article_id": 127,
-      "path": "2026/06/23/127_richmond-council_city-council.json",
+      "article_id": 358,
+      "path": "2026/06/23/358_richmond-council_city-council.json",
       "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=d8d417c0-669a-4097-8bd9-20a87f1ffe46&lang=English",
       "article_title": "City Council",
       "source": "richmond_council",
@@ -1458,16 +1458,16 @@
       "government_level": "Municipal",
       "source_website_icon": "https://www.richmond.ca",
       "meeting_type": null,
-      "article_published_at": "2026-06-23T00:00:00",
-      "created_at": "2026-06-23T07:06:11.451729",
+      "article_published_at": "2026-06-23T07:00:00",
+      "created_at": "2026-09-16T23:06:17.168066",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": false,
+      "has_html": true,
       "has_agenda": true,
-      "has_minutes": false,
+      "has_minutes": true,
       "agenda_brief_count": 32,
-      "minutes_brief_count": 0,
-      "industries": "Construction & Development, Finance & Insurance, Food Service, Healthcare, Hotel & Accommodation, Labour & Employment, Landlord & Property Mgmt, Natural Resources, Professional Services, Retail, Transportation & Logistics",
+      "minutes_brief_count": 32,
+      "industries": "Construction & Development, Finance & Insurance, Food Service, Healthcare, Hotel & Accommodation, Labour & Employment, Landlord & Property Mgmt, Natural Resources, Professional Services, Retail, Tenant, Transportation & Logistics",
       "locations": "Richmond",
       "briefs": [
         {
@@ -1799,6 +1799,317 @@
             }
           ],
           "is_proposal": true
+        },
+        {
+          "id": 2666,
+          "title": "Richmond Council Continued 23rd Street Ciclovía Pilot Decision to July 7",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Richmond Council 23rd Street Ciclovía Pilot decision meeting",
+              "date": "2026-07-07"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 2665,
+          "title": "Richmond Council Continued Drone Light Show Contract Talks to July 7",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Richmond drone light show contract findings due to council",
+              "date": "2026-06-23"
+            },
+            {
+              "label": "Richmond drone light show item returns to council",
+              "date": "2026-07-07"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 2664,
+          "title": "Council Continued Glenn and McBryde Roadway Modification Decision to July 7",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Richmond Council decision on Glenn and McBryde roadway modification",
+              "date": "2026-07-07"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 2663,
+          "title": "Richmond Council Continued Graffiti Removal Contract Decision to July 7",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Richmond Council graffiti removal contract decision",
+              "date": "2026-07-07"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 2662,
+          "title": "Council Extended Just Cities Housing Equity Roadmap Contract to 2027",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Just Cities Housing Equity Roadmap contract term ends",
+              "date": "2027-12-31"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 2661,
+          "title": "Council adopted policy for phone and internet outages during public meetings",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2660,
+          "title": "Council adopted Hilltop landscape assessment levy with 3% increase for 2026-27",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2659,
+          "title": "Council adopted Marina Bay assessment levy with 3% increase for 2026-27",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2658,
+          "title": "Council Approved ALS Ballot Measure Findings, Directed Phase 2 Work",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2657,
+          "title": "Council Adopted FY 2026-27 Budget and Five-Year Capital Plan",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2656,
+          "title": "Council adopted FY 2026-27 rental housing fee of $261 and $149 per unit",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2655,
+          "title": "Council approved $920K Lyft and Uber paratransit contracts",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2654,
+          "title": "Council accepted Yellow Brick Road Phase II street lighting project as complete",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2653,
+          "title": "Council approved $21,500 sole-source contract for ADA restroom remodel",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Oakley & Oakley ADA restroom contract term begins",
+              "date": "2026-06-24"
+            },
+            {
+              "label": "Oakley & Oakley ADA restroom contract term ends",
+              "date": "2028-06-24"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 2652,
+          "title": "Richmond Council Accepts Automated Transit Network Study, Funds Solar Bus Route Lighting",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2651,
+          "title": "Richmond Council received May 2026 abatement activities report",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2650,
+          "title": "Council Adopted Water Board Settlement and $39K Earth Island Contract",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2649,
+          "title": "Council authorized $586,532 Veolia task order for sodium hypochlorite tank replacement",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2648,
+          "title": "Council accepted $73,227 federal grant for police safety equipment",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2647,
+          "title": "Council Reappointed Karlyn C. Neel to Richmond Design Review Board",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Karlyn C. Neel Design Review Board term ends",
+              "date": "2028-03-17"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 2646,
+          "title": "Richmond Council Appointed Catherine Bae to Crisis Response Advisory Board",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Catherine Bae's advisory board term ends (Richmond)",
+              "date": "2028-12-31"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 2645,
+          "title": "Council appointed Paula Navin Burnett to Richmond's Commission on Aging",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Paula Navin Burnett's Commission on Aging term ends",
+              "date": "2030-05-19"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 2644,
+          "title": "Council Reappointed Myrtle Braxton to Richmond Commission on Aging",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Myrtle Braxton's Commission on Aging term ends",
+              "date": "2027-05-19"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 2643,
+          "title": "Richmond Council Acknowledges Board and Commission Vacancies, Opens Applications",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2642,
+          "title": "Richmond Council Adopts Master Fee Schedule and Fee Resolution",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2641,
+          "title": "Richmond Council Adopted FY 2026-27 Appropriations Limit Resolution",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2640,
+          "title": "Richmond Council voted to send support letter for California refinery bill SB 1259",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2639,
+          "title": "Council Adopted Resolution No. 102-26 Calling November 3, 2026 Municipal Election",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Richmond general municipal election day",
+              "date": "2026-11-03"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 2638,
+          "title": "Council approved $200K increase to Aleshire & Wynder legal services contract",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Aleshire & Wynder legal services contract term ends",
+              "date": "2026-12-26"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 2637,
+          "title": "Council approved $75K increase to Meyers Nave investigation contract",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Meyers Nave investigation contract term ends",
+              "date": "2027-06-30"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 2636,
+          "title": "Council approved $110K Thomson Reuters Westlaw legal research contract",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Thomson Reuters Westlaw contract term begins",
+              "date": "2026-07-01"
+            },
+            {
+              "label": "Thomson Reuters Westlaw contract term ends",
+              "date": "2029-06-30"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 2635,
+          "title": "Council approved $100K increase to wastewater legal contract, now $260K",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Wastewater legal services contract term ends",
+              "date": "2027-12-31"
+            }
+          ],
+          "is_proposal": false
         }
       ]
     },
