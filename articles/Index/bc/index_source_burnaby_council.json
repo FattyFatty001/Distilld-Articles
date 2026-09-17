@@ -1,7 +1,342 @@
 {
-  "generated_at": "2026-09-04T19:01:50.095307+00:00",
-  "count": 47,
+  "generated_at": "2026-09-17T21:19:06.172345+00:00",
+  "count": 48,
   "articles": [
+    {
+      "article_id": 359,
+      "path": "2026/09/22/359_burnaby-council_city-council-meeting-september-22-2026.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=8e55fd83-77f6-400d-9e5e-cbbff9a96df1&lang=English",
+      "article_title": "City Council Meeting — September 22, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://burnaby.ca",
+      "meeting_type": "regular-council",
+      "article_published_at": "2026-09-22T07:00:00",
+      "created_at": "2026-09-17T21:18:58.147322",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": true,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 25,
+      "minutes_brief_count": 0,
+      "industries": "Cannabis, Construction & Development, Food Service, Healthcare, Hotel & Accommodation, Labour & Employment, Landlord & Property Mgmt, Natural Resources, Professional Services, Retail, Transportation & Logistics",
+      "locations": "British Columbia, Burnaby",
+      "briefs": [
+        {
+          "id": 2691,
+          "title": "Council to consider abandoning Sidley Street rezoning bylaw",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2690,
+          "title": "Council to vote on Burnaby fee changes for January 2027",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Consolidated Fees and Charges Amendment Bylaw No. 7 takes effect",
+              "date": "2027-01-01"
+            },
+            {
+              "label": "Burnaby dog licence early-payment discount deadline",
+              "date": "2027-03-01"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2689,
+          "title": "Council to consider final adoption of Housing Agreement Bylaw for 4511 Juneau Street",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "4511 Juneau Street non-market rental building occupancy expected",
+              "date": "2026-11-01"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2688,
+          "title": "Council to consider final adoption of housing agreement bylaw for 4538 Dawson Street",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "4538 Dawson Street housing agreement bylaw final adoption",
+              "date": "2026-09-17"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2687,
+          "title": "Council to vote on housing agreement bylaw for 4572 Dawson Street",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "South Yards Tower 1C (4511 Juneau) occupancy expected",
+              "date": "2026-11-01"
+            },
+            {
+              "label": "South Yards Towers 1A and 1B occupancy expected",
+              "date": "2027-03-01"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2686,
+          "title": "Council to vote on rezoning for six-storey rental building on Sidley Street",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council vote on Sidley Street rezoning bylaw",
+              "date": "2026-09-22"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2685,
+          "title": "Council to vote on rezoning change for 7211 Greenford Ave tower project",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2684,
+          "title": "Council to vote on rezoning adding hotel, restaurant, 362 units",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2683,
+          "title": "Council to consider Burnaby Taxation Exemption Bylaw 2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council considers Taxation Exemption Bylaw 2026",
+              "date": "2026-09-22"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2682,
+          "title": "Council to consider inter-municipal business licence agreement bylaw",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby inter-municipal business licence report to Council",
+              "date": "2026-09-22"
+            },
+            {
+              "label": "Inter-municipal business licence scheme takes effect",
+              "date": "2027-01-01"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2681,
+          "title": "Council to consider Burnaby inter-municipal business licence bylaw",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby inter-municipal business licence report to Council",
+              "date": "2026-09-22"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2680,
+          "title": "Council to receive Burnaby Fire Department July 2026 status update",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council meeting on Fire Department status update",
+              "date": "2026-09-22"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2679,
+          "title": "Council to receive RCMP status and performance plan reports",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council receives RCMP status and performance reports",
+              "date": "2026-09-22"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2678,
+          "title": "Council to receive September 2026 civic projects status update",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby civic projects status update at Council meeting",
+              "date": "2026-09-22"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2677,
+          "title": "Council to receive August 2026 Burnaby building permit activity report",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby building permit activity report presented to Council",
+              "date": "2026-09-22"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2676,
+          "title": "Council to receive report on City retirements from January to June 2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2675,
+          "title": "Council to hear update on WorkSafeBC safety audit and COR credits",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council WorkSafeBC COR safety audit update",
+              "date": "2026-09-22"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2674,
+          "title": "Council to review preliminary cost impacts of upcoming PST changes",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "BC PST expansion to professional services takes effect",
+              "date": "2026-10-01"
+            },
+            {
+              "label": "Burnaby Council receives preliminary PST impacts report",
+              "date": "2026-09-22"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2673,
+          "title": "Council to consider social purpose business in Burnaby strategy",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council vote on social purpose business recognition",
+              "date": "2026-09-22"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2672,
+          "title": "Council to vote on contract change for Burnaby Mountain water supply",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council vote on Burnaby Mountain water contract change",
+              "date": "2026-09-22"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2671,
+          "title": "Council to vote on contract for mixed waste metals recycling",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council vote on mixed waste metals recycling contract",
+              "date": "2026-09-22"
+            },
+            {
+              "label": "Mixed waste metals recycling contract takes effect",
+              "date": "2026-10-01"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2670,
+          "title": "Council to consider funding three bus shelter murals in Burnaby",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby bus shelter mural funding decision at Council",
+              "date": "2026-09-22"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2669,
+          "title": "Council to consider forwarding Riverbend Court mezzanine rezoning",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2668,
+          "title": "Council to vote on adding Langley to Metro West business licence program",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council vote on Metro West IMBL Langley expansion",
+              "date": "2026-09-22"
+            },
+            {
+              "label": "Expanded Metro West IMBL including Langley takes effect",
+              "date": "2027-01-01"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2667,
+          "title": "Council to consider permissive property tax exemptions for 2027-2029",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby permissive tax exemption council decision",
+              "date": "2026-09-22"
+            },
+            {
+              "label": "Burnaby Taxation Exemption Bylaw 2026 final adoption",
+              "date": "2026-10-27"
+            },
+            {
+              "label": "Burnaby permissive tax exemption bylaw adoption deadline",
+              "date": "2026-10-31"
+            },
+            {
+              "label": "Approved bylaw submission deadline to BC Assessment",
+              "date": "2026-11-01"
+            }
+          ],
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 352,
       "path": "2026/09/09/352_burnaby-council_access-advisory-committee-meeting-september-09-202.json",
@@ -16,7 +351,7 @@
       "created_at": "2026-09-04T19:01:42.098061",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": true,
       "has_minutes": false,
       "agenda_brief_count": 4,
