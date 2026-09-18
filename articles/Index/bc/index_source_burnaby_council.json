@@ -1,7 +1,155 @@
 {
-  "generated_at": "2026-09-17T21:19:06.172345+00:00",
-  "count": 48,
+  "generated_at": "2026-09-18T15:26:13.048419+00:00",
+  "count": 49,
   "articles": [
+    {
+      "article_id": 360,
+      "path": "2026/09/22/360_burnaby-council_council-correspondence-and-public-notice-submissio.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=44f04d9b-ec90-45f7-a5bd-7f33225df542&lang=English",
+      "article_title": "Council Correspondence and Public Notice Submissions — September 22, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://burnaby.ca",
+      "meeting_type": "correspondence",
+      "article_published_at": "2026-09-22T07:00:00",
+      "created_at": "2026-09-18T15:26:05.106733",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": true,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 17,
+      "minutes_brief_count": 0,
+      "industries": "Agriculture, Construction & Development, Food Service, Hotel & Accommodation, Landlord & Property Mgmt, Professional Services, Retail, Transportation & Logistics",
+      "locations": "British Columbia, Burnaby",
+      "briefs": [
+        {
+          "id": 2708,
+          "title": "Council to consider study on financial impact of bigger-building rules",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2707,
+          "title": "Burnaby Council to review election office accessibility concerns",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2706,
+          "title": "Council to consider proposed multiplex at 5512 Buckingham Ave",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2705,
+          "title": "No Actionable Business Item in This Burnaby Council Agenda Entry",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2704,
+          "title": "Burnaby Council to review UBCM convention resolutions",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2703,
+          "title": "Council to consider BEST Mobility active transportation grant program",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2702,
+          "title": "Council to review resident letters on North Burnaby airplane noise",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2701,
+          "title": "Council to consider Williams Lake climate action program funding",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2700,
+          "title": "Council to consider Kensington Avenue signal operations referral",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2699,
+          "title": "Council to consider Burnaby Lake Plan feedback from Horsemen's Association",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2698,
+          "title": "Council to consider Forest Grove Dog Park proposal",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2697,
+          "title": "Council to consider 2026 Pat Quinn Classic Sport Hosting Grant",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "2026 Pat Quinn Classic tournament dates in Burnaby",
+              "date": "2026-12-27"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2696,
+          "title": "Council to consider free mulch and compost program referral",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2695,
+          "title": "Council to consider public hearing rules for rezoning applications",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2694,
+          "title": "Council to consider paid parking expansion at Lake City and Production Way",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2693,
+          "title": "Burnaby to assess LED sign compliance under Sign Bylaw 2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2692,
+          "title": "Council to consider publicly advertising Hart House Restaurant lease opportunity",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 359,
       "path": "2026/09/22/359_burnaby-council_city-council-meeting-september-22-2026.json",
@@ -16,7 +164,7 @@
       "created_at": "2026-09-17T21:18:58.147322",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": true,
       "has_minutes": false,
       "agenda_brief_count": 25,
