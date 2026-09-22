@@ -1,7 +1,176 @@
 {
-  "generated_at": "2026-09-16T23:06:24.867216+00:00",
-  "count": 15,
+  "generated_at": "2026-09-22T07:17:14.429879+00:00",
+  "count": 16,
   "articles": [
+    {
+      "article_id": 364,
+      "path": "2026/09/22/364_richmond-council_city-council.json",
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=f579b04b-f951-4070-b2eb-5477d8cdbc34&lang=English",
+      "article_title": "City Council",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://www.richmond.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-09-22T07:00:00",
+      "created_at": "2026-09-22T07:17:06.514833",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": true,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 16,
+      "minutes_brief_count": 0,
+      "industries": "Construction & Development, Finance & Insurance, Food Service, Labour & Employment, Landlord & Property Mgmt, Natural Resources, Professional Services, Retail, Technology, Transportation & Logistics",
+      "locations": "Richmond",
+      "briefs": [
+        {
+          "id": 2735,
+          "title": "Council to consider Keller Beach sewer study and next steps",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Keller Beach sewer final report and recommended action due",
+              "date": "2026-11-01"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2734,
+          "title": "Council to consider LPR effectiveness study and EFF presentation",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2733,
+          "title": "Council to hear presentation on proposed veterans housing at 338 Carlson",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2732,
+          "title": "Council to consider proposed on-street accessible parking policy and fees",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2731,
+          "title": "Richmond Council to receive City Manager accomplishments presentation",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2730,
+          "title": "Council to receive Richmond Fund for Children and Youth 2025 evaluation",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2729,
+          "title": "Council to consider directing finance staff to produce detailed budget report",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2728,
+          "title": "Council to vote on $12M Axon police camera and $500K Assure MSP contracts",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Richmond Axon and Assure MSP contract terms start",
+              "date": "2026-10-01"
+            },
+            {
+              "label": "Richmond Axon and Assure MSP contract terms end",
+              "date": "2029-09-30"
+            },
+            {
+              "label": "Richmond Axon contract extension option deadline",
+              "date": "2031-09-30"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2727,
+          "title": "Council to receive August 2026 abatement report",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2726,
+          "title": "Richmond Council to consider acknowledging board and committee vacancies",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2725,
+          "title": "Council to consider appointing Mark Scott as interim city manager",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2724,
+          "title": "Richmond Council to consider accepting $1.79M in workforce grants",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "STAX Basin 4 lease anticipated commencement",
+              "date": "2026-11-01"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2723,
+          "title": "Council to consider naming new community garden after Joe Lee Fisher Sr.",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2722,
+          "title": "Council to consider update on Polluters Pay settlement funds process",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Richmond Polluters Pay settlement funds council update",
+              "date": "2026-10-20"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2721,
+          "title": "Proposed: Richmond Council to consider resolution urging US Congress to pass Epstein Files Transparency Act II",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2720,
+          "title": "Council to vote on awarding Basin 4 lease to STAX Engineering",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Basin 4 STAX lease anticipated commencement date",
+              "date": "2026-11-01"
+            }
+          ],
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 356,
       "path": "2026/09/15/356_richmond-council_city-council.json",
@@ -1462,7 +1631,7 @@
       "created_at": "2026-09-16T23:06:17.168066",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": true,
       "has_minutes": true,
       "agenda_brief_count": 32,
