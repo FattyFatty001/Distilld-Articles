@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T20:22:58.694950+00:00",
+  "generated_at": "2026-09-23T18:08:34.149915+00:00",
   "count": 51,
   "articles": [
     {
@@ -579,7 +579,7 @@
       "created_at": "2026-09-18T20:22:51.123938",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": true,
       "has_minutes": false,
       "agenda_brief_count": 3,
@@ -995,201 +995,8 @@
       ]
     },
     {
-      "article_id": 322,
-      "path": "2026/08/25/322_burnaby-council_council-correspondence-and-public-notice-submissio.json",
-      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=0930d81b-fcca-4d94-b6b5-188627a85bc9&lang=English",
-      "article_title": "Council Correspondence and Public Notice Submissions — August 25, 2026",
-      "source": "burnaby_council",
-      "source_label": "Burnaby Council",
-      "government_level": "Municipal",
-      "source_website_icon": "https://burnaby.ca",
-      "meeting_type": "correspondence",
-      "article_published_at": "2026-08-25T07:00:00",
-      "created_at": "2026-08-20T22:40:00.191445",
-      "has_attachments": true,
-      "has_pdf": true,
-      "has_html": false,
-      "has_agenda": true,
-      "has_minutes": false,
-      "agenda_brief_count": 22,
-      "minutes_brief_count": 0,
-      "industries": "Agriculture, Construction & Development, Food Service, Hotel & Accommodation, Labour & Employment, Landlord & Property Mgmt, Natural Resources, Professional Services, Retail, Spa & Wellness, Transportation & Logistics",
-      "locations": "British Columbia, Burnaby, New Westminster",
-      "briefs": [
-        {
-          "id": 2509,
-          "title": "Proposed: Burnaby rezoning at 5168-5192 Sidley Street",
-          "source_label": "Burnaby Council",
-          "key_dates": [
-            {
-              "label": "Burnaby REZ #26-07 Council First and Second Reading meeting",
-              "date": "2026-08-25"
-            }
-          ],
-          "is_proposal": true
-        },
-        {
-          "id": 2508,
-          "title": "Council to consider R1 SSMUH concerns from P. Lynn Johnson",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 2507,
-          "title": "Council to consider old SSMUH permits and October 14 reporting gap",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 2506,
-          "title": "Council to consider Jim Lorimer Park correspondence for information",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 2505,
-          "title": "Proposed: Burnaby 'Density Without Demolition' framework under review",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 2504,
-          "title": "Council to consider: one elevator for 48-storey Metrotown tower",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 2503,
-          "title": "Proposed: Burnaby Parking Enforcement Bylaw update for information",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 2502,
-          "title": "Proposed: Burnaby to consider anti-human trafficking initiative at UBCM",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 2501,
-          "title": "Proposed: Council to consider 2026 National Forest Week proclamation",
-          "source_label": "Burnaby Council",
-          "key_dates": [
-            {
-              "label": "2026 National Forest Week proclamation period begins",
-              "date": "2026-09-20"
-            }
-          ],
-          "is_proposal": true
-        },
-        {
-          "id": 2500,
-          "title": "Council to consider airplane noise complaints over North Burnaby",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 2499,
-          "title": "Council to consider climate action funding support letters for Salmon Arm and Slocan",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 2498,
-          "title": "Proposed: New Westminster letter on North Shore Wastewater Treatment Plant",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 2497,
-          "title": "Council to consider LGCAP funding response from BC Ministry",
-          "source_label": "Burnaby Council",
-          "key_dates": [
-            {
-              "label": "LGCAP funding confirmed through this date",
-              "date": "2027-03-31"
-            }
-          ],
-          "is_proposal": true
-        },
-        {
-          "id": 2496,
-          "title": "Proposed: Metro Vancouver Housing Data Dashboard launch and 2026 update",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 2495,
-          "title": "Proposed: Metro Vancouver Board to consider July 24, 2026 agenda items",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 2494,
-          "title": "Proposed: Burnaby Council to refer 'Safer Streets in the Heights' to Public Safety Committee",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 2493,
-          "title": "Council to consider urban Canada goose management pilot",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 2492,
-          "title": "Proposed: Montecito Park dog park conversion referred to Parks Committee",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 2491,
-          "title": "Proposed: MacPherson Outdoor Pool correspondence sent to Parks Committee",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 2490,
-          "title": "Proposed: Burnaby to repair closed Dawson Street sidewalk",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 2489,
-          "title": "Council to consider road safety review for Lougheed Town Centre",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 2488,
-          "title": "Proposed: Burnaby to review Pender St. traffic calming petition",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        }
-      ]
-    },
-    {
-      "article_id": 321,
-      "path": "2026/08/25/321_burnaby-council_city-council-meeting-august-25-2026.json",
+      "article_id": 366,
+      "path": "2026/08/25/366_burnaby-council_city-council-meeting-august-25-2026.json",
       "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=15c08ed8-26a1-4fae-ad76-0d9f8ce7aa19&lang=English",
       "article_title": "City Council Meeting — August 25, 2026",
       "source": "burnaby_council",
@@ -1198,15 +1005,15 @@
       "source_website_icon": "https://burnaby.ca",
       "meeting_type": "regular-council",
       "article_published_at": "2026-08-25T07:00:00",
-      "created_at": "2026-08-20T22:12:15.008554",
+      "created_at": "2026-09-23T18:08:26.465904",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": false,
+      "has_html": true,
       "has_agenda": true,
-      "has_minutes": false,
+      "has_minutes": true,
       "agenda_brief_count": 29,
-      "minutes_brief_count": 0,
-      "industries": "Construction & Development, Food Service, Landlord & Property Mgmt, Professional Services, Retail, Transportation & Logistics",
+      "minutes_brief_count": 35,
+      "industries": "Construction & Development, Food Service, Healthcare, Landlord & Property Mgmt, Professional Services, Retail, Tenant, Transportation & Logistics",
       "locations": "British Columbia, Burnaby, Surrey, Vancouver",
       "briefs": [
         {
@@ -1434,6 +1241,449 @@
               "date": "2027-01-01"
             }
           ],
+          "is_proposal": true
+        },
+        {
+          "id": 2770,
+          "title": "Council authorized leases for two non-profit tenants at Edmonds resource centre",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2769,
+          "title": "Burnaby Council Cancelled Its September 1 Executive Committee Meeting",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2768,
+          "title": "Council Cancelled August 31 Planning and Development Committee Meeting",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2767,
+          "title": "Burnaby Council Cancels September 8 and October 13 Meetings",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2766,
+          "title": "Council Orders Staff Report on Heights Safer Streets Petition",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2765,
+          "title": "Burnaby Council Adopted Bylaw 14844 Amending Bylaw Notice Enforcement Rules",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2764,
+          "title": "Burnaby Council Adopted Bylaw 14843 Amending Fees and Charges",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2763,
+          "title": "Council adopted Bylaw 14842 on pay parking and EV charging",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2762,
+          "title": "Burnaby Council Adopted Bylaw 14840 for Density Bonus Reserve Fund",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2761,
+          "title": "Council adopted zoning bylaw 14803 for 6800 Lougheed Highway",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2760,
+          "title": "Council Rescinded and Amended Third Reading of Bylaw 14803",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2759,
+          "title": "Council Gives Third Reading to Zoning Bylaw 14810 for 2757 Norland",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2758,
+          "title": "Council Gives Third Reading to Zoning Bylaw 14760 for 9500 Erickson",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2757,
+          "title": "Council Amended Bylaws 14760 and 14810 to Reference New Zoning Bylaw 2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2756,
+          "title": "Burnaby Council Gives First Three Readings to Fees and Charges Bylaw 14850",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2755,
+          "title": "Council Gives First Three Readings to Housing Agreement Bylaw for 4511 Juneau Street",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2754,
+          "title": "Council Gives First Three Readings to Housing Agreement Bylaw for 4538 Dawson Street",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2753,
+          "title": "Council Gives Three Readings to Housing Agreement Bylaw for 4572 Dawson Street",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2752,
+          "title": "Council Gives First Two Readings to Sidley Street Zoning Bylaw 14846",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2751,
+          "title": "Burnaby Council Received 2026 Mid-Year Open Resolutions and Bylaw Tracking Report",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2750,
+          "title": "Council received July 2026 building permit activity report for information",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2749,
+          "title": "Council received report on DAP program transition to operational sustainment",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2748,
+          "title": "Council approved $530,000 tire services contract renewal with Son Tirecraft",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2747,
+          "title": "Council approved $153,300 contract renewal with Grime Fighters for window cleaning",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2746,
+          "title": "Council approved $100,000 water service setters contract change to Andrew Sheret Ltd.",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2745,
+          "title": "Council approved $130,000 tent rental contract change to A-1 Party Rentals",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2744,
+          "title": "Council approved $33,264 contract change to McElhanney for Royal Oak watermain work",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2743,
+          "title": "Council approved $78,131 sewer separation contract change for Burnaby Heights",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2742,
+          "title": "Council awarded $645,000 janitorial supplies contract to Transtar Sanitation Supply",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2741,
+          "title": "Council awarded $2.4M contract to Utility West Civil Works for excavated materials",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2740,
+          "title": "Council awarded $840,000 Swangard Stadium LED lighting contract to Western Integrated Electrical",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2739,
+          "title": "Council voted to send Molson Site comment letter to Metro Vancouver Board",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2738,
+          "title": "Council voted to send comment letter on Metro 2050 amendment to regional board",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2737,
+          "title": "Council approved Burnaby fee increases effective January 1, 2027",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Consolidated Fees and Charges Bylaw changes take effect",
+              "date": "2027-01-01"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 2736,
+          "title": "Council Cancelled September 1 Executive Committee Meeting",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 322,
+      "path": "2026/08/25/322_burnaby-council_council-correspondence-and-public-notice-submissio.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=0930d81b-fcca-4d94-b6b5-188627a85bc9&lang=English",
+      "article_title": "Council Correspondence and Public Notice Submissions — August 25, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://burnaby.ca",
+      "meeting_type": "correspondence",
+      "article_published_at": "2026-08-25T07:00:00",
+      "created_at": "2026-08-20T22:40:00.191445",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": false,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 22,
+      "minutes_brief_count": 0,
+      "industries": "Agriculture, Construction & Development, Food Service, Hotel & Accommodation, Labour & Employment, Landlord & Property Mgmt, Natural Resources, Professional Services, Retail, Spa & Wellness, Transportation & Logistics",
+      "locations": "British Columbia, Burnaby, New Westminster",
+      "briefs": [
+        {
+          "id": 2509,
+          "title": "Proposed: Burnaby rezoning at 5168-5192 Sidley Street",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby REZ #26-07 Council First and Second Reading meeting",
+              "date": "2026-08-25"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2508,
+          "title": "Council to consider R1 SSMUH concerns from P. Lynn Johnson",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2507,
+          "title": "Council to consider old SSMUH permits and October 14 reporting gap",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2506,
+          "title": "Council to consider Jim Lorimer Park correspondence for information",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2505,
+          "title": "Proposed: Burnaby 'Density Without Demolition' framework under review",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2504,
+          "title": "Council to consider: one elevator for 48-storey Metrotown tower",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2503,
+          "title": "Proposed: Burnaby Parking Enforcement Bylaw update for information",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2502,
+          "title": "Proposed: Burnaby to consider anti-human trafficking initiative at UBCM",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2501,
+          "title": "Proposed: Council to consider 2026 National Forest Week proclamation",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "2026 National Forest Week proclamation period begins",
+              "date": "2026-09-20"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2500,
+          "title": "Council to consider airplane noise complaints over North Burnaby",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2499,
+          "title": "Council to consider climate action funding support letters for Salmon Arm and Slocan",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2498,
+          "title": "Proposed: New Westminster letter on North Shore Wastewater Treatment Plant",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2497,
+          "title": "Council to consider LGCAP funding response from BC Ministry",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "LGCAP funding confirmed through this date",
+              "date": "2027-03-31"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2496,
+          "title": "Proposed: Metro Vancouver Housing Data Dashboard launch and 2026 update",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2495,
+          "title": "Proposed: Metro Vancouver Board to consider July 24, 2026 agenda items",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2494,
+          "title": "Proposed: Burnaby Council to refer 'Safer Streets in the Heights' to Public Safety Committee",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2493,
+          "title": "Council to consider urban Canada goose management pilot",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2492,
+          "title": "Proposed: Montecito Park dog park conversion referred to Parks Committee",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2491,
+          "title": "Proposed: MacPherson Outdoor Pool correspondence sent to Parks Committee",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2490,
+          "title": "Proposed: Burnaby to repair closed Dawson Street sidewalk",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2489,
+          "title": "Council to consider road safety review for Lougheed Town Centre",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2488,
+          "title": "Proposed: Burnaby to review Pender St. traffic calming petition",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
           "is_proposal": true
         }
       ]
