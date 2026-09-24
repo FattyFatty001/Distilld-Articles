@@ -1,7 +1,100 @@
 {
-  "generated_at": "2026-08-29T08:59:58.764988+00:00",
-  "count": 34,
+  "generated_at": "2026-09-24T09:27:10.572748+00:00",
+  "count": 37,
   "articles": [
+    {
+      "article_id": 369,
+      "path": "2026/09/22/369_burnaby-bylaws_bylaw-14847-housing-agreement-4572-dawson-street-b.json",
+      "article_url": "https://bylaws.burnaby.ca/en/permalink/bylaw26174",
+      "article_title": "Bylaw 14847 — Housing Agreement (4572 Dawson Street) Bylaw 2026",
+      "source": "burnaby_bylaws",
+      "source_label": "Burnaby Bylaws",
+      "government_level": "Municipal",
+      "source_website_icon": "https://bylaws.burnaby.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-09-22T07:00:00",
+      "created_at": "2026-09-24T09:26:59.646536",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "British Columbia, Burnaby",
+      "briefs": [
+        {
+          "id": 2773,
+          "title": "Burnaby Approves Housing Agreement for 4572 Dawson Street Non-Market Rental Tower",
+          "source_label": "Burnaby Bylaws",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 368,
+      "path": "2026/09/22/368_burnaby-bylaws_bylaw-14848-housing-agreement-4538-dawson-street-b.json",
+      "article_url": "https://bylaws.burnaby.ca/en/permalink/bylaw26175",
+      "article_title": "Bylaw 14848 — Housing Agreement (4538 Dawson Street) Bylaw 2026",
+      "source": "burnaby_bylaws",
+      "source_label": "Burnaby Bylaws",
+      "government_level": "Municipal",
+      "source_website_icon": "https://bylaws.burnaby.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-09-22T07:00:00",
+      "created_at": "2026-09-24T09:26:57.205339",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "British Columbia, Burnaby",
+      "briefs": [
+        {
+          "id": 2772,
+          "title": "Burnaby Housing Agreement Bylaw 14848 Adopted for 4538 Dawson Street Non-Market Rental Tower",
+          "source_label": "Burnaby Bylaws",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 367,
+      "path": "2026/09/22/367_burnaby-bylaws_bylaw-14849-housing-agreement-4511-juneau-street-b.json",
+      "article_url": "https://bylaws.burnaby.ca/en/permalink/bylaw26176",
+      "article_title": "Bylaw 14849 — Housing Agreement (4511 Juneau Street) Bylaw 2026",
+      "source": "burnaby_bylaws",
+      "source_label": "Burnaby Bylaws",
+      "government_level": "Municipal",
+      "source_website_icon": "https://bylaws.burnaby.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-09-22T07:00:00",
+      "created_at": "2026-09-24T09:26:54.707380",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "British Columbia, Burnaby",
+      "briefs": [
+        {
+          "id": 2771,
+          "title": "Burnaby Approves Housing Agreement for 4511 Juneau Street Non-Market Rental Building",
+          "source_label": "Burnaby Bylaws",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
     {
       "article_id": 327,
       "path": "2026/08/25/327_burnaby-bylaws_bylaw-14803-zoning-bylaw-2026-amendment-bylaw-no-3.json",
@@ -448,7 +541,7 @@
       "created_at": "2026-08-29T08:59:50.576812",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
