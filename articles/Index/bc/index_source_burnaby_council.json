@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-09-23T18:08:34.149915+00:00",
-  "count": 51,
+  "generated_at": "2026-10-01T18:34:47.167789+00:00",
+  "count": 52,
   "articles": [
+    {
+      "article_id": 371,
+      "path": "2026/10/05/371_burnaby-council_board-of-variance-october-05-2026.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=03574c8b-7fc1-4bce-8b4d-578429a6fcf9&lang=English",
+      "article_title": "Board of Variance — October 05, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://burnaby.ca",
+      "meeting_type": "variance",
+      "article_published_at": "2026-10-05T07:00:00",
+      "created_at": "2026-10-01T18:34:37.997434",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": true,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 1,
+      "minutes_brief_count": 0,
+      "industries": "Construction & Development, Landlord & Property Mgmt",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 2774,
+          "title": "Council to consider Burnaby zoning variances for garage at 121 Warwick Ave N",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Board of Variance hearing for 121 Warwick Ave N garage",
+              "date": "2026-10-05"
+            }
+          ],
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 361,
       "path": "2026/09/24/361_burnaby-council_transportation-committee-meeting-september-24-2026.json",
@@ -1008,7 +1044,7 @@
       "created_at": "2026-09-23T18:08:26.465904",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": true,
       "has_minutes": true,
       "agenda_brief_count": 29,
