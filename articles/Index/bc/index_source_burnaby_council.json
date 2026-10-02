@@ -1,7 +1,83 @@
 {
-  "generated_at": "2026-10-02T18:07:38.227668+00:00",
-  "count": 53,
+  "generated_at": "2026-10-02T18:35:03.051466+00:00",
+  "count": 54,
   "articles": [
+    {
+      "article_id": 373,
+      "path": "2026/10/06/373_burnaby-council_financial-management-committee-meeting-october-06.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=b96b5e4c-00cb-4080-80bd-2b75e4351d14&lang=English",
+      "article_title": "Financial Management Committee Meeting — October 06, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://burnaby.ca",
+      "meeting_type": "financial",
+      "article_published_at": "2026-10-06T07:00:00",
+      "created_at": "2026-10-02T18:34:54.801506",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": true,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 4,
+      "minutes_brief_count": 0,
+      "industries": "Construction & Development, Finance & Insurance, Food Service, Landlord & Property Mgmt, Professional Services",
+      "locations": "British Columbia, Burnaby, Canada",
+      "briefs": [
+        {
+          "id": 2779,
+          "title": "Council to consider October 2026 update on Burnaby civic projects",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby council meeting on civic projects status update",
+              "date": "2026-10-06"
+            },
+            {
+              "label": "Shadbolt Centre occupancy inspection scheduled",
+              "date": "2026-10-06"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2778,
+          "title": "Council to review Burnaby's 2026 Period 8 financial report",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Financial Management Committee reviews Period 8 report",
+              "date": "2026-10-06"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2777,
+          "title": "Council to review Burnaby's Housing Accelerator Fund Year 3 progress",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby HAF Year 3 mid-term report to Council",
+              "date": "2026-10-06"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2776,
+          "title": "Council to consider borrowing bylaw to temporarily finance 2027 spending",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby temporary financing bylaw council decision",
+              "date": "2026-10-06"
+            }
+          ],
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 372,
       "path": "2026/10/05/372_burnaby-council_planning-and-development-committee-meeting-october.json",
@@ -16,7 +92,7 @@
       "created_at": "2026-10-02T18:07:30.227806",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": true,
       "has_minutes": false,
       "agenda_brief_count": 1,
