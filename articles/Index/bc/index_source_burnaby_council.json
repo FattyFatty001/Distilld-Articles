@@ -1,7 +1,89 @@
 {
-  "generated_at": "2026-10-02T18:35:03.051466+00:00",
-  "count": 54,
+  "generated_at": "2026-10-02T19:02:07.481394+00:00",
+  "count": 55,
   "articles": [
+    {
+      "article_id": 374,
+      "path": "2026/10/06/374_burnaby-council_executive-committee-of-council-meeting-october-06.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=daa98edf-fb2e-4903-b469-bd4e84d11118&lang=English",
+      "article_title": "Executive Committee of Council Meeting — October 06, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://burnaby.ca",
+      "meeting_type": "executive",
+      "article_published_at": "2026-10-06T07:00:00",
+      "created_at": "2026-10-02T19:01:59.144844",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": true,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 5,
+      "minutes_brief_count": 0,
+      "industries": "Construction & Development, Food Service, Hotel & Accommodation, Landlord & Property Mgmt, Professional Services, Retail",
+      "locations": "British Columbia, Burnaby",
+      "briefs": [
+        {
+          "id": 2784,
+          "title": "Proposed: Burnaby Council to Meet Privately on Land and Award Matters",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2783,
+          "title": "Burnaby Council to consider 2026 Pat Quinn Classic sport hosting grant",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "2026 Pat Quinn Classic tournament dates in Burnaby",
+              "date": "2026-12-27"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2782,
+          "title": "Burnaby Council to consider Fall 2026 community grant recipients",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2781,
+          "title": "Council to consider new Burnaby Neighbourhood House funding agreement",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council ECC meeting on BNHS contribution agreement",
+              "date": "2026-10-06"
+            },
+            {
+              "label": "New BNHS contribution agreement term begins",
+              "date": "2027-01-01"
+            },
+            {
+              "label": "New BNHS contribution agreement term ends",
+              "date": "2029-12-31"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2780,
+          "title": "Council to consider updated Public Safety Committee terms of reference",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Public Safety Committee TOR decision meeting",
+              "date": "2026-10-06"
+            }
+          ],
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 373,
       "path": "2026/10/06/373_burnaby-council_financial-management-committee-meeting-october-06.json",
@@ -16,7 +98,7 @@
       "created_at": "2026-10-02T18:34:54.801506",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": true,
       "has_minutes": false,
       "agenda_brief_count": 4,
