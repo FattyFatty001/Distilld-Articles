@@ -1,7 +1,340 @@
 {
-  "generated_at": "2026-09-22T07:17:14.429879+00:00",
-  "count": 16,
+  "generated_at": "2026-10-06T07:19:00.985663+00:00",
+  "count": 17,
   "articles": [
+    {
+      "article_id": 377,
+      "path": "2026/10/06/377_richmond-council_city-council.json",
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=8fc4af08-63a0-4b3d-9c3d-11c64b0e2d30&lang=English",
+      "article_title": "City Council",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://www.richmond.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-10-06T07:00:00",
+      "created_at": "2026-10-06T07:18:52.019967",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": true,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 28,
+      "minutes_brief_count": 0,
+      "industries": "Construction & Development, Finance & Insurance, Food Service, Healthcare, Hotel & Accommodation, Labour & Employment, Landlord & Property Mgmt, Natural Resources, Professional Services, Retail, Technology, Transportation & Logistics",
+      "locations": "Richmond",
+      "briefs": [
+        {
+          "id": 2812,
+          "title": "Council to consider directing city manager to present detailed financial report",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Richmond Council meeting on financial report presentation",
+              "date": "2026-10-20"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2811,
+          "title": "Richmond Council to hear EFF presentation on license plate readers",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Richmond Council EFF license plate reader presentation",
+              "date": "2026-10-06"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2810,
+          "title": "Richmond Council to Receive Presentation on Chevron Refinery Health Risk Assessment",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Bay Area Air District HRA public comment period closes",
+              "date": "2026-11-23"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2809,
+          "title": "Council to consider Keller Beach sewer study findings and next steps",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Keller Beach sewer final report returns to Council",
+              "date": "2026-11-01"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2808,
+          "title": "Richmond to hear presentation on proposed veterans housing at 338 Carlson Blvd",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2807,
+          "title": "Council to consider proposed on-street accessible parking program and fees",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2806,
+          "title": "Council to consider $12M Axon and $500K Assure MSP surveillance contracts",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Axon and Assure MSP surveillance contracts start date",
+              "date": "2026-10-01"
+            },
+            {
+              "label": "Axon and Assure MSP surveillance contracts end date",
+              "date": "2029-09-30"
+            },
+            {
+              "label": "Axon contract extension option deadline",
+              "date": "2031-09-30"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2805,
+          "title": "Council to vote on Caltrans freeway maintenance agreement amendment",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2804,
+          "title": "Council to vote on $46,625 Nicholl Park tennis courts renovation contract",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Nicholl Park tennis courts renovation contract term begins",
+              "date": "2026-10-06"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2803,
+          "title": "Council to vote on seven on-call construction testing contracts worth $300K each",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Richmond on-call testing contracts take effect",
+              "date": "2026-10-07"
+            },
+            {
+              "label": "Richmond on-call testing contracts initial term ends",
+              "date": "2029-10-31"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2802,
+          "title": "Richmond to vote on $20,000 expansion of license plate reader study",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2801,
+          "title": "Richmond Council to consider appointing Shayna Keyles to Urban Forestry Advisory Committee",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Urban Forestry Advisory Committee term ends for Shayna Keyles",
+              "date": "2029-11-17"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2800,
+          "title": "Council to consider reappointing Bruce Brubaker to Planning Commission",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Planning Commission term for Bruce Brubaker ends",
+              "date": "2028-06-30"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2799,
+          "title": "Council to consider fee waiver for Dr. Desmond Carson memorial at auditorium",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2798,
+          "title": "Proposed: Richmond salary schedule update for CalPERS compliance",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2797,
+          "title": "Council to consider $50,000 sole-source HR consulting contract",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "CPS HR consulting contract term ends",
+              "date": "2028-06-30"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2796,
+          "title": "Council to consider moving $199,776 in leftover ARPA funds to street paving",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2795,
+          "title": "Richmond Council to receive August 2026 city finance reports",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2794,
+          "title": "Council to consider $35,000 increase to Nicolay actuarial services contract",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Nicolay actuarial services contract term ends",
+              "date": "2028-06-30"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2793,
+          "title": "Council to consider review of Richmond Tourism Marketing District renewal",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2792,
+          "title": "Richmond to consider tax data-sharing deal with California FTB",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Richmond FTB data exchange agreement term begins",
+              "date": "2027-01-01"
+            },
+            {
+              "label": "Richmond FTB data exchange agreement term ends",
+              "date": "2029-12-31"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2791,
+          "title": "Council to consider $5.48M Point Potrero Marine Terminal repair contract",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Point Potrero Marine Terminal contract term expires",
+              "date": "2029-10-14"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2790,
+          "title": "Council to consider $37,500 sole-source CivicSpark fellow contract",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "CivicSpark AmeriCorps fellow contract term ends",
+              "date": "2027-12-31"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2789,
+          "title": "Council to vote on $50,000 in ECIA Category 3 grants to three groups",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Richmond ECIA Category 3 grant resolution vote",
+              "date": "2026-10-06"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2788,
+          "title": "Council to consider adding Nov 10 special meeting, cancelling two regular meetings",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Richmond special council meeting (if approved)",
+              "date": "2026-11-10"
+            },
+            {
+              "label": "Richmond regular council meeting proposed for cancellation",
+              "date": "2026-11-24"
+            },
+            {
+              "label": "Richmond regular council meeting proposed for cancellation",
+              "date": "2026-12-22"
+            },
+            {
+              "label": "Next regular Richmond council meeting after cancellations",
+              "date": "2027-01-05"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2787,
+          "title": "Council to consider $14,985 increase to Wordly translation contract",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Wordly translation contract extension ends in Richmond",
+              "date": "2027-11-30"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2786,
+          "title": "Council to Consider Closed Session on Labor Talks with Six Unions",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2785,
+          "title": "Richmond Council to Discuss Closed-Door Property Talks at 1689 Regatta Boulevard",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 364,
       "path": "2026/09/22/364_richmond-council_city-council.json",
@@ -16,7 +349,7 @@
       "created_at": "2026-09-22T07:17:06.514833",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": true,
       "has_minutes": false,
       "agenda_brief_count": 16,
