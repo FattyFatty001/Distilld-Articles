@@ -1,7 +1,94 @@
 {
-  "generated_at": "2026-10-02T19:02:07.481394+00:00",
-  "count": 55,
+  "generated_at": "2026-10-08T22:11:42.534977+00:00",
+  "count": 56,
   "articles": [
+    {
+      "article_id": 381,
+      "path": "2026/10/13/381_burnaby-council_council-correspondence-and-public-notice-submissio.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=809c893e-704b-413b-b109-9b8374f7c434&lang=English",
+      "article_title": "Council Correspondence and Public Notice Submissions — October 13, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://burnaby.ca",
+      "meeting_type": "correspondence",
+      "article_published_at": "2026-10-13T07:00:00",
+      "created_at": "2026-10-08T22:11:33.624816",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": true,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 9,
+      "minutes_brief_count": 0,
+      "industries": "Construction & Development, Food Service, Labour & Employment, Landlord & Property Mgmt, Professional Services, Retail, Transportation & Logistics",
+      "locations": "British Columbia, Burnaby",
+      "briefs": [
+        {
+          "id": 2821,
+          "title": "Burnaby Council to Consider Bike Lane Network Correspondence",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2820,
+          "title": "Council to consider living wage standards in Burnaby's Purpose Economy Strategy",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2819,
+          "title": "Council to consider correspondence on 5416 and 5512 Buckingham Avenue",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2818,
+          "title": "Council to review RDOS climate action program correspondence",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2817,
+          "title": "Council to consider Metro Vancouver report on growth infrastructure costs",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2816,
+          "title": "Council to consider Gilmore Place rezoning application in 2027",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2815,
+          "title": "Council to consider paid parking expansion at Lake City and Production Way",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2814,
+          "title": "Burnaby Council to consider Hall Avenue Loop / 7252 Kingsway corrective actions",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2813,
+          "title": "Council to consider publicly advertising Hart House Restaurant lease opportunity",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 374,
       "path": "2026/10/06/374_burnaby-council_executive-committee-of-council-meeting-october-06.json",
@@ -16,7 +103,7 @@
       "created_at": "2026-10-02T19:01:59.144844",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": true,
       "has_minutes": false,
       "agenda_brief_count": 5,
