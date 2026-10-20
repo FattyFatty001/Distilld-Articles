@@ -1,7 +1,204 @@
 {
-  "generated_at": "2026-10-06T07:19:00.985663+00:00",
-  "count": 17,
+  "generated_at": "2026-10-20T07:17:42.945498+00:00",
+  "count": 18,
   "articles": [
+    {
+      "article_id": 382,
+      "path": "2026/10/20/382_richmond-council_city-council.json",
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=cef2d44a-b099-4dac-9803-ca7780103637&lang=English",
+      "article_title": "City Council",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://www.richmond.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-10-20T07:00:00",
+      "created_at": "2026-10-20T07:17:33.498465",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": true,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 18,
+      "minutes_brief_count": 0,
+      "industries": "Construction & Development, Finance & Insurance, Food Service, Healthcare, Labour & Employment, Landlord & Property Mgmt, Professional Services, Retail, Technology, Transportation & Logistics",
+      "locations": "Richmond",
+      "briefs": [
+        {
+          "id": 2839,
+          "title": "Council to consider directing staff to seek grants for two armored police vehicles",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2838,
+          "title": "Council to consider creating a Richmond Disaster Preparedness Commission",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2837,
+          "title": "Council to consider directing staff to plan traffic safety fixes in high-injury areas",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Richmond traffic safety plan initial staff presentation to Council",
+              "date": "2026-11-01"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2836,
+          "title": "Council to consider directing staff to advance 23rd Street safety measures",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2835,
+          "title": "Richmond to consider $20,000 for license plate reader analysis",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2834,
+          "title": "Council to consider Keller Beach sewer study findings and next steps",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Keller Beach sewer final report returns to Council",
+              "date": "2026-11-01"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2833,
+          "title": "Council to consider proposed veterans housing project at 338 Carlson Blvd",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2832,
+          "title": "Council to consider proposed on-street accessible parking program and fees",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2831,
+          "title": "Richmond to consider extending data center moratorium to September 2028",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Richmond data center moratorium extension takes effect",
+              "date": "2026-10-20"
+            },
+            {
+              "label": "Richmond data center moratorium extension expires",
+              "date": "2028-09-15"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2830,
+          "title": "Council to receive update on Richmond finances and Polluters Pay funds",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Richmond Council considers Dalberg engagement contract and plan",
+              "date": "2026-11-10"
+            },
+            {
+              "label": "FY 2025-26 audited results and ACFR presented to Council",
+              "date": "2027-03-01"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2829,
+          "title": "Council to vote on four equipment rental contracts worth up to $2M",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2828,
+          "title": "Council to consider ending PG&E EV fleet program agreements, paying up to $80,000",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2827,
+          "title": "Council to consider sole-source $118,937.52 contract for first responder mental health",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "First responder counseling contract term begins",
+              "date": "2026-10-25"
+            },
+            {
+              "label": "First responder counseling contract term ends",
+              "date": "2029-10-31"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2826,
+          "title": "Council to consider $76,500 sole-source library catalog contract",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2825,
+          "title": "Council to consider bond approval for 150-unit Metrowalk affordable housing",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2824,
+          "title": "Council to consider $475,000 increase to outside labour law firm contract",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Liebert Cassidy Whitmore contract term ends",
+              "date": "2027-06-30"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2823,
+          "title": "Richmond Housing Authority to vote on $100,000 increase for Net Electric contract",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Net Electric contract term ends",
+              "date": "2030-04-01"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2822,
+          "title": "Richmond Housing Authority to consider $360,359 sidewalk contract increase",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 377,
       "path": "2026/10/06/377_richmond-council_city-council.json",
@@ -16,7 +213,7 @@
       "created_at": "2026-10-06T07:18:52.019967",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": true,
       "has_minutes": false,
       "agenda_brief_count": 28,
