@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T07:17:42.945498+00:00",
+  "generated_at": "2026-10-21T20:24:15.511640+00:00",
   "count": 18,
   "articles": [
     {
@@ -16,7 +16,7 @@
       "created_at": "2026-10-20T07:17:33.498465",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": true,
       "has_minutes": false,
       "agenda_brief_count": 18,
@@ -712,16 +712,16 @@
       "source_website_icon": "https://www.richmond.ca",
       "meeting_type": null,
       "article_published_at": "2026-09-15T07:00:00",
-      "created_at": "2026-09-15T07:26:00.467982",
+      "created_at": "2026-10-21T20:24:06.527737",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": false,
+      "has_html": true,
       "has_agenda": true,
-      "has_minutes": false,
+      "has_minutes": true,
       "agenda_brief_count": 36,
-      "minutes_brief_count": 0,
-      "industries": "Construction & Development, Finance & Insurance, Food Service, Healthcare, Labour & Employment, Landlord & Property Mgmt, Natural Resources, Professional Services, Retail, Technology, Transportation & Logistics",
-      "locations": "Richmond",
+      "minutes_brief_count": 41,
+      "industries": "Construction & Development, Finance & Insurance, Food Service, Healthcare, Hotel & Accommodation, Labour & Employment, Landlord & Property Mgmt, Natural Resources, Professional Services, Retail, Technology, Transportation & Logistics",
+      "locations": "Canada, Richmond",
       "briefs": [
         {
           "id": 2633,
@@ -1134,6 +1134,438 @@
             }
           ],
           "is_proposal": true
+        },
+        {
+          "id": 2880,
+          "title": "[INFO ONLY] Council to receive July 2026 abatement report",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2879,
+          "title": "[INFO ONLY] Richmond Council to receive July 2026 monthly crime report",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2878,
+          "title": "[INFO ONLY] Richmond Council to receive July 2026 city finance reports",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2877,
+          "title": "[INFO ONLY] Council to receive June 2026 city finance and overtime reports",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2876,
+          "title": "Richmond Council continued Polluters Pay settlement update to September 15 meeting",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2875,
+          "title": "Richmond Council Continued Axon $12M and Assure MSP Surveillance Contracts to September 15 Meeting",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Richmond Council resumes Axon and Assure MSP contract decision",
+              "date": "2026-09-15"
+            },
+            {
+              "label": "Axon and Assure MSP contract terms begin",
+              "date": "2026-10-01"
+            },
+            {
+              "label": "Axon and Assure MSP contract terms end",
+              "date": "2029-09-30"
+            },
+            {
+              "label": "Axon contract first one-year extension option ends",
+              "date": "2030-09-30"
+            },
+            {
+              "label": "Axon contract final extension option ends",
+              "date": "2031-09-30"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 2874,
+          "title": "Richmond Council adopted 45-day urgency moratorium on new data centers",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2873,
+          "title": "Richmond Council received Q4 financial report and approved year-end budget adjustments",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2872,
+          "title": "Council adopted resolution authorizing StreetLight Data MOU amendment for FY 2026–27",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2871,
+          "title": "Council accepted Boorman Park site remediation project as complete",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2870,
+          "title": "Council accepted $311,931 STMP grant for Barrett Avenue Improvement Project",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2869,
+          "title": "Council approved $50K BNSF engineering agreement for Point Richmond bike path",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "BNSF engineering agreement term ends for Point Richmond bike path",
+              "date": "2029-06-30"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 2868,
+          "title": "Council accepted Shields-Reid Park Improvement Project as complete",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2867,
+          "title": "Richmond Council approved a $103K contract with Police Strategies LLC for use-of-force data analysis",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Police Strategies LLC use-of-force analysis contract term starts",
+              "date": "2026-09-16"
+            },
+            {
+              "label": "Police Strategies LLC use-of-force analysis contract term ends",
+              "date": "2029-09-15"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 2866,
+          "title": "Council approved $1.2M Peregrine Technologies public safety data contract",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Peregrine Technologies public safety data contract start date",
+              "date": "2026-11-01"
+            },
+            {
+              "label": "Peregrine Technologies contract initial term ends",
+              "date": "2029-10-31"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 2865,
+          "title": "Richmond Council appointed Jennifer Early to Children and Youth Oversight Board",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Jennifer Early's District 5 board term ends",
+              "date": "2028-12-02"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 2864,
+          "title": "Richmond Council appointed TriDuc Tran as District 4 youth representative to Children and Youth Board",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "TriDuc Tran's District 4 youth board term ends",
+              "date": "2027-12-02"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 2863,
+          "title": "Council reappointed Jon Harrison to Richmond Planning Commission through June 2028",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Jon Harrison's Planning Commission term ends",
+              "date": "2028-06-30"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 2862,
+          "title": "Council reappointed Gay Timmons to Richmond Planning Commission through June 2028",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Gay Timmons Planning Commission term ends",
+              "date": "2028-06-30"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 2861,
+          "title": "Richmond Council appointed Theophilus Little to Macdonald Ave Corridor Taskforce",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Macdonald Ave Corridor Taskforce term ends",
+              "date": "2026-12-31"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 2860,
+          "title": "Richmond Council appointed Free Brown to Macdonald Ave Corridor Taskforce",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Free Brown's Macdonald Ave Taskforce term ends",
+              "date": "2026-12-31"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 2859,
+          "title": "Council adopted resolution approving Carahsoft software licensing agreement up to $500K yearly",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Carahsoft software licensing agreement term starts",
+              "date": "2026-09-15"
+            },
+            {
+              "label": "Carahsoft software licensing agreement term ends",
+              "date": "2028-04-30"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 2858,
+          "title": "Richmond Council adopted resolution adding Senior Applications Analyst salary range",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2857,
+          "title": "Richmond Council Adopted Resolution 150-26 Amending Staffing and Position Control List",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2856,
+          "title": "Richmond Council adopted resolution executing RPOA side letter on CalPERS special compensation",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2855,
+          "title": "Richmond Council adopted side letter on police Field Training Officer assignments",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2854,
+          "title": "Council approved $45K on-call fire code enforcement legal contract with Civica Law",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Civica Law fire code legal contract term expires",
+              "date": "2029-09-16"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 2853,
+          "title": "Council approved a $30,494 fire training software contract with Vector Solutions through 2029",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Vector Solutions fire training contract term begins",
+              "date": "2026-01-01"
+            },
+            {
+              "label": "Vector Solutions fire training contract term ends",
+              "date": "2029-01-01"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 2852,
+          "title": "Richmond Council Approved RecycleMore Fiscal Year Change to January–December Starting 2027",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "RecycleMore January–December fiscal year takes effect",
+              "date": "2027-01-01"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 2851,
+          "title": "Council adopted amended Façade Improvement Program rules allowing storefront equipment grants",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2850,
+          "title": "Council approved a $13,820 sole-source contract with Treadwell LLC for crisis dispatch software integration",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Treadwell LLC CAD integration contract start date",
+              "date": "2026-09-15"
+            },
+            {
+              "label": "Treadwell LLC CAD integration contract end date",
+              "date": "2027-09-14"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 2849,
+          "title": "Council approved sole-source Mark43 CAD contract worth up to $95,668 through 2029",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Mark43 CAD contract term start date",
+              "date": "2026-09-15"
+            },
+            {
+              "label": "Mark43 CAD contract term end date",
+              "date": "2029-09-14"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 2848,
+          "title": "Richmond Council adopted resolution accepting 2025 Housing Element Annual Progress Report",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2847,
+          "title": "Richmond Council approved $80K contract for Bob Dabney Plaza cleanup",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2846,
+          "title": "Richmond Council adopted pre-qualified list for facilitation and mediation services",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 2845,
+          "title": "Richmond Council approved $24K DocuSign e-signature contract through September 2027",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Richmond DocuSign e-signature contract term ends",
+              "date": "2027-09-29"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 2844,
+          "title": "Council approved $40K increase to Chiari Law personnel investigation contract",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Chiari Law personnel investigation contract term expires",
+              "date": "2027-06-30"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 2843,
+          "title": "Richmond Council approved $300K increase to Oppenheimer personnel investigation contract",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Oppenheimer personnel investigation contract term ends",
+              "date": "2029-09-30"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 2842,
+          "title": "Council approved raising police litigation legal fee cap to $350,000 through 2027",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Police tort litigation legal services contract term ends",
+              "date": "2027-12-31"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 2841,
+          "title": "Council approved $250K increase to outside employment litigation legal services cap",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Liebert Cassidy Whitmore legal services agreement term expires",
+              "date": "2027-06-30"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 2840,
+          "title": "Council authorized staff to negotiate interim city manager contract with top two candidates",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": false
         }
       ]
     },
