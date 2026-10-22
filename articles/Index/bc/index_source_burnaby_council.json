@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-10-22T19:32:02.792803+00:00",
-  "count": 57,
+  "generated_at": "2026-10-22T21:44:38.142612+00:00",
+  "count": 58,
   "articles": [
+    {
+      "article_id": 385,
+      "path": "2026/10/27/385_burnaby-council_council-correspondence-and-public-notice-submissio.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=afcaf310-4fec-4ff7-aa19-44731a0e0040&lang=English",
+      "article_title": "Council Correspondence and Public Notice Submissions — October 27, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://burnaby.ca",
+      "meeting_type": "correspondence",
+      "article_published_at": "2026-10-27T07:00:00",
+      "created_at": "2026-10-22T21:44:27.843508",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 8,
+      "minutes_brief_count": 0,
+      "industries": "Construction & Development, Landlord & Property Mgmt, Professional Services, Retail, Spa & Wellness, Transportation & Logistics",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 2922,
+          "title": "Council to consider correspondence on Confederation Park Community Centre redevelopment",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2921,
+          "title": "Council to consider Burnaby Zoning Bylaw 2026 submission",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2920,
+          "title": "Council to review Canada Post reply on door-to-door mail service",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2919,
+          "title": "Council to consider request for more loonie swims in Burnaby",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2918,
+          "title": "Council to consider flashing beacon at new McMurray Ave and Hazel St crosswalk",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2917,
+          "title": "Council to consider sports court strategy for Central Park pickleball",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2916,
+          "title": "Council to review enforcement follow-up on Dunlop Street construction complaint",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2915,
+          "title": "Council to consider traffic signal timing changes at Kensington Ave and Joe Sakic Way",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 384,
       "path": "2026/10/27/384_burnaby-council_city-council-meeting-october-27-2026.json",
@@ -16,7 +96,7 @@
       "created_at": "2026-10-22T19:31:52.843167",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": true,
       "has_minutes": false,
       "agenda_brief_count": 34,
