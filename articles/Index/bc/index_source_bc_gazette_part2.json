@@ -1,7 +1,213 @@
 {
-  "generated_at": "2026-10-27T21:44:20.209742+00:00",
-  "count": 101,
+  "generated_at": "2026-10-27T22:12:32.124744+00:00",
+  "count": 107,
   "articles": [
+    {
+      "article_id": 399,
+      "path": "2026/07/20/399_bc-gazette-part-ii_bc-reg-1362026-workers-compensation-board.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n14_136-2026",
+      "article_title": "B.C. Reg. 136/2026 – Workers' Compensation Board",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-07-20T07:00:00",
+      "created_at": "2026-10-27T22:12:13.146516",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development, Retail, Transportation & Logistics",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 3015,
+          "title": "BC automotive lifts must meet new safety standards or pass inspections starting March 1, 2027",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC automotive lift safety standard requirements take effect",
+              "date": "2027-03-01"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 398,
+      "path": "2026/07/20/398_bc-gazette-part-ii_bc-reg-1352026-workers-compensation-board.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n14_135-2026",
+      "article_title": "B.C. Reg. 135/2026 – Workers' Compensation Board",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-07-20T07:00:00",
+      "created_at": "2026-10-27T22:12:10.165851",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development, Healthcare, Natural Resources",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 3014,
+          "title": "BC tight-fitting respirator rules updated: employers must keep seals working from November 6, 2026",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC tight-fitting respirator rule takes effect",
+              "date": "2026-11-06"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 397,
+      "path": "2026/07/20/397_bc-gazette-part-ii_bc-reg-1342026-oic-3502026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n14_134-2026",
+      "article_title": "B.C. Reg. 134/2026 – OIC 350/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-07-20T07:00:00",
+      "created_at": "2026-10-27T22:12:06.863955",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Finance & Insurance, Transportation & Logistics",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 3013,
+          "title": "BC vehicle insurance rules change October 19, 2026: new licence and driving-history definitions take effect",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC vehicle insurance regulation changes take effect",
+              "date": "2026-10-19"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 396,
+      "path": "2026/07/20/396_bc-gazette-part-ii_bc-reg-1332026-oic-3492026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n14_133-2026",
+      "article_title": "B.C. Reg. 133/2026 – OIC 349/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-07-20T07:00:00",
+      "created_at": "2026-10-27T22:12:03.861956",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development, Natural Resources",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 3012,
+          "title": "Mine projects in Simpcw First Nation territory now need the Nation's consent under a new BC regulation",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 395,
+      "path": "2026/07/17/395_bc-gazette-part-ii_bc-reg-1322026-oic-3322026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n14_132-2026",
+      "article_title": "B.C. Reg. 132/2026 – OIC 332/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-07-17T07:00:00",
+      "created_at": "2026-10-27T22:12:01.040728",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Finance & Insurance, Professional Services, Retail",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 3011,
+          "title": "BC credit reporting agencies must fix or flag your personal information within 45 days starting August 1, 2027",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC credit reporting correction 45-day rule takes effect",
+              "date": "2027-08-01"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 394,
+      "path": "2026/07/17/394_bc-gazette-part-ii_bc-reg-1312026-oic-3382026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n14_131-2026",
+      "article_title": "B.C. Reg. 131/2026 – OIC 338/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-07-17T07:00:00",
+      "created_at": "2026-10-27T22:11:57.893918",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Landlord & Property Mgmt, Retail, Tenant",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 3010,
+          "title": "New UEL bylaw ticket rules set $3,000 maximum fine and allow RCMP and contracted officers to enforce",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
     {
       "article_id": 393,
       "path": "2026/07/17/393_bc-gazette-part-ii_bc-reg-1302026-oic-3362026.json",
@@ -16,7 +222,7 @@
       "created_at": "2026-10-27T21:44:02.946695",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -47,7 +253,7 @@
       "created_at": "2026-10-27T21:43:59.718699",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -83,7 +289,7 @@
       "created_at": "2026-10-27T21:43:56.414811",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -114,7 +320,7 @@
       "created_at": "2026-10-27T21:43:52.699008",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -150,7 +356,7 @@
       "created_at": "2026-10-27T21:43:49.436671",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
