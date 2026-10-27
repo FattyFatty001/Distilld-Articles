@@ -1,7 +1,462 @@
 {
-  "generated_at": "2026-09-10T18:07:52.207514+00:00",
-  "count": 13,
+  "generated_at": "2026-10-27T00:05:36.950106+00:00",
+  "count": 14,
   "articles": [
+    {
+      "article_id": 386,
+      "path": "2026/10/27/386_vancouver-council_regular-council-october-27-2026.json",
+      "article_url": "https://council.vancouver.ca/20261027/regu20261027ag.htm",
+      "article_title": "Regular Council — October 27, 2026",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://vancouver.ca",
+      "meeting_type": "regular-council",
+      "article_published_at": "2026-10-27T07:00:00",
+      "created_at": "2026-10-27T00:05:27.728981",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": true,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 59,
+      "minutes_brief_count": 0,
+      "industries": "Construction & Development, Finance & Insurance, Food Service, Hotel & Accommodation, Landlord & Property Mgmt, Professional Services, Retail, Tenant, Transportation & Logistics",
+      "locations": "British Columbia, Vancouver",
+      "briefs": [
+        {
+          "id": 2981,
+          "title": "Council to consider updating Vancouver apartment regulations",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Vancouver Council vote on apartment regulation By-law 5",
+              "date": "2026-10-27"
+            },
+            {
+              "label": "Deadline to request speaking to Vancouver Council on By-law 5",
+              "date": "2026-10-26"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 2980,
+          "title": "Proposed: Vancouver housekeeping amendment to Area Specific Development Cost Levy By-law 9418",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2979,
+          "title": "Proposed: Vancouver housekeeping amendment to Utilities Development Cost Levy By-law 12183",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2978,
+          "title": "Council to consider housekeeping amendments to Vancouver development cost levy bylaw",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2977,
+          "title": "Council to consider bylaw change for Granville and West 37th subdivision",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2976,
+          "title": "Council to consider bylaw change for 5889-5925 Dunbar Street subdivision",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2975,
+          "title": "Council to consider bylaw change for 4910-4950 Willow Street subdivision",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2974,
+          "title": "Council to consider noise bylaw changes for West Broadway and Columbia sites",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2973,
+          "title": "Council to consider sign bylaw changes for West Broadway and Columbia sites",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2972,
+          "title": "Council to consider noise bylaw change for 2180 West 6th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2971,
+          "title": "Council to consider sign bylaw amendment for 2180 West 6th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2970,
+          "title": "Council to consider noise bylaw change for 2336-2366 Charles Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2969,
+          "title": "Council to consider sign bylaw change for 2336-2366 Charles Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2968,
+          "title": "Council to consider noise bylaw change for West 10th and Highbury site",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2967,
+          "title": "Council to consider sign bylaw changes for West 10th and Highbury sites",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2966,
+          "title": "Proposed: Vancouver to consider noise bylaw change for Heather Lands South",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2965,
+          "title": "Council to consider sign bylaw changes for Heather Lands South project",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2964,
+          "title": "Proposed: Vancouver noise bylaw change for 2110 West 5th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2963,
+          "title": "Council to consider sign bylaw change for 2110 West 5th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2962,
+          "title": "Council to consider noise bylaw change for 2158-2170 West 1st Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2961,
+          "title": "Council to consider sign bylaw amendment for 2158-2170 West 1st Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2960,
+          "title": "Council to consider noise bylaw change for Joyce Street project",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2959,
+          "title": "Council to consider sign bylaw change for 4975-4997 Joyce Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2958,
+          "title": "Council to consider noise bylaw changes for East Broadway and Fraser sites",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2957,
+          "title": "Council to consider sign bylaw changes for East Broadway and Fraser sites",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2956,
+          "title": "Council to consider noise bylaw change for 1770 West 12th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2955,
+          "title": "Council to consider sign bylaw change for 1770 West 12th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2954,
+          "title": "Proposed: Vancouver tax exemptions for certain lands and buildings",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2953,
+          "title": "Council to consider housing agreement bylaw for 5770–5790 Granville Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2952,
+          "title": "Council to consider housing agreement bylaw for West 3rd and Vine",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2951,
+          "title": "Council to consider repealing West 10th Avenue housing agreement bylaw",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2950,
+          "title": "Council to consider repealing Vanness Avenue housing agreement bylaw",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2949,
+          "title": "Council to consider housing agreement bylaw for 1045 Burnaby Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2948,
+          "title": "Council to consider housing agreement bylaw for 1088 Burnaby Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2947,
+          "title": "Council to consider repealing Heather Street housing agreement bylaw",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2946,
+          "title": "Council to consider repealing housing agreement bylaw for 5570 Manson Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2945,
+          "title": "Council to consider repealing housing agreement bylaw for 701 Kingsway",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2944,
+          "title": "Council to consider repealing Fraser Street housing agreement bylaw",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2943,
+          "title": "Council to consider housing agreement bylaw for West 13th and Willow",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2942,
+          "title": "Council to consider housing agreement bylaw for 461–479 East 16th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2941,
+          "title": "Council to consider housing agreement bylaw for 1125 West 10th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2940,
+          "title": "Council to consider housing agreement bylaw for 4975–4997 Joyce Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2939,
+          "title": "Council to consider housing agreement bylaw for 1770 West 12th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2938,
+          "title": "Council to consider bylaw change for Canada Place site",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2937,
+          "title": "Council to consider rezoning 8366–8380 Beatrice Street to RR-2A",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2936,
+          "title": "Council to consider rezoning 441 East Pender Street to CD-1",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2935,
+          "title": "Council to consider rezoning former Molson Brewery site to mixed-use high-rise",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2934,
+          "title": "Council to consider rezoning 2202-2212 West 10th Ave and 2221 Marstrand to CD-1",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2933,
+          "title": "Council to consider rezoning 1613-1625 Nanaimo Street to CD-1",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2932,
+          "title": "Council to consider rezoning bylaw change at 2158-2170 West 1st Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2931,
+          "title": "Council to consider rezoning bylaw change at 2110 West 5th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2930,
+          "title": "Council to consider bylaw change for Heather Lands South development",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2929,
+          "title": "Council to consider rezoning bylaw change at 2111 Main Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2928,
+          "title": "Proposed: Vancouver bylaw update to apartment regulations and zoning rules",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2927,
+          "title": "Council to consider miscellaneous amendments to Vancouver Animal Control By-law",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2926,
+          "title": "Proposed: Vancouver to consider miscellaneous amendment to Vehicles for Hire By-law",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2925,
+          "title": "Proposed: Vancouver to consider miscellaneous amendments to Licence By-law 4450",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2924,
+          "title": "Council to consider borrowing $175M through 4.35% debentures",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2923,
+          "title": "Council to consider cancelling 2025 tax sale of West 10th Avenue properties",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Vancouver tax sale cancellation redemption period ends",
+              "date": "2026-11-12"
+            },
+            {
+              "label": "Vancouver Council meeting on tax sale cancellation report",
+              "date": "2026-10-27"
+            }
+          ],
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 355,
       "path": "2026/09/10/355_vancouver-council_special-council-september-10-2026.json",
@@ -16,7 +471,7 @@
       "created_at": "2026-09-10T18:07:44.856784",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": true,
       "has_minutes": true,
       "agenda_brief_count": 1,
