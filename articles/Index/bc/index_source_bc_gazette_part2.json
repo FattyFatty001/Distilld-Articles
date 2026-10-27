@@ -1,7 +1,172 @@
 {
-  "generated_at": "2026-09-01T19:55:54.666714+00:00",
-  "count": 96,
+  "generated_at": "2026-10-27T21:44:20.209742+00:00",
+  "count": 101,
   "articles": [
+    {
+      "article_id": 393,
+      "path": "2026/07/17/393_bc-gazette-part-ii_bc-reg-1302026-oic-3362026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n14_130-2026",
+      "article_title": "B.C. Reg. 130/2026 – OIC 336/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-07-17T07:00:00",
+      "created_at": "2026-10-27T21:44:02.946695",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Professional Services, Retail, Transportation & Logistics",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 3009,
+          "title": "BC Legislative Precinct Rules Tightened: New Bans on Blocking Entry, Interfering with Security Cameras",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 392,
+      "path": "2026/07/17/392_bc-gazette-part-ii_bc-reg-1292026-oic-3342026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n14_129-2026",
+      "article_title": "B.C. Reg. 129/2026 – OIC 334/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-07-17T07:00:00",
+      "created_at": "2026-10-27T21:43:59.718699",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Natural Resources, Retail, Transportation & Logistics",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 3008,
+          "title": "BC fuel-price administrator can now charge fees to fuel companies, but must hold a hearing first",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC fuel price transparency fee hearing (first fee setting)",
+              "date": "2026-12-31"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 391,
+      "path": "2026/07/17/391_bc-gazette-part-ii_bc-reg-1282026-oic-3372026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n14_128-2026",
+      "article_title": "B.C. Reg. 128/2026 – OIC 337/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-07-17T07:00:00",
+      "created_at": "2026-10-27T21:43:56.414811",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Transportation & Logistics",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 3007,
+          "title": "BC Ferries Route Designation Regulation Updated by Order in Council",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 389,
+      "path": "2026/07/17/389_bc-gazette-part-ii_bc-reg-1262026-oic-3312026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n14_126-2026",
+      "article_title": "B.C. Reg. 126/2026 – OIC 331/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-07-17T07:00:00",
+      "created_at": "2026-10-27T21:43:52.699008",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Finance & Insurance, Landlord & Property Mgmt, Retail",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 3006,
+          "title": "BC credit reporting rules take effect August 1, 2027, letting people freeze their credit reports by phone",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC credit reporting and credit freeze regulation takes effect",
+              "date": "2027-08-01"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 388,
+      "path": "2026/07/17/388_bc-gazette-part-ii_bc-reg-1252026-oic-3332026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n14_125-2026",
+      "article_title": "B.C. Reg. 125/2026 – OIC 333/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-07-17T07:00:00",
+      "created_at": "2026-10-27T21:43:49.436671",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Professional Services",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 3005,
+          "title": "BC Brings Sections 12–20 of the Attorney General Statutes Amendment Act, 2025 Into Force",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
     {
       "article_id": 348,
       "path": "2026/07/13/348_bc-gazette-part-ii_bc-reg-1242026-oic-3262026.json",
@@ -16,7 +181,7 @@
       "created_at": "2026-09-01T19:55:43.346957",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -47,7 +212,7 @@
       "created_at": "2026-09-01T19:55:40.018490",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -83,7 +248,7 @@
       "created_at": "2026-09-01T19:55:36.770812",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
