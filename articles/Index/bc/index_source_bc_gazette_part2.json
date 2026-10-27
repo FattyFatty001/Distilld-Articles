@@ -1,7 +1,216 @@
 {
-  "generated_at": "2026-10-27T22:38:27.439304+00:00",
-  "count": 113,
+  "generated_at": "2026-10-27T23:05:34.641803+00:00",
+  "count": 119,
   "articles": [
+    {
+      "article_id": 411,
+      "path": "2026/07/24/411_bc-gazette-part-ii_bc-reg-1482026-treasury-board.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n14_148-2026",
+      "article_title": "B.C. Reg. 148/2026 – Treasury Board",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-07-24T07:00:00",
+      "created_at": "2026-10-27T23:05:15.512291",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Healthcare, Natural Resources, Technology, Transportation & Logistics",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 3027,
+          "title": "BC opens strategic investment funding to shipbuilding, mining, life sciences, AI and aerospace businesses",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 410,
+      "path": "2026/07/24/410_bc-gazette-part-ii_bc-reg-1472026-oic-3602026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n14_147-2026",
+      "article_title": "B.C. Reg. 147/2026 – OIC 360/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-07-24T07:00:00",
+      "created_at": "2026-10-27T23:05:12.064559",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Natural Resources, Transportation & Logistics",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 3026,
+          "title": "BC Amends BCUC Direction No. 5 to Add Marine LNG Service Rules and First Nation Definition",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 409,
+      "path": "2026/07/24/409_bc-gazette-part-ii_bc-reg-1462026-oic-3632026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n14_146-2026",
+      "article_title": "B.C. Reg. 146/2026 – OIC 363/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-07-24T07:00:00",
+      "created_at": "2026-10-27T23:05:09.125386",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Professional Services",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 3025,
+          "title": "BC's new international education law starts September 1, 2026, with more rules coming January 1, 2027",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC international education Act and Regulation Part 1 take effect",
+              "date": "2026-09-01"
+            },
+            {
+              "label": "BC international education Regulation Part 2 takes effect",
+              "date": "2027-01-01"
+            },
+            {
+              "label": "Remaining BC international education Act sections take effect",
+              "date": "2027-01-01"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 408,
+      "path": "2026/07/24/408_bc-gazette-part-ii_bc-reg-1452026-oic-3622026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n14_145-2026",
+      "article_title": "B.C. Reg. 145/2026 – OIC 362/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-07-24T07:00:00",
+      "created_at": "2026-10-27T23:05:06.017960",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development, Natural Resources, Professional Services",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 3024,
+          "title": "BC extends clean-energy regulation deadline to March 31, 2031",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC clean-energy regulation extended deadline takes effect",
+              "date": "2031-03-31"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 407,
+      "path": "2026/07/23/407_bc-gazette-part-ii_bc-reg-1442026-oic-3572026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n14_144-2026",
+      "article_title": "B.C. Reg. 144/2026 – OIC 357/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-07-23T07:00:00",
+      "created_at": "2026-10-27T23:05:02.695344",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Landlord & Property Mgmt",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 3023,
+          "title": "BC Supportive Housing Landlords Get New Entry Rules Starting December 1, 2026",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC supportive housing landlord entry rules take effect",
+              "date": "2026-12-01"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 406,
+      "path": "2026/07/23/406_bc-gazette-part-ii_bc-reg-1432026-oic-3562026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n14_143-2026",
+      "article_title": "B.C. Reg. 143/2026 – OIC 356/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-07-23T07:00:00",
+      "created_at": "2026-10-27T23:04:59.130213",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Landlord & Property Mgmt, Tenant",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 3022,
+          "title": "BC creates new rules for supportive housing tenancies under the Residential Tenancy Act",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
     {
       "article_id": 405,
       "path": "2026/07/23/405_bc-gazette-part-ii_bc-reg-1422026-oic-3552026.json",
@@ -16,7 +225,7 @@
       "created_at": "2026-10-27T22:38:08.312611",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -47,7 +256,7 @@
       "created_at": "2026-10-27T22:38:05.037988",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -78,7 +287,7 @@
       "created_at": "2026-10-27T22:38:02.501612",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -109,7 +318,7 @@
       "created_at": "2026-10-27T22:37:59.684488",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -140,7 +349,7 @@
       "created_at": "2026-10-27T22:37:57.268781",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -171,7 +380,7 @@
       "created_at": "2026-10-27T22:37:54.374171",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
