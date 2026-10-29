@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T09:27:10.572748+00:00",
-  "count": 37,
+  "generated_at": "2026-10-29T09:01:24.865404+00:00",
+  "count": 40,
   "articles": [
     {
       "article_id": 369,
@@ -16,7 +16,7 @@
       "created_at": "2026-09-24T09:26:59.646536",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -47,7 +47,7 @@
       "created_at": "2026-09-24T09:26:57.205339",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -78,7 +78,7 @@
       "created_at": "2026-09-24T09:26:54.707380",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -815,6 +815,99 @@
         {
           "id": 724,
           "title": "Burnaby approves housing agreement for 5 non-market rental buildings at Lougheed Highway and Alpha Avenue",
+          "source_label": "Burnaby Bylaws",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 415,
+      "path": "2026/10/29/415_burnaby-bylaws_bylaw-14851-inter-municipal-business-licence-bylaw.json",
+      "article_url": "https://bylaws.burnaby.ca/en/permalink/bylaw26182",
+      "article_title": "Bylaw 14851 — Inter-Municipal Business Licence Bylaw 2026",
+      "source": "burnaby_bylaws",
+      "source_label": "Burnaby Bylaws",
+      "government_level": "Municipal",
+      "source_website_icon": "https://bylaws.burnaby.ca",
+      "meeting_type": null,
+      "article_published_at": null,
+      "created_at": "2026-10-29T09:01:09.628813",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Food Service, Professional Services, Retail",
+      "locations": "British Columbia, Burnaby",
+      "briefs": [
+        {
+          "id": 3030,
+          "title": "Burnaby joins inter-municipal business licence program under new Bylaw 14851",
+          "source_label": "Burnaby Bylaws",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 414,
+      "path": "2026/10/29/414_burnaby-bylaws_bylaw-14852-inter-municipal-business-licence-agree.json",
+      "article_url": "https://bylaws.burnaby.ca/en/permalink/bylaw26183",
+      "article_title": "Bylaw 14852 — Inter-Municipal Business Licence Agreement Bylaw 2027",
+      "source": "burnaby_bylaws",
+      "source_label": "Burnaby Bylaws",
+      "government_level": "Municipal",
+      "source_website_icon": "https://bylaws.burnaby.ca",
+      "meeting_type": null,
+      "article_published_at": null,
+      "created_at": "2026-10-29T09:01:05.871825",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development, Professional Services, Retail",
+      "locations": "British Columbia, Burnaby",
+      "briefs": [
+        {
+          "id": 3029,
+          "title": "Burnaby joins inter-municipal business licence program under Bylaw 14852",
+          "source_label": "Burnaby Bylaws",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 413,
+      "path": "2026/10/29/413_burnaby-bylaws_bylaw-14854-taxation-exemption-bylaw-2026.json",
+      "article_url": "https://bylaws.burnaby.ca/en/permalink/bylaw26188",
+      "article_title": "Bylaw 14854 — Taxation Exemption Bylaw 2026",
+      "source": "burnaby_bylaws",
+      "source_label": "Burnaby Bylaws",
+      "government_level": "Municipal",
+      "source_website_icon": "https://bylaws.burnaby.ca",
+      "meeting_type": null,
+      "article_published_at": null,
+      "created_at": "2026-10-29T09:01:02.530224",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Landlord & Property Mgmt, Professional Services, Retail",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 3028,
+          "title": "Burnaby's 2026 tax exemption bylaw changes who can skip property taxes",
           "source_label": "Burnaby Bylaws",
           "key_dates": [],
           "is_proposal": false
