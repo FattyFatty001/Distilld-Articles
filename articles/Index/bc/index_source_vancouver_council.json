@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T00:05:36.950106+00:00",
+  "generated_at": "2026-10-29T23:09:01.742928+00:00",
   "count": 14,
   "articles": [
     {
@@ -13,16 +13,16 @@
       "source_website_icon": "https://vancouver.ca",
       "meeting_type": "regular-council",
       "article_published_at": "2026-10-27T07:00:00",
-      "created_at": "2026-10-27T00:05:27.728981",
+      "created_at": "2026-10-29T23:08:50.370317",
       "has_attachments": true,
       "has_pdf": true,
       "has_html": true,
       "has_agenda": true,
-      "has_minutes": false,
+      "has_minutes": true,
       "agenda_brief_count": 59,
-      "minutes_brief_count": 0,
-      "industries": "Construction & Development, Finance & Insurance, Food Service, Hotel & Accommodation, Landlord & Property Mgmt, Professional Services, Retail, Tenant, Transportation & Logistics",
-      "locations": "British Columbia, Vancouver",
+      "minutes_brief_count": 118,
+      "industries": "Construction & Development, Finance & Insurance, Food Service, Hotel & Accommodation, Landlord & Property Mgmt, Professional Services, Retail, Spa & Wellness, Tenant, Transportation & Logistics",
+      "locations": "British Columbia, Burnaby, New Westminster, Vancouver",
       "briefs": [
         {
           "id": 2981,
@@ -454,6 +454,837 @@
             }
           ],
           "is_proposal": true
+        },
+        {
+          "id": 3151,
+          "title": "[NOT REACHED] Vancouver apartment regulation update left undecided",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3150,
+          "title": "[NOT REACHED] Vancouver housekeeping amendment to Area Specific Development Cost Levy By-law 9418",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3149,
+          "title": "[NOT REACHED] Vancouver utilities development cost levy housekeeping amendment left undecided",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3148,
+          "title": "[NOT REACHED] Vancouver council did not decide on housekeeping changes to the development cost levy bylaw",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3147,
+          "title": "[NOT REACHED] Council did not decide on Granville Street subdivision bylaw change",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3146,
+          "title": "[NOT REACHED] Council did not decide on Dunbar Street subdivision bylaw change",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3145,
+          "title": "[NOT REACHED] Council did not decide on Willow Street subdivision bylaw change",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3144,
+          "title": "[NOT REACHED] Council did not decide on noise bylaw changes for West Broadway and Columbia sites",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3143,
+          "title": "[NOT REACHED] Council did not decide on sign bylaw changes for West Broadway and Columbia sites",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3142,
+          "title": "[NOT REACHED] Council did not decide on noise bylaw change for 2180 West 6th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3141,
+          "title": "[NOT REACHED] Council did not decide on sign bylaw amendment for 2180 West 6th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3140,
+          "title": "[NOT REACHED] Council did not decide on noise bylaw change for 2336-2366 Charles Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3139,
+          "title": "[NOT REACHED] Council did not decide on sign bylaw change for 2336-2366 Charles Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3138,
+          "title": "[NOT REACHED] Council did not decide on noise bylaw change for West 10th and Highbury site",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3137,
+          "title": "[NOT REACHED] Council did not decide on sign bylaw changes for West 10th and Highbury sites",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3136,
+          "title": "[NOT REACHED] Vancouver noise bylaw change for Heather Lands South left undecided",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3135,
+          "title": "[NOT REACHED] Council did not decide on sign bylaw changes for Heather Lands South project",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3134,
+          "title": "[NOT REACHED] Vancouver noise bylaw change for 2110 West 5th Avenue left undecided",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3133,
+          "title": "[NOT REACHED] Council did not decide on sign bylaw change for 2110 West 5th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3132,
+          "title": "[NOT REACHED] Council did not decide on noise bylaw change for West 1st Avenue site",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3131,
+          "title": "[NOT REACHED] Council did not decide on sign bylaw change for 2158-2170 West 1st Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3130,
+          "title": "[NOT REACHED] Council did not decide on noise bylaw change for Joyce Street project",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3129,
+          "title": "[NOT REACHED] Council did not decide on sign bylaw change for Joyce Street site",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3128,
+          "title": "[NOT REACHED] Vancouver noise bylaw changes for East Broadway and Fraser sites left undecided",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3127,
+          "title": "[NOT REACHED] Vancouver sign bylaw changes for East Broadway and Fraser sites left undecided",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3126,
+          "title": "[NOT REACHED] Council did not decide on noise bylaw change for 1770 West 12th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3125,
+          "title": "[NOT REACHED] Council did not decide on sign bylaw change for 1770 West 12th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3124,
+          "title": "[NOT REACHED] Vancouver tax exemption bylaw for certain lands and buildings",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3123,
+          "title": "[NOT REACHED] Council did not decide on housing agreement bylaw for 5770–5790 Granville Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3122,
+          "title": "[NOT REACHED] Council did not decide on housing agreement bylaw for West 3rd and Vine",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3121,
+          "title": "[NOT REACHED] Council did not decide on repealing the West 10th Avenue housing agreement bylaw",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3120,
+          "title": "[NOT REACHED] Council did not decide on repealing the Vanness Avenue housing agreement bylaw",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3119,
+          "title": "[NOT REACHED] Housing agreement bylaw for 1045 Burnaby Street left undecided",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3118,
+          "title": "[NOT REACHED] Housing agreement bylaw for 1088 Burnaby Street left undecided",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3117,
+          "title": "[NOT REACHED] Council did not decide on repealing the Heather Street housing agreement bylaw",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3116,
+          "title": "[NOT REACHED] Council did not decide on repealing the 5570 Manson Street housing agreement bylaw",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3115,
+          "title": "[NOT REACHED] Council did not decide on repealing the 701 Kingsway housing agreement bylaw",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3114,
+          "title": "[NOT REACHED] Council did not decide on repealing the Fraser Street housing agreement bylaw",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3113,
+          "title": "[NOT REACHED] Council did not decide on housing agreement bylaw for West 13th and Willow",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3112,
+          "title": "[NOT REACHED] Council did not decide on housing agreement bylaw for East 16th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3111,
+          "title": "[NOT REACHED] Council did not decide on housing agreement bylaw for 1125 West 10th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3110,
+          "title": "[NOT REACHED] Council did not decide on housing agreement bylaw for Joyce Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3109,
+          "title": "[NOT REACHED] Council did not decide on housing agreement bylaw for 1770 West 12th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3108,
+          "title": "[NOT REACHED] Council did not decide on Canada Place bylaw change",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3107,
+          "title": "[NOT REACHED] Council did not decide on rezoning 8366–8380 Beatrice Street to RR-2A",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3106,
+          "title": "[NOT REACHED] Council did not decide on rezoning 441 East Pender Street to CD-1",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3105,
+          "title": "[NOT REACHED] Council did not decide on rezoning the former Molson Brewery site",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3104,
+          "title": "[NOT REACHED] Council did not decide on rezoning 2202-2212 West 10th Ave and 2221 Marstrand to CD-1",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3103,
+          "title": "[NOT REACHED] Council did not decide on rezoning 1613-1625 Nanaimo Street to CD-1",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3102,
+          "title": "[NOT REACHED] Council did not decide on rezoning bylaw change at 2158-2170 West 1st Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3101,
+          "title": "[NOT REACHED] Council did not decide on rezoning bylaw change at 2110 West 5th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3100,
+          "title": "[NOT REACHED] Council did not decide on Heather Lands South bylaw change",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3099,
+          "title": "[NOT REACHED] Council did not decide on rezoning bylaw change at 2111 Main Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3098,
+          "title": "[NOT REACHED] Vancouver apartment zoning bylaw update left undecided",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3097,
+          "title": "[NOT REACHED] Vancouver council did not decide on miscellaneous Animal Control By-law amendments",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3096,
+          "title": "[NOT REACHED] Vancouver's proposed changes to the Vehicles for Hire By-law were not decided",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3095,
+          "title": "[NOT REACHED] Vancouver's proposed housekeeping changes to Licence By-law 4450 went undecided",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3094,
+          "title": "[NOT REACHED] Council did not decide on $175M borrowing bylaw at 4.35% debentures",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3093,
+          "title": "[NOT REACHED] Council did not decide on cancelling 2025 tax sale of West 10th Avenue properties",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3092,
+          "title": "Council adopted updated apartment regulations policies, effective October 27, 2026",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Vancouver updated apartment regulations policies take effect",
+              "date": "2026-10-27"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 3091,
+          "title": "Vancouver Council passed housekeeping amendments to Area Specific Development Cost Levy By-law",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3090,
+          "title": "Council approved housekeeping amendment to Vancouver Utilities Development Cost Levy By-law",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3089,
+          "title": "Vancouver Council passed housekeeping amendments to Development Cost Levy By-law",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3088,
+          "title": "Council approved a subdivision bylaw amendment for Granville Street and West 37th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3087,
+          "title": "Council approved a Subdivision By-law amendment for 5889-5925 Dunbar Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3086,
+          "title": "Council approved bylaw amendment for 4910-4950 Willow Street subdivision",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3085,
+          "title": "Council amended Vancouver's Noise Control By-law for West Broadway and Columbia sites",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3084,
+          "title": "Council approved sign bylaw changes for West Broadway and Columbia Street sites",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3083,
+          "title": "Council amended Vancouver's Noise Control By-law for 2180 West 6th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3082,
+          "title": "Council approved sign bylaw amendment for 2180 West 6th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3081,
+          "title": "Council amended Vancouver's Noise Control By-law for 2336-2366 Charles Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3080,
+          "title": "Council approved sign bylaw amendment for 2336-2366 Charles Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3079,
+          "title": "Council amended Vancouver's Noise Control By-law for West 10th and Highbury sites",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3078,
+          "title": "Council approved sign bylaw changes for West 10th and Highbury properties",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3077,
+          "title": "Council approved noise bylaw amendment for Heather Lands South at 657 West 37th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3076,
+          "title": "Council approved sign bylaw amendment for Heather Lands South at 657 West 37th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3075,
+          "title": "Council amended Vancouver's Noise Control By-law for 2110 West 5th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3074,
+          "title": "Council approved sign bylaw amendment for 2110 West 5th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3073,
+          "title": "Council passed a noise bylaw amendment for 2158-2170 West 1st Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3072,
+          "title": "Council approved sign bylaw amendment for 2158-2170 West 1st Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3071,
+          "title": "Council approved noise bylaw amendment for 4975-4997 Joyce Street project",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3070,
+          "title": "Council approved sign bylaw amendment for 4975-4997 Joyce Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3069,
+          "title": "Council amended Vancouver's Noise Control By-law for East Broadway and Fraser sites",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3068,
+          "title": "Council approved sign bylaw changes for East Broadway and Fraser Street sites",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3067,
+          "title": "Council approved noise bylaw amendment for 1770 West 12th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3066,
+          "title": "Council approved sign bylaw amendment for 1770 West 12th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3065,
+          "title": "Vancouver Council passed by-law granting property tax exemptions to certain lands",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3064,
+          "title": "Vancouver Council enacted a housing agreement bylaw for 5770–5790 Granville Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3063,
+          "title": "Council enacted housing agreement bylaw for West 3rd and Vine site",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3062,
+          "title": "Council repealed housing agreement bylaw for West 10th and Highbury site",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3061,
+          "title": "Council repealed Vanness and Clive housing agreement bylaw",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3060,
+          "title": "Vancouver Council enacted housing agreement bylaw for 1045 Burnaby Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3059,
+          "title": "Vancouver Council enacted housing agreement bylaw for 1088 Burnaby Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3058,
+          "title": "Council repealed Heather Street housing agreement bylaw",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3057,
+          "title": "Council repealed housing agreement bylaw for 5570 Manson Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3056,
+          "title": "Council repealed housing agreement bylaw for 701 Kingsway",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3055,
+          "title": "Council repealed Fraser Street housing agreement bylaw",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3054,
+          "title": "Council enacted housing agreement bylaw for West 13th and Willow site",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3053,
+          "title": "Council enacted housing agreement bylaw for 461–479 East 16th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3052,
+          "title": "Vancouver Council enacted housing agreement bylaw for 1125 West 10th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3051,
+          "title": "Vancouver Council passed housing agreement bylaw for 4975–4997 Joyce Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3050,
+          "title": "Council enacted housing agreement bylaw for 1770 West 12th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3049,
+          "title": "Council approved CD-1 bylaw changes for Canada Place and Waterfront Road",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3048,
+          "title": "Council approved rezoning 8366–8380 Beatrice Street from R1-1 to RR-2A",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3047,
+          "title": "Council approved rezoning 441 East Pender Street to CD-1",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3046,
+          "title": "Council approved ODP changes for former Molson Brewery site at Burrard and West 1st",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3045,
+          "title": "Council approved rezoning 2202-2212 West 10th and 2221 Marstrand to CD-1",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3044,
+          "title": "Council approved rezoning 1613-1625 Nanaimo Street to CD-1",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3043,
+          "title": "Council passed bylaw amending CD-1 zoning for 2158-2170 West 1st Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3042,
+          "title": "Council passed bylaw amending CD-1 zoning for 2110 West 5th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3041,
+          "title": "Council passed CD-1 bylaw amendment for Heather Lands South at Heather Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3040,
+          "title": "Council passed bylaw amending CD-1 zoning for 2111 Main Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3039,
+          "title": "Vancouver Council Enacts By-law Updating Apartment Regulations",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3038,
+          "title": "Vancouver Council passed bylaw amending Animal Control By-law No. 9150",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3037,
+          "title": "Vancouver Council passed a bylaw amending the Vehicles for Hire By-law",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3036,
+          "title": "Vancouver Council enacted By-law No. 14824 amending Licence By-law No. 4450",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3035,
+          "title": "Council enacted $175M sinking fund debenture by-law at 4.35%",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3034,
+          "title": "Council cancelled 2025 tax sale of West 10th Avenue strata unit",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
         }
       ]
     },
