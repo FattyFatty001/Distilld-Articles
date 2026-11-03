@@ -1,7 +1,176 @@
 {
-  "generated_at": "2026-10-29T14:31:23.020694+00:00",
-  "count": 122,
+  "generated_at": "2026-11-03T18:42:04.181909+00:00",
+  "count": 127,
   "articles": [
+    {
+      "article_id": 427,
+      "path": "2026/09/14/427_bc-gazette-part-ii_bc-reg-1582026-british-columbia-securities-commiss.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n16_158-2026",
+      "article_title": "B.C. Reg. 158/2026 – British Columbia Securities Commission",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-09-14T07:00:00",
+      "created_at": "2026-11-03T18:41:46.032129",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Natural Resources",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 3156,
+          "title": "BC changes licence fees for renewable energy projects, capping charges for large sites",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 426,
+      "path": "2026/09/11/426_bc-gazette-part-ii_bc-reg-1572026-british-columbia-securities-commiss.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n16_157-2026",
+      "article_title": "B.C. Reg. 157/2026 – British Columbia Securities Commission",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-09-11T07:00:00",
+      "created_at": "2026-11-03T18:41:43.154014",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Finance & Insurance, Professional Services",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 3155,
+          "title": "Mutual fund disclosure rules change October 1, 2026, with new registration rules January 1, 2027",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC mutual fund prospectus and sales-practice amendments take effect",
+              "date": "2026-10-01"
+            },
+            {
+              "label": "BC registration requirements rule (NI 31-103) amendments take effect",
+              "date": "2027-01-01"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 425,
+      "path": "2026/09/11/425_bc-gazette-part-ii_bc-reg-1562026-british-columbia-securities-commiss.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n16_156-2026",
+      "article_title": "B.C. Reg. 156/2026 – British Columbia Securities Commission",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-09-11T07:00:00",
+      "created_at": "2026-11-03T18:41:39.843499",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Finance & Insurance, Professional Services",
+      "locations": "British Columbia, Canada",
+      "briefs": [
+        {
+          "id": 3154,
+          "title": "BC public companies must now file a news release 25 days before annual financial statements",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC Reg. 156/2026 electronic access news release rule takes effect",
+              "date": "2026-09-22"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 423,
+      "path": "2026/09/10/423_bc-gazette-part-ii_bc-reg-1542026-3952026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n16_154-2026",
+      "article_title": "B.C. Reg. 154/2026 – 395/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-09-10T07:00:00",
+      "created_at": "2026-11-03T18:41:35.004478",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Transportation & Logistics",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 3153,
+          "title": "BC approves two new speed cameras, including one that can ticket vehicles in both directions",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 422,
+      "path": "2026/09/08/422_bc-gazette-part-ii_bc-reg-1532026-oic-3942026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n16_153-2026",
+      "article_title": "B.C. Reg. 153/2026 – OIC 394/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-09-08T07:00:00",
+      "created_at": "2026-11-03T18:41:32.348074",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Professional Services",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 3152,
+          "title": "BC creates protected access zones around most schools under new Safe Access to Schools Regulation",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
     {
       "article_id": 419,
       "path": "2026/08/24/419_bc-gazette-part-ii_bc-reg-1522026-m3162026.json",
@@ -16,7 +185,7 @@
       "created_at": "2026-10-29T14:31:09.723290",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -47,7 +216,7 @@
       "created_at": "2026-10-29T14:31:05.416437",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -78,7 +247,7 @@
       "created_at": "2026-10-29T14:31:02.508483",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
