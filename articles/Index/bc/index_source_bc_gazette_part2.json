@@ -1,7 +1,150 @@
 {
-  "generated_at": "2026-11-03T18:42:04.181909+00:00",
-  "count": 127,
+  "generated_at": "2026-11-03T19:08:59.507786+00:00",
+  "count": 131,
   "articles": [
+    {
+      "article_id": 431,
+      "path": "2026/09/22/431_bc-gazette-part-ii_bc-reg-1622026-oic-4092026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n16_162-2026",
+      "article_title": "B.C. Reg. 162/2026 – OIC 409/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-09-22T07:00:00",
+      "created_at": "2026-11-03T19:08:43.877529",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development, Labour & Employment, Professional Services",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 3160,
+          "title": "BC's new Trade Recognition Act takes effect October 1, 2026, changing how out-of-province credentials are recognized",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 430,
+      "path": "2026/09/22/430_bc-gazette-part-ii_bc-reg-1612026-oic-4082026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n16_161-2026",
+      "article_title": "B.C. Reg. 161/2026 – OIC 408/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-09-22T07:00:00",
+      "created_at": "2026-11-03T19:08:40.598420",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development, Landlord & Property Mgmt, Professional Services",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 3159,
+          "title": "BC makes accounting, architecture, engineering, commercial real estate and security services PST-exempt",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC PST exemption for accounting, architecture, engineering, real estate and security services takes effect",
+              "date": "2026-10-01"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 429,
+      "path": "2026/09/22/429_bc-gazette-part-ii_bc-reg-1602026-oic-4072026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n16_160-2026",
+      "article_title": "B.C. Reg. 160/2026 – OIC 407/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-09-22T07:00:00",
+      "created_at": "2026-11-03T19:08:37.276317",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Hotel & Accommodation, Landlord & Property Mgmt",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 3158,
+          "title": "BC extends hotel room tax (accommodation tax) end dates for several tourist areas to 2031 and 2032",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC accommodation area tax end-date extensions take effect",
+              "date": "2026-11-01"
+            },
+            {
+              "label": "BC accommodation area tax further changes take effect",
+              "date": "2027-01-01"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 428,
+      "path": "2026/09/22/428_bc-gazette-part-ii_bc-reg-1592026-oic-4062026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n16_159-2026",
+      "article_title": "B.C. Reg. 159/2026 – OIC 406/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-09-22T07:00:00",
+      "created_at": "2026-11-03T19:08:33.982586",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Natural Resources",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 3157,
+          "title": "BC extends two forest rules' deadlines from September 30, 2026 to September 30, 2028",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "Extended deadline for B.C. Reg. 134/2023 and 34/2024 requirements",
+              "date": "2028-09-30"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
     {
       "article_id": 427,
       "path": "2026/09/14/427_bc-gazette-part-ii_bc-reg-1582026-british-columbia-securities-commiss.json",
@@ -16,7 +159,7 @@
       "created_at": "2026-11-03T18:41:46.032129",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -47,7 +190,7 @@
       "created_at": "2026-11-03T18:41:43.154014",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -87,7 +230,7 @@
       "created_at": "2026-11-03T18:41:39.843499",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -123,7 +266,7 @@
       "created_at": "2026-11-03T18:41:35.004478",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -154,7 +297,7 @@
       "created_at": "2026-11-03T18:41:32.348074",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
