@@ -1,7 +1,218 @@
 {
-  "generated_at": "2026-10-27T07:18:10.025590+00:00",
-  "count": 19,
+  "generated_at": "2026-11-10T07:24:39.726116+00:00",
+  "count": 20,
   "articles": [
+    {
+      "article_id": 432,
+      "path": "2026/11/10/432_richmond-council_city-council.json",
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=1de4b80b-3378-4839-be8a-7047c29c37b2&lang=English",
+      "article_title": "City Council",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://www.richmond.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-11-10T07:00:00",
+      "created_at": "2026-11-10T07:24:29.652127",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": true,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 18,
+      "minutes_brief_count": 0,
+      "industries": "Construction & Development, Finance & Insurance, Healthcare, Hotel & Accommodation, Labour & Employment, Landlord & Property Mgmt, Natural Resources, Professional Services, Retail, Spa & Wellness, Transportation & Logistics",
+      "locations": "Richmond",
+      "briefs": [
+        {
+          "id": 3178,
+          "title": "Council to consider authorizing contract talks with Jacobs for water systems",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Richmond Council considers authorizing Jacobs contract negotiations",
+              "date": "2026-11-17"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3177,
+          "title": "Council to consider appointing Crescent Diamond to Police Review Commission",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Richmond Community Police Review Commission term ends",
+              "date": "2029-11-01"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3176,
+          "title": "Council to consider $299,610 Dalberg contract for Polluters Pay engagement",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Dalberg Polluters Pay consulting contract start date",
+              "date": "2026-11-10"
+            },
+            {
+              "label": "Dalberg Polluters Pay consulting contract end date",
+              "date": "2027-11-10"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3175,
+          "title": "Richmond Council to consider $107,207 for asset inventory and condition assessment",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3174,
+          "title": "Council to consider 15-year AC Transit agreement for Macdonald/Cutting project",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3173,
+          "title": "Council to vote on $2.1M McKim Corp. arterial paving contract",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "McKim Corporation construction agreement signing date",
+              "date": "2026-11-12"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3172,
+          "title": "Council to consider accepting $25,000 Hellman Foundation grant for parks",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3171,
+          "title": "Council to vote on $75,000 increase to Halleman Group advisor contract",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Richmond council vote on Halleman Group contract amendment",
+              "date": "2026-11-10"
+            },
+            {
+              "label": "New wastewater operator services begin, Veolia agreement expires",
+              "date": "2027-05-15"
+            },
+            {
+              "label": "Halleman Group owner's advisor contract term ends",
+              "date": "2028-04-30"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3170,
+          "title": "Council to consider adding 33 native tree species to Urban Greening Master Plan",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3169,
+          "title": "Council to consider appointing Cynthia Pardinas to Richmond youth fund board",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3168,
+          "title": "Council to consider appointing Gage Eda to Human Rights Commission",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3167,
+          "title": "Richmond Council to consider appointing Phyllis Howard to Commission on Aging",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Commission on Aging appointment term ends",
+              "date": "2030-05-19"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3166,
+          "title": "Council to consider appointing Alpa Agarwal to Richmond Commission on Aging",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Richmond Commission on Aging appointment term ends",
+              "date": "2030-05-19"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3165,
+          "title": "Council to consider $184,800 increase to Du-All Safety contract",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Du-All Safety contract services end date",
+              "date": "2027-06-30"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3164,
+          "title": "Council to vote on grant application for Nevin Park revitalization",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3163,
+          "title": "Council to consider $480,000 sole-source contract for RYSE Center youth mental health services",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "RYSE Center CARRY contract term begins",
+              "date": "2027-01-01"
+            },
+            {
+              "label": "RYSE Center CARRY contract term ends",
+              "date": "2027-12-31"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3162,
+          "title": "Council to consider $155,000 grant for RichmondBUILD construction trades training",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3161,
+          "title": "Proposed: Richmond to update industrial safety rules after hazardous materials program transfer",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 387,
       "path": "2026/10/27/387_richmond-council_city-council.json",
@@ -16,7 +227,7 @@
       "created_at": "2026-10-27T07:18:00.042899",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": true,
       "has_minutes": false,
       "agenda_brief_count": 23,
