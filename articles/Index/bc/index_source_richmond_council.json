@@ -1,7 +1,393 @@
 {
-  "generated_at": "2026-11-12T21:50:29.683734+00:00",
-  "count": 20,
+  "generated_at": "2026-11-17T07:25:38.012248+00:00",
+  "count": 21,
   "articles": [
+    {
+      "article_id": 435,
+      "path": "2026/11/17/435_richmond-council_city-council.json",
+      "article_url": "https://pub-richmond.escribemeetings.com/Meeting.aspx?Id=ce65655a-d15f-4805-8ef7-e0f9ef68d696&lang=English",
+      "article_title": "City Council",
+      "source": "richmond_council",
+      "source_label": "Richmond Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://www.richmond.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-11-17T07:00:00",
+      "created_at": "2026-11-17T07:25:26.636687",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": true,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 35,
+      "minutes_brief_count": 0,
+      "industries": "Construction & Development, Finance & Insurance, Food Service, Healthcare, Labour & Employment, Landlord & Property Mgmt, Natural Resources, Professional Services, Retail, Technology, Transportation & Logistics",
+      "locations": "Richmond",
+      "briefs": [
+        {
+          "id": 3256,
+          "title": "Council to consider adding 30 native tree species to Urban Greening Master Plan",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3255,
+          "title": "Richmond Council to receive October 2026 abatement report",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3254,
+          "title": "Richmond Council to consider $548K increase to Trans Metro paratransit contract",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Trans Metro paratransit contract term ends",
+              "date": "2028-06-30"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3253,
+          "title": "Council to consider accepting Boorman Park Revitalization Project as complete",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3252,
+          "title": "Council to consider $412K sole-source contract for Rheem Creek restoration",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3251,
+          "title": "Council to vote on $119K contract for Hilltop and Marina Bay assessment districts",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "SCI assessment engineering contract term begins",
+              "date": "2026-07-01"
+            },
+            {
+              "label": "SCI initial three-year contract term ends",
+              "date": "2029-06-30"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3250,
+          "title": "Richmond Council to consider recognizing October 17, 2026 as Arbor Day",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Richmond Arbor Day 2026 recognition date",
+              "date": "2026-10-17"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3249,
+          "title": "Council to consider accepting $1.04M federal grant for corridor planning",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3248,
+          "title": "Council to consider $90K contract for police psychological screening",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Dunnigan psychological screening contract start date",
+              "date": "2026-11-30"
+            },
+            {
+              "label": "Dunnigan psychological screening contract end date",
+              "date": "2029-12-31"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3247,
+          "title": "Council to consider approving $25,923 purchase of 20 police patrol rifles",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3246,
+          "title": "Council to consider approving $44,973 purchase of five ballistic shields for police",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3245,
+          "title": "Council to consider $300K mobile data computer purchase for police",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Richmond mobile data computer purchase authorization expires",
+              "date": "2027-11-07"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3244,
+          "title": "Council to receive Richmond Police September 2026 crime report",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3243,
+          "title": "Council to consider correcting Amanda Campbell's term on Children and Youth Oversight Board",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3242,
+          "title": "Richmond Council to consider appointing Marcello Magaña to Economic Development Commission",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Richmond Economic Development Commission appointment term ends",
+              "date": "2029-03-30"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3241,
+          "title": "Council to consider appointing Amanda Deering Jones to Arts and Culture Commission",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3240,
+          "title": "Council to consider reappointing Amber Hatfield to crisis response board",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Proposed CCRP advisory board term ends",
+              "date": "2029-12-31"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3239,
+          "title": "Council to consider $3.97M Tyler Technologies AP automation contract amendment",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Richmond Council vote on Tyler AP automation amendment",
+              "date": "2026-11-17"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3238,
+          "title": "Council to vote on new Richmond police managers' contract, 2026–2028",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Richmond police management MOU term starts",
+              "date": "2026-01-01"
+            },
+            {
+              "label": "Richmond police management MOU term ends",
+              "date": "2028-12-31"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3237,
+          "title": "Council to vote on 2026 holiday closure deals with two city unions",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Richmond Council vote on 2026 holiday closure side letters",
+              "date": "2026-11-17"
+            },
+            {
+              "label": "Richmond city office holiday closure begins",
+              "date": "2026-12-24"
+            },
+            {
+              "label": "Richmond city offices reopen after holiday closure",
+              "date": "2027-01-04"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3236,
+          "title": "Council to consider amending salary schedules for CalPERS compliance",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Richmond salary schedule adoption resolution",
+              "date": "2026-11-17"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3235,
+          "title": "Council to vote on 5% pension cost-of-living increase for 2027",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Richmond 5% pension cost-of-living increase takes effect",
+              "date": "2027-01-01"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3234,
+          "title": "Richmond Council to consider receiving FY2026-27 Q1 financial report",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3233,
+          "title": "Council to consider receiving FY2025-26 annual developer impact fee report",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3232,
+          "title": "Council to consider receiving September 2026 financial and overtime reports",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3231,
+          "title": "Council to consider raising Corporation Yard environmental contract to $245K",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3230,
+          "title": "Council to consider acknowledging Port's withdrawal from $2.6M VW grant",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3229,
+          "title": "Council to consider $21K sole-source closeout contract for Shields-Reid park sculpture",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Shields-Reid Trio closeout contract start date",
+              "date": "2026-10-20"
+            },
+            {
+              "label": "Shields-Reid Trio closeout contract end date",
+              "date": "2026-12-31"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3228,
+          "title": "Council to vote on $40K neighbourhood council event sponsorship program",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Neighbourhood council event sponsorship application deadline (45 days before event)",
+              "date": "2026-12-14"
+            },
+            {
+              "label": "RNCC 70th Anniversary Event at Richmond Memorial Auditorium Lobby",
+              "date": "2026-12-14"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3227,
+          "title": "Council to consider adding $37,500 to Universal Safety CPR training contract",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Universal Safety CPR training contract expiration date",
+              "date": "2028-03-30"
+            },
+            {
+              "label": "EPA Brownfields Job Training grant budget period ends",
+              "date": "2031-06-30"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3226,
+          "title": "Council to consider $130K sole-source AmeriNat loan management contract",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "AmeriNat loan management contract term ends",
+              "date": "2029-12-31"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3225,
+          "title": "Council to consider adopting No Net Loss findings for Marina Point housing project",
+          "source_label": "Richmond Council",
+          "key_dates": [
+            {
+              "label": "Richmond council considers Marina Point No Net Loss resolution",
+              "date": "2026-11-17"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3224,
+          "title": "Council to consider accepting Miraflores Greenbelt signage project as complete",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3223,
+          "title": "Council to vote on adding $35K to Richmond Wellness Trail Phase 2 agreement",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3222,
+          "title": "Council to consider adding excused absence rules to Richmond Commission on Aging bylaw",
+          "source_label": "Richmond Council",
+          "key_dates": [],
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 432,
       "path": "2026/11/10/432_richmond-council_city-council.json",
@@ -1008,7 +1394,7 @@
       "created_at": "2026-11-12T21:50:19.878523",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": true,
       "has_minutes": true,
       "agenda_brief_count": 16,
