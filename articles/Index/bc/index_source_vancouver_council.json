@@ -1,7 +1,288 @@
 {
-  "generated_at": "2026-10-29T23:09:01.742928+00:00",
-  "count": 14,
+  "generated_at": "2026-11-17T00:10:29.516577+00:00",
+  "count": 15,
   "articles": [
+    {
+      "article_id": 434,
+      "path": "2026/11/17/434_vancouver-council_regular-council-november-17-2026.json",
+      "article_url": "https://council.vancouver.ca/20261117/regu20261117ag.htm",
+      "article_title": "Regular Council — November 17, 2026",
+      "source": "vancouver_council",
+      "source_label": "Vancouver Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://vancouver.ca",
+      "meeting_type": "regular-council",
+      "article_published_at": "2026-11-17T07:00:00",
+      "created_at": "2026-11-17T00:10:15.965289",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": true,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 27,
+      "minutes_brief_count": 0,
+      "industries": "Cannabis, Construction & Development, Food Service, Landlord & Property Mgmt, Liquor, Professional Services, Retail, Tenant",
+      "locations": "Vancouver",
+      "briefs": [
+        {
+          "id": 3221,
+          "title": "Council to consider closing road portions at 722 Gore Avenue for a new park",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Deadline to request to speak to Vancouver Council on 722 Gore Avenue",
+              "date": "2026-11-16"
+            },
+            {
+              "label": "Vancouver Council meeting and vote on 722 Gore Avenue road closure",
+              "date": "2026-11-17"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3220,
+          "title": "Council to consider rezoning 1125 West 10th Avenue to CD-1",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3219,
+          "title": "Council to consider bylaw amendment for Beatrice Street subdivision",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3218,
+          "title": "Proposed: Vancouver noise bylaw amendment for 2202-2212 West 10th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3217,
+          "title": "Council to consider noise bylaw change for 1613-1625 Nanaimo Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3216,
+          "title": "Council to consider sign bylaw amendment for 1613-1625 Nanaimo Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3215,
+          "title": "Council to consider housing agreement bylaw for 1081 West 16th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3214,
+          "title": "Council to consider repealing housing agreement bylaw for Joyce Street site",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3213,
+          "title": "Council to consider housing agreement bylaw for 466-476 West 27th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3212,
+          "title": "Council to consider housing agreement bylaw for 2111 Main Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3211,
+          "title": "Council to consider amending housing agreement at 4615 Arbutus Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3210,
+          "title": "Council to consider housing agreement bylaw for 2260-2266 West 2nd Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3209,
+          "title": "Council to consider rezoning bylaw change for 625-777 Pacific St",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3208,
+          "title": "Council to consider rezoning West 3rd Ave and Vine St to CD-1",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3207,
+          "title": "Council to consider rezoning 901 West Broadway to CD-1",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3206,
+          "title": "Council to consider rezoning West 13th Ave and Willow St to CD-1",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3205,
+          "title": "Council to consider rezoning 1470-1476 West Broadway to CD-1",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3204,
+          "title": "Proposed Vancouver rezoning at 852-872 Seymour Street withdrawn",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3203,
+          "title": "Council to receive 2026 Local General Election results report",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Vancouver capital borrowing authority begins",
+              "date": "2027-01-01"
+            },
+            {
+              "label": "Vancouver capital borrowing authority ends",
+              "date": "2030-12-31"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3202,
+          "title": "Council to consider consultation rules for rezoning that amends Vancouver Official Development Plan",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Vancouver Council meeting on ODP rezoning consultation",
+              "date": "2026-11-17"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3201,
+          "title": "Proposed: Yaletown BIA expansion up for Council consideration in 2027",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Vancouver Council considers Yaletown BIA expansion",
+              "date": "2026-11-17"
+            },
+            {
+              "label": "Staff report back on Yaletown BIA expansion feedback",
+              "date": "2027-02-01"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3200,
+          "title": "Council to consider closing and turning 722 Gore Avenue into a permanent park",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3199,
+          "title": "Council to consider Business Licence Hearing Panel assignments for late 2026",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Vancouver business licence hearing panel date",
+              "date": "2026-11-24"
+            },
+            {
+              "label": "Vancouver business licence hearing panel date",
+              "date": "2026-11-25"
+            },
+            {
+              "label": "Vancouver business licence hearing panel date",
+              "date": "2026-12-08"
+            },
+            {
+              "label": "Vancouver business licence hearing panel date",
+              "date": "2026-12-09"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3198,
+          "title": "Council to consider annual update to Vancouver Heritage Register",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Vancouver Council vote on Heritage Register amendments",
+              "date": "2026-11-17"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3197,
+          "title": "Up for approval: Vancouver Community Sport Event Grants, Fall 2026 intake",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Vancouver Council vote on Fall 2026 sport event grants",
+              "date": "2026-11-17"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3196,
+          "title": "Council to consider changes to 2026 Vancouver Council meeting schedule",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Vancouver Council vote on cancelling December 21–22 meeting reserves",
+              "date": "2026-11-17"
+            },
+            {
+              "label": "Proposed cancelled Vancouver Council Meeting Reserves",
+              "date": "2026-12-21"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3195,
+          "title": "Council to consider appointments to committees, boards and UNDRIP Task Force",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 386,
       "path": "2026/10/27/386_vancouver-council_regular-council-october-27-2026.json",
@@ -16,7 +297,7 @@
       "created_at": "2026-10-29T23:08:50.370317",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": true,
       "has_minutes": true,
       "agenda_brief_count": 59,
