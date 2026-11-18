@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-11-03T19:08:59.507786+00:00",
-  "count": 131,
+  "generated_at": "2026-11-18T18:40:35.464950+00:00",
+  "count": 132,
   "articles": [
+    {
+      "article_id": 436,
+      "path": "2026/09/29/436_bc-gazette-part-ii_bc-reg-1632026-bc-financial-services-authority.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n17_163-2026",
+      "article_title": "B.C. Reg. 163/2026 – BC Financial Services Authority",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-09-29T07:00:00",
+      "created_at": "2026-11-18T18:40:25.773389",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Finance & Insurance",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 3257,
+          "title": "BC Credit Unions Face New Capital Requirements Rules Starting January 1, 2027",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC Credit Union Capital Requirements Rules take effect",
+              "date": "2027-01-01"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
     {
       "article_id": 431,
       "path": "2026/09/22/431_bc-gazette-part-ii_bc-reg-1622026-oic-4092026.json",
@@ -16,7 +52,7 @@
       "created_at": "2026-11-03T19:08:43.877529",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -47,7 +83,7 @@
       "created_at": "2026-11-03T19:08:40.598420",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -83,7 +119,7 @@
       "created_at": "2026-11-03T19:08:37.276317",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -123,7 +159,7 @@
       "created_at": "2026-11-03T19:08:33.982586",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
