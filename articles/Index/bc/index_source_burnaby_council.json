@@ -1,7 +1,164 @@
 {
-  "generated_at": "2026-11-19T19:10:18.695478+00:00",
-  "count": 59,
+  "generated_at": "2026-11-19T19:37:00.792825+00:00",
+  "count": 60,
   "articles": [
+    {
+      "article_id": 438,
+      "path": "2026/11/24/438_burnaby-council_council-correspondence-and-public-notice-submissio.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=6cf77a30-c1d6-4a91-9269-7e99c9cfb1de&lang=English",
+      "article_title": "Council Correspondence and Public Notice Submissions — November 24, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://burnaby.ca",
+      "meeting_type": "correspondence",
+      "article_published_at": "2026-11-24T07:00:00",
+      "created_at": "2026-11-19T19:36:50.253038",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 19,
+      "minutes_brief_count": 0,
+      "industries": "Agriculture, Construction & Development, Food Service, Landlord & Property Mgmt, Professional Services, Retail, Transportation & Logistics",
+      "locations": "British Columbia, Burnaby",
+      "briefs": [
+        {
+          "id": 3304,
+          "title": "Council to consider residential parking restrictions on Pandora Street",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3303,
+          "title": "Council to consider annual Diwali fireworks exemption request in Burnaby",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3302,
+          "title": "Council to consider resident letters on Bill 44 and SSMUH housing rules",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3301,
+          "title": "Council to consider correspondence on Hart House and increased housing density",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3300,
+          "title": "Council to consider signal changes at Kensington Avenue and Joe Sakic Way",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3299,
+          "title": "Council to consider Hastings Street signal timing and spillover traffic concerns",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3298,
+          "title": "Council to consider Pouce Coupe request to reinstate Rural Homeowners Benefit",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3297,
+          "title": "Council to consider referring North Burnaby driving and cycling safety concerns to Transportation Committee",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3296,
+          "title": "Council to consider referring Production Station parking issue to Transportation Committee",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3295,
+          "title": "Council to consider referring bug population decline to Environment Committee",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3294,
+          "title": "Council to consider motorcycle parking and pay-parking exemption review",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3293,
+          "title": "Council to consider: No fee exemption for childcare project at 6180 Buchanan Street",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3292,
+          "title": "Council to consider request to fold part of North Howard Avenue into Capitol Hill Conservation Area",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3291,
+          "title": "Council to review Boundary Road RV fire cleanup and parking enforcement concerns",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3290,
+          "title": "Council to consider sewer capacity investigation on 4500 block Frances Street",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3289,
+          "title": "Council to consider staff finding that no traffic calming is needed on Alderwood Crescent",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3288,
+          "title": "Council to consider e-bike and e-scooter safety on Burnaby shared pathways",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3287,
+          "title": "Council to review Burnaby Water Polo Club pool rental costs and booking options",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3286,
+          "title": "Council to consider laneway home construction concerns in Burnaby's R1 district",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 437,
       "path": "2026/11/24/437_burnaby-council_city-council-meeting-november-24-2026.json",
@@ -16,7 +173,7 @@
       "created_at": "2026-11-19T19:10:08.361548",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": true,
       "has_minutes": false,
       "agenda_brief_count": 28,
