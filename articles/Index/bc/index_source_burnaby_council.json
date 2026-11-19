@@ -1,7 +1,346 @@
 {
-  "generated_at": "2026-10-22T21:44:38.142612+00:00",
-  "count": 58,
+  "generated_at": "2026-11-19T19:10:18.695478+00:00",
+  "count": 59,
   "articles": [
+    {
+      "article_id": 437,
+      "path": "2026/11/24/437_burnaby-council_city-council-meeting-november-24-2026.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=d81d1203-747e-46b0-93a4-e5cec9a80501&lang=English",
+      "article_title": "City Council Meeting — November 24, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://burnaby.ca",
+      "meeting_type": "regular-council",
+      "article_published_at": "2026-11-24T07:00:00",
+      "created_at": "2026-11-19T19:10:08.361548",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": true,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 28,
+      "minutes_brief_count": 0,
+      "industries": "Construction & Development, Finance & Insurance, Food Service, Grocery & Food Retail, Hotel & Accommodation, Landlord & Property Mgmt, Liquor, Professional Services, Retail, Technology, Transportation & Logistics",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 3285,
+          "title": "Council to consider Sidley Street residents' petition on proposed rezoning REZ #26-07",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council meeting on Sidley Street rezoning petition",
+              "date": "2026-11-24"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3284,
+          "title": "Council to consider amending Burnaby's 2026–2030 Financial Plan",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3283,
+          "title": "Council to consider Burnaby Temporary Financing Bylaw 2027 for short-term borrowing",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3282,
+          "title": "Council to consider bylaw closing road allowance at 2209 and 2225 Springer Avenue",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3281,
+          "title": "Council to consider rezoning 7211 Greenford Ave for 27-storey mixed-use tower",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby rezoning Bylaw 14839 final adoption memo date",
+              "date": "2026-11-24"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3280,
+          "title": "Council to vote on rezoning for hotel, restaurant and 362 more units at Grand Promenade",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Bylaw #14808 rezoning staff memo and council decision",
+              "date": "2026-11-24"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3279,
+          "title": "Council to vote on rezoning part of Royal Oak Ave for funeral home redevelopment",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council third reading and final adoption of Bylaw #14720",
+              "date": "2026-11-24"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3278,
+          "title": "Council to vote on rezoning 7109 18th Ave for 29-storey high-rise",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council third reading and final adoption vote on Bylaw #14354",
+              "date": "2026-11-24"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3277,
+          "title": "Council to vote on rezoning 8315 Riverbend Crt. for mezzanine expansion",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Bylaw #14855 mezzanine rezoning third reading and final adoption",
+              "date": "2026-11-24"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3276,
+          "title": "Council to consider housing agreement bylaw for non-market rental project",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3275,
+          "title": "Council to consider fee bylaw amendment affecting Burnaby businesses",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council considers Bylaw #14858 fee amendment",
+              "date": "2026-11-24"
+            },
+            {
+              "label": "Burnaby amended fees and charges take effect",
+              "date": "2026-01-01"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3274,
+          "title": "Council to receive report on City staff retirements from July to September 2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council meeting to receive staff retirement report",
+              "date": "2026-11-24"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3273,
+          "title": "Council to consider two-year renewal of EnerGov permits software contract",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council considers EnerGov software contract renewal",
+              "date": "2026-11-24"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3272,
+          "title": "Council to consider renewing golf resale products supply contract",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council considers golf resale products contract renewal",
+              "date": "2026-11-24"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3271,
+          "title": "Council to consider renewing Burnaby's animal care and shelter services contract",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council meeting on animal shelter contract renewal",
+              "date": "2026-11-24"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3270,
+          "title": "Council to consider contract change for Central Valley Greenway culvert and paving work",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council considers Central Valley Greenway contract change",
+              "date": "2026-11-24"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3269,
+          "title": "Council to consider contract change for Griffiths watermains and road upgrades",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council considers Griffiths watermains contract change",
+              "date": "2026-11-24"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3268,
+          "title": "Council to consider contract change for Holdom and Lougheed intersection work",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council considers Holdom and Lougheed contract change",
+              "date": "2026-11-24"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3267,
+          "title": "Council to consider contract award for two new refuse trucks",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council meeting on refuse truck contract award",
+              "date": "2026-11-24"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3266,
+          "title": "Council to consider contract award for new SAP procurement system",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council considers SAP procurement contract award",
+              "date": "2026-11-24"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3265,
+          "title": "Council to consider roadworks contract award for various Burnaby sites",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council considers roadworks contract award",
+              "date": "2026-11-24"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3264,
+          "title": "Council to vote on awarding 2026 Fibre Optic Conduit Project contract",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council vote on 2026 Fibre Optic Conduit contract award",
+              "date": "2026-11-24"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3263,
+          "title": "Council to consider 2027 meeting schedules and member appointments",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council considers 2027 meeting schedules and appointments",
+              "date": "2026-11-24"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3262,
+          "title": "Council to consider appointing acting mayors for 2027",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3261,
+          "title": "Council to consider $963,540 renewal of City vehicle fleet insurance",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council considers City fleet insurance renewal",
+              "date": "2026-11-24"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3260,
+          "title": "Council to consider $500 grant to Tsleil-Waututh Nation Christmas Hamper and Toy Drive",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council considers $500 Tsleil-Waututh hamper grant",
+              "date": "2026-11-24"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3259,
+          "title": "Council to vote on temporary permit for parking facility at 7749 Kingsway",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Council considers TUP #26-07 parking facility at 7749 Kingsway",
+              "date": "2026-11-24"
+            }
+          ],
+          "is_proposal": true
+        },
+        {
+          "id": 3258,
+          "title": "Proposed: Burnaby fee bylaw amendments up for approval, effective Jan 1, 2027",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby fee bylaw amendments take effect",
+              "date": "2027-01-01"
+            }
+          ],
+          "is_proposal": true
+        }
+      ]
+    },
     {
       "article_id": 385,
       "path": "2026/10/27/385_burnaby-council_council-correspondence-and-public-notice-submissio.json",
@@ -16,7 +355,7 @@
       "created_at": "2026-10-22T21:44:27.843508",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": true,
       "has_minutes": false,
       "agenda_brief_count": 8,
