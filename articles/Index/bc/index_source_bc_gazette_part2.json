@@ -1,7 +1,87 @@
 {
-  "generated_at": "2026-11-18T18:40:35.464950+00:00",
-  "count": 132,
+  "generated_at": "2026-11-20T18:14:24.390826+00:00",
+  "count": 134,
   "articles": [
+    {
+      "article_id": 441,
+      "path": "2026/10/15/441_bc-gazette-part-ii_bc-reg-1652026-m3742026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n18_165-2026",
+      "article_title": "B.C. Reg. 165/2026 – M374/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-10-15T07:00:00",
+      "created_at": "2026-11-20T18:13:44.710967",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Professional Services",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 3308,
+          "title": "BC Teachers' Council election dates pushed to 2027 under amended regulation",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC Teachers' Council regulation amendment takes effect",
+              "date": "2026-11-13"
+            },
+            {
+              "label": "BC Teachers' Council 2027 election nomination deadline",
+              "date": "2027-02-05"
+            },
+            {
+              "label": "BC Teachers' Council 2027 election voting deadline",
+              "date": "2027-03-19"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 440,
+      "path": "2026/10/13/440_bc-gazette-part-ii_bc-reg-1642026-oic-4162026.json",
+      "article_url": "https://www.bclaws.gov.bc.ca/civix/document/id/bcgaz2/bcgaz2/v69n18_164-2026",
+      "article_title": "B.C. Reg. 164/2026 – OIC 416/2026",
+      "source": "bc_gazette_part2",
+      "source_label": "BC Gazette Part II",
+      "government_level": "Provincial",
+      "source_website_icon": "https://www.bclaws.gov.bc.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-10-13T07:00:00",
+      "created_at": "2026-11-20T18:13:41.743445",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Landlord & Property Mgmt, Tenant",
+      "locations": "British Columbia",
+      "briefs": [
+        {
+          "id": 3307,
+          "title": "BC designates supportive housing properties for 2027 tax treatment under Assessment Act",
+          "source_label": "BC Gazette Part II",
+          "key_dates": [
+            {
+              "label": "BC supportive housing property designation applies for 2027 tax year",
+              "date": "2027-01-01"
+            }
+          ],
+          "is_proposal": false
+        }
+      ]
+    },
     {
       "article_id": 436,
       "path": "2026/09/29/436_bc-gazette-part-ii_bc-reg-1632026-bc-financial-services-authority.json",
@@ -16,7 +96,7 @@
       "created_at": "2026-11-18T18:40:25.773389",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
