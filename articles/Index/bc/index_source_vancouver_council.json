@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T00:10:29.516577+00:00",
+  "generated_at": "2026-11-20T22:45:43.814199+00:00",
   "count": 15,
   "articles": [
     {
@@ -13,16 +13,16 @@
       "source_website_icon": "https://vancouver.ca",
       "meeting_type": "regular-council",
       "article_published_at": "2026-11-17T07:00:00",
-      "created_at": "2026-11-17T00:10:15.965289",
+      "created_at": "2026-11-20T22:45:32.802246",
       "has_attachments": true,
       "has_pdf": true,
       "has_html": true,
       "has_agenda": true,
-      "has_minutes": false,
+      "has_minutes": true,
       "agenda_brief_count": 27,
-      "minutes_brief_count": 0,
-      "industries": "Cannabis, Construction & Development, Food Service, Landlord & Property Mgmt, Liquor, Professional Services, Retail, Tenant",
-      "locations": "Vancouver",
+      "minutes_brief_count": 41,
+      "industries": "Cannabis, Construction & Development, Food Service, Labour & Employment, Landlord & Property Mgmt, Liquor, Professional Services, Retail, Tenant, Transportation & Logistics",
+      "locations": "British Columbia, Burnaby, Vancouver",
       "briefs": [
         {
           "id": 3221,
@@ -280,6 +280,338 @@
           "source_label": "Vancouver Council",
           "key_dates": [],
           "is_proposal": true
+        },
+        {
+          "id": 3349,
+          "title": "[NOT REACHED] Council did not decide on closing road portions at 722 Gore Avenue for a new park",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3348,
+          "title": "[NOT REACHED] Council did not decide on rezoning 1125 West 10th Avenue to CD-1",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3347,
+          "title": "[NOT REACHED] Council did not decide on Beatrice Street subdivision bylaw amendment",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3346,
+          "title": "[NOT REACHED] Vancouver noise bylaw amendment for 2202-2212 West 10th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3345,
+          "title": "[NOT REACHED] Council did not decide on noise bylaw change for 1613-1625 Nanaimo Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3344,
+          "title": "[NOT REACHED] Council did not decide on sign bylaw change for 1613-1625 Nanaimo Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3343,
+          "title": "[NOT REACHED] Council did not decide on housing agreement bylaw for 1081 West 16th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3342,
+          "title": "[NOT REACHED] Council did not decide on repealing the Joyce Street housing agreement bylaw",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3341,
+          "title": "[NOT REACHED] Council did not decide on housing agreement bylaw for 466-476 West 27th Avenue",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3340,
+          "title": "[NOT REACHED] Council did not decide on housing agreement bylaw for 2111 Main Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3339,
+          "title": "[NOT REACHED] Council did not decide on amending the housing agreement at 4615 Arbutus Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3338,
+          "title": "[NOT REACHED] Housing agreement bylaw for 2260-2266 West 2nd Avenue left undecided",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3337,
+          "title": "[NOT REACHED] Council did not decide on rezoning bylaw change for 625-777 Pacific St",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3336,
+          "title": "[NOT REACHED] Council did not decide on rezoning West 3rd Avenue and Vine Street to CD-1",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3335,
+          "title": "[NOT REACHED] Council did not decide on rezoning 901 West Broadway to CD-1",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3334,
+          "title": "[NOT REACHED] Council did not decide on rezoning 816-860 West 13th Ave and 2915-2925 Willow St to CD-1",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3333,
+          "title": "[NOT REACHED] Council did not decide on rezoning 1470-1476 West Broadway to CD-1",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3332,
+          "title": "[DEFERRED] Council did not decide on proposed rezoning at 852-872 Seymour Street",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3331,
+          "title": "[INFO ONLY] Council received report on 2026 local election results",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3330,
+          "title": "[NOT REACHED] Vancouver council did not decide on consultation rules for rezoning that amends the Official Development Plan",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3329,
+          "title": "[NOT REACHED] Yaletown BIA expansion proposal left undecided by Vancouver Council",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3328,
+          "title": "[NOT REACHED] Council did not decide on closing 722 Gore Avenue for a permanent park",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3327,
+          "title": "[NOT REACHED] Council did not decide on Business Licence Hearing Panel assignments for late 2026",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3326,
+          "title": "[INFO ONLY] Vancouver Heritage Register annual update report received by council",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3325,
+          "title": "[NOT REACHED] Vancouver Community Sport Event Grants, Fall 2026 intake",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3324,
+          "title": "[NOT REACHED] Vancouver council did not decide on changes to its 2026 meeting schedule",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3323,
+          "title": "[INFO ONLY] Council to consider appointments to committees, boards and UNDRIP Task Force",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3322,
+          "title": "Council voted to explore City support for Land Trust purchase of three SROs",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Vancouver staff report on SRO acquisition support due to Council",
+              "date": "2027-01-31"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 3321,
+          "title": "Council granted leaves of absence to Klassen, Orr, Fry and Smith",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3320,
+          "title": "Council voted to close part of 722 Gore Avenue road and make it permanent park",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3319,
+          "title": "Council passed 16 bylaws, including CD-1 rezonings and housing agreements",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3318,
+          "title": "Vancouver Council received the 2026 local election results report",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3317,
+          "title": "Council Approved Consultation Plan for Kingsway Rezoning, Adding Renfrew-Collingwood Area Council",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3316,
+          "title": "Council approved expanding Yaletown BIA and sent it to Court of Revision",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3315,
+          "title": "Council voted to close road at 722 Gore Avenue and make it permanent park",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3314,
+          "title": "Council delegated business licence hearings to three-member panels for late 2026",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Vancouver business licence hearing panel date (Klassen chair)",
+              "date": "2026-11-24"
+            },
+            {
+              "label": "Vancouver business licence hearing panel date (Orr chair)",
+              "date": "2026-11-25"
+            },
+            {
+              "label": "Vancouver business licence hearing panel date (Maloney chair)",
+              "date": "2026-12-08"
+            },
+            {
+              "label": "Vancouver business licence hearing panel date (Reilly chair)",
+              "date": "2026-12-09"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 3313,
+          "title": "Council approved changes to the Vancouver Heritage Register",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3312,
+          "title": "Council approved $101,050 in 21 community sport event grants",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "2026 Vancouver Open grant event dates (Volleyball BC)",
+              "date": "2026-07-10"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 3311,
+          "title": "Vancouver Council cancelled December 21 and 22, 2026 meeting reserves",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Vancouver council meeting reserves cancelled for Dec 21",
+              "date": "2026-12-21"
+            },
+            {
+              "label": "Vancouver council meeting reserves cancelled for Dec 22",
+              "date": "2026-12-22"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 3310,
+          "title": "Council approved committee chairs, board roles and UNDRIP Task Force appointments",
+          "source_label": "Vancouver Council",
+          "key_dates": [
+            {
+              "label": "Vancouver committee and board appointments term begins",
+              "date": "2026-11-17"
+            },
+            {
+              "label": "Vancouver committee and board appointments term ends",
+              "date": "2027-10-31"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 3309,
+          "title": "Vancouver Council voted to hold closed meetings on labour, land, and negotiations",
+          "source_label": "Vancouver Council",
+          "key_dates": [],
+          "is_proposal": false
         }
       ]
     },
