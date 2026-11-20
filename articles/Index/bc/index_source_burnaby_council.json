@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T19:37:00.792825+00:00",
-  "count": 60,
+  "generated_at": "2026-11-20T00:06:28.806271+00:00",
+  "count": 61,
   "articles": [
     {
       "article_id": 438,
@@ -16,7 +16,7 @@
       "created_at": "2026-11-19T19:36:50.253038",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": true,
       "has_minutes": false,
       "agenda_brief_count": 19,
@@ -494,6 +494,44 @@
               "date": "2027-01-01"
             }
           ],
+          "is_proposal": true
+        }
+      ]
+    },
+    {
+      "article_id": 439,
+      "path": "2026/11/23/439_burnaby-council_committee-of-the-whole-november-23-2026.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=4a38a99f-67a4-48df-b097-bfee0bd5bb54&lang=English",
+      "article_title": "Committee of the Whole — November 23, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://burnaby.ca",
+      "meeting_type": "committee-whole",
+      "article_published_at": "2026-11-23T07:00:00",
+      "created_at": "2026-11-20T00:06:16.327279",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": true,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 2,
+      "minutes_brief_count": 0,
+      "industries": "Construction & Development, Food Service, Landlord & Property Mgmt, Professional Services, Retail",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 3306,
+          "title": "Council to consider closed-door talks on land purchase and city service deal",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 3305,
+          "title": "Council to hear staff report on proposed 2027–2031 Utilities Budget",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
           "is_proposal": true
         }
       ]
