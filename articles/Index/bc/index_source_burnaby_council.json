@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T00:06:28.806271+00:00",
+  "generated_at": "2026-11-25T16:53:44.145882+00:00",
   "count": 61,
   "articles": [
     {
@@ -512,7 +512,7 @@
       "created_at": "2026-11-20T00:06:16.327279",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": true,
       "has_minutes": false,
       "agenda_brief_count": 2,
@@ -537,86 +537,6 @@
       ]
     },
     {
-      "article_id": 385,
-      "path": "2026/10/27/385_burnaby-council_council-correspondence-and-public-notice-submissio.json",
-      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=afcaf310-4fec-4ff7-aa19-44731a0e0040&lang=English",
-      "article_title": "Council Correspondence and Public Notice Submissions — October 27, 2026",
-      "source": "burnaby_council",
-      "source_label": "Burnaby Council",
-      "government_level": "Municipal",
-      "source_website_icon": "https://burnaby.ca",
-      "meeting_type": "correspondence",
-      "article_published_at": "2026-10-27T07:00:00",
-      "created_at": "2026-10-22T21:44:27.843508",
-      "has_attachments": false,
-      "has_pdf": false,
-      "has_html": false,
-      "has_agenda": true,
-      "has_minutes": false,
-      "agenda_brief_count": 8,
-      "minutes_brief_count": 0,
-      "industries": "Construction & Development, Landlord & Property Mgmt, Professional Services, Retail, Spa & Wellness, Transportation & Logistics",
-      "locations": "Burnaby",
-      "briefs": [
-        {
-          "id": 2922,
-          "title": "Council to consider correspondence on Confederation Park Community Centre redevelopment",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 2921,
-          "title": "Council to consider Burnaby Zoning Bylaw 2026 submission",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 2920,
-          "title": "Council to review Canada Post reply on door-to-door mail service",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 2919,
-          "title": "Council to consider request for more loonie swims in Burnaby",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 2918,
-          "title": "Council to consider flashing beacon at new McMurray Ave and Hazel St crosswalk",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 2917,
-          "title": "Council to consider sports court strategy for Central Park pickleball",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 2916,
-          "title": "Council to review enforcement follow-up on Dunlop Street construction complaint",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        },
-        {
-          "id": 2915,
-          "title": "Council to consider traffic signal timing changes at Kensington Ave and Joe Sakic Way",
-          "source_label": "Burnaby Council",
-          "key_dates": [],
-          "is_proposal": true
-        }
-      ]
-    },
-    {
       "article_id": 384,
       "path": "2026/10/27/384_burnaby-council_city-council-meeting-october-27-2026.json",
       "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=6f9ad2d6-1789-452d-961a-d3d5c0414e17&lang=English",
@@ -627,15 +547,15 @@
       "source_website_icon": "https://burnaby.ca",
       "meeting_type": "regular-council",
       "article_published_at": "2026-10-27T07:00:00",
-      "created_at": "2026-10-22T19:31:52.843167",
+      "created_at": "2026-11-25T16:53:33.569263",
       "has_attachments": true,
       "has_pdf": true,
-      "has_html": false,
+      "has_html": true,
       "has_agenda": true,
-      "has_minutes": false,
+      "has_minutes": true,
       "agenda_brief_count": 34,
-      "minutes_brief_count": 0,
-      "industries": "Construction & Development, Finance & Insurance, Food Service, Hotel & Accommodation, Landlord & Property Mgmt, Liquor, Professional Services, Retail",
+      "minutes_brief_count": 37,
+      "industries": "Construction & Development, Finance & Insurance, Food Service, Healthcare, Hotel & Accommodation, Landlord & Property Mgmt, Liquor, Natural Resources, Professional Services, Retail, Tenant, Transportation & Logistics",
       "locations": "British Columbia, Burnaby, Surrey, Vancouver",
       "briefs": [
         {
@@ -1016,6 +936,434 @@
               "date": "2026-10-27"
             }
           ],
+          "is_proposal": true
+        },
+        {
+          "id": 3386,
+          "title": "[INFO ONLY] Council reviewed Burnaby's 2026 Period 8 financial report",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3385,
+          "title": "[INFO ONLY] Council reviewed October 2026 status update on Burnaby civic projects",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3384,
+          "title": "[INFO ONLY] Council reviewed Year 3 update on Burnaby's CMHC Housing Accelerator Fund program",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3383,
+          "title": "[INFO ONLY] Council received status update on Urban Forest Strategy implementation",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3382,
+          "title": "[INFO ONLY] Council reviewed September 2026 building permit activity report",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3381,
+          "title": "[INFO ONLY] Burnaby Council received official 2026 local election results",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3380,
+          "title": "Burnaby Council approved Public Safety Award for Patrick Dennis Curley",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3379,
+          "title": "Burnaby Council adopted Bylaw 14854, the 2026 Taxation Exemption Bylaw",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3378,
+          "title": "Burnaby Council passes bylaw for inter-municipal business licence agreement",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3377,
+          "title": "Burnaby Council adopted Bylaw 14851 on inter-municipal business licences",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3376,
+          "title": "Council adopted Bylaw 14810 rezoning 2757 Norland Ave",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3375,
+          "title": "Burnaby Council adopted rezoning bylaw for 5978 Wilson Ave",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3374,
+          "title": "Burnaby Council adopted Bylaw 14748 rezoning 395 Ellesmere Ave",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3373,
+          "title": "Burnaby Council adopted rezoning bylaw for 7409 Halifax St",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3372,
+          "title": "Burnaby Council adopted rezoning bylaw 14659 for Sunset Street",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3371,
+          "title": "Burnaby Council adopted rezoning bylaw for Godwin Ave and Sunset St site",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3370,
+          "title": "Council adopted Bylaw 14479 rezoning 3839 and 3871 Pandora St",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3369,
+          "title": "Burnaby Council Rescinded Third Reading of Six Zoning Bylaws to Update References",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3368,
+          "title": "Burnaby Council gives third reading to rezoning bylaw for 6535 Kingsway",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3367,
+          "title": "Burnaby Council passed third reading of rezoning bylaw for 2209 & 2225 Springer Ave",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3366,
+          "title": "Council Amended Bylaws 14804 and 14809 to Reference New Burnaby Zoning Bylaw 2026",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3365,
+          "title": "Burnaby Council advances Bylaw 14857 five-year financial plan amendment",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3364,
+          "title": "Council passed first three readings of Burnaby's 2027 temporary financing bylaw",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3363,
+          "title": "Burnaby Council passed Bylaw 14853 authorizing a highway closure",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3362,
+          "title": "Burnaby Council passed first and second reading of rezoning bylaw for 8315 Riverbend Court",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3361,
+          "title": "Burnaby Council approved accepting a late Sport Hosting Grant application for the 2026 Pat Quinn Classic",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "2026 Pat Quinn Classic Tournament begins in Burnaby",
+              "date": "2026-12-27"
+            },
+            {
+              "label": "2026 Pat Quinn Classic Tournament ends in Burnaby",
+              "date": "2026-12-31"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 3360,
+          "title": "Burnaby Council Authorized Temporary Borrowing of Up to $20 Million for 2027",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby temporary borrowing limit of $20M takes effect",
+              "date": "2027-01-01"
+            },
+            {
+              "label": "Burnaby temporary borrowing authorization expires",
+              "date": "2027-12-31"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 3359,
+          "title": "Council approved a new 3-year funding agreement with Burnaby Neighbourhood House Society",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Neighbourhood House Society contribution agreement starts",
+              "date": "2027-01-01"
+            },
+            {
+              "label": "Burnaby Neighbourhood House Society contribution agreement ends",
+              "date": "2029-12-31"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 3358,
+          "title": "Burnaby Council approved updated Public Safety Committee Terms of Reference",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3357,
+          "title": "Burnaby Council Approved Fall 2026 Community Grants Across Multiple Categories",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Lake Run event (grant 26-17-I)",
+              "date": "2026-08-23"
+            },
+            {
+              "label": "Canoe Kayak Canada Spring National Championships (grant 26-04-RS)",
+              "date": "2026-08-25"
+            },
+            {
+              "label": "OddSquad Police Judo Development Program start (grant 26-21-I)",
+              "date": "2026-09-01"
+            },
+            {
+              "label": "Salvation Army Brave Lunch Program start (grant 26-22-I)",
+              "date": "2026-09-18"
+            },
+            {
+              "label": "Remembrance Day Ceremony at Bonsor Park (grant 26-08-SU)",
+              "date": "2026-11-11"
+            },
+            {
+              "label": "Remembrance Day Ceremony at Confederation Park (grant 26-09-SU)",
+              "date": "2026-11-11"
+            },
+            {
+              "label": "Dementia Co-Creation Academy start (grant 26-23-I)",
+              "date": "2026-11-01"
+            },
+            {
+              "label": "L'Arche Senior Community Inclusion Initiative start (grant 26-18-I)",
+              "date": "2027-03-01"
+            },
+            {
+              "label": "Table: The Gala 2027 event (grant 26-16-I)",
+              "date": "2027-03-06"
+            },
+            {
+              "label": "Burnaby Potter's Guild 50th Anniversary Celebration (grant 27-02-I)",
+              "date": "2027-05-01"
+            },
+            {
+              "label": "Burnaby Hospice Society Hike for Hospice (grant 27-01-I)",
+              "date": "2027-05-02"
+            },
+            {
+              "label": "Nobody's Perfect Parenting Program start (grant 26-19-I)",
+              "date": "2027-02-01"
+            },
+            {
+              "label": "Little Tikes Program start (grant 26-20-I)",
+              "date": "2027-04-01"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 3356,
+          "title": "Burnaby Council endorsed joint statement on Lower Mainland floodplain resilience",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3355,
+          "title": "Burnaby Council approved a $213,000 contract renewal for Pacific Cutting and Coring",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3354,
+          "title": "Council approved a five-year Moneris merchant services contract renewal to 2031",
+          "source_label": "Burnaby Council",
+          "key_dates": [
+            {
+              "label": "Burnaby Moneris merchant services contract renewal takes effect",
+              "date": "2027-01-01"
+            },
+            {
+              "label": "Burnaby Moneris merchant services contract renewal ends",
+              "date": "2031-12-31"
+            }
+          ],
+          "is_proposal": false
+        },
+        {
+          "id": 3353,
+          "title": "Burnaby Council approved $560,000 contract change to Flowsystems for ICI water meters",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3352,
+          "title": "Council approved $58,170 contract change to Aplin & Martin for 6th Street Park sidewalk work",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3351,
+          "title": "Burnaby Council Rescinded Third Reading of 7409 Halifax Street Housing Bylaw",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        },
+        {
+          "id": 3350,
+          "title": "Council approved amendments to Burnaby's 2026-2030 Financial Plan",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
+    {
+      "article_id": 385,
+      "path": "2026/10/27/385_burnaby-council_council-correspondence-and-public-notice-submissio.json",
+      "article_url": "https://pub-burnaby.escribemeetings.com/Meeting.aspx?Id=afcaf310-4fec-4ff7-aa19-44731a0e0040&lang=English",
+      "article_title": "Council Correspondence and Public Notice Submissions — October 27, 2026",
+      "source": "burnaby_council",
+      "source_label": "Burnaby Council",
+      "government_level": "Municipal",
+      "source_website_icon": "https://burnaby.ca",
+      "meeting_type": "correspondence",
+      "article_published_at": "2026-10-27T07:00:00",
+      "created_at": "2026-10-22T21:44:27.843508",
+      "has_attachments": false,
+      "has_pdf": false,
+      "has_html": false,
+      "has_agenda": true,
+      "has_minutes": false,
+      "agenda_brief_count": 8,
+      "minutes_brief_count": 0,
+      "industries": "Construction & Development, Landlord & Property Mgmt, Professional Services, Retail, Spa & Wellness, Transportation & Logistics",
+      "locations": "Burnaby",
+      "briefs": [
+        {
+          "id": 2922,
+          "title": "Council to consider correspondence on Confederation Park Community Centre redevelopment",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2921,
+          "title": "Council to consider Burnaby Zoning Bylaw 2026 submission",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2920,
+          "title": "Council to review Canada Post reply on door-to-door mail service",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2919,
+          "title": "Council to consider request for more loonie swims in Burnaby",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2918,
+          "title": "Council to consider flashing beacon at new McMurray Ave and Hazel St crosswalk",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2917,
+          "title": "Council to consider sports court strategy for Central Park pickleball",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2916,
+          "title": "Council to review enforcement follow-up on Dunlop Street construction complaint",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
+          "is_proposal": true
+        },
+        {
+          "id": 2915,
+          "title": "Council to consider traffic signal timing changes at Kensington Ave and Joe Sakic Way",
+          "source_label": "Burnaby Council",
+          "key_dates": [],
           "is_proposal": true
         }
       ]
