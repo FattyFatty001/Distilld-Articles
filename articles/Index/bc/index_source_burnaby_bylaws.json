@@ -1,7 +1,38 @@
 {
-  "generated_at": "2026-10-29T09:01:24.865404+00:00",
-  "count": 40,
+  "generated_at": "2026-11-26T09:34:06.165853+00:00",
+  "count": 41,
   "articles": [
+    {
+      "article_id": 447,
+      "path": "2026/11/24/447_burnaby-bylaws_bylaw-14853-highway-closure-bylaw-no-1-2026.json",
+      "article_url": "https://bylaws.burnaby.ca/en/permalink/bylaw26189",
+      "article_title": "Bylaw 14853 — Highway Closure Bylaw No. 1, 2026",
+      "source": "burnaby_bylaws",
+      "source_label": "Burnaby Bylaws",
+      "government_level": "Municipal",
+      "source_website_icon": "https://bylaws.burnaby.ca",
+      "meeting_type": null,
+      "article_published_at": "2026-11-24T07:00:00",
+      "created_at": "2026-11-26T09:33:56.161209",
+      "has_attachments": true,
+      "has_pdf": true,
+      "has_html": true,
+      "has_agenda": false,
+      "has_minutes": true,
+      "agenda_brief_count": 0,
+      "minutes_brief_count": 1,
+      "industries": "Construction & Development, Landlord & Property Mgmt, Transportation & Logistics",
+      "locations": "British Columbia, Burnaby",
+      "briefs": [
+        {
+          "id": 3387,
+          "title": "Burnaby closes 113.5 m² of road near District Lot 125 and removes its highway status",
+          "source_label": "Burnaby Bylaws",
+          "key_dates": [],
+          "is_proposal": false
+        }
+      ]
+    },
     {
       "article_id": 369,
       "path": "2026/09/22/369_burnaby-bylaws_bylaw-14847-housing-agreement-4572-dawson-street-b.json",
@@ -835,7 +866,7 @@
       "created_at": "2026-10-29T09:01:09.628813",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -866,7 +897,7 @@
       "created_at": "2026-10-29T09:01:05.871825",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
@@ -897,7 +928,7 @@
       "created_at": "2026-10-29T09:01:02.530224",
       "has_attachments": false,
       "has_pdf": false,
-      "has_html": true,
+      "has_html": false,
       "has_agenda": false,
       "has_minutes": true,
       "agenda_brief_count": 0,
